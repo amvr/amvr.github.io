@@ -1,7 +1,7 @@
 # Site settings
 title: Association des Amis des Musées de Rouen
 description: 
-baseurl: "/amvr" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://amis-musees-rouen.fr" # the base hostname & protocol for your site
 permalink: /:title.html
 
