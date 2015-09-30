@@ -1,0 +1,21 @@
+# Site settings
+title: Association des Amis des Musées de Rouen
+description: 
+baseurl: "/amvr" # the subpath of your site, e.g. /blog/
+url: "http://amis-musees-rouen.fr" # the base hostname & protocol for your site
+permalink: /:title.html
+
+# Default Layout
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+
+# Sitemap.xml
+sitemap:
+    file: "/sitemap.xml"
+
+# Build settings
+markdown: kramdown

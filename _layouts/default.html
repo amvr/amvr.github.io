@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Libre+Baskerville:400italic">
+  <link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/main.css">
+</head>
+<body{% if page.url == '/index.html' %} class="home"{% endif %}>
+  <header id="header">
+    <div class="wrapper">
+      <div class="sitetitle">
+        <a href="{{ site.baseurl }}/">Association des Amis des Musées de Rouen</a>
+      </div>
+      <nav>
+        {% capture menu %}{% include menu-haut.md %}{% endcapture %}
+        {{ menu | markdownify }}
+      </nav>
+    </div>
+  </header>
+  {% if page.url == '/index.html' %}
+    <section class="hilight">
+      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-coupe-marrou.jpg" alt="Une coupe en fer forgé et en verre début XXe siècle, signée de Ferdinand Marrou">
+      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-horloge.jpg" alt="Horloge XVIIe Fer et Laiton">
+      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-lanterne.jpg" alt="Lanterne de procession Italie XVIIe">
+    </section>
+  {% endif%}
+  <main>
+    <div class="wrapper">
+    {% if page.url != '/index.html' %}
+    <p class="breadcrumb">
+      <a href="{{ site.baseurl }}/">Accueil</a> »
+      {% assign splitted_url_parts = page.url | split: '/' %}
+      {% if splitted_url_parts.size == 4 %}
+        {% assign parent = splitted_url_parts[2] %}
+        {% for une_page in site.pages %}
+          {% assign parent_url = parent | prepend: '/pages/' | append: '.html' %}
+          {% if une_page.url == parent_url %}
+            <a href="{{ site.baseurl }}/pages/{{ parent }}.html">{{ une_page.title }}</a> »
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {{ page.title }}
+    </p>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    </div>
+  </main>
+  <footer id="footer">
+    <div class="wrapper">
+      <nav>
+        {% capture menu %}{% include menu-bas.md %}{% endcapture %}
+        {{ menu | markdownify }}
+      </nav>
+      <p>© Amis des Musées de Rouen.</p>
+    </div>
+  </footer>
+</body>
+</html>

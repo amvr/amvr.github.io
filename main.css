@@ -1,0 +1,276 @@
+@charset "UTF-8";
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License:none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin:0;
+  padding:0;
+  border:0;
+  font-size:100%;
+  font:inherit;
+  vertical-align:baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display:block;
+}
+body {
+  line-height:1;
+}
+ol, ul {
+  list-style:none;
+}
+blockquote, q {
+  quotes:none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content:'';
+  content:none;
+}
+table {
+  border-collapse:collapse;
+  border-spacing:0;
+}
+
+/* Here we go */
+
+*{
+  box-sizing:border-box;
+}
+html{
+  font-size:1.25em;
+}
+body{
+  background: #fff;
+  font-size:1rem;
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color:#1b182a;
+}
+h1, h2{
+  font-family: 'Libre Baskerville', serif;
+  line-height: 1.2;
+}
+h1{
+  margin: 0.5rem 0 2rem 0;
+  font-size: 2.1rem;
+}
+h2{
+  margin: 2rem 0 0.5rem 0;
+  font-size: 1.7rem;
+}
+h3{
+  font-weight: 600;
+}
+blockquote{
+  margin:2.8rem 0;
+  font-size: 1.4rem;
+  font-family: 'Libre Baskerville', serif;
+}
+blockquote p:first-letter{
+  margin-left:1.4rem;
+}
+strong{
+  font-weight: 600;
+}
+em{
+  font-style: italic;
+}
+a{
+  color:#270b9d;
+}
+a:focus,
+a:hover{
+  text-decoration: none;
+}
+a.bouton{
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  background:#1b182a;
+  color:#fff;
+  font-size: 1.2rem;
+  font-family: 'Libre Baskerville', serif;
+  text-decoration: none;
+}
+a.bouton:after{
+  content:' »';
+}
+a.bouton:focus,
+a.bouton:hover{
+  background:#26213a;
+  text-decoration: underline;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+/* Layout */
+
+.wrapper{
+  max-width:34rem;
+  margin:0 auto;
+  padding:0 0.5rem;
+}
+
+.clearfix:after{
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+/* En-tête */
+
+header{
+  padding-top:1rem;
+  background:#1b182a;
+  color:#fff;
+  text-align: center;
+}
+header a{
+  color:#fff;
+  text-decoration: none;
+}
+header a:focus,
+header a:hover{
+  text-decoration: underline;
+}
+.sitetitle{
+  padding:0.5rem 0;
+  font-size: 1.5rem;
+  font-family: 'Libre Baskerville', serif;
+  line-height: 1;
+}
+nav li{
+  display: inline-block;
+  margin:0 0.75rem 0.5rem 0;
+  font-size: 0.9rem;
+}
+
+/* fil d'ariane */
+
+.breadcrumb{
+  margin-bottom:1rem;
+  font-size: 0.75rem;
+  color:#62606b;
+}
+.breadcrumb a{
+  color:#62606b;
+}
+
+/* Contenu principal */
+
+main {
+  padding-top:0.5rem;
+}
+main p,
+main ul,
+main ol{
+  margin-bottom:1rem;
+}
+main li{
+  margin:0 0 .25rem 1rem;
+  list-style: disc inside;
+}
+
+/* pied de page */
+
+footer{
+  margin-top:5.6rem;
+  background:#ddd;
+  color:#444;
+  font-size:0.75rem;
+  text-align: center;
+}
+footer .wrapper{
+  padding:0.5rem;
+}
+footer a{
+  color:#444;
+}
+footer nav li{
+  margin-right:0.25rem;
+  font-size: 0.75rem;
+}
+
+/* Accueil */
+
+.home h1{
+  display: none;
+}
+
+.hilight{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 28rem;
+  width:100%;
+  max-width: 68.3rem;
+  margin:0 auto;
+  overflow: hidden;
+}
+
+/**
+ * Print
+ * 
+ * Quelques astuces trouvées chez Alsa :
+ * http://www.alsacreations.com/tuto/lire/586-feuille-style-css-print-impression.html
+ * http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html
+ */
+
+@media print {
+
+  html{
+    font-size:13pt;
+  }
+  body{
+    color:#000;
+  }
+  a,
+  header a{
+    color:#000;
+  }
+  p, blockquote {
+    orphans: 3; /* pas de ligne seule en bas */
+    widows: 3; /* pas de ligne seule en haut */
+  }
+  blockquote, ul, ol {
+    page-break-inside: avoid; /* pas de coupure dans ces élements */
+  }
+  h1, h2, h3, caption {
+    page-break-after: avoid; /* pas de saut après ces éléments */
+  }
+  .wrapper{
+    max-width: none;
+    margin:0;
+  }
+  header{
+    background: none;
+  }
+  nav,
+  .breadcrumb{
+    display:none;
+  }
+
+}
