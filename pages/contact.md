@@ -19,5 +19,5 @@ Email : [amismuseesrouen@orange.fr](mailto:amismuseesrouen@orange.fr)
 
 Hors vacances scolaires :
 
- - lundi après-midi
- - mercredi matin
+ - Lundi de 15 à 17 heures
+ - Mercredi de 10 à 12 heures
