@@ -8,7 +8,10 @@ Ces conférences permettront d’envisager la pratique photographique comme un n
 
 Ce cycle de 6 conférences d’une durée de 1h30 aura lieu à l’auditorium du musée des Beaux-Arts et sera donné par **Cédric de Veigy**, chargé de cours en histoire de la Photographie à l’Ecole du Louvre, auteur de livres et articles sur le sujet, commissaire d’expositions.
 
-Deux horaires : 15h 30 ou 18h.
+<div>
+**Horaire unique : 17 Heures.**  
+Forfait : 45 €
+</div>
 
 Apprivoiser la photosensibilité pour inscrire le perceptible (à partir de 1839)
 
