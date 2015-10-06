@@ -3,13 +3,16 @@
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Libre+Baskerville:400italic">
   <link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/main.css">
 </head>
 <body{% if page.url == '/index.html' %} class="home"{% endif %}>
   <header id="header">
     <div class="wrapper">
+      <div class="logo">
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/fichiers/logo-amvr-bleu.png" width="88" height="80" alt="Les Amis des Musées de Rouen">
+        </a>
+      </div>
       <div class="sitetitle">
         <a href="{{ site.baseurl }}/">Association des Amis des Musées de Rouen</a>
       </div>
@@ -21,9 +24,9 @@
   </header>
   {% if page.url == '/index.html' %}
     <section class="hilight">
-      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-coupe-marrou.jpg" alt="Une coupe en fer forgé et en verre début XXe siècle, signée de Ferdinand Marrou">
-      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-horloge.jpg" alt="Horloge XVIIe Fer et Laiton">
-      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-lanterne.jpg" alt="Lanterne de procession Italie XVIIe">
+      <img src="{{ site.baseurl }}/fichiers/oeuvres/2014-sacquespee.jpg" alt="">
+      <img src="{{ site.baseurl }}/fichiers/oeuvres/2012-le-biscuit-et-la-glacure.jpg" alt="">
+      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-horloge.jpg" alt="">
     </section>
   {% endif%}
   <main>

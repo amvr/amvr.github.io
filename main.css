@@ -61,12 +61,11 @@ body{
   background: #fff;
   font-size:1rem;
   line-height: 1.5;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: 300;
-  color:#1b182a;
+  color:#222;
 }
 h1, h2{
-  font-family: 'Libre Baskerville', serif;
   line-height: 1.2;
 }
 h1{
@@ -83,7 +82,7 @@ h3{
 blockquote{
   margin:2.8rem 0;
   font-size: 1.4rem;
-  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
 }
 blockquote p:first-letter{
   margin-left:1.4rem;
@@ -95,7 +94,7 @@ em{
   font-style: italic;
 }
 a{
-  color:#270b9d;
+  color:#0082a6;
 }
 a:focus,
 a:hover{
@@ -104,10 +103,9 @@ a:hover{
 a.bouton{
   display: inline-block;
   padding: 0.2rem 0.5rem;
-  background:#1b182a;
+  background:#0082a6;
   color:#fff;
   font-size: 1.2rem;
-  font-family: 'Libre Baskerville', serif;
   text-decoration: none;
 }
 a.bouton:after{
@@ -115,7 +113,7 @@ a.bouton:after{
 }
 a.bouton:focus,
 a.bouton:hover{
-  background:#26213a;
+  background:#006e8c;
   text-decoration: underline;
 }
 img{
@@ -143,7 +141,7 @@ img{
 
 header{
   padding-top:1rem;
-  background:#1b182a;
+  background:#0082a6;
   color:#fff;
   text-align: center;
 }
@@ -157,14 +155,24 @@ header a:hover{
 }
 .sitetitle{
   padding:0.5rem 0;
-  font-size: 1.5rem;
-  font-family: 'Libre Baskerville', serif;
+  font-size: 1.7rem;
   line-height: 1;
+  font-style: italic;
 }
+header nav a{
+  text-shadow:1px 1px 0 rgba(0, 0, 0, 0.3);
+}
+header nav a:focus,
+header nav a:hover{
+  text-shadow:-1px -1px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* nav header et footer */
+
 nav li{
   display: inline-block;
   margin:0 0.75rem 0.5rem 0;
-  font-size: 0.9rem;
+  font-size:1.1rem;
 }
 
 /* fil d'ariane */
@@ -172,10 +180,10 @@ nav li{
 .breadcrumb{
   margin-bottom:1rem;
   font-size: 0.75rem;
-  color:#62606b;
+  color:#666;
 }
 .breadcrumb a{
-  color:#62606b;
+  color:#666;
 }
 
 /* Contenu principal */
@@ -229,6 +237,16 @@ footer nav li{
   max-width: 68.3rem;
   margin:0 auto;
   overflow: hidden;
+}
+
+@media screen and (min-width:56rem) {
+  header{
+    text-align: left;
+  }
+  .logo{
+    float:left;
+    margin:0 0 0 -120px;
+  }
 }
 
 /**
