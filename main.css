@@ -238,17 +238,40 @@ footer nav li{
 }
 
 .hilight{
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  height: 28rem;
+  height: 6rem;
   width:100%;
-  max-width: 68.3rem;
   margin:0 auto;
+  padding:1rem;
   overflow: hidden;
+  background: #222;
+  text-align: center;
+}
+.hilight img{
+  margin-right:1rem;
+  height:100%;
+  max-width: none;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+.hilight img:last-of-type{
+  margin-right: 0;
 }
 
+.call-to-action{
+  margin: 2rem 0 0 0;
+}
+
+/* Media Queries */
+
+@media screen and (min-width:30rem) {
+  .hilight{
+    height:9rem;
+  }
+}
+@media screen and (min-width:42rem) {
+  .hilight{
+    height:12rem;
+  }
+}
 @media screen and (min-width:56rem) {
   header{
     text-align: left;
@@ -256,6 +279,9 @@ footer nav li{
   .logo{
     float:left;
     margin:0 0 0 -120px;
+  }
+  .hilight{
+    height:20rem;
   }
 }
 
