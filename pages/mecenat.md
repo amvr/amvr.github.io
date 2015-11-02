@@ -22,7 +22,7 @@ Acquisition du tableau [*Le Christ en croix*](/pages/mecenat/2014-sacquespee.htm
 
 Impression du nouveau catalogue du Musée de la Céramique : [*Le biscuit et la glaçure*](/pages/mecenat/2012-le-biscuit-et-la-glacure.html).
 
-Acquisition d’un petit tableau de **Jacques Villon** réalisé vers 1913, qui représente un coin de l'atelier de son frère, le sculpteur Raymond Duchamp-Villon.
+Acquisition d’un [petit tableau de Jacques Villon réalisé vers 1913](/pages/mecenat/2012-villon.html), qui représente un coin de l'atelier de son frère, le sculpteur Raymond Duchamp-Villon.
 
 ##2011
 
