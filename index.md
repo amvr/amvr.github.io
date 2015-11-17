@@ -17,12 +17,3 @@ Notre conférencière Marie-Agnès Bennett expliquera comment s’est mis en pla
 
 Il est encore temps de prendre le forfait de 3 conférences au tarif de 22€, soit lors de nos permanences soit le 12 octobre avant la 1ère conférence.  
 Vous pouvez aussi venir au coup par coup à chaque conférence : l’entrée est alors de 8€ pour les adhérents AMVR, et de 10€ pour les non-adhérents.
-
----
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
