@@ -21,6 +21,7 @@ sitemap:
 markdown: kramdown
 kramdown:
   parse_block_html: true
+  smart_quotes: ["apos", "apos", "laquo", "raquo"] # http://stackoverflow.com/questions/25596792/how-do-i-turn-off-smart-quotes-in-jekyll#25597026
 
 # Prose.io
 prose:
