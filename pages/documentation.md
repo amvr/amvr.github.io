@@ -1,3 +1,12 @@
+---
+title: Documentation
+---
+
+Tous les fichiers commencent par les 3 lignes ci-dessus :
+- trois tirets du 6
+- "title: " suivi du titre de la page
+- trois tirets du 6
+
 ## Titre de niveau 2 : deux croisillons
 
 ### Titre de niveau 3 : trois croisillons
@@ -8,7 +17,7 @@
 
 Un paragraphe est simplement une ou plusieurs lignes consécutives de texte, séparées par une ou plusieurs lignes vides.
 
-Pour un saut de ligne simple, terminer la ligne par deux espaces puis taper « Entrée ».  
+Pour un saut de ligne simple, terminer la ligne par deux espaces puis taper «Entrée».  
 Comme ici.  
 Ou encore là.
 
@@ -16,17 +25,19 @@ Ou encore là.
 
 ### Lien externe
 
-Les liens s'écrivent de la manière suivante : [Texte affiché](http://example.com), où :
+Les liens s'écrivent de la manière suivante : [Texte affiché](http://example.com), avec :
 - le texte affiché entre crochets
 - l'adresse URL entre parenthèses
 
 ### Lien interne
 
-Les liens peuvent pointer vers des pages externes comme dans l'exemple précédent.  
-Ou vers des pages internes : [Mécénat](/pages/mecenat.html).  
+Les liens peuvent pointer vers des pages externes comme dans l'exemple précédent.
+
+Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
+
 Le chemin interne au site se décompose ainsi :
 - /pages : Dossier "pages", précédé d'un slash
-- mecenat.html : Fichier "mecenat.md" où ".md" est remplacé par ".html"
+- /mecenat.html : Fichier "mecenat.md" où ".md" est remplacé par ".html"
 
 ## Images
 
@@ -40,20 +51,20 @@ L'insertion d'image s'écrit ainsi :
 
 ## Gras et italique
 
-Les paragraphes peuvent contenir du *texte en italique* et du **texte en gras** en encadrant le texte avec une ou deux étoiles. Avec étoile, le ***texte est en gras et en italique***.
+Les paragraphes peuvent contenir du *texte en italique* et du **texte en gras** en encadrant le texte avec une ou deux étoiles. Avec trois étoiles, le ***texte est en gras et en italique***.
 
 ## Bloc de citation
 
-> Un bloc de citation est précédé d'un chevron,
-> Sur chaque ligne
+> Un bloc de citation est précédé d'un chevron.
+> Sur chaque ligne.
 >
 > Et peut contenir plusieurs paragraphes.
 >
 > En utilisant des lignes vides.
 >
-> Les blocs de citation peuvent contenir du *texte en italique*, du **texte en gras**, des [liens](http://example.com), ...
+> Les blocs de citation peuvent contenir du *texte en italique*, du **texte en gras**, des [liens](http://example.com), etc...
 
-À ce jour, novembre 2015, l'aperçu des blocs de citation ne fonctionne pas.
+/!\ À ce jour, novembre 2015, l'aperçu des blocs de citation ne fonctionne pas avec prose.io.
 
 ## Listes
 
