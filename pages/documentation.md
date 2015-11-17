@@ -2,7 +2,63 @@
 title: Documentation
 ---
 
-Tous les fichiers commencent par les 3 lignes ci-dessus :
+## Prose.io
+
+- [http://prose.io/#AMVR/amvr.github.io/](http://prose.io/#AMVR/amvr.github.io/)
+- Se connecter grâce au compte Github
+- Menu en haut à gauche > Language > choisir French (puis Menu > Prose)
+
+## Structure des dossiers et fichiers
+
+- Le dossier "pages" contient les pages du site et les sous-dossiers des pages Activités et Mécénat
+- Le dossier "fichiers" contient les fichiers PDF, images, etc...
+- Le dossier "\_includes" contient les menus haut et bas du site (de simples listes de liens)
+- Le fichier "index.md", c'est le contenu de la page d'accueil du site
+
+## Actions sur les dossiers et fichiers
+
+- Cliquer sur un dossier pour afficher son contenu
+- Modifier un fichier en cliquant sur son nom ou sur le lien "modifier" à sa droite
+- Supprimer un fichier en cliquant sur l'iĉone Corbeille à droite
+- La recherche se fait sur les noms des dossiers et des fichiers (attention aux accents)
+
+## Créer une nouvelle page
+
+Les pages doivent être placées dans le dossier "pages".
+
+Le nommage des fichiers doit respecter ces règles : 
+
+- Pas d'accent
+- Pas d'espace
+- Pas de majuscule
+
+Uniquement :
+
+- des lettres minuscules
+- des chiffres
+- des tirets (du 6 ou du 8)
+
+L'extension de fichier est ".md" pour [Markdown](https://fr.wikipedia.org/wiki/Markdown).
+
+Ainsi, lors de la création d'une page au sein de Prose.io, le champ nom de fichier doit comporter quelque chose comme "/pages/la-nouvelle-page.md".
+
+## Actions lors de l'écriture
+
+Icône à droite :
+
+- Crayon : écrire
+- Œil : voir un aperçu
+- Roue crantée : supprimer le fichier
+- Disquette : enregistrer les modifications
+
+Enregistrement :
+
+- Les modifications du texte sont visibles
+- Un message est demandé. Il est assez libre et peut être quelque chose comme "correction d'une coquille", "ajout des activités de janvier", etc...
+
+## Titre de la page
+
+Tous les fichiers commencent par les 3 lignes :
 
 - trois tirets du 6
 - title: suivi du titre de la page
