@@ -5,7 +5,7 @@ title: Documentation
 Tous les fichiers commencent par les 3 lignes ci-dessus :
 
 - trois tirets du 6
-- "title:" suivi du titre de la page
+- title: suivi du titre de la page
 - trois tirets du 6
 
 ## Titre de niveau 2 : deux croisillons
