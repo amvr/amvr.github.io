@@ -28,6 +28,7 @@ prose:
   ignore:
     - _config.yml
     - main.css
+    - README.md
     - .gitignore
     - /_layouts
     - /_plugins
