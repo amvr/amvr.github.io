@@ -24,5 +24,10 @@ kramdown:
 
 # Prose.io
 prose:
-  ignore: ['_config.yml', 'main.css']
+  ignore:
+    - _config.yml
+    - main.css
+    - .gitignore
+    - /_layouts
+    - /_plugins
   media: "fichiers"
