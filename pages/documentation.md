@@ -3,6 +3,7 @@ title: Documentation
 ---
 
 Tous les fichiers commencent par les 3 lignes ci-dessus :
+
 - trois tirets du 6
 - "title: " suivi du titre de la page
 - trois tirets du 6
@@ -26,6 +27,7 @@ Ou encore là.
 ### Lien externe
 
 Les liens s'écrivent de la manière suivante : [Texte affiché](http://example.com), avec :
+
 - le texte affiché entre crochets
 - l'adresse URL entre parenthèses
 
@@ -36,6 +38,7 @@ Les liens peuvent pointer vers des pages externes comme dans l'exemple précéde
 Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
 
 Le chemin interne au site se décompose ainsi :
+
 - /pages : Dossier "pages", précédé d'un slash
 - /mecenat.html : Fichier "mecenat.md" où ".md" est remplacé par ".html"
 
@@ -67,6 +70,8 @@ Les paragraphes peuvent contenir du *texte en italique* et du **texte en gras** 
 /!\ À ce jour, novembre 2015, l'aperçu des blocs de citation ne fonctionne pas avec prose.io.
 
 ## Listes
+
+Les listes sont précédées d'un saut de ligne.
 
 ### Liste à puces
 
