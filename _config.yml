@@ -21,3 +21,8 @@ sitemap:
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+# Prose.io
+prose:
+  ignore: ['_config.yml', 'main.css']
+  media: "fichiers"
