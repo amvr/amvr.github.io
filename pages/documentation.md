@@ -108,6 +108,8 @@ L'insertion d'image s'écrit ainsi :
 - Court texte descriptif de l'image entre crochets
 - Chemin vers le fichier image : ici le fichier "logo-amvr-bleu.png" est situé dans le dossier "fichiers"
 
+![2000-callow.jpg]({{site.baseurl}}/fichiers/oeuvres/2000-callow.jpg)
+
 ## Gras et italique
 
 Les paragraphes peuvent contenir du *texte en italique* et du **texte en gras** en encadrant le texte avec une ou deux étoiles. Avec trois étoiles, le ***texte est en gras et en italique***.
