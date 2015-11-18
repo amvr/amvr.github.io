@@ -40,7 +40,7 @@ Uniquement :
 
 L'extension de fichier est ".md" pour [Markdown](https://fr.wikipedia.org/wiki/Markdown).
 
-Ainsi, lors de la création d'une page au sein de Prose.io, le champ nom de fichier doit comporter quelque chose comme "/pages/la-nouvelle-page.md".
+Ainsi, lors de la création d'une page au sein de Prose.io, le champ nom de fichier doit comporter quelque chose comme "pages/la-nouvelle-page.md".
 
 ## Actions lors de l'écriture
 
@@ -125,7 +125,7 @@ Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
 
 Le chemin interne au site se décompose ainsi :
 
-- /pages : Dossier "pages", précédé d'un slash
+- /pages : Dossier "pages", précédé d'une barre oblique
 - /mecenat.html : Fichier "mecenat.md" où ".md" est remplacé par ".html"
 
 ## Images
