@@ -29,6 +29,7 @@ prose:
     - _config.yml
     - main.css
     - google-analytics.js
+    - CNAME
     - README.md
     - .gitignore
     - /_layouts
