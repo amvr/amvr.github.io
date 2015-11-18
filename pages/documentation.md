@@ -111,7 +111,7 @@ Les liens s'écrivent ainsi : [Texte affiché](http://example.com).
 Avec :
 
 - le texte affiché entre crochets
-- l'adresse URL entre parenthèses
+- l'adresse de la page (URL) entre parenthèses
 
 ### Lien interne
 
