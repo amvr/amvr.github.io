@@ -126,6 +126,10 @@ hr{
   border:none;
   border-top:1px solid #ccc;
 }
+pre{
+  padding:1rem;
+  background: #eee;
+}
 
 /* Layout */
 
@@ -200,7 +204,8 @@ main {
 }
 main p,
 main ul,
-main ol{
+main ol,
+main pre{
   margin-bottom:1rem;
 }
 main li{

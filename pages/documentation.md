@@ -60,15 +60,35 @@ Enregistrement :
 
 Tous les fichiers commencent par les 3 lignes :
 
+<pre>
+---
+title: Titre de la page
+---
+</pre>
+
+Avec :
+
 - trois tirets du 6
 - title: suivi du titre de la page
 - trois tirets du 6
 
-## Titre de niveau 2 : deux croisillons
+## Titre de niveau 2
 
-### Titre de niveau 3 : trois croisillons
+<pre>
+## Titre de niveau 2
+</pre>
 
-/!\ Nous n'utilisons pas de titres de niveau 1 au sein des pages.
+Le titre de niveau 2 est précédé de deux croisillons.
+
+### Titre de niveau 3
+
+<pre>
+## Titre de niveau 3
+</pre>
+
+Le titre de niveau 3 est précédé de trois croisillons.
+
+**/!\ Nous n'utilisons pas de titres de niveau 1 au sein des pages.**
 
 ## Paragraphes
 
@@ -82,7 +102,13 @@ Ou encore là.
 
 ### Lien externe
 
-Les liens s'écrivent de la manière suivante : [Texte affiché](http://example.com), avec :
+Les liens s'écrivent ainsi : [Texte affiché](http://example.com).
+
+<pre>
+Les liens s'écrivent ainsi : [Texte affiché](http://example.com).
+</pre>
+
+Avec :
 
 - le texte affiché entre crochets
 - l'adresse URL entre parenthèses
@@ -93,6 +119,10 @@ Les liens peuvent pointer vers des pages externes comme dans l'exemple précéde
 
 Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
 
+<pre>
+Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
+</pre>
+
 Le chemin interne au site se décompose ainsi :
 
 - /pages : Dossier "pages", précédé d'un slash
@@ -100,17 +130,29 @@ Le chemin interne au site se décompose ainsi :
 
 ## Images
 
+![Logo AMVR blanc](/fichiers/logo-amvr-bleu.png)
+
 L'insertion d'image s'écrit ainsi :
 
+<pre>
 ![Logo AMVR blanc](/fichiers/logo-amvr-bleu.png)
+</pre>
+
+Avec :
 
 - Point d'exclamation
 - Court texte descriptif de l'image entre crochets
-- Chemin vers le fichier image : ici le fichier "logo-amvr-bleu.png" est situé dans le dossier "fichiers"
+- Chemin vers le fichier image : ici le fichier "logo-amvr-bleu.png" est situé dans le dossier "fichiers" (ne pas oublier les barres obliques)
 
 ## Gras et italique
 
-Les paragraphes peuvent contenir du *texte en italique* et du **texte en gras** en encadrant le texte avec une ou deux étoiles. Avec trois étoiles, le ***texte est en gras et en italique***.
+Voici du *texte en italique*, **texte en gras** et ***en gras et italique***.
+
+<pre>
+Voici du *texte en italique*, **texte en gras** et ***en gras et italique***.
+</pre>
+
+Grâce aux astériques.
 
 ## Bloc de citation
 
@@ -121,9 +163,24 @@ Les paragraphes peuvent contenir du *texte en italique* et du **texte en gras** 
 >
 > En utilisant des lignes vides.
 >
-> Les blocs de citation peuvent contenir du *texte en italique*, du **texte en gras**, des [liens](http://example.com), etc...
+> Les blocs de citation peuvent contenir du *texte en italique*, 
+> du **texte en gras**, 
+> des [liens](http://example.com), etc...
 
-/!\ À ce jour, novembre 2015, l'aperçu des blocs de citation ne fonctionne pas avec prose.io.
+<pre>
+> Un bloc de citation est précédé d'un chevron.
+> Sur chaque ligne.
+>
+> Et peut contenir plusieurs paragraphes.
+>
+> En utilisant des lignes vides.
+>
+> Les blocs de citation peuvent contenir du *texte en italique*, 
+> du **texte en gras**, 
+> des [liens](http://example.com), etc...
+</pre>
+
+**/!\ À ce jour, novembre 2015, l'aperçu des blocs de citation ne fonctionne pas avec prose.io.**
 
 ## Listes
 
@@ -135,8 +192,21 @@ Les listes sont précédées d'un saut de ligne.
 - chaque ligne est précédée
 - d'un tiret du 6
 
+<pre>
+- pour une liste à puces
+- chaque ligne est précédée
+- d'un tiret du 6
+</pre>
+
 ### Liste numérotée
 
 1. pour une liste numérotée
 2. chaque ligne est précédée
 3. de son numéro et d'un point
+
+
+<pre>
+1. pour une liste numérotée
+2. chaque ligne est précédée
+3. de son numéro et d'un point
+</pre>
