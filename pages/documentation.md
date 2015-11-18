@@ -83,7 +83,7 @@ Le titre de niveau 2 est précédé de deux croisillons.
 ### Titre de niveau 3
 
 <pre>
-## Titre de niveau 3
+### Titre de niveau 3
 </pre>
 
 Le titre de niveau 3 est précédé de trois croisillons.
