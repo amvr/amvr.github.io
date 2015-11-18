@@ -24,14 +24,8 @@
   </header>
   {% if page.url == '/index.html' %}
     <section class="hilight">
-      <img src="{{ site.baseurl }}/fichiers/oeuvres/2014-sacquespee.jpg" alt="">
-      <img src="{{ site.baseurl }}/fichiers/oeuvres/2012-le-biscuit-et-la-glacure.jpg" alt="">
-      <img src="{{ site.baseurl }}/fichiers/oeuvres/2013-horloge.jpg" alt="">
-    </section>
-    <section class="call-to-action">
-      <div class="wrapper">
-        <p><a href="/pages/activites-du-mois.html" class="bouton">Les activités du mois</a></p>
-      </div>
+      {% capture images %}{% include images-accueil.md %}{% endcapture %}
+      {{ images | markdownify }}
     </section>
   {% endif%}
   <main>

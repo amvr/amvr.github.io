@@ -109,7 +109,7 @@ a.bouton{
   text-decoration: none;
 }
 a.bouton:after{
-  content:' »';
+  content:' →';
 }
 a.bouton:focus,
 a.bouton:hover{
@@ -251,11 +251,14 @@ footer nav li{
 .hilight{
   height: 6rem;
   width:100%;
-  margin:0 auto;
+  margin:0 auto 2rem auto;
   padding:1rem;
   overflow: hidden;
   background: #222;
   text-align: center;
+}
+.hilight p{
+  display: inline;
 }
 .hilight img{
   margin-right:1rem;
@@ -265,10 +268,6 @@ footer nav li{
 }
 .hilight img:last-of-type{
   margin-right: 0;
-}
-
-.call-to-action{
-  margin: 2rem 0 0 0;
 }
 
 /* Media Queries */
