@@ -28,6 +28,7 @@ prose:
   ignore:
     - _config.yml
     - main.css
+    - google-analytics.js
     - README.md
     - .gitignore
     - /_layouts
