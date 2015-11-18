@@ -10,4 +10,4 @@ title: Liens utiles
 
 ##Vu ailleurs
 
-Lorem ipsum...
+À venir.
