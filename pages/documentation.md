@@ -100,8 +100,6 @@ Ou encore là.
 
 ## Liens
 
-### Lien externe
-
 Les liens s'écrivent ainsi : [Texte affiché](http://example.com).
 
 <pre>
@@ -113,20 +111,11 @@ Avec :
 - le texte affiché entre crochets
 - l'adresse de la page (URL) entre parenthèses
 
-### Lien interne
-
-Les liens peuvent pointer vers des pages externes comme dans l'exemple précédent.
-
-Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
+Lien vers une page interne au site : [Mécénat](http://amis-musees-rouen.fr/pages/mecenat.html).
 
 <pre>
-Mais aussi vers des pages internes : [Mécénat](/pages/mecenat.html).
+[Mécénat](http://amis-musees-rouen.fr/pages/mecenat.html).
 </pre>
-
-Le chemin interne au site se décompose ainsi :
-
-- /pages : Dossier "pages", précédé d'une barre oblique
-- /mecenat.html : Fichier "mecenat.md" où ".md" est remplacé par ".html"
 
 ## Images
 
@@ -144,15 +133,22 @@ Avec :
 - Court texte descriptif de l'image entre crochets
 - Chemin vers le fichier image : ici le fichier "logo-amvr-bleu.png" est situé dans le dossier "fichiers" (ne pas oublier les barres obliques)
 
+### Taille des images
+
+Les images doivent être redimensionnées avant d'être envoyées.
+
+La largeur idéale (maximum) est de 600 pixels.  
+La hauteur importe peu.
+
 ## Gras et italique
 
-Voici du *texte en italique*, **texte en gras** et ***en gras et italique***.
+Voici du _texte en italique_, **texte en gras** et **_en gras et italique_**.
 
 <pre>
-Voici du *texte en italique*, **texte en gras** et ***en gras et italique***.
+Voici du _texte en italique_, **texte en gras** et **_en gras et italique_**.
 </pre>
 
-Grâce aux astériques.
+Deux astérisques encadrent le texte pour le gras et un tiret du 8 (underscore) pour l'italique.
 
 ## Bloc de citation
 
