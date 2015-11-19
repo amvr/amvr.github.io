@@ -4,7 +4,7 @@ title: Mécénat
 
 ##2015
 
-*Douze Rotoreliefs* de **Marcel Duchamp**, datant de 1953. Ces disques optiques recto-verso en couleurs de 20 cm de diamètre étaient destinés à être vus sur un phonographe tournant à 33 tours/minute. Ils viennent compléter le fonds des frères Duchamp que possède le Musée des Beaux-Arts, en vue de l’exposition prévue en 2018.
+[*Douze Rotoreliefs*](/pages/mecenat/2015-duchamp.html) de **Marcel Duchamp**, datant de 1953. Ces disques optiques recto-verso en couleurs de 20 cm de diamètre étaient destinés à être vus sur un phonographe tournant à 33 tours/minute. Ils viennent compléter le fonds des frères Duchamp que possède le Musée des Beaux-Arts, en vue de l’exposition prévue en 2018.
 
 ##2014
 
