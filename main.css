@@ -169,6 +169,10 @@ header a:hover{
   line-height: 1;
   font-style: italic;
 }
+header nav{
+  clear:both;
+  margin-top:1rem;
+}
 header nav a{
   text-shadow:1px 1px 0 rgba(0, 0, 0, 0.3);
 }
@@ -288,7 +292,7 @@ footer nav li{
   }
   .logo{
     float:left;
-    margin:0 0 0 -120px;
+    margin:0 2rem 0 0;
   }
   .hilight{
     height:20rem;
