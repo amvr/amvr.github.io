@@ -11,6 +11,7 @@ title: Documentation
 ## Structure des dossiers et fichiers
 
 - Le dossier "pages" contient les pages du site et les sous-dossiers des pages Activités et Mécénat
+- Le dossier "brouillons" contient les pages en cours de rédaction
 - Le dossier "fichiers" contient les fichiers PDF, images, etc...
 - Le dossier "\_includes" contient les menus haut et bas du site (de simples listes de liens)
 - Le fichier "index.md", c'est le contenu de la page d'accueil du site
@@ -21,6 +22,23 @@ title: Documentation
 - Modifier un fichier en cliquant sur son nom ou sur le lien "modifier" à sa droite
 - Supprimer un fichier en cliquant sur l'iĉone Corbeille à droite
 - La recherche se fait sur les noms des dossiers et des fichiers (attention aux accents)
+
+## Brouillons
+
+Les pages de brouillons sont créées dans le dossier "brouillons".
+
+Une fois rédigée et prête pour relecture, cette page peut-être partagée en donnant son adresse (URL) ; quelque chose comme :  
+http://amis-musees-rouen.fr/brouillons/brouillon-activites-decembre.html
+
+L'adresse (URL) se décompose ainsi :
+
+- Le nom de domaine du site : http://amis-musees-rouen.fr
+- Le dossier "brouillons" : /brouillons
+- La page : /brouillon-activites-decembre.html
+
+**À noter : les fichiers que nous modifions se terminent par _.md_ mais les adresses des pages se terminent par _.html_**
+
+Lorsque le brouillon est relu, corrigé et prêt à être diffusé, il suffit de copier/coller son contenu dans le dossier "pages", dans le fichier _.md_ qui correspond.
 
 ## Créer une nouvelle page
 
