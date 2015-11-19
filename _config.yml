@@ -27,6 +27,7 @@ kramdown:
 prose:
   ignore:
     - _config.yml
+    - 404.html
     - main.css
     - google-analytics.js
     - CNAME
