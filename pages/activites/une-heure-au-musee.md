@@ -1,6 +1,8 @@
 ---
 title: Une Heure au Musée
+published: true
 ---
+
 
 Une heure au musée pour mieux comprendre les collections permanentes et les expositions temporaires.  Ces visites ont lieu dans les musées, face aux œuvres, et sont assurées par les conférenciers du musée.
 
@@ -11,13 +13,13 @@ Rendez-vous à l’entrée du musée indiqué.
 
 ###Jeudi 8 et samedi 10 octobre 2015
 
-Le bestiaire.  
-Musée Le Secq des Tournelles.
+Le Voyage à Rome 
+Musée des Beaux-Arts
 
 ###Jeudi 19 et samedi 21 novembre 2015
 
-Le voyage à Rome.  
-Musée des Beaux-Arts.
+Le décor animalier   
+Musée de la Céramique.
 
 ###Jeudi 3 et samedi 5 décembre 2015
 
@@ -41,8 +43,8 @@ Musée des Beaux-Arts.
 
 ###Jeudi 17 et samedi 19 mars 2016
 
-Le décor animalier.  
-Musée de la Céramique.
+Le bestiaire  
+Musée Le Secq des Tournelles.
 
 ###Jeudi 28 et samedi 30 avril 2016
 
