@@ -3,6 +3,7 @@ title: Activités du mois
 published: true
 ---
 
+
 ## Calendrier des activités : décembre 2015
 
 **Jeudi 3 décembre, 14h30 et 16h00**
@@ -30,7 +31,7 @@ Benoit Tourette, piano ; Camille Jauvion, piano
  Ravel : La valse (quatre mains) 
 Auditorium Musées des Beaux-Arts 
 
-- **14h et 15h30** _Initiation à l'Hitoire de l'Art_, - Cycle I
+- **14h et 15h30** _Initiation à l'Histoire de l'Art_, - Cycle I
 
 Les genres en peinture  _"Le Paysage"_ , Musée des Beaux-Arts.
 
