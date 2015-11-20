@@ -31,7 +31,7 @@ Auditorium Musées des Beaux-Arts
 - **14h **et** 15h30** _Initiation à l'Hitoire de l'Art_,  - Cycle I    
 Les genres en peinture  _"Le Paysage"_ , Musée des Beaux-Arts.
 
-**Mercredi 9 décembre, 14h et 15h30** : _Inititation à l'Histoire de l'Art_ - Cycle II   
+**Mercredi 9 décembre, 14h et 15h30** : _Initiation à l'Histoire de l'Art_ - Cycle II   
 La fabrique de l'oeuvre _"la cuisine du peintre"_ , Musée des Beaux-Arts.
 
 **Jeudi 10 décembre** , _Sortie à la journée_ - Paris, Grand Palais - "_Picasso Mania_",
