@@ -12,7 +12,7 @@ _Une Heure au Musée_ - Images de Jeanne d'Arc - Musées des Beaux-Arts.
 
 **Vendredi 4 décembre, 19h30**
 
-_Sortie à la journée_ - "_La Bayadère_" , Opéra Bastille .
+_Sortie à la journée_  : Opéra Bastille - "_La Bayadère_".
 
 **Samedi 5 décembre**
 
