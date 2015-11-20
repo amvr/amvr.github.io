@@ -3,22 +3,22 @@ title: Activités du mois
 published: true
 ---
 
-## Calendrier des activités : décembre 2015##
+## Calendrier des activités : décembre 2015
 
-**Jeudi 3 décembre, 14h30 et 16h00**  :
+**Jeudi 3 décembre, 14h30 et 16h00**
 
 _Une Heure au Musée_ - Images de Jeanne d'Arc - Musées des Beaux-Arts.
 
-**Vendredi 4 décembre, 19h30** :
+**Vendredi 4 décembre, 19h30**
 
 _Sortie à la journée_ - "_La Bayadère_" , Opéra Bastille .
 
-**Samedi 5 décembre** :
+**Samedi 5 décembre**
 
 - **12h** _Visite avec rendez-vous sur place_: - Paris , lieu insolite, _les Catacombres._
 - **14h30 **et** 16h00** _Une Heure au Musée_ : - Images de Jeanne d'Arc - Musées des Beaux-Arts.
 
-**Lundi 7 décembre**  : 
+**Lundi 7 décembre**
 
 - **12h15** _Midi Musée Musique_  :
 Récital de piano à quatre mains
@@ -30,7 +30,7 @@ Benoit Tourette, piano ; Camille Jauvion, piano
  Ravel : La valse (quatre mains) 
 Auditorium Musées des Beaux-Arts 
 
-- **14h **et** 15h30** _Initiation à l'Hitoire de l'Art_,  - Cycle I
+- **14h et 15h30** _Initiation à l'Hitoire de l'Art_, - Cycle I
 
 Les genres en peinture  _"Le Paysage"_ , Musée des Beaux-Arts.
 
