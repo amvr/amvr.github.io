@@ -3,20 +3,22 @@ title: Activités du mois
 published: true
 ---
 
+z
 
 
 ## Calendrier des activités : décembre 2015##
+
 
 **Jeudi 3 décembre, 14h30 et 16h00**  : _Une Heure au Musée_ - Images de Jeanne d'Arc - Musées des Beaux-Arts.
 
 **Vendredi 4 décembre, 19h30** : _Sortie à la journée_  -"_La Bayadère_" , Opéra Bastille .
 
 **Samedi 5 décembre** : 
-- item**12h** _Visite avec rendez-vous sur place_: - Paris , lieu insolite, _les Catacombres._
-- item**14h30 **et** 16h00** _Une Heure au Musée_ : - Images de Jeanne d'Arc - Musées des Beaux-Arts.
+- **12h** _Visite avec rendez-vous sur place_: - Paris , lieu insolite, _les Catacombres._
+- **14h30 **et** 16h00** _Une Heure au Musée_ : - Images de Jeanne d'Arc - Musées des Beaux-Arts.
 
 **Lundi 7 décembre**  : 
-- item**12h15** _Midi Musée Musique_  :
+- **12h15** _Midi Musée Musique_  :
 Récital de piano à quatre mains
 Benoit Tourette, piano ; Camille Jauvion, piano
  Schubert : divertissement à la hongroise  (Quatre mains)
@@ -26,7 +28,7 @@ Benoit Tourette, piano ; Camille Jauvion, piano
  Ravel : La valse (quatre mains) 
 Auditorium Musées des Beaux-Arts 
 
-- item **14h **et** 15h30** _Initiation à l'Hitoire de l'Art_,  - Cycle I    
+- **14h **et** 15h30** _Initiation à l'Hitoire de l'Art_,  - Cycle I    
 Les genres en peinture  _"Le Paysage"_ , Musée des Beaux-Arts.
 
 **Mercredi 9 décembre, 14h et 15h30** : _Inititation à l'Histoire de l'Art_ - Cycle II   
@@ -36,33 +38,10 @@ La fabrique de l'oeuvre _"la cuisine du peintre"_ , Musée des Beaux-Arts.
 et Galerie des Gobelins - "_l'esprit et la main_".
 
 **Samedi 12 décembre,** :
-- item**10h**: Assemblée Générale, auditorium du musée des Beaux-Arts.
-- item**14h30** :_Les Conférences du samedi_ - L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme - "_Sphère domestique, sphère artistique: présences d'Elisabeth Vigée Le Brun (1783-1804)_ ", par Stéphane Guegan, Conservateur au musée d'Orsay. Auditorium du musée des Beaux-Arts. 
+- **10h**: Assemblée Générale, auditorium du musée des Beaux-Arts.
+- **14h30** :_Les Conférences du samedi_ - L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme - "_Sphère domestique, sphère artistique: présences d'Elisabeth Vigée Le Brun (1783-1804)_ ", par Stéphane Guegan, Conservateur au musée d'Orsay. Auditorium du musée des Beaux-Arts. 
 
 **Samedi 18 décembre, 17h** : _Vendredi des Arts_- Histoire de la Photographie - "_Explorer les paramètres de la vision_" , par Cédric de Veigy, chargé de cours en histoire de la Photographie à l'Ecole du Louvre, Auditorium du Musée des Beaux-Arts.
 
 
 
-
-
-
-
-
-
-
-
-
-
-Ici votre texte.
-
-Pour rappel, voici un paragraphe **avec du gras** et _de l'italique_.
-
-Et un autre paragraphe, après une ligne vide.
-
-Puis une liste :
-
-- un horaire
-- un autre
-- encore un autre
-
-Cette page est visible à cette adresse [http://amis-musees-rouen.fr/brouillons/brouillon-activites-decembre.html](http://amis-musees-rouen.fr/brouillons/brouillon-activites-decembre.html).
