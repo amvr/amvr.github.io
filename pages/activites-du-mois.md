@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ## Calendrier des activités : Décembre 2015
 
 **Jeudi 3 décembre, 14h30 et 16h00**
@@ -30,7 +31,6 @@ Benoit Tourette, piano ; Camille Jauvion, piano
  Bartok: Allegro Barbaro
  Ravel : La valse (quatre mains) 
 Auditorium Musée des Beaux-Arts 
-
 - **14h et 15h30** _Initiation à l'Histoire de l'Art_, - Cycle I
 
 Les genres en peinture  _"Le Paysage"_ , Musée des Beaux-Arts.
