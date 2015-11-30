@@ -1,3 +1,3 @@
 ## Calendrier des activités : Janvier 2016
 
-Entrez votre contenu en [Markdown](http://daringfireball.net/projects/markdown/). Utilisez la barre d'outils ci-dessus, ou appuyer sur le bouton **?** pour voir l'aide sur la syntaxe.
+Entrez votre contenu en [Markdown](http://brouillons-activites-janvier.md). Utilisez la barre d'outils ci-dessus, ou appuyer sur le bouton **?** pour voir l'aide sur la syntaxe.
