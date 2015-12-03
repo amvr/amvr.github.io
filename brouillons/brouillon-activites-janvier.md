@@ -19,7 +19,8 @@ Salle du Jubé - Musée des Beaux-Arts
 - **14 et 15h30**  
 _Initiation à l'Histoire de l'Art_ Cycle I, Les genres en peinture _"La nature morte"_, Musée des Beaux-Arts.
 
-
+**Samedi 16 janvier,** :
+- **14h30** :_Les Conférences du samedi_ - L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme - "_Scènes de la vie impressionniste", par Sylvain Amic, Conservateur,directeur des musées de la ville de Rouen. _Auditorium du musée des Beaux-Arts._
 
 **Mercredi 9 décembre, 14h et 15h30** :
 
@@ -29,9 +30,9 @@ _Initiation à l'Histoire de l'Art_ - Cycle II La fabrique de l'oeuvre _"la cuis
 
 _Sortie à la journée_ - Paris, Grand Palais - "_Picasso Mania_", et Galerie des Gobelins - "_l'esprit et la main_".
 
-**Samedi 12 décembre,** :
 
-- **10h**: Assemblée Générale, auditorium du musée des Beaux-Arts.
+
+
 - **14h30** :_Les Conférences du samedi_ - L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme - "_Sphère domestique, sphère artistique: présences d'Elisabeth Vigée Le Brun (1783-1804)_ ", par Stéphane Guegan, Conservateur au musée d'Orsay. Auditorium du musée des Beaux-Arts. 
 
 **Samedi 18 décembre, 17h** :
