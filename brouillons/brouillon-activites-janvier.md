@@ -21,6 +21,11 @@ _Une Heure au Musée_
  **_"La peinture baroque en Europe"_**  
   Musée des Beaux-Arts.
 
+**Semaine du 11 au 16 janvier :**  
+_Sortie PARIS_,  
+Musée Jacquemart-André:**_"le portrait florentin au XVIème siècle"_**  
+Musée du Luxembourg : _**"Fragonard amoureux"**_
+
 **Lundi 11 janvier, ** :  
 
 - **12h15**  
