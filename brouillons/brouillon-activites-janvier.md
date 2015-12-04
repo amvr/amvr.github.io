@@ -22,12 +22,6 @@ _Une Heure au Musée_
   Musée des Beaux-Arts.
 
 **Lundi 11 janvier, ** :  
-- **16h et 18h**  
-_Les causeries du Lundi_  
-La peinture anglaise des XVIIIème et XIXème siècle  
-**_"La grande époque du portrait anglais: Mercier, Hogardth, Reynolds, Lawrence, Ramsay, Gainsborough,..."_**  
-Musée des Beaux-Arts
-
 
 - **12h15**  
 _Midi Musée Musique_:  
@@ -45,6 +39,12 @@ _Initiation à l'Histoire de l'Art_
 Cycle I, Les genres en peinture ,      
 _**"La nature morte,"**_    
 Musée des Beaux-Arts.
+
+- **16h et 18h**  
+_Les causeries du Lundi_  
+La peinture anglaise des XVIIIème et XIXème siècle  
+**_"La grande époque du portrait anglais: Mercier, Hogardth, Reynolds, Lawrence, Ramsay, Gainsborough,..."_**  
+Musée des Beaux-Arts
 
 **Mercredi 13 janvier, 14h et 15h30** :  
 _Initiation à l'Histoire de l'Art_   
