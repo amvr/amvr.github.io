@@ -40,7 +40,7 @@ Cycle I, Les genres en peinture ,
 _**"La nature morte,"**_    
 Musée des Beaux-Arts.
 
-- **16h et 18h**  
+- **16h ou 18h**  
 _Les causeries du Lundi_  
 La peinture anglaise des XVIIIème et XIXème siècle  
 **_"La grande époque du portrait anglais: Mercier, Hogardth, Reynolds, Lawrence, Ramsay, Gainsborough,..."_**  
@@ -75,16 +75,21 @@ Auditorium du musée des Beaux-Arts.
 _Une Heure au Musée_  
 **_"L'Influence anglaise sur le paysage romantique"_**  
  Musée des Beaux-Arts.
+ 
+**Samedi 23 janvier,14h30 et 16h**  
+_Une Heure au Musée_  
+**_"L'Influence anglaise sur le paysage romantique"_**  
+ Musée des Beaux-Arts.
 
-**Lundi 25 janvier, 16h et 18h**  
+**Lundi 25 janvier, 16h ou 18h**  
 _Les causeries du Lundi_  
 La peinture anglaise des XVIIIème et XIXème siècle  
-**_"La grande époque du portrait anglais: Mercier, Hogardth, Reynolds, Lawrence, Ramsay, Gainsborough,..."_**  
+**_Hogarth: la naissance de la satire sociale"_**  
 Musée des Beaux-Arts
 
 **Mercredi 27 janvier, 14h**  
 _Initiation à l'Histoire de l'Art_   
-_Cycle III_, Approche chronologique  
+Cycle III, Approche chronologique  
 **_"La Renaissance"_**  
 Musée des Beaux-Arts.  
 
