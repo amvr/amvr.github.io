@@ -68,7 +68,7 @@ Auditorium du musée des Beaux-Arts.
 _Les Mardis des Amis_,  
 Les grandes figures du mouvement symboliste: Les NABIS-_  
 **"Sous la dictée de Gauguin"**   
-_Claire Bernardi,_ conservateur au musée d'Orsay, Commissaire d'expositions.  
+Claire Bernardi,_ conservateur au musée d'Orsay, Commissaire d'expositions.  
 Auditorium du musée des Beaux-Arts.
 
 **Jeudi 21 janvier, 14h30 et 16h**  
