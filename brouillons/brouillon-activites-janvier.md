@@ -20,6 +20,8 @@ _Une Heure au Musée_
 _Une Heure au Musée_   
  **_"La peinture baroque en Europe"_**  
   Musée des Beaux-Arts.
+  
+  
 
 **Semaine du 11 au 16 janvier :**  
 _Sortie PARIS_,  
@@ -57,7 +59,7 @@ _Initiation à l'Histoire de l'Art_
 _**"La mise en scène en peinture"**_,    
 Musée des Beaux-Arts.
 
-**Samedi 16 janvier, 14h30** :  
+**Samedi 9 janvier, 14h30** :  
 _Les Conférences du samedi_   
 L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme -  
 **_"Scènes de la vie impressionniste"_**,    
@@ -104,33 +106,3 @@ L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,
 -_**"Intimités impressionnistes"**_,  
 _Sylvie Patry_ - Conservateur en chef, musée d'Orsay,  
 Auditorium du musée des Beaux-Arts.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
