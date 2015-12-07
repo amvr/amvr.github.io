@@ -104,5 +104,5 @@ Musée des Beaux-Arts.
 _Les Conférences du samedi_   
 L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,  
 -_**"Intimités impressionnistes"**_,  
-_Sylvie Patry_ - Conservateur en chef, musée d'Orsay,  
+_Diédérick Backhuys_ - Conservateur au musée des Beaux-Arts en charge des dessins  
 Auditorium du musée des Beaux-Arts.
