@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## Calendrier des activités : Décembre 2015
 
 **Jeudi 3 décembre, 14h30 et 16h00**
@@ -49,6 +50,6 @@ _Sortie à la journée_ - Paris, Grand Palais - "_Picasso Mania_", et Galerie de
 - **10h**: Assemblée Générale, auditorium du musée des Beaux-Arts.
 - **14h30** :_Les Conférences du samedi_ - L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme - "_Sphère domestique, sphère artistique: présences d'Elisabeth Vigée Le Brun (1783-1804)_ ", par Stéphane Guegan, Conservateur au musée d'Orsay. Auditorium du musée des Beaux-Arts. 
 
-**Samedi 18 décembre, 17h** :
+**Vendredi 18 décembre, 17h** :
 
 _Vendredis des Arts_- Histoire de la Photographie - "_Explorer les paramètres de la vision_" , par Cédric de Veigy, chargé de cours en histoire de la Photographie à l'Ecole du Louvre, Auditorium du Musée des Beaux-Arts.
