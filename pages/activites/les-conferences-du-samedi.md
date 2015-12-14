@@ -1,6 +1,8 @@
 ---
 title: Les Conférences du Samedi
+published: true
 ---
+
 
 ##L’artiste, sa famille, ses amis, de la Renaissance à l’Impressionnisme
 
@@ -21,7 +23,7 @@ Benjamin Couilleaux, Conservateur du Patrimoine, musée Cognacq-Jay.
 Sphère domestique, sphère artistique : présences d'Elisabeth Vigée Le Brun (1783-1804).  
 Stéphane Guégan, Conservateur, musée d’Orsay.
 
-###Samedi 16 janvier 2016
+###Samedi 9 janvier 2016
 
 Scènes de la vie impressionniste.  
 Sylvain Amic, Conservateur, directeur des musées de la ville de Rouen.
