@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## Calendrier des activités :Janvier 2016
 
 **Lundi 4 janvier, 17h**  
@@ -118,5 +119,5 @@ Musée des Beaux-Arts.
 _Les Conférences du samedi_   
 L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,  
 -_**"Intimités impressionnistes"**_,  
-_Diédérick Backhuys_ - Conservateur au musée des Beaux-Arts en charge des dessins  
+_Diederik Backhuys_ - Conservateur au musée des Beaux-Arts en charge des dessins  
 Auditorium du musée des Beaux-Arts.
