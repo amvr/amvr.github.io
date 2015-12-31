@@ -21,7 +21,12 @@ _Une Heure au Musée_
  **_"La peinture baroque en Europe"_**  
   Musée des Beaux-Arts.
   
-  
+ **Samedi 9 janvier, 14h30** :  
+_Les Conférences du samedi_   
+L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme -  
+**_"Scènes de la vie impressionniste"_**,    
+_Sylvain Amic_, Conservateur,directeur des musées de la ville de Rouen.  
+Auditorium du musée des Beaux-Arts. 
 
 **Semaine du 11 au 16 janvier :**  
 _Sortie PARIS_,  
@@ -59,12 +64,11 @@ _Initiation à l'Histoire de l'Art_
 _**"La mise en scène en peinture"**_,    
 Musée des Beaux-Arts.
 
-**Samedi 9 janvier, 14h30** :  
-_Les Conférences du samedi_   
-L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme -  
-**_"Scènes de la vie impressionniste"_**,    
-_Sylvain Amic_, Conservateur,directeur des musées de la ville de Rouen.  
-Auditorium du musée des Beaux-Arts.
+**Vendredi 15 janvier 17h**  
+_Cycle surl'histoire de la photographie_  
+_**Explorer les paramêtres de la vision**_  
+_Cédrick de Verny_ 6ème et dernière conférence du cycle  
+Auditorium du musée des Beaux-Arts
 
 **Lundi 18 janvier, 17h**  
 _Cycle sur les grands musiciens_  
