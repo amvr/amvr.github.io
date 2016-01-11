@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ##Histoire de la photographie
 
 Ces conférences permettront d’envisager la pratique photographique comme un nouveau chapitre de l’histoire de la perception humaine au sein de laquelle l’apparition de l’image technique représente une véritable rupture.
@@ -57,13 +58,13 @@ Introduction historique et économique
 
 La peinture vénitienne du XVIIe siècle, entre héritage Renaissance et tentation baroque
 
-###Vendredi 25 mars 2016
-
-Au temps de Tiepolo et Guardi : la peinture vénitienne du XVIIe siècle et son succès européen
-
 ###Vendredi 18 mars 2016
 
 Musique baroque à Venise : son et architecture
+
+###Vendredi 25 mars 2016
+
+Au temps de Tiepolo et Guardi : la peinture vénitienne du XVIIe siècle et son succès européen
 
 ###Vendredi 1er avril 2016
 
