@@ -1,6 +1,8 @@
 ---
 title: Les Vendredis des Arts
+published: true
 ---
+
 
 ##Histoire de la photographie
 
@@ -47,15 +49,15 @@ Ce cycle de 6 conférences d’une durée de 1h30 aura lieu à l’auditorium du
 
 Deux horaires : 16h ou 18h.
 
-###Vendredi 5 février 2016
+###Vendredi 22 Janvier 2016
 
 Introduction historique et économique  
 
-###Vendredi 26 février 2016
+###Vendredi 29 janvier 2016
 
 La peinture vénitienne du XVIIe siècle, entre héritage Renaissance et tentation baroque
 
-###Vendredi 11 mars 2016
+###Vendredi 25 mars 2016
 
 Au temps de Tiepolo et Guardi : la peinture vénitienne du XVIIe siècle et son succès européen
 
@@ -67,6 +69,6 @@ Musique baroque à Venise : son et architecture
 
 Sanctuaires et demeures : l’architecture  vénitienne des XVIIe et XVIIIe siècles
 
-###Vendredi 22 avril  2016
+###Vendredi 8 avril  2016
 
-Caprice et Classicisme : sculptures et arts décoratifs dans la Venise des XVIIe et XVIIIe siècles 
+Caprice et Classicisme : sculptures et arts décoratifs dans la Venise des XVIIe et XVIIIe siècles
