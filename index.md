@@ -6,6 +6,7 @@ published: true
 
 
 
+
 <p><a href="/pages/activites-du-mois.html" class="bouton">Consulter les activités du mois</a></p>
 
  _La tentation est grande de se laisser envahir par toutes sortes d’illusions, le temps n’est il pas venu de chercher des valeurs plus sûres, de rencontrer des artistes d’hier et d’aujourd’hui au travers de leurs œuvres ?_
@@ -22,8 +23,9 @@ _**Changement de date**_: la conférence du samedi 16 janvier 14h30
 
  **LES VENDREDIS DES ARTS** 
  
- Cycle : Venise Baroque
- Le calendrier a changé. Les dates des 6 Conférences sont :  
+ Cycle : **_Venise Baroque_** 
+ 
+ **Le calendrier a changé**: Les dates des 6 Conférences sont :  
  
 Vendredi 22 janvier à 16h et 18h  
 
