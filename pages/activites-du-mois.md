@@ -3,6 +3,7 @@ title: Activités du mois
 published: true
 ---
 
+
 ## activités du mois : février 2016
 
 
@@ -14,7 +15,8 @@ C.Monteverdi, G.P.Cima, H.von Biber, A.Corelli
 Auditorium du musée des Beaux-Art
 
 **Mardi 2 Février, 17h**:  
-_Les Mardis des Amis_, Les grandes figures du mouvement symboliste: Les NABIS-  
+_Les Mardis des Amis_,  
+Les grandes figures du mouvement symboliste: Les NABIS-  
 **_"Maurice Denis "Le Nabi aux belles icônes" symbolisme et avant garde à Paris à la fin du XIXème siècle"._**  
 _Syvie Patry_, Conservateur en chef au Musée d'Orsay, Commissaire d'expositions,  
 Auditorium du musée des Beaux-Arts.
@@ -60,10 +62,3 @@ Auditorium du musée des Beaux-Arts.
 _Cycle sur les grands musiciens_  
 **_Mozart et Schubert : deux génies incompris dans la Vienne des Habsbourg_**  
 Auditorium du musée des Beaux-Arts.
-
-
-
-
-
-
-
