@@ -5,12 +5,13 @@ published: true
 
 
 
+
 ## activités du mois : février 2016
 
 
-**Lundi 1er février, 12h15 ** :  
+**Lundi 1er février, 12h15**:  
 _Midi Musée Musique_:  
-**_"Avec la participation du Forum musical de Normandie Duo clavecin et violon"_**  
+_"Avec la participation du Forum musical de Normandie Duo clavecin et violon"_**  
 Pierre Brossolette,clavecin; Kodji Yoda,violon baroque  
 C.Monteverdi, G.P.Cima, H.von Biber, A.Corelli  
 Auditorium du musée des Beaux-Art
@@ -23,7 +24,7 @@ _Syvie Patry_, Conservateur en chef au Musée d'Orsay, Commissaire d'expositions
 Auditorium du musée des Beaux-Arts.
 
 
-**Mercredi 3 février, 14h ** :  
+**Mercredi 3 février, 14h** :  
 _Initiation à l'Histoire de l'Art_   
  Approche chronologique     
 _**"Le baroque"**_,    
