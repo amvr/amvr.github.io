@@ -12,7 +12,7 @@ published: true
 
 **Lundi 1er février, 12h15**:  
 _Midi Musée Musique_:  
-_"Avec la participation du Forum musical de Normandie Duo clavecin et violon"_**  
+_"Avec la participation du Forum musical de Normandie Duo clavecin et violon"_  
 Pierre Brossolette,clavecin; Kodji Yoda,violon baroque  
 C.Monteverdi, G.P.Cima, H.von Biber, A.Corelli  
 Auditorium du musée des Beaux-Art
@@ -61,7 +61,7 @@ L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,
 _Philippe Piquet_ - Critique d'art, commissaire d'exposition indépendant.
 Auditorium du musée des Beaux-Arts.
 
-**Lundi 29 février, 17h** : 
+**Lundi 29 février, 17h** :
 _Cycle sur les grands musiciens_  
 **_Mozart et Schubert : deux génies incompris dans la Vienne des Habsbourg_**  
 Auditorium du musée des Beaux-Arts.
