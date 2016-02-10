@@ -22,7 +22,7 @@
       </nav>
     </div>
   </header>
-  {% if page.url == '/index.html' %}
+  {% if page.url == '/index.html' || page.url == '/' %}
     <section class="hilight">
       <p>
         <img src="/fichiers/oeuvres/2014-sacquespee.jpg" alt="Sacquespee">
@@ -62,7 +62,6 @@
         {{ menu | markdownify }}
       </nav>
       <p>© Amis des Musées de Rouen.</p>
-        {{ page.url }}
     </div>
   </footer>
   <script src="/google-analytics.js" async></script>
