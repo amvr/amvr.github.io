@@ -4,7 +4,8 @@ published: true
 ---
 
 
-## Activités du mois de mars  
+
+## Activités du mois de mars 2016 
 
 **Mercredi 2 mars, 14h ** :  
 _Initiation à l'Histoire de l'Art_   
@@ -90,7 +91,3 @@ _Midi Musée Musique_:
 _Les vendredis des arts_ : La venise baroque  
 _**Au temps de Tiepolo et Guardi : lapeinture vénitienne du XVUUe siècle et son succès européen**_  
 Auditorium du musée des Beaux-Arts.
-
-
-
-
