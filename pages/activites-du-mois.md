@@ -5,7 +5,9 @@ published: true
 
 
 
-## Activités du mois de mars 2016 
+
+## Activités du mois de mars 2016  
+
 
 **Mercredi 2 mars, 14h ** :  
 _Initiation à l'Histoire de l'Art_   
