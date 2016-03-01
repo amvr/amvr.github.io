@@ -4,64 +4,93 @@ published: true
 ---
 
 
+## Activités du mois de mars  
 
-
-
-## activités du mois : février 2016
-
-
-**Lundi 1er février, 12h15**:  
-_Midi Musée Musique_:  
-_"Avec la participation du Forum musical de Normandie Duo clavecin et violon"_  
-Pierre Brossolette,clavecin; Kodji Yoda,violon baroque  
-C.Monteverdi, G.P.Cima, H.von Biber, A.Corelli  
-Auditorium du musée des Beaux-Art
-
-**Mardi 2 Février, 17h** :  
-_Les Mardis des Amis_,  
-Les grandes figures du mouvement symboliste: Les NABIS-  
-**_"Maurice Denis "Le Nabi aux belles icônes" symbolisme et avant garde à Paris à la fin du XIXème siècle"._**  
-_Syvie Patry_, Conservateur en chef au Musée d'Orsay, Commissaire d'expositions,  
-Auditorium du musée des Beaux-Arts.
-
-
-**Mercredi 3 février, 14h** :  
+**Mercredi 2 mars, 14h ** :  
 _Initiation à l'Histoire de l'Art_   
  Approche chronologique     
-_**"Le baroque"**_,    
+_**"Le romantisme"**_,    
 Musée des Beaux-Arts.
 
 
-**Lundi 22 février, 16h ou 18h** :  
-_Les causeries du Lundi_  
-La peinture anglaise des XVIIIème et XIXème siècle  
-**_Le néoclassicisme en Angleterre: Hamilton, West, Barry, Flaxman..."_**  
-Musée des Beaux-Arts
+**Lundi 7 mars, 12h15 ** :  
+_Midi Musée Musique_:  
+**_"Récital de piano"_**  
+Shen-Li, pianiste  
+F.Chopin 
+Auditorium du musée des Beaux-Art  
 
-**Mercredi 24 février, 14h** :  
+
+**Lundi 7 mars, 16h ou 18h**  
+_Les causeries du lundi_ : La peinture anglaise des XVIIIe et XIXe siècles  
+**Le romantisme noir: Füssli, Blake....**  
+Auditorium du musée des Beaux-Art
+
+
+**Mardi 8 mars, 17h**:  
+_Les Mardis des Amis_, Les grandes figures du mouvement symboliste: Les NABIS  
+**_"Edouard Vuillard, metteur en scène du quotidien"._**  
+_Gilles Genty_, Historien d'art, spécialiste des Nabis,commissaire d'expositions  
+Auditorium du musée des Beaux-Arts.  
+
+**Samedi 12 mars, 14h30** :  
+_Les Conférences du samedi_ : L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,  
+-_**"Les frères Le Nain et la culture des images au XVIIe siècle" : lectures du Repas des paysans (1642)"**_,  
+_Joël Cornette_ - Professeur à l'université Paris 8.  
+Auditorium du musée des Beaux-Arts.
+
+**Mardi 15 mars, 17h**:  
+_Les Mardis des Amis_, Les grandes figures du mouvement symboliste: Les NABIS-  
+**_"Poétique de l'intime chez Bonnard"._**  
+_Frédéric Bigo_, ancien directeur du Musée Maurice Denis, historien d'art, commissaire d'expositions.  
+Auditorium du musée des Beaux-Arts.
+
+
+**Mercredi 16 mars, 14h**  
 _Initiation à l'Histoire de l'Art_   
  Approche chronologique  
-**_"Le classicisme"_**  
+**_"L'art moderne"_**  
 Musée des Beaux-Arts.
 
-**Jeudi 25 Février, 14h30 et 16h**:  
+**Jeudi 17 mars, 14h30 et 16h**  
 _Une Heure au Musée_  
-**_"Le symbolisme"_**  
- Musée des Beaux-Arts.
+**_"Le décor animalier"_**  
+ Musée des Beaux-Arts.  
+ 
+ **Vendredi 18 mars , 16h ou 18h**  
+_Les vendredis des arts_ : La venise baroque  
+_**Musique baroque à Venise : son et architecture**_  
+Auditorium du musée des Beaux-Arts.
 
-**Samedi 27 février,14h30 et 16h** :  
+**Samedi 19 mars,14h30 et 16h**  
 _Une Heure au Musée_  
-**_"Le symbolisme"_**  
- Musée des Beaux-Arts.
-
-**Samedi 27 février, 14h30** :  
-_Les Conférences du samedi_   
+**_"Le décor animalier"_**  
+ Musée des Beaux-Arts.   
+ 
+ **Samedi 19 mars, 14h30 ** 
+ Les Conférences du samedi_   
 L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,  
--_**"Claude Monet et la figure humaine"**_,  
-_Philippe Piquet_ - Critique d'art, commissaire d'exposition indépendant.
+-_**"La question de l'intimité en sculpture**_,  
+_Anne Charlotte Cathelineau_ _- Conservatrice , musée de la ville de Rouen  
+ Auditorium du musée des Beaux-Arts. 
+
+**Lundi 21 mars, 16h ou 18h**  
+_Les causeries du Lundi_  
+La peinture anglaise des XVIIIème et XIXème siècle  
+**_Paysagistes anglais du XIXe siècle  : Girtin, Bonington, Turner, Constable ..."_**  
+Musée des Beaux-Arts
+
+
+**Lundi 21 mars, 12h15 ** : (en remplacement de la date du 4 avril)   
+_Midi Musée Musique_:  
+**_"Rendez-vous avec les classes de musique de chambre du conservatoire à rayonnement régional"_**  
+ Salle du Jubé
+
+**Vendredi 25 mars , 15h30 ou 18h**  
+_Les vendredis des arts_ : La venise baroque  
+_**Au temps de Tiepolo et Guardi : lapeinture vénitienne du XVUUe siècle et son succès européen**_  
 Auditorium du musée des Beaux-Arts.
 
-**Lundi 29 février, 17h** :
-_Cycle sur les grands musiciens_  
-**_Mozart et Schubert : deux génies incompris dans la Vienne des Habsbourg_**  
-Auditorium du musée des Beaux-Arts.
+
+
+
