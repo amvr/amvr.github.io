@@ -6,21 +6,22 @@ published: true
 
 
 
+
 ## Activités du mois de mars 2016  
 
 
-**Mercredi 2 mars, 14h ** :  
+**Mercredi 2 mars, 14h** :  
 _Initiation à l'Histoire de l'Art_   
  Approche chronologique     
 _**"Le romantisme"**_,    
 Musée des Beaux-Arts.
 
 
-**Lundi 7 mars, 12h15 ** :  
+**Lundi 7 mars, 12h15** :  
 _Midi Musée Musique_:  
-**_"Récital de piano"_**  
-Shen-Li, pianiste  
-F.Chopin 
+**_"Récital de piano"_**   
+Shen-Li, pianiste    
+F.Chopin   
 Auditorium du musée des Beaux-Art  
 
 
@@ -84,7 +85,7 @@ La peinture anglaise des XVIIIème et XIXème siècle
 Musée des Beaux-Arts
 
 
-**Lundi 21 mars, 12h15 ** : (en remplacement de la date du 4 avril)   
+**Lundi 21 mars, 12h15** : (en remplacement de la date du 4 avril)   
 _Midi Musée Musique_:  
 **_"Rendez-vous avec les classes de musique de chambre du conservatoire à rayonnement régional"_**  
  Salle du Jubé
