@@ -71,7 +71,7 @@ _Une Heure au Musée_
 **_"Le décor animalier"_**  
  Musée des Beaux-Arts.   
  
- **Samedi 19 mars, 14h30 ** 
+ **Samedi 19 mars, 14h30**  
  Les Conférences du samedi_   
 L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,  
 -_**"La question de l'intimité en sculpture**_,  
