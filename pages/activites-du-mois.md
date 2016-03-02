@@ -7,7 +7,8 @@ published: true
 
 
 
-## Activités du mois de mars 2016  
+## Activités du mois de mars 2016 
+
 
 
 **Mercredi 2 mars, 14h** :  
@@ -32,7 +33,7 @@ Auditorium du musée des Beaux-Art
 
 
 **Mardi 8 mars, 17h**:  
-_Les Mardis des Amis_, Les grandes figures du mouvement symboliste: Les NABIS  
+_Les Mardis des Amis_: Les grandes figures du mouvement symboliste: Les NABIS  
 **_"Edouard Vuillard, metteur en scène du quotidien"._**  
 _Gilles Genty_, Historien d'art, spécialiste des Nabis,commissaire d'expositions  
 Auditorium du musée des Beaux-Arts.  
