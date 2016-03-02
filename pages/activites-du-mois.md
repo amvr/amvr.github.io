@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## Activités du mois de mars 2016 
 
 
@@ -45,7 +46,7 @@ _Joël Cornette_ - Professeur à l'université Paris 8.
 Auditorium du musée des Beaux-Arts.
 
 **Mardi 15 mars, 17h**:  
-_Les Mardis des Amis_: Les grandes figures du mouvement symboliste: Les NABIS-  
+_Les Mardis des Amis_: Les grandes figures du mouvement symboliste: Les NABIS  
 **_"Poétique de l'intime chez Bonnard"._**  
 _Frédéric Bigo_, ancien directeur du Musée Maurice Denis, historien d'art, commissaire d'expositions.  
 Auditorium du musée des Beaux-Arts.
