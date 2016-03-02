@@ -8,6 +8,7 @@ published: true
 
 
 
+
 ## Activités du mois de mars 2016 
 
 
@@ -74,10 +75,10 @@ _Une Heure au Musée_
  Musée des Beaux-Arts.   
  
  **Samedi 19 mars, 14h30**  
- Les Conférences du samedi_   
+ _Les Conférences du samedi_   
 L'artiste, sa famille, ses amis, de la Renaissance à l'Impressionnisme,  
--_**"La question de l'intimité en sculpture**_,  
-_Anne Charlotte Cathelineau_ _- Conservatrice , musée de la ville de Rouen  
+_**"La question de l'intimité en sculpture**_,  
+_Anne Charlotte Cathelineau _- Conservatrice , musée de la ville de Rouen  
  Auditorium du musée des Beaux-Arts. 
 
 **Lundi 21 mars, 16h ou 18h**  
