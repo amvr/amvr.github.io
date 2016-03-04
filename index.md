@@ -5,15 +5,19 @@ published: true
 
 
 
+
 <p><a href="/pages/activites-du-mois.html" class="bouton">Consulter les activités du mois</a></p>
 
 _La tentation est grande de se laisser envahir par toutes sortes d’illusions, le temps n’est il pas venu de chercher des valeurs plus sûres, de rencontrer des artistes d’hier et d’aujourd’hui au travers de leurs œuvres ?_
 
 
 ##Flash info  
+ 
+ 
+**Midi Musée Musique**
+_**Annulation du récital de piano du 7 mars**_  
+**Le 21 Mars** Programme prévu du 4 avril dans la salle Jubé
 
-_**Annulation de Midi Musée Musique du 7 mars**_  
-**Report au 21 Mars**  
 
 +++++++++
 
