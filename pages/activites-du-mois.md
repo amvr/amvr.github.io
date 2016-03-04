@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## Activités du mois de mars 2016 
 
 
@@ -19,13 +20,7 @@ _Initiation à l'Histoire de l'Art_
 _**"Le romantisme"**_,    
 Musée des Beaux-Arts.
 
-
-**Lundi 7 mars, 12h15** :  
-_Midi Musée Musique_:  
-**_"Récital de piano"_**   
-Shen-Li, pianiste    
-F.Chopin   
-Auditorium du musée des Beaux-Art  
+ 
 
 
 **Lundi 7 mars, 16h ou 18h**  
