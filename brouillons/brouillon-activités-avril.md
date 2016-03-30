@@ -17,7 +17,7 @@ RDV 13h45 Au 17 Bd Jourdan
 
 **Lundi 4 avril, 16h ou 18h**  
 _Les causeries du lundi_ : La peinture anglaise des XVIIIe et XIXe siècles  
-_**L'art à l'époque victorienne Pré-Raphaélistes et Aesthelic Movement: Hunt, Millais, Rossetti, Alma-Tadema, Whistler, Leighton, Waterhouse**_  
+_**L'art à l'époque victorienne Pré-Raphaélistes et Aesthetic Movement: Hunt, Millais, Rossetti, Alma-Tadema, Whistler, Leighton, Moore, Waterhouse**_  
 Auditorium du musée des Beaux-Art
 
 **Vendredi 8 avril , 15h30 ou 18h**  
