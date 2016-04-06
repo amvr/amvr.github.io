@@ -4,13 +4,14 @@ published: true
 ---
 
 
+
 ## Activités du mois d'avril 2016  
  
  
  
  
  **Vendredi 1 avril , 16h ou 18h**  
-_Les vendredis des arts_ : La venise baroque  
+_Les vendredis des arts_ : La Venise baroque  
 _**Sanctuaires et demeures : l'architecture vénitienne des XVIIe et XVIIIe siècles **_  
 Auditorium du musée des Beaux-Arts.
  
@@ -27,8 +28,8 @@ _**L'art à l'époque victorienne Pré-Raphaélistes et Aesthetic Movement: Hunt
 Auditorium du musée des Beaux-Art
  
 **Vendredi 8 avril , 15h30 ou 18h**  
-_Les vendredis des arts_ : La venise baroque  
-_**Caprice et Classicisme : sculptures et arts décoratifs dans la Venise du XVIIe et XVIIIe siècle**_  
+_Les vendredis des arts_ : La Venise baroque  
+_**Caprice et Classicisme : sculptures et arts décoratifs dans la Venise du XVIIe et XVIIIe siècle**_  6éme et dernière conférence.
 Auditorium du musée des Beaux-Arts.
  
 **Mercredi 20 avril **  
@@ -39,20 +40,13 @@ Musée d'Orsay.
  
 **Jeudi 28 avril, 14h30 et 16h**  
 _Une Heure au Musée_  
-**_"Scène de la vie impressionniste"_**  
+**_"Scènes de la vie impressionniste"_**  
 Exposition printemps-été 2016
  Musée des Beaux-Arts.  
  
  
 **Samedi 30 avril,14h30 et 16h**  
 _Une Heure au Musée_  
-**_"Scène de la vie impressionniste"_**  
+**_"Scènes de la vie impressionniste"_**  
 Exposition printemps-été 2016
- Musée des Beaux-Arts.   
- 
-
-
-
-
-
-
+ Musée des Beaux-Arts.
