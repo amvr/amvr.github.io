@@ -1,5 +1,5 @@
 ---
-title: Administrateurs au CA du 14 janvier 2016
+title: "Administrateurs "
 published: true
 ---
 
