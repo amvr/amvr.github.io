@@ -1,5 +1,6 @@
 ---
 title: Historique
+published: true
 ---
 
 Quel promeneur, traversant le Square Verdrel, n’a pas remarqué ces mots au fronton du bel édifice du XIXème siècle qu’est le Musée des Beaux-Arts ?  
@@ -16,5 +17,4 @@ L’association des Amis des Beaux-Arts et de la Céramique se propose d’appor
 
 Pour vous inviter à écouter ce discours subtil et silencieux, émouvant et enrichissant, montons le grand escalier somptueux à la recherche de la complicité d’un instant, celle qui s’établit entre l’œuvre et nous-mêmes et que cette ambition soit celle qui unit tous les membres de l’Association.
 
-**Gérald Drieu  
-Président, 1982**
+
