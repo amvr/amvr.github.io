@@ -3,7 +3,7 @@ title: Historique
 published: true
 ---
 
-Quel promeneur, traversant le Square Verdrel, n’a pas remarqué ces mots au fronton du bel édifice du XIXème siècle qu’est le Musée des Beaux-Arts ?  
+Quel promeneur, traversant le Square Verdrel, n’a pas remarqué ce bel édifice du XIXème siècle qu’est le Musée des Beaux-Arts ?  
 
 Quel Rouennais, quel habitant de la région ne s’est pas un instant imaginé propriétaire privilégié du patrimoine artistique d’un des plus beaux musée de province ?  
 
@@ -16,5 +16,3 @@ L’association des Amis des Beaux-Arts et de la Céramique se propose d’appor
 À une époque où la tentation est grande de se laisser envahir par toutes sortes d’illusions, le temps n’est il pas venu de chercher des valeurs plus sûres, de rencontrer des artistes d’hier et d’aujourd’hui au travers de leurs œuvres ?
 
 Pour vous inviter à écouter ce discours subtil et silencieux, émouvant et enrichissant, montons le grand escalier somptueux à la recherche de la complicité d’un instant, celle qui s’établit entre l’œuvre et nous-mêmes et que cette ambition soit celle qui unit tous les membres de l’Association.
-
-
