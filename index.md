@@ -15,21 +15,34 @@ _La tentation est grande de se laisser envahir par toutes sortes d’illusions, 
 
 
 
+## FLASH INFO
 
-+++++++++
+### _Exposition "Scènes de la vie impressionniste au MBA"_ ###
+
+Plusieurs visites de cette belle exposition sont déjà programmées dans le cadre de "Une heure au musée" :   
+**le jeudi 28 avril à 14h30 et 16h et le samedi 30 avril à 14h30 et 16h. **Des places sont encore disponibles sans réservation préalable.  
+Par ailleurs, nous vous proposerons **d'autres visites en juin** : les courriers vous seront adressés à la mi-mai.  
+
+_**Visite avec rendez-vous sur place à Paris**_
+
+Nous vous avions annoncé une visite de l'hôtel de Lauzun en mai : pour diverses raisons cette visite est annulée. 
+  
+**## NOUS SOMMES EN PLEINE PREPARATION DES PROGRAMMES DE LA SAISON 2016/2017 : PATIENCE...PATIENCE...**
 
 
 
-**LES VENDREDIS DES ARTS**
 
-Cycle : **_Venise Baroque_**
 
-**Le calendrier a changé** : Les dates des 6 Conférences sont :  
 
-Vendredi 18 mars
 
-Vendredi 25 mars
 
-Vendredi 01 avril
 
-vendredi 08 avril
+
+
+
+
+
+
+
+
+
