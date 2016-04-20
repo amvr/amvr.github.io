@@ -8,3 +8,5 @@ published: true
  - Secrétaire Général : André Pouliquen
  - Trésorier : Patrick Vernier
  - Membres : Yvette Autain, Marie-Agnes Bennett, Alain Charpentier, Marc Laurent, Philippe Lebarc, Nicole Lepouzé, Marie-Claude Linskens, Jean Morin, Catherine Poirot-Bourdain, Sophie Pouliquen, Charlotte Rousseau,  Françoise Sauger.
+
+_Liste établie au CA du 14 janvier 2016_
