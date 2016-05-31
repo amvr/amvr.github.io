@@ -3,11 +3,13 @@ title: Activités du mois
 published: true
 ---
 
+## Calendrier du mois :juin
+
+**Lundi 6 juin** :
+_Sortie à la journée_ : Sortie à Valloires : Abbaye et jardins 
+
+**Lundi 6 juin** :10 h  et 11 h -  Visites guidées de l'exposition  "Scènes de la vie impressionniste"
+
+**Jeudi 16 juin** : 13h30 et 16h - Visites guidées de l'exposition  "Scènes de la vie impressionniste"
 
 
-## Calendrier du mois : Mai 
-
-Une seule sortie ce mois-ci ... le mois de juin sera plus riche. 
-
-**Mercredi 18 mai** :
-_Sortie à la journée_ : Journée à Chartres , la cathédrale et ses travaux de retauration, le matin -  et deux églises modernes  des alentours : les vitraux de Max Ingrand et Gabriel Loire, l'après-midi.
