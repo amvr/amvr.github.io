@@ -30,4 +30,4 @@ En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collecti
 
 ##Comment adhérer ?
 
- - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/bureau/inscriptions AMVR 2016-2017)
+ - [Télécharger et imprimer le bulletin d'adhésion](bureau/Inscriptions AMVR 2016-2017.doc)
