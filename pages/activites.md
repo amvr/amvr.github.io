@@ -1,12 +1,12 @@
 ---
-title: "Activités de la saison 2015-2016"
+title: Activités de la saison 2016-2017
 published: true
 ---
 
 
 ##Programme
 
-Télécharger le dépliant complet (2 fichiers PDF) : [partie 1](/fichiers/programme-2015-2016-1.pdf) et [partie 2](/fichiers/programme-2015-2016-2.pdf).  
+Télécharger le dépliant complet (2 fichiers PDF) : [partie 1](/fichiers/AMVR BROCHURE.pdf) et [partie 2](/fichiers/programme-2015-2016-2.pdf).  
 
 ![Programme, partie 1](/fichiers/programme-2015-2016-1.jpg)
 ![Programme, partie 2](/fichiers/programme-2015-2016-2.jpg)
