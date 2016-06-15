@@ -1,5 +1,6 @@
 ---
 title: Adhérer à l'association
+published: true
 ---
 
 Vous aimez votre ville, vous aimez ses musées :
@@ -29,4 +30,4 @@ En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collecti
 
 ##Comment adhérer ?
 
- - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/adhesion.pdf)
+ - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/bureau/inscriptions AMVR 2016-2017)
