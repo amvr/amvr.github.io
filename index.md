@@ -13,7 +13,7 @@ published: true
 
 ## FLASH INFO  
 
-**La visite prévue à Yvetôt est _annulée_**
 
 
-NOUS SOMMES EN PLEINE PREPARATION DES PROGRAMMES DE LA SAISON 2016/2017 : **PATIENCE...PATIENCE..**.**
+
+ PROGRAMMES DE LA SAISON 2016/2017 : **Ils sont là dans la rubrique :ACTIVITES**.
