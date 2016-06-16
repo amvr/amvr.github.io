@@ -6,10 +6,7 @@ published: true
 
 ## Programme
 
-Télécharger le dépliant complet (2 fichiers PDF) : [partie 1](/fichiers/AMVR BROCHURE.pdf) et [partie 2](/fichiers/programme-2015-2016-2.pdf).  
-
-![Programme, partie 1](/fichiers/programme-2015-2016-1.jpg)
-![Programme, partie 2](/fichiers/programme-2015-2016-2.jpg)
+[Télécharger le dépliant complet pour la saison 2016-2017](/fichiers/brochure-2016-2017.pdf)
 
 ## Détail des activités
 
