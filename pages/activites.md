@@ -4,14 +4,14 @@ published: true
 ---
 
 
-##Programme
+## Programme
 
 Télécharger le dépliant complet (2 fichiers PDF) : [partie 1](/fichiers/AMVR BROCHURE.pdf) et [partie 2](/fichiers/programme-2015-2016-2.pdf).  
 
 ![Programme, partie 1](/fichiers/programme-2015-2016-1.jpg)
 ![Programme, partie 2](/fichiers/programme-2015-2016-2.jpg)
 
-##Détail des activités
+## Détail des activités
 
 - [Initiation Histoire de l'Art](/pages/activites/initiation-histoire-de-l-art.html)
 - [Une Heure au Musée](/pages/activites/une-heure-au-musee.html)
