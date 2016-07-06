@@ -3,6 +3,9 @@
 **Jeudi 6 octobre** :  
 14h30 et 16h _Une heure au Musée_  La Sculpture , Musée des Beaux-arts.
 
+**Vendredi 7 octobre :** 
+17h _Histoire de la photographie_   1er conférence par Cédric de Veigy, chargé de cours en histoire de la photographe à  l'Ecole du Louvrre.  Auditorium du musée des Beaux-arts.
+
 **Samedi 8 octobre** :  
 14h30 et 16h _Une heure au Musée_  La Sculpture , Musée des Beaux-arts.
 
@@ -10,8 +13,11 @@
 14h30 et 16h  _Initiation Histore de l'Art_  - Cycle I chronologique : "La Renaissance" , Musée des Beaux-arts.
 
 **Mercredi 12 octobre** :  
-14h30 et 16h  _Initiation Histore de l'Art_  - Cycle II thématique : "L espace e la perspective dans la peinture" , Musée des Beaux-arts.
+14h30 et 16h  _Initiation Histore de l'Art_  - Cycle II thématique : "L espace e la perspective dans la peinture" , Musée des Beaux-arts.  
 
-**Lundi 6 juin** :10 h  et 11 h -  Visites guidées de l'exposition  "Scènes de la vie impressionniste"
+**Vendredi 14 octobre**  :  
+17h _Histoire de la photographie_   2ème  conférence par Cédric de Veigy, chargé de cours en histoire de la photographe à  l'Ecole du Louvrre.  Auditorium du musée des Beaux-arts.  
 
-**Jeudi 16 juin** : 13h30 et 16h - Visites guidées de l'exposition  "Scènes de la vie impressionniste"
+**Samedi 15 octobre** :  
+14h30  _Cycle Picasso_  - "Le premier Picasso" , par Emilia Philippot, conservatrice , Musée national Picasso-Paris, auditorium du musée des Beaux-arts
+
