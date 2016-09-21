@@ -26,4 +26,12 @@ _**Un nouvel horaire à 18h**_ vous est proposé
  
  
  
- A noter : **VOYAGE au PORTUGAL**, dans le cadre du cycle "Masséot Abaquesne" et en référence à l'exposition au musée de la céramique du 20 octobre 2016 au 3 avril 2017. Voyage programmé entre les deux tours de l'élection présidentielle en avril 2017. Le programme et les dates vous seront communiqués dès que le voyage sera finalisé.
+ A noter : **VOYAGE au PORTUGAL**,
+ 
+**L'ART DES AZULEJOS**
+ 
+ du lundi 24 avril au samedi 29 avril 2017
+ 
+_6 jours / 5 nuits_
+
+Vous trouverez le programme du voyage dans les documents déjà envoyés par courrier ou par mail, sinon adressez vous au bureau de l'AMVR le lundi ou mercredi aux heures d'ouvertures.
