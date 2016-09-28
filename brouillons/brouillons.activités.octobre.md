@@ -1,4 +1,4 @@
-## Calendrier du mois : OCTOBRE 
+## Calendrier du mois : OCTOBRE 2016
 
 **Jeudi 6 octobre** :  
 14h30 et 16h : _Une heure au Musée_ - La Sculpture , Musée des Beaux-arts.
