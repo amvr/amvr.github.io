@@ -1,30 +1,68 @@
 ## Calendrier du mois :novembre 2016
 
-Jeudi 6 octobre :
-14h30 et 16h : Une heure au Musée - La Sculpture , Musée des Beaux-arts.
 
-Vendredi 7 octobre :
-17h : Histoire de la photographie - 1ere conférence par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre. Auditorium du musée des Beaux-arts.
 
-Samedi 8 octobre :
-14h30 et 16h : Une heure au Musée - La Sculpture , Musée des Beaux-arts.
+**Vendredi 4 novembre :**  
+17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
+Auditorium du Musée des Beaux-Arts.
 
-Du samedi 8 au mardi 11 octobre :
-Voyage à Budapest
+**Dimanche 6 novembre :**  
+Sortie : Opéra Bastille, _"Les contes d'Offmann"_ de Jacques Offenbach
 
-Lundi 10 octobre :
-14h30 et 16h : Initiation Histoire de l'Art - Cycle I chronologique : "La Renaissance" , Musée des Beaux-arts.
 
-Mardi 11 octobre :
-Sortie : Après-midi à Giverny , Joaquin Sorolla.
+**Lundi 14 novembre :**  
+14h30 et 16h : Initiation Histoire de l'Art - Cycle I chronologique : _"Le baroque et le classicisme"_ ,  
+Musée des Beaux-arts.
 
-Mercredi 12 octobre :
-14h30 et 16h : Initiation Histoire de l'Art - Cycle II thématique : "L espace et la perspective dans la peinture" , Musée des Beaux-arts.
+**Mercredi 16 novembre :**  
+14h30 et 16h : Initiation Histoire de l'Art - Cycle II thématique : _"L'architecture en peinture"_ ,  
+Musée des Beaux-Arts.
 
-Vendredi 14 octobre :
-17h : Histoire de la photographie - 2ème conférence par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre. Auditorium du musée des Beaux-arts.
 
-Samedi 15 octobre :
-14h30 : Cycle Picasso - "Le premier Picasso" , par Emilia Philippot, conservatrice , Musée national Picasso-Paris, auditorium du musée des Beaux-artsA New Post
+**Jeudi 17 novembre :**  
+14h30 et 16h : Une heure au Musée - _"Masséot Abaquesne (vers 1500 Cherbourg - vers 1564 Sotteville-les-Rouen) Un faiencier rouennais au service de la cour de France"_.  
+Musée de la Céramique.
+
+
+**Vendredi 18 novembre :**  
+17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
+Auditorium du Musée des Beaux-Arts.
+
+
+**Samedi 19 novembre :**  
+14h30 et 16h : Une heure au Musée - _"Masséot Abaquesne (vers 1500 Cherbourg - vers 1564 Sotteville-les-Rouen) Un faiencier rouennais au service de la cour de France"_.  
+Musée de la Céramique.
+
+**Lundi 21 novembre :**  
+14h30 et 16h : Initiation Histoire de l'Art - Cycle I chronologique : _"Le XVIIIè siècle français"_ ,  
+Musée des Beaux-Arts.
+
+12h15 à 13h15 : Midi Musée Musique - _Avec le soutien de l'association "Phares" Récital de Piano_ d' Alberta Alexandrescu : _Chopin , Scriabine._  
+Auditorium du Musée des Beaux-Arts
+
+
+**Mercredi 23 novembre :**  
+14h30 et 16h : Initiation Histoire de l'Art - Cycle II thématique : _"La composition"_ ,  
+Musée des Beaux-arts.
+
+Sortie (le 23 ou 24 novembre) : Paris - Musée Picasso , _"Picasso et Giacometti"_
+
+**Vendredi 25 novembre :**  
+17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
+Auditorium du Musée des Beaux-Arts.
+
+17h : Cycle sur la faience - _"Masséot Abaquesne"_ par Pauline Duée(conservateur du patrimoine au musée de la céramique de Rouen,  
+Auditorium du Musée des Beaux-Arts 
+
+**Lundi 28 novembre :**  
+17h : Cycle "Jacqueline de Romilly et l'héritage grec" - _Jacqueline de Romilly : une vie pour la Grèce_  
+Auditorium du Musée des Beaux-Arts
+
+**Mercredi 30 novembre :**  
+17h : Cycle sur la faience - _"La faience en Europe au XVIè siècle"_ par Aurélie Gerbier (conservateur du patrimoine au musée d'Ecouen,  
+Auditorium Musée des Beaux-Arts 
+
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
