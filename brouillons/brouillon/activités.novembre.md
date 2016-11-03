@@ -7,7 +7,7 @@
 Auditorium du Musée des Beaux-Arts.
 
 **Dimanche 6 novembre :**  
-Sortie : Opéra Bastille, _"Les contes d'Offmann"_ de Jacques Offenbach
+Sortie : Opéra Bastille, _"Les contes d'Hoffmann"_ de Jacques Offenbach
 
 
 **Lundi 14 novembre :**  
@@ -43,19 +43,22 @@ Auditorium du Musée des Beaux-Arts
 
 **Mercredi 23 novembre :**  
 14h30 et 16h : Initiation Histoire de l'Art - Cycle II thématique : _"La composition"_ ,  
-Musée des Beaux-arts.
+Musée des Beaux-arts.  
 
-Sortie (le 23 ou 24 novembre) : Paris - Musée Picasso , _"Picasso et Giacometti"_
+17h : Cycle sur la faience - _"Masséot Abaquesne"_ par Pauline Duée,conservateur du patrimoine au musée de la céramique de Rouen.  
+Auditorium du Musée des Beaux-Arts 
+
+Sortie le 23 novembre : Paris - Musée Picasso , _"Picasso et Giacometti"_
+
 
 **Vendredi 25 novembre :**  
 17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
 Auditorium du Musée des Beaux-Arts.
 
-17h : Cycle sur la faience - _"Masséot Abaquesne"_ par Pauline Duée(conservateur du patrimoine au musée de la céramique de Rouen,  
-Auditorium du Musée des Beaux-Arts 
+
 
 **Lundi 28 novembre :**  
-17h : Cycle "Jacqueline de Romilly et l'héritage grec" - _Jacqueline de Romilly : une vie pour la Grèce_  
+17h : Cycle "Jacqueline de Romilly et l'héritage grec" - _ 1ere conférence par Marie-Agnès Bennett._  
 Auditorium du Musée des Beaux-Arts
 
 **Mercredi 30 novembre :**  
