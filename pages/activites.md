@@ -6,7 +6,8 @@ published: true
 
 ## Programme
 
-[Télécharger le dépliant complet pour la saison 2016-2017](/fichiers/brochure-2016-2017.pdf)
+[Télécharger le dépliant complet pour la saison 2016-2017](/fichiers/brochure-2016-2017.pdf)  
+
 ## Calendrier du mois :novembre 2016
 
 
@@ -72,8 +73,4 @@ Auditorium du Musée des Beaux-Arts
 
 **Mercredi 30 novembre :**  
 17h : Cycle sur la faience - _"La faience en Europe au XVIè siècle"_ par Aurélie Gerbier (conservateur du patrimoine au musée d'Ecouen,  
-Auditorium Musée des Beaux-Arts 
-
-
-
-
+Auditorium Musée des Beaux-Arts
