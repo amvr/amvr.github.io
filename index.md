@@ -13,6 +13,15 @@ published: true
 
 ## FLASH INFO  
 
+ 
+Le **26  novembre**, nous vous convions à notre _assemblée générale ordinaire annuelle_, qui sera suivie d’une _**assemblée générale extraordinaire**_ où seront proposées des modifications de nos statuts d’une part, et du règlement intérieur d’autre part.  
+Nous vous attendons nombreux à **10 heures précises à l’auditorium du musée des Beaux-Arts**, 26 bis rue Jean Lecanuet.  
+
+
+
+
+
+
  PROGRAMMES DE LA SAISON 2016/2017 : **Ils sont là dans la rubrique :ACTIVITES**.
  
  
