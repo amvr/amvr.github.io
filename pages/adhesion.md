@@ -3,21 +3,24 @@ title: Adhérer à l'association
 published: true
 ---
 
-Vous aimez votre ville, vous aimez ses musées :
+Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
 
  - Musée des Beaux-Arts
  - Musée de la Céramique
  - Musée Le Secq des Tournelles (Art du fer)
-
+ - Musée des Antiquités
+ - Musée d'Histoires Naturelles
+ - Musée de la Corderie Valois (notre dame de Bondeville)
+ - Fabrique des Savoirs (Elbeuf)
+ 
 ## Rejoignez l’association des Amis des Musées de la Ville de Rouen.
 
 En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collections des musées de votre ville.
 
 ## Avantages réservés aux adhérents de l’Association :
 
- - Entrée gratuite dans les trois musées
- - Entrée gratuite dans les expositions temporaires
- - Abonnement à la Gazette de l’Association
+  - Entrée gratuite dans les expositions temporaires
+  - Abonnement à la Gazette de l’Association
 
 ## Tarif préférentiel pour :
 
