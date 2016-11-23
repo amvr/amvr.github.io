@@ -3,7 +3,14 @@ title: Bienvenue
 published: true
 ---
 
-<p><a href="/pages/activites-du-mois.html" class="bouton">Consulter les activités du mois</a></p>
+<p><a href="/pages/activites-du-mois.html" class="bouton">Consulter les activités du mois</a></p>  
+
+**Programmes de la saison 2016/2017**
+
+[Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
+
+
+
 
 ## FLASH INFO  
 
@@ -15,13 +22,4 @@ Nous vous attendons nombreux à **10 heures précises à l’auditorium du musé
 
 [Télécharger la proposition de modification des statuts](/fichiers/161115-proposition-de-modifications-des-statuts.pdf)
 
-### 2) Programmes de la saison 2016/2017
 
-[Consulter les Programmes dans la rubrique Activités](/pages/activites.html)
-
-### 3) À noter : Voyage au Portugal : _L'Art des Azulejos_
-
-Du lundi 24 avril au samedi 29 avril 2017  
-_6 jours / 5 nuits_
-
-Vous trouverez le programme du voyage dans les documents déjà envoyés par courrier ou par mail, sinon adressez vous au bureau de l'AMVR le lundi ou mercredi aux heures d'ouvertures.
