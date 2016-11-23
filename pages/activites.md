@@ -74,3 +74,7 @@ Auditorium du Musée des Beaux-Arts
 **Mercredi 30 novembre :**  
 17h : Cycle sur la faience - _"La faience en Europe au XVIè siècle"_ par Aurélie Gerbier (conservateur du patrimoine au musée d'Ecouen,  
 Auditorium Musée des Beaux-Arts
+
+ ## Nuit des Etudiants au Musée des Beaux-Arts  
+ 
+( Compte rendu... bientôt à cet endroit)
