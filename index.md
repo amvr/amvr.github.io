@@ -14,12 +14,10 @@ published: true
 
 ## FLASH INFO  
 
-### 1) Assemblée générale extraordinaire
+###  Assemblée générale extraordinaire
 
 Le **26  novembre**, nous vous convions à notre _assemblée générale ordinaire annuelle_, qui sera suivie d’une _**assemblée générale extraordinaire**_ où seront proposées des modifications de nos statuts d’une part, et du règlement intérieur d’autre part.
 
 Nous vous attendons nombreux à **10 heures précises à l’auditorium du musée des Beaux-Arts**, 26 bis rue Jean Lecanuet.
 
 [Télécharger la proposition de modification des statuts](/fichiers/161115-proposition-de-modifications-des-statuts.pdf)
-
-
