@@ -18,6 +18,6 @@ published: true
 
 Le **26  novembre**,a eu lieu l' _assemblée générale ordinaire annuelle_, qui a été suivie d’une _**assemblée générale extraordinaire**_ où ont été proposées des modifications de nos statuts d’une part, et du règlement intérieur d’autre part.
 
-Le **réglement intérieur** est compulsable sur le site ainsi que le seront les **statuts**
+Le **réglement intérieur** est compulsable sur le site (voir la rubrique en bas de page) ainsi que le seront les **statuts** 
 
 [Télécharger la proposition de modification des statuts](/fichiers/161115-proposition-de-modifications-des-statuts.pdf)
