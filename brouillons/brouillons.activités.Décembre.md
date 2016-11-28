@@ -13,7 +13,11 @@ Musée des Beaux-Arts.
 
 **Lundi 5 décembre** :  
 14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle I chronologique : **"Le paysage au XIXè siècle"** ,  
-Musée des Beaux-Arts.  
+Musée des Beaux-Arts.   
+
+**Lundi 5 décembre**  
+12h15 :_Midi-Musée-Musique_**Trio à cordes Jacob** Raphaël Jacob-violon, Jerémy Pasquier-alto, Sarah Jacob-violoncelle,  
+K.Penderecki et Bethoven
 
 **Lundi 5 décembre**  
 17h : _Cycle :  l'héritage grec_ **"L'héritage grec 1"**  
@@ -24,7 +28,10 @@ Auditorium du musée de Beaux-Arts .
 Musée des Beaux-Arts.    
 
 **Mercredi 7 décembre :**  
-17h : _Cycle sur la faïence_,  **"La faïence de Rouen au XVIIè siècle"** par  pauline Duée, conservateur du patrimoine , Musée de la Céramique, Rouen
+17h : _Cycle sur la faïence_,  **"La faïence de Rouen au XVIIè siècle"** par  pauline Duée, conservateur du patrimoine , Musée de la Céramique, Rouen  
+
+**Mercredi 7 décembre**  
+Sortie au centre Pompidou, **"MAGRITTE"**
 
 **Vendredi 9 décembre :**  
 16h : _La sculpture grecque et romaine_ -  **"La naissance de la sculpture grecque à l'époque archaïque"** par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
@@ -43,8 +50,7 @@ Auditorium du musée de Beaux-Arts .
 par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.
 
-**Mardi 11 octobre** :  
-_Sortie_ : Après-midi à Giverny , Joaquin Sorolla. 
+
 
 
 
