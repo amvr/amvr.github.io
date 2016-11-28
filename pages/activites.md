@@ -56,7 +56,7 @@ Auditorium du Musée des Beaux-Arts
 Musée des Beaux-arts.  
 
 17h : Cycle sur la faience - _"Masséot Abaquesne"_ par Pauline Duée,conservateur du patrimoine au musée de la céramique de Rouen.  
-Auditorium du Musée des Beaux-Arts 
+Auditorium du Musée des Beaux-Arts
 
 Sortie le 23 novembre : Paris - Musée Picasso , _"Picasso et Giacometti"_
 
@@ -66,16 +66,16 @@ Sortie le 23 novembre : Paris - Musée Picasso , _"Picasso et Giacometti"_
 Auditorium du Musée des Beaux-Arts.
 
 
-
 **Lundi 28 novembre :**  
 17h : Cycle "Jacqueline de Romilly et l'héritage grec" - _ 1ere conférence par Marie-Agnès Bennett._  
 Auditorium du Musée des Beaux-Arts
+
 
 **Mercredi 30 novembre :**  
 17h : Cycle sur la faience - _"La faience en Europe au XVIè siècle"_ par Aurélie Gerbier (conservateur du patrimoine au musée d'Ecouen,  
 Auditorium Musée des Beaux-Arts   
 
 
-## Nuit des Etudiants au Musée des Beaux-Arts 
- 
-( Compte rendu... bientôt à cet endroit)
+## Nuit des Étudiants au Musée des Beaux-Arts
+
+[Télécharger le compte rendu](/fichiers/161128-nuit-des-etudiants-au-musee.pdf) (format PDF)
