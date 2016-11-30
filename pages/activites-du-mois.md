@@ -24,7 +24,7 @@ Musée des Beaux-Arts.
 K.Penderecki et Bethoven
 
 **Lundi 5 décembre**  
-17h : _Cycle :  l'héritage grec_ **"L'héritage grec 1"**  
+17h : _Cycle :  l'héritage grec_ **"L'héritage grec 1"** par Marie-Agnès Bennett 
 Auditorium du musée de Beaux-Arts .   
 
 **Mercredi 7 décembre:**  
@@ -46,15 +46,10 @@ Auditorium du musée des Beaux-Arts.
 Auditorium du musée des Beaux-Arts
 
 **Lundi 12 décembre**  
-17h : _Cycle :  l'héritage grec_ **"L'héritage grec 2"**  
+17h : _Cycle :  l'héritage grec_ **"L'héritage grec 2"** par Marie-Agnès Bennett 
 Auditorium du musée de Beaux-Arts . 
 
 **Vendredi 16 décembre**  
 16h : _La sculpture grecque et romaine_ **"La sculpture grecque classique , variations sur le beau idéal"**  
 par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.
-
-
-
-
-
