@@ -20,7 +20,7 @@ Musée des Beaux-Arts.
 Musée des Beaux-Arts.   
 
 **Lundi 5 décembre**  
-12h15 :_Midi-Musée-Musique_**Trio à cordes Jacob** Raphaël Jacob-violon, Jerémy Pasquier-alto, Sarah Jacob-violoncelle,  
+12h15 :_Midi-Musée-Musique_,**"Trio à cordes Jacob"** Raphaël Jacob-violon, Jerémy Pasquier-alto, Sarah Jacob-violoncelle,  
 K.Penderecki et Bethoven
 
 **Lundi 5 décembre**  
