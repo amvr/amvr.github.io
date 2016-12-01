@@ -8,73 +8,57 @@ published: true
 
 [Télécharger le dépliant complet pour la saison 2016-2017](/fichiers/brochure-2016-2017.pdf)  
 
-## Calendrier du mois :novembre 2016
+## Calendrier du mois : DECEMBRE 2016
 
+**Jeudi 1 décembre** :  
+14h30 et 16h : _Une heure au Musée_ - **"Portrait du roi Henri III"** ,  
+Musée des Beaux-Arts.  
 
+**Vendredi 2 décembre**  :  
+17h : _Histoire de la photographie_ -  6ème  conférence par Cédric de Veigy, chargé de cours en histoire de la photographe à  l'Ecole du Louvre.  Auditorium du musée des Beaux-arts. 
 
-**Vendredi 4 novembre :**  
-17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
-Auditorium du Musée des Beaux-Arts.
+**Samedi 3 décembre** :  
+14h30 et 16h : _Une heure au Musée_ -**"Portrait du roi Henri III"** ,  
+Musée des Beaux-Arts.  
 
-**Dimanche 6 novembre :**  
-Sortie : Opéra Bastille, _"Les contes d'Hoffmann"_ de Jacques Offenbach
+**Lundi 5 décembre** :  
+14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle I chronologique : **"Le paysage au XIXè siècle"** ,  
+Musée des Beaux-Arts.   
 
+**Lundi 5 décembre**  
+12h15 :_Midi-Musée-Musique_,**"Trio à cordes Jacob"** Raphaël Jacob-violon, Jerémy Pasquier-alto, Sarah Jacob-violoncelle,  
+K.Penderecki et Bethoven
 
-**Lundi 14 novembre :**  
-14h30 et 16h : Initiation Histoire de l'Art - Cycle I chronologique : _"Le baroque et le classicisme"_ ,  
-Musée des Beaux-arts.
+**Lundi 5 décembre**  
+17h : _Cycle :  l'héritage grec_ **"L'héritage grec 1"** par Marie-Agnès Bennett  
+Auditorium du musée de Beaux-Arts .   
 
-**Mercredi 16 novembre :**  
-14h30 et 16h : Initiation Histoire de l'Art - Cycle II thématique : _"L'architecture en peinture"_ ,  
-Musée des Beaux-Arts.
+**Mercredi 7 décembre:**  
+14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique : **"L'anamorphose et le trompe l'oeil"** ,  
+Musée des Beaux-Arts.    
 
+**Mercredi 7 décembre :**  
+17h : _Cycle sur la faïence_,  **"La faïence de Rouen au XVIIè siècle"** par  Pauline Duée, conservateur du patrimoine , Musée de la Céramique, Rouen  
 
-**Jeudi 17 novembre :**  
-14h30 et 16h : Une heure au Musée - _"Masséot Abaquesne (vers 1500 Cherbourg - vers 1564 Sotteville-les-Rouen) Un faiencier rouennais au service de la cour de France"_.  
-Musée de la Céramique.
+**Mercredi 7 décembre**  
+Sortie au centre Pompidou, **"MAGRITTE"**
 
+**Vendredi 9 décembre :**  
+16h et 18h : _La sculpture grecque et romaine_ -  **"La naissance de la sculpture grecque à l'époque archaïque"** par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
+Auditorium du musée des Beaux-Arts.  
 
-**Vendredi 18 novembre :**  
-17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
-Auditorium du Musée des Beaux-Arts.
+**Samedi 10 décembre** :  
+14h30 : _Cycle Picasso_  - **"Picasso et l'enfance"** , par Emilie Bouvard, conservatrice , Musée national Picasso-Paris,  
+Auditorium du musée des Beaux-Arts
 
+**Lundi 12 décembre**  
+17h : _Cycle :  l'héritage grec_ **"L'héritage grec 2"** par Marie-Agnès Bennett 
+Auditorium du musée de Beaux-Arts . 
 
-**Samedi 19 novembre :**  
-14h30 et 16h : Une heure au Musée - _"Masséot Abaquesne (vers 1500 Cherbourg - vers 1564 Sotteville-les-Rouen) Un faiencier rouennais au service de la cour de France"_.  
-Musée de la Céramique.
-
-**Lundi 21 novembre :**  
-14h30 et 16h : Initiation Histoire de l'Art - Cycle I chronologique : _"Le XVIIIè siècle français"_ ,  
-Musée des Beaux-Arts.
-
-12h15 à 13h15 : Midi Musée Musique - _Avec le soutien de l'association "Phares" Récital de Piano_ d' Alberta Alexandrescu : _Chopin , Scriabine._  
-Auditorium du Musée des Beaux-Arts
-
-
-**Mercredi 23 novembre :**  
-14h30 et 16h : Initiation Histoire de l'Art - Cycle II thématique : _"La composition"_ ,  
-Musée des Beaux-arts.  
-
-17h : Cycle sur la faience - _"Masséot Abaquesne"_ par Pauline Duée,conservateur du patrimoine au musée de la céramique de Rouen.  
-Auditorium du Musée des Beaux-Arts
-
-Sortie le 23 novembre : Paris - Musée Picasso , _"Picasso et Giacometti"_
-
-
-**Vendredi 25 novembre :**  
-17h : Histoire de la photographie - _"La photographie, un nouveau regard, une nouvelle sensibilité"_ par Cédric de Veigy, chargé de cours en histoire de la photographe à l'Ecole du Louvre.  
-Auditorium du Musée des Beaux-Arts.
-
-
-**Lundi 28 novembre :**  
-17h : Cycle "Jacqueline de Romilly et l'héritage grec" - _ 1ere conférence par Marie-Agnès Bennett._  
-Auditorium du Musée des Beaux-Arts
-
-
-**Mercredi 30 novembre :**  
-17h : Cycle sur la faience - _"La faience en Europe au XVIè siècle"_ par Aurélie Gerbier (conservateur du patrimoine au musée d'Ecouen,  
-Auditorium Musée des Beaux-Arts   
-
+**Vendredi 16 décembre**  
+16h et 18h : _La sculpture grecque et romaine_ **"La sculpture grecque classique , variations sur le beau idéal"**  
+par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
+Auditorium du musée des Beaux-Arts.
 
 ## Nuit des Étudiants au Musée des Beaux-Arts
 
