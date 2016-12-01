@@ -32,13 +32,13 @@ Auditorium du musée de Beaux-Arts .
 Musée des Beaux-Arts.    
 
 **Mercredi 7 décembre :**  
-17h : _Cycle sur la faïence_,  **"La faïence de Rouen au XVIIè siècle"** par  pauline Duée, conservateur du patrimoine , Musée de la Céramique, Rouen  
+17h : _Cycle sur la faïence_,  **"La faïence de Rouen au XVIIè siècle"** par  Pauline Duée, conservateur du patrimoine , Musée de la Céramique, Rouen  
 
 **Mercredi 7 décembre**  
 Sortie au centre Pompidou, **"MAGRITTE"**
 
 **Vendredi 9 décembre :**  
-16h : _La sculpture grecque et romaine_ -  **"La naissance de la sculpture grecque à l'époque archaïque"** par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
+16h et 18h : _La sculpture grecque et romaine_ -  **"La naissance de la sculpture grecque à l'époque archaïque"** par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.  
 
 **Samedi 10 décembre** :  
@@ -50,6 +50,6 @@ Auditorium du musée des Beaux-Arts
 Auditorium du musée de Beaux-Arts . 
 
 **Vendredi 16 décembre**  
-16h : _La sculpture grecque et romaine_ **"La sculpture grecque classique , variations sur le beau idéal"**  
+16h et 18h : _La sculpture grecque et romaine_ **"La sculpture grecque classique , variations sur le beau idéal"**  
 par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.
