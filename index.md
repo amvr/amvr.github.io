@@ -12,7 +12,17 @@ published: true
 
 
 
-## FLASH INFO  
+## FLASH INFO    
+
+### Cathédrale de Chartres  
+
+Nous venons d’apprendre par les **_Amis de la cathédrale de Chartres_**, que sera diffusé un documentaire très intéressant sur les travaux en cours, filmés depuis 3 ans par une cinéaste.  .
+ 
+Vous pourrez le voir le **lundi 5 décembre sur FR 3** après le Grand Soir 3.
+ 
+Ensuite il sera disponible une semaine sur replay.
+
+
 
 ###  Assemblée générale extraordinaire
 
