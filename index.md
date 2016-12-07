@@ -16,12 +16,15 @@ published: true
 
 ### Cathédrale de Chartres  
 
-Nous venons d’apprendre par les **_Amis de la cathédrale de Chartres_**, que sera diffusé un documentaire très intéressant sur les travaux en cours, filmés depuis 3 ans par une cinéaste intitulé :  
+Nous venons d’apprendre par les **_Amis de la cathédrale de Chartres_**, qu'a été diffusé un documentaire très intéressant sur les travaux en cours, filmés depuis 3 ans par une cinéaste intitulé :  
 **"La cathédrale de Chartres la lumière retrouvée"**.  
  
-Vous pourrez le voir le **lundi 5 décembre sur FR 3** après le Grand Soir 3.
+Vous pouviez le voir le **lundi 5 décembre sur FR 3** après le Grand Soir 3.
  
-Ensuite il sera disponible une semaine sur replay.
+ il est possible de le visionner encore en Pluzz-replay sur **_FR3 (Pays de Loire)_** Intitulé : **"Qui Sommes nous ?"**.  
+ 
+ .  
+ 
 
 
 
