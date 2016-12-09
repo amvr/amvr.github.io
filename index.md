@@ -14,7 +14,7 @@ published: true
 
 ## FLASH INFO    
 
- **Picasso et l'enfance**  
+### Picasso et l'enfance 
  
 Nous avons le regret de vous annoncer
  
@@ -22,10 +22,13 @@ l’annulation de la conférence d’Emilie Bouvard « Picasso et l’enfance »
  
 dans le cadre du cycle PICASSO
  
-ce**_samedi 10 décembre 2016 à 14h30_**
+ce **_samedi 10 décembre 2016 à 14h30_**
  
  
-Cette conférence sera bien sûr assurée par Emilie Bouvard prochainement, et la date vous sera communiquée dès que possible. 
+Cette conférence sera bien sûr assurée par Emilie Bouvard prochainement, et la date vous sera communiquée dès que possible.  
+
+.  
+
  
 
 
