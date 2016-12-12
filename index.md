@@ -40,7 +40,7 @@ Nous venons d’apprendre par les **_Amis de la cathédrale de Chartres_**, qu'a
  
 Vous pouviez le voir le **lundi 5 décembre sur FR 3** après le Grand Soir 3.
  
- il est possible de le visionner encore en Pluzz-replay sur **_FR3 (Pays de Loire)_** Intitulé : **"Qui Sommes nous ?"**.  
+ il est possible de le visionner encore en Pluzz-replay sur **_FR3 (Pays de Loire-Centre)_** Intitulé : **"Qui Sommes nous ?"**.  
  
  .  
  
