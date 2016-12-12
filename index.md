@@ -14,34 +14,27 @@ published: true
 
 ## FLASH INFO    
 
-### Picasso et l'enfance 
- 
-Nous avons le regret de vous annoncer
- 
-l’annulation de la conférence d’Emilie Bouvard « Picasso et l’enfance »
- 
-dans le cadre du cycle PICASSO
- 
-ce **_samedi 10 décembre 2016 à 14h30_**
- 
- 
-Cette conférence sera bien sûr assurée par Emilie Bouvard prochainement, et la date vous sera communiquée dès que possible.  
-
-.  
 
  
 
+### **Cycle Picasso**
+ 
+Nouvelle date pour la conférence_**"Picasso et l'enfance"**_
+par Emilie Bouvard, Conservatrice, Musée national Picasso-Paris
+ 
+**Samedi 7 janvier à 14h30**
+ 
+ à l'auditorium du musée des Beaux-Arts,
+ 
+ 26 bis rue Jean Lecanuet  
+ 
+Cette conférence était initialement prévue le samedi 10 décembre.
+ 
+
+ 
 
 
-### Cathédrale de Chartres  
 
-Nous venons d’apprendre par les **_Amis de la cathédrale de Chartres_**, qu'a été diffusé un documentaire très intéressant sur les travaux en cours, filmés depuis 3 ans par une cinéaste intitulé :  
-**"La cathédrale de Chartres la lumière retrouvée"**.  
- 
-Vous pouviez le voir le **lundi 5 décembre sur FR 3** après le Grand Soir 3.
- 
- il est possible de le visionner encore en Pluzz-replay sur **_FR3 (Pays de Loire-Centre)_** Intitulé : **"Qui Sommes nous ?"**.  
- 
  .  
  
 
