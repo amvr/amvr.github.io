@@ -2,8 +2,7 @@
 title: Mécénat
 published: true
 ---
-   
- ## 2016  
+## 2016  
  
 Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815)  
 **« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre). Ce tableau a été restauré et est accroché au MBA.  
