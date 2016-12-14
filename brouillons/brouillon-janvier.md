@@ -15,7 +15,11 @@
 '13': a
 '14': g
 '15': e
+published: true
 ---
+
+![Tableau craco]({{site.baseurl}}/fichiers/C_2009_1_1_Craco.jpg)
+
 
 ## un titre
 
@@ -48,14 +52,9 @@ Trois ou quatre fois dans l’année un responsable, un conservateur de Musée v
 
 En 2017, trois conférences auront lieu au cours du premier semestre :
 
-	-Le vendredi 20 janvier à 15 h, Sébastien Minchin , Directeur du Museum d’histoire naturelle, nous présentera son Musée :
-« Le Museum durable et responsable »
-
-	-Le vendredi 24 mars à 15 h,  le Dr Jacques Bocquet, Président des Amis du Musée Maritime nous entretiendra de :
-« Rouen et la Seine d’aval, des origines à la Renaissance, socle patrimonial de notre grandeur maritime »
-
-	-Le vendredi 28 avril à 15 h, Sophie Demoy, responsable des collections du Musée Flaubert, lèvera le voile sur :		
-			« Un Musée à double vocation, original et méconnu »
+- Le vendredi 20 janvier à 15 h, Sébastien Minchin , Directeur du Museum d’histoire naturelle, nous présentera son Musée : « Le Museum durable et responsable »
+- Le vendredi 24 mars à 15 h,  le Dr Jacques Bocquet, Président des Amis du Musée Maritime nous entretiendra de : « Rouen et la Seine d’aval, des origines à la Renaissance, socle patrimonial de notre grandeur maritime »
+- Le vendredi 28 avril à 15 h, Sophie Demoy, responsable des collections du Musée Flaubert, lèvera le voile sur : « Un Musée à double vocation, original et méconnu »
 
 
 Ces conférences gratuites auront lieu à l’Auditorium du Musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
