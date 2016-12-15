@@ -49,8 +49,13 @@ Sortie au centre Pompidou, **"MAGRITTE"**
 16h : _La sculpture grecque et romaine_ -  **"La naissance de la sculpture grecque à l'époque archaïque"** par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.  
 
-**Samedi 10 décembre** :  
-14h30 : _Cycle Picasso_  - **"Picasso et l'enfance"** , par Emilie Bouvard, conservatrice , Musée national Picasso-Paris,  
+**Samedi 14 janvier** :  
+14h30 : _Cycle Picasso_  - **"Picasso à Boisgeloup"** , par Virginie Perdrisot, conservatrice , Musée national Picasso-Paris,  
+Auditorium du musée des Beaux-Arts
+
+
+**Samedi 28 janvier** :  
+14h30 : _Cycle Picasso_  - **"L'atelier de sculpture de Picasso à Boisgeloup"** , par Cécile Godefroy, Historienne de l'Art      
 Auditorium du musée des Beaux-Arts
 
 **Lundi 12 décembre**  
