@@ -19,8 +19,13 @@ Musée des Beaux-Arts.
 12h15 :_Midi-Musée-Musique_,**"Duo piano et violoncelle"** _Moeko Ezaki,piano;Guillaume Effler,violoncelle_  
 E.Grieg, sonate pour violoncelle et piano op.36  
 Cl. Debussy, sonate pour violoncelle et piano  
-F.Schubert, sonate Arpeggione
+F.Schubert, sonate Arpeggione  
+Auditorium du musée des Beaux-Arts
 
+**Lundi 23 janvier**  
+12h15 :_Midi-Musée-Musique_,**"Duo contre basse et alto"** _Esther Chen-Thiry, contrebasse;Patrick Dussart,alto_  
+Dittersdorf, Moart, F.Mendelssohn  
+Auditorium du musée des Beaux-Arts
 
 **Lundi 5 décembre**  
 17h : _Cycle :  l'héritage grec_ **"L'héritage grec 1"** par Marie-Agnès Bennett  
@@ -56,5 +61,3 @@ Auditorium du musée de Beaux-Arts .
 16h : _La sculpture grecque et romaine_ **"La sculpture grecque classique , variations sur le beau idéal"**  
 par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.
-
-
