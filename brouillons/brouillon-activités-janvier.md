@@ -16,7 +16,7 @@ Musée des Beaux-Arts.
 
 
 **Lundi 9 janvier** :  
-16h : _Monuments parisiens:Art et Histoire_  **"Le château de Vincennes"** par J.P.Hascoët ,conférencier national  
+16h et 18h : _Monuments parisiens : Art et Histoire_  **"Le château de Vincennes"** par Jean-Pierre Hascoët ,conférencier national  
 Auditorium du musée des Beaux-Arts
 
 **Lundi 9 janvier** :  
@@ -27,7 +27,7 @@ F.Schubert, sonate Arpeggione
 Auditorium du musée des Beaux-Arts
 
 **Vendredi 13 janvier :**  
-16h : _La sculpture grecque et romaine_ -  **"Les grands bronzes grecs aux époques classiques et hellenistiques"**  par Sophie Descamps, Conservateur en chef du patrimoine au musée du Louvre.  
+16h et 18h : _La sculpture grecque et romaine_ -  **"Les grands bronzes grecs aux époques classiques et hellenistiques"**  par Sophie Descamps, Conservateur en chef du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.
 
 
@@ -40,7 +40,7 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts. 
 
 **Lundi 16 janvier** :  
-16h : _Monuments parisiens:Art et Histoire_ **"L'Opéra de Paris. Garnier et Bastille "** par Mathias Auclair ,directeur du département de la musique de la Bibliothèque Nationale de France  
+16h et 18h : _Monuments parisiens:Art et Histoire_ **"Le Louvre 1ere partie "** par Jean-Pierre Hascoët, conférencier national  
 Auditorium du musée des Beaux-Arts
 
 **Mercredi 18 janvier:**  
@@ -75,5 +75,5 @@ Auditorium du musée des Beaux-Arts.
 Auditorium du musée des Beaux-Arts
 
 **Lundi 30 janvier** :  
-16h : _Monuments parisiens:Art et Histoire_ **"Le Louvre 1 "** par J.P.Hascoët ,conférencier national  
+16h : _Monuments parisiens:Art et Histoire_ **"L'Opéra de Paris : Garnier et Bastille "** par Mathias Auclair ,directeur du département de la musique de la Bibliothèque Nationale de France   
 Auditorium du musée des Beaux-Arts
