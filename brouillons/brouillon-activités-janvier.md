@@ -40,7 +40,7 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts. 
 
 **Lundi 16 janvier** :  
-16h et 18h : _Monuments parisiens:Art et Histoire_ **"Le Louvre 1ere partie "** par Jean-Pierre Hascoët, conférencier national  
+16h et 18h : _Monuments parisiens : Art et Histoire_ **"Le Louvre 1ere partie "** par Jean-Pierre Hascoët, conférencier national  
 Auditorium du musée des Beaux-Arts
 
 **Mercredi 18 janvier:**  
@@ -50,14 +50,18 @@ Musée des Beaux-Arts.
 **Vendredi 20 janvier** :  
 7h30 :_Sortie à Paris_ **"Opéra Garnier"** visite de l'Opéra et Paris hausmannien avec Marianne Autain
 
+**Vendredi 20 janvier**:  
+15h : _Les Vendredis de la Métropole_** - "Le Museum durable et responsable"** par Sébastien Minchin, directeur du Museum de Rouen
+
+
 
 **Lundi 23 janvier** :  
-12h15 :_Midi-Musée-Musique_,**"Duo contre basse et alto"** _Esther Chen-Thiry, contrebasse;Patrick Dussart,alto_  
+12h15 : _Midi-Musée-Musique_,**"Duo contre basse et alto"** _Esther Chen-Thiry, contrebasse;Patrick Dussart,alto_  
 Dittersdorf, Mozart, F.Mendelssohn  
 Auditorium du musée des Beaux-Arts
 
 **Mardi 24 janvier** :  
-17h : _Symbolisme - Japonisme - Art Nouveau_, **"Le Japonisme en France 1870-1900 :La révolution du regard"** par Frédéric Bigo, ancien directeur du musée Maurice Denis, historien de l'art, commissaire d'expositions  
+14h30 et 17h : _Symbolisme - Japonisme - Art Nouveau_, **"Le Japonisme en France 1870-1900 - La révolution du regard"** par Frédéric Bigo, ancien directeur du musée Maurice Denis, historien de l'art, commissaire d'expositions  
 Auditorium du musée des Beaux-Arts
 
 **Mercredi 25 janvier:**  
@@ -66,7 +70,7 @@ Musée des Beaux-Arts.
 
 
 **Vendredi 27 janvier :**  
-16h : _La sculpture grecque et romaine_ -  **"Les Tanagras, sculptures en miniatures:pratiques artisanales et religieuses aux époques classique et hellenistique"**  par Violaine Jeammet, Conservateur en chef du patrimoine au musée du Louvre.  
+16h et 18h : _La sculpture grecque et romaine_ -  **"Les Tanagras, sculptures en miniatures:pratiques artisanales et religieuses aux époques classique et hellenistique"**  par Violaine Jeammet, Conservateur en chef du patrimoine au musée du Louvre.  
 Auditorium du musée des Beaux-Arts.
 
 
@@ -75,5 +79,5 @@ Auditorium du musée des Beaux-Arts.
 Auditorium du musée des Beaux-Arts
 
 **Lundi 30 janvier** :  
-16h : _Monuments parisiens:Art et Histoire_ **"L'Opéra de Paris : Garnier et Bastille "** par Mathias Auclair ,directeur du département de la musique de la Bibliothèque Nationale de France   
+16h et 18h : _Monuments parisiens : Art et Histoire_ **"L'Opéra de Paris : Garnier et Bastille "** par Mathias Auclair,directeur du département de la musique de la Bibliothèque Nationale de France   
 Auditorium du musée des Beaux-Arts
