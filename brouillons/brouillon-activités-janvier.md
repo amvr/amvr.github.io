@@ -4,7 +4,7 @@
 14h30 et 16h : _Une heure au Musée_ - **"Autour du Caravage, Réflexion sur la construction de l'image"** ,  
 Musée des Beaux-Arts.
 
-**Samedi 7 janvier** :  
+**Samedi 7 janvier** :  en remplacement de la conférence du samedi 10 décembre
 14h30 : _Cycle Picasso_  - **"Picasso et l'enfance"** , par Emilie Bouvard, conservatrice , Musée national Picasso-Paris,  
 Auditorium du musée des Beaux-Arts
 
@@ -77,5 +77,3 @@ Auditorium du musée des Beaux-Arts
 **Lundi 30 janvier** :  
 16h : _Monuments parisiens:Art et Histoire_ **"Le Louvre 1 "** par J.P.Hascoët ,conférencier national  
 Auditorium du musée des Beaux-Arts
-
-
