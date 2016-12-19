@@ -51,7 +51,8 @@ Musée des Beaux-Arts.
 7h30 :_Sortie à Paris_ **"Opéra Garnier"** visite de l'Opéra et Paris hausmannien avec Marianne Autain
 
 **Vendredi 20 janvier**:  
-15h : _Les Vendredis de la Métropole_** - "Le Museum durable et responsable"** par Sébastien Minchin, directeur du Museum de Rouen
+15h : _Les Vendredis de la Métropole_** - "Le Museum durable et responsable"** par Sébastien Minchin, directeur du Museum de Rouen.  
+Auditorium du musée des Beaux-Arts
 
 
 
