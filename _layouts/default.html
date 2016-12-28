@@ -25,9 +25,8 @@
   {% if page.url == '/index.html' or page.url == '/' %}
     <section class="hilight">
       <p>
-        <img src="/fichiers/oeuvres/2014-sacquespee.jpg" alt="Sacquespee">
-        <img src="/fichiers/oeuvres/2012-le-biscuit-et-la-glacure.jpg" alt="Le biscuit et la glaçure">
-        <img src="/fichiers/oeuvres/2013-horloge.jpg" alt="Horloge">
+        {% capture images_accueil %}{% include images-accueil.md %}{% endcapture %}
+        {{ images_accueil | markdownify }}
       </p>
     </section>
   {% endif%}
