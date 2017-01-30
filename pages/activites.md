@@ -8,58 +8,50 @@ published: true
 
 [Télécharger le dépliant complet pour la saison 2016-2017](/fichiers/brochure-2016-2017.pdf)  
 
-## Calendrier du mois : DECEMBRE 2016
+## Calendrier du mois : Fevrier 2017
 
-**Jeudi 1 décembre** :  
-14h30 et 16h : _Une heure au Musée_ - **"Portrait du roi Henri III"** ,  
+**Mercredi 1 février:**  
+14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle III : les genres en peinture : **"Le portrait"** ,  
+Musée des Beaux-Arts. 
+
+**Jeudi 2 février** :  
+14h30 et 16h : _Une heure au Musée_ - **"Jean  et François Jouvenet , une famille d'artistes au XVIIè siècle"** ,  
+Musée de## Calendrier du mois : Fevrier 2017 
+
+**Samedi 4 février** :  
+14h30 et 16h : _Une heure au Musée_ **"Jean  et François Jouvenet , une famille d'artistes au XVIIè siècle"**,  
 Musée des Beaux-Arts.  
 
-**Vendredi 2 décembre**  :  
-17h : _Histoire de la photographie_ -  6ème  conférence par Cédric de Veigy, chargé de cours en histoire de la photographe à  l'Ecole du Louvre.  Auditorium du musée des Beaux-arts. 
+**Lundi 6 février** :  
+16h : _Monuments parisiens: Art et Histoire_  -  **"Le Louvre 2"** ,  
+Jean Pierre Hascouet   
+Auditorium du musée des Beaux-Arts.   
 
-**Samedi 3 décembre** :  
-14h30 et 16h : _Une heure au Musée_ -**"Portrait du roi Henri III"** ,  
-Musée des Beaux-Arts.  
+**Lundi 6 février**  
+12h15 :_Midi-Musée-Musique_,**"Quatuor Onslow"**,  
+Etienne Espagne,violon; Clara Jasczyszyn,violon; Clément Batrel-Genin,alto,Guillaume Effler,violoncelle  
+_M.Ravel, K.Penderecki et F.Mendelssohn_  
+Salle du Jubé
 
-**Lundi 5 décembre** :  
-14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle I chronologique : **"Le paysage au XIXè siècle"** ,  
-Musée des Beaux-Arts.   
+**Lundi 6 février**  
+14h30 et 16h : **"Visite de l'exposition Masseot Abaquesne"**  
+Musée de la Céramique
 
-**Lundi 5 décembre**  
-12h15 :_Midi-Musée-Musique_,**"Trio à cordes Jacob"** Raphaël Jacob-violon, Jerémy Pasquier-alto, Sarah Jacob-violoncelle,  
-K.Penderecki et Bethoven
+**Mardi 7 février**
+17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Entre ésotérisme et art nouveau. L'imaginaire chez Ranson et Lacombe"**  
+Frédéric Bigo, ancien directeur du musée Maurice Denis, historien de l'art, commissaire d'expositions  
+Auditorium du musée des Beaux-Arts  
 
-**Lundi 5 décembre**  
-17h : _Cycle :  l'héritage grec_ **"L'héritage grec 1"** par Marie-Agnès Bennett  
-Auditorium du musée de Beaux-Arts .   
-
-**Mercredi 7 décembre:**  
-14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique : **"L'anamorphose et le trompe l'oeil"** ,  
-Musée des Beaux-Arts.    
-
-**Mercredi 7 décembre :**  
-17h : _Cycle sur la faïence_,  **"La faïence de Rouen au XVIIè siècle"** par  Pauline Duée, conservateur du patrimoine , Musée de la Céramique, Rouen  
-
-**Mercredi 7 décembre**  
-Sortie au centre Pompidou, **"MAGRITTE"**
-
-**Vendredi 9 décembre :**  
-16h et 18h : _La sculpture grecque et romaine_ -  **"La naissance de la sculpture grecque à l'époque archaïque"** par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
-Auditorium du musée des Beaux-Arts.  
-
-**Samedi 10 décembre** :  
-14h30 : _Cycle Picasso_  - **"Picasso et l'enfance"** , par Emilie Bouvard, conservatrice , Musée national Picasso-Paris,  
-Auditorium du musée des Beaux-Arts
-
-**Lundi 12 décembre**  
-17h : _Cycle :  l'héritage grec_ **"L'héritage grec 2"** par Marie-Agnès Bennett 
-Auditorium du musée de Beaux-Arts . 
-
-**Vendredi 16 décembre**  
-16h et 18h : _La sculpture grecque et romaine_ **"La sculpture grecque classique , variations sur le beau idéal"**  
-par Ludovic Laugier, Conservateur du patrimoine au musée du Louvre.  
+**Lundi 27 février** :  
+16h : _Monuments parisiens: Art et Histoire_  -  **"La Conciergerie et la Sainte Chapelle"** ,  
+_Jean Pierre Hascouet_  
 Auditorium du musée des Beaux-Arts.
 
-## Nuit des Étudiants au Musée des Beaux-Arts
+**Mardi 28 février**
+17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Le Jugendstil en Allemagne entre symbolisme et japonisme"**  
+Gilles Genty, historien de l'art, spécialiste des Nabis, commissaire d'expositions  
+Auditorium du musée des Beaux-Artss Beaux-Arts.  
+
+
 
 [Télécharger le compte rendu](/fichiers/161128-nuit-des-etudiants-au-musee.pdf) (format PDF)
