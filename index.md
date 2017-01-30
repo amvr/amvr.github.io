@@ -14,28 +14,8 @@ published: true
 
 ## FLASH INFO    
 
-
  
 
-### **Cycle Picasso**
- 
-Nouvelle date pour la conférence_**"Picasso et l'enfance"**_
-par Emilie Bouvard, Conservatrice, Musée national Picasso-Paris
- 
-**Samedi 7 janvier à 14h30**
- 
- à l'auditorium du musée des Beaux-Arts,
- 
- 26 bis rue Jean Lecanuet  
- 
-Cette conférence était initialement prévue le samedi 10 décembre.
- 
-
- 
-
-
-
- .  
  
 
 
