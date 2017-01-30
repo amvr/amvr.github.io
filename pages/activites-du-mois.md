@@ -44,9 +44,4 @@ Auditorium du musée des Beaux-Arts.
 **Mardi 28 février**
 17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Le Jugendstil en Allemagne entre symbolisme et japonisme"**  
 Gilles Genty, historien de l'art, spécialiste des Nabis, commissaire d'expositions  
-Auditorium du musée des Beaux-Arts 
-
-
-
-
-
+Auditorium du musée des Beaux-Arts
