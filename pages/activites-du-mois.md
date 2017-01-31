@@ -38,7 +38,7 @@ Auditorium du musée des Beaux-Arts
 
 **Lundi 27 février** :  
 16h : _Monuments parisiens: Art et Histoire_  -  **"La Conciergerie et la Sainte Chapelle"** ,  
-_Jean Pierre Hascouet_  
+__Jean Pierre Hascoët_ 
 Auditorium du musée des Beaux-Arts.
 
 **Mardi 28 février**
