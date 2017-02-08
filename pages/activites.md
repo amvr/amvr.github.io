@@ -38,7 +38,7 @@ Salle du Jubé
 Musée de la Céramique
 
 **Mardi 7 février**
-17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Entre ésotérisme et art nouveau. L'imaginaire chez Ranson et Lacombe"**  
+14h et 17h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Entre ésotérisme et art nouveau. L'imaginaire chez Ranson et Lacombe"**  
 Frédéric Bigo, ancien directeur du musée Maurice Denis, historien de l'art, commissaire d'expositions  
 Auditorium du musée des Beaux-Arts  
 
@@ -48,7 +48,7 @@ __Jean Pierre Hascoët_
 Auditorium du musée des Beaux-Arts.
 
 **Mardi 28 février**
-17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Le Jugendstil en Allemagne entre symbolisme et japonisme"**  
+14h et 17h30 :_Symbolisme-Japonisme-Art Nouveau_ - **"Le Jugendstil en Allemagne entre symbolisme et japonisme"**  
 Gilles Genty, historien de l'art, spécialiste des Nabis, commissaire d'expositions  
 Auditorium du musée des Beaux-Artss Beaux-Arts.  
 
