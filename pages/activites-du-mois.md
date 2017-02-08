@@ -17,7 +17,7 @@ Musée des Beaux-Arts.
 Musée des Beaux-Arts.  
 
 **Lundi 6 février** :  
-16h : _Monuments parisiens: Art et Histoire_  -  **"Le Louvre 2"** ,  
+16h et 18h : _Monuments parisiens: Art et Histoire_  -  **"Le Louvre 2"** ,  
 Jean Pierre Hascouet   
 Auditorium du musée des Beaux-Arts.   
 
@@ -37,7 +37,7 @@ Frédéric Bigo, ancien directeur du musée Maurice Denis, historien de l'art, c
 Auditorium du musée des Beaux-Arts  
 
 **Lundi 27 février** :  
-16h : _Monuments parisiens: Art et Histoire_  -  **"La Conciergerie et la Sainte Chapelle"** ,  
+16het 18h : _Monuments parisiens: Art et Histoire_  -  **"La Conciergerie et la Sainte Chapelle"** ,  
 __Jean Pierre Hascoët_ 
 Auditorium du musée des Beaux-Arts.
 
