@@ -1,3 +1,0 @@
-## ![David et Goliath](/Bibliothèques/Documents/Visuels 3 musées Rouen/Jeanron David et Goliath.jpeg)
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
