@@ -2,7 +2,7 @@
 
 **Mercredi 1er mars**  
 14h30 : _Initiation à l'histoire de l'art_ - Cycle 3 -**Scènes de genre**  
-Musée des beaux-Arts  
+Musée des Beaux-Arts  
 
 **Jeudi 2 mars**  
 14h30 et 16h : _Visite de l'exposition "Masséot Abaquesne"_-  
