@@ -6,6 +6,10 @@ Musée des Beaux-Arts
 
 **Jeudi 2 mars**  
 14h30 et 16h : _Visite de l'exposition "Masséot Abaquesne"_-  
-Musée de la Céramique
+Musée de la Céramique  
+
+
+
+ suivi
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
