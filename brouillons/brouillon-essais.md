@@ -21,7 +21,7 @@ published: true
 ![Tableau craco]({{site.baseurl}}/fichiers/C_2009_1_1_Craco.jpg)
 
 
-## un titre
+
 
 ### 2e niveau de titre
 
