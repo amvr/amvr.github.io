@@ -5,7 +5,8 @@ published: true
 ## 2016  
  
 Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815)  
-**« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre). Ce tableau a été restauré et est accroché au MBA.  
+**« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).![Dame au chapeau noir](![DESHAYS DE COLLEVILLE.jpg]({{site.baseurl}}/fichiers/DESHAYS DE COLLEVILLE.jpg)
+ Ce tableau a été restauré et est accroché au MBA.  
 
 **Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillés de cuivre, ils faisaient partie de la fontaine monumentale érigée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.![Restauration des réverbères](![Réverbère Fond gris.jpg]({{site.baseurl}}/fichiers/Réverbère Fond gris.jpg)
  Œuvre de l’architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s’organisait autour d’un escalier monumental semi-circulaire entourant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrés au monument, spécialement dessinés aux armes de la ville et surmontés d’un globe de verre.
