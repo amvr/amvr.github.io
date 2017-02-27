@@ -1,11 +1,11 @@
 ##Activités mars 2017
 
 **Mercredi 1er mars**  
-14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture-**"Scènes de genre"**  
+14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture-**"Les scènes de genre"**  
 Musée des Beaux-Arts   
 
 **Jeudi 2 mars**  
-14h30 et 16h : _Visite de l'exposition "Masséot Abaquesne"_-  
+14h30 et 16h : _Visite guidée de l'exposition "Masséot Abaquesne"_-  
 Musée de la Céramique 
 
 **Vendredi 3 mars**  
@@ -16,7 +16,7 @@ Auditorium du musée des Beaux-Arts
   
 
 **Mardi 7 mars**
-17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ -  
+14h30 et 17h :_Symbolisme-Japonisme-Art Nouveau_ -  
 **"Les chants d'inquiétudes du symbolisme nordique autour de Munch"**  
 Gilles Genty, historien de l'art,spécialiste des Nabis, commissaire d'expositions  
 Auditorium du musée des Beaux-Arts  
@@ -36,11 +36,11 @@ Anne Lefèvre,violon;  Sophie Piat,alto; Catherine Fléau,violoncelle; Christell
 _Mozart,quatuor pour hautbois,violon, alto et violoncelle KV 370_  
 _B.Britten, Phantasy quartet pour hautbois et cordes_  
 _F. Krommer, quatuor n°1 pour hautbois et trio à cordes_  
-_Mozart, Adagio pourcor anglais et cordes K580a_  
-Salle du Jubé
+_Mozart, Adagio pour cor anglais et cordes K580a_  
+Salle du Jubé - musée de Beaux-Arts
 
 **Lundi 13 mars**  
-17h : _Cycle "Grands Musiciens"_ **"Beethoven , Musicien de la liberté"**  
+17h : _Cycle "Grands Musiciens" 1 ere conférence_ **"Beethoven , Musicien de la liberté"**  
 Auditorium du musée des Beaux-Arts
 
 **Mercredi 15 mars**  
@@ -66,13 +66,13 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts.
 
 **Lundi 20 mars**  
-17h : _Cycle "Grands Musiciens"_ **"Beethoven , Musicien de la liberté"**  
+17h : _Cycle "Grands Musiciens"_ 2éme conférence  **"Beethoven , Musicien de la liberté"**  
 Auditorium du musée des Beaux-Arts
 
 **Mardi 21 mars**
-17h et 18h30 :_Symbolisme-Japonisme-Art Nouveau_ -  
+14h30 et 17h :_Symbolisme-Japonisme-Art Nouveau_ -  
 **"La Russie du symbolisme à l'abstraction: Vroubel , Kandinsky, Malevitch"**  
-Corinne Laouès, conférencière, doctorante en histoire de l'art à Paris  
+Corinne Laouès, conférencière, doctorante en histoire de l'art à Paris 1  
 Auditorium du musée des Beaux-Arts   
 
 **Samedi 25 mars**  
@@ -81,7 +81,7 @@ Anne-Charlotte Cathelineau : conservatrice, Réunion des MuséesMétropolitains 
 Auditorium du musée des Beaux-Arts
 
 **Lundi 27 mars**  
-17h : _Cycle "Grands Musiciens"_ **"Beethoven , Musicien de la liberté"**  
+17h : _Cycle "Grands Musiciens"_ 3ème conférence **"Beethoven , Musicien de la liberté"**  
 Auditorium du musée des Beaux-Arts  
 
 
