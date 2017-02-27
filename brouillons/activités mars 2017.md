@@ -4,7 +4,10 @@
 14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture-**Scènes de genre**  
 Musée des Beaux-Arts 
 
-Vendredi 3 mars
+**Vendredi 3 mars**  
+16h et 18h : _La sculpture grecque et romaine_ **Originalité de la sculpture romaine**  
+Daniel Roger :Conservateur en chef du patrimoine, musée du Louvre  
+Auditorium du musée des Beaux-Arts
 
 **Jeudi 2 mars**  
 14h30 et 16h : _Visite de l'exposition "Masséot Abaquesne"_-  
@@ -34,11 +37,16 @@ Musée des Beaux-Arts
 
 
 **Jeudi 16 mars** :  
-14h30 et 16h : _Une heure au Musée_ - **"Jean-francis Aubertin (1866-1930) un symboliste méconnu"** ,  
-Musée des Beaux-Arts.  
+14h30 et 16h : _Une heure au Musée_ - **"Jean-Francis Auburtin (1866-1930) un symboliste méconnu"** ,  
+Musée des Beaux-Arts.   
+
+**Vendredi 17 mars**  
+16h et 18h : _La sculpture grecque et romaine_ **Entre le portrait d'ancêtre et le portrait officiel, l'image de la guerre dans le relief romain**  
+Daniel Roger :Conservateur en chef du patrimoine, musée du Louvre  
+Auditorium du musée des Beaux-Arts
 
 **Samedi 18 mars** :  
-14h30 et 16h : _Une heure au Musée_ - **"Jean-francis Aubertin (1866-1930) un symboliste méconnu"** ,  
+14h30 et 16h : _Une heure au Musée_ - **"Jean-Francis Auburtin (1866-1930) un symboliste méconnu"** ,  
 Musée des Beaux-Arts.
 
 
