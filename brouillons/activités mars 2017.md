@@ -1,7 +1,8 @@
 ##Activités mars 2017
 
 **Mercredi 1er mars**  
-14h30 : _Initiation à l'histoire de l'art_ - Cycle III : Les genres en peinture-**"Les scènes de genre"**  
+14h30 : _Initiation à l'histoire de l'art_ - Cycle III : Les genres en peinture-  
+**"Les scènes de genre"**  
 Musée des Beaux-Arts   
 
 **Jeudi 2 mars**  
@@ -9,7 +10,8 @@ Musée des Beaux-Arts
 Musée de la Céramique 
 
 **Vendredi 3 mars**  
-16h et 18h : _La sculpture grecque et romaine_ **"Originalité de la sculpture romaine"**  
+16h et 18h : _La sculpture grecque et romaine_  
+**"Originalité de la sculpture romaine"**  
 Daniel Roger :Conservateur en chef du patrimoine, musée du Louvre  
 Auditorium du musée des Beaux-Arts
 
@@ -22,8 +24,13 @@ Gilles Genty, historien de l'art,spécialiste des Nabis, commissaire d'expositio
 Auditorium du musée des Beaux-Arts  
 
 **Mercredi 8 mars**  
-14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture -**"Le paysage"**  
+14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture -  
+**"Le paysage"**  
 Musée des Beaux-Arts   
+
+**Jeudi 9 mars**  
+_Sortie à la journée_ : Antiquités grecques et romaines - musée du Louvre - Paris
+
 
 **Samedi 11 mars**  
 14h 30 : _Cycle Picasso_ , **"Le dernier Picasso"**  
@@ -62,20 +69,27 @@ Daniel Roger :Conservateur en chef du patrimoine, musée du Louvre
 Auditorium du musée des Beaux-Arts
 
 **Samedi 18 mars** :  
-14h30 et 16h : _Une heure au Musée_ - **"Jean-Francis Auburtin (1866-1930) un symboliste méconnu"** ,  
+14h30 et 16h : _Une heure au Musée_  
+ **"Jean-Francis Auburtin (1866-1930) un symboliste méconnu"** ,  
 Musée des Beaux-Arts.
 
 **Lundi 20 mars**  
 17h : _Cycle "Grands Musiciens"_ 2éme conférence  **"Beethoven , Musicien de la liberté"**  
 Auditorium du musée des Beaux-Arts
 
-**Mardi 21 mars**
+**Mardi 21 mars**  
 14h30 et 17h :_Symbolisme-Japonisme-Art Nouveau_ -  
 **"La Russie du symbolisme à l'abstraction: Vroubel , Kandinsky, Malevitch"**  
 Corinne Laouès, conférencière, doctorante en histoire de l'art à Paris 1  
 Auditorium du musée des Beaux-Arts   
 
-**Samedi 25 mars**  
+**Vendredi 24 mars**  
+15h : _Les vendredis de la Metropole_   
+**"Rouen et la Seine d'aval, des origines à la Renaissance,socle patrimonial et notre grandeur maritime"**,  
+Dr Jacques Bocquet, Président Des Amis du Musée Maritime 
+Auditorium musée des Beaux-Arts
+
+**Samedi 25 mars**    
 14h 30 : _Cycle Picasso_ , **"Julio Gonzalez et Picasso, une amitié de fer"**  
 Anne-Charlotte Cathelineau : conservatrice, Réunion des MuséesMétropolitains Rouen  
 Auditorium du musée des Beaux-Arts
