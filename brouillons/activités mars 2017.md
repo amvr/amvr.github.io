@@ -1,11 +1,11 @@
 ##Activités mars 2017
 
 **Mercredi 1er mars**  
-14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture-**"Les scènes de genre"**  
+14h30 : _Initiation à l'histoire de l'art_ - Cycle III : Les genres en peinture-**"Les scènes de genre"**  
 Musée des Beaux-Arts   
 
 **Jeudi 2 mars**  
-14h30 et 16h : _Visite guidée de l'exposition "Masséot Abaquesne"_-  
+14h30 et 16h : _Visites guidées de l'exposition "Masséot Abaquesne"_-  
 Musée de la Céramique 
 
 **Vendredi 3 mars**  
