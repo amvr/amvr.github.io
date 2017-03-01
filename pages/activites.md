@@ -8,9 +8,10 @@ published: true
 
 [Télécharger le dépliant complet pour la saison 2016-2017](/fichiers/brochure-2016-2017.pdf)  
 
-##Activités mars 2017
 
-**Mercredi 1er mars**  
+## Activités mars 2017
+
+*Mercredi 1er mars**  
 14h30 : _Initiation à l'histoire de l'art_ - Cycle III : Les genres en peinture-  
 **"Les scènes de genre"**  
 Musée des Beaux-Arts   
@@ -25,8 +26,7 @@ Musée de la Céramique
 Daniel Roger :Conservateur en chef du patrimoine, musée du Louvre  
 Auditorium du musée des Beaux-Arts
 
-  
-
+ 
 **Mardi 7 mars**
 14h30 et 17h :_Symbolisme-Japonisme-Art Nouveau_ -  
 **"Les chants d'inquiétudes du symbolisme nordique autour de Munch"**  
@@ -63,10 +63,6 @@ Auditorium du musée des Beaux-Arts
 **Mercredi 15 mars**  
 14h30 : _Initiation à l'histoire de l'art_ - Cycle III : les genres en peinture -**"La nature morte"**  
 Musée des Beaux-Arts  
-
-
-
-
 
 **Jeudi 16 mars** :  
 14h30 et 16h : _Une heure au Musée_ - **"Jean-Francis Auburtin (1866-1930) un symboliste méconnu"** ,  
