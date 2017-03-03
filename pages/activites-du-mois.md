@@ -53,6 +53,7 @@ Salle du Jubé - musée de Beaux-Arts
 
 **Lundi 13 mars**  
 17h : _Cycle "Grands Musiciens" 1 ere conférence_ **"Beethoven , Musicien de la liberté"**  
+Conférencier : Eric Bennett  
 Auditorium du musée des Beaux-Arts
 
 **Mercredi 15 mars**  
@@ -79,7 +80,8 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts.
 
 **Lundi 20 mars**  
-17h : _Cycle "Grands Musiciens"_ 2éme conférence  **"Beethoven , Musicien de la liberté"**  
+17h : _Cycle "Grands Musiciens"_ 2éme conférence  **"Beethoven , Musicien de la liberté"**   
+Conférencier : Eric Bennett   
 Auditorium du musée des Beaux-Arts
 
 **Mardi 21 mars**  
@@ -101,7 +103,5 @@ Auditorium du musée des Beaux-Arts
 
 **Lundi 27 mars**  
 17h : _Cycle "Grands Musiciens"_ 3ème conférence **"Beethoven , Musicien de la liberté"**  
-Auditorium du musée des Beaux-Arts  
-
-
-
+Conférencier : Eric Bennett   
+Auditorium du musée des Beaux-Arts
