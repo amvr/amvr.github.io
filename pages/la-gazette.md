@@ -11,7 +11,7 @@ L’association publie chaque année un bulletin conçu avec l’association des
 La Gazette offre un regard croisé des initiatives havraises et rouennaises. Elle donne une ouverture complémentaire aux Amis, facilite les échanges et les rencontres. En suscitant la curiosité, elle incite à la découverte réciproque.
 
 L'Association des Amis des Musées de Rouen met à votre disposition quelques éditions précédentes (format PDF) : 
- -![Téléchargez l'édition 2016](https://mail.google.com/mail/u/0/?ui=2&ik=a6634b9dad&view=att&th=15aa40fb40f2d55c&attid=0.1&disp=inline&safe=1&zw)
+ -![Téléchargez l'édition 2017](https://mail.google.com/mail/u/0/?ui=2&ik=a6634b9dad&view=att&th=15aa40fb40f2d55c&attid=0.1&disp=inline&safe=1&zw)
  - [Téléchargez l'édition 2016](/fichiers/gazette/gazette_2016.pdf)
  - [Téléchargez l'édition 2015](/fichiers/gazette/gazette_2015.pdf)
  - [Téléchargez l'édition 2013](/fichiers/gazette/gazette_2013.pdf)
