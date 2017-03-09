@@ -3,28 +3,20 @@ title: Mécénat
 published: true
 ---
 ## 2016  
- 
-Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815)  
-**« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).![Dame au chapeau noir](![DESHAYS DE COLLEVILLE.jpg]({{site.baseurl}}/fichiers/DESHAYS DE COLLEVILLE.jpg)
- Ce tableau a été restauré et est accroché au MBA.  
 
-**Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillés de cuivre, ils faisaient partie de la fontaine monumentale érigée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.![Restauration des réverbères](![Réverbère Fond gris.jpg]({{site.baseurl}}/fichiers/Réverbère Fond gris.jpg)
- Œuvre de l’architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s’organisait autour d’un escalier monumental semi-circulaire entourant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrés au monument, spécialement dessinés aux armes de la ville et surmontés d’un globe de verre.
+Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).
+![Dame au chapeau noir]({{site.baseurl}}/fichiers/oeuvres/2016-deshays-de-colleville.jpg)
+ Ce tableau a été restauré et est accroché au Musée des Beaux-Arts.  
 
+**Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillés de cuivre, ils faisaient partie de la fontaine monumentale érigée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.
+![Restauration des réverbères]({{site.baseurl}}/fichiers/oeuvres/2016-reverbere.jpg)
+Œuvre de l’architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s’organisait autour d’un escalier monumental semi-circulaire entourant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrés au monument, spécialement dessinés aux armes de la ville et surmontés d’un globe de verre.
 
-**« David et Goliath »**, de Philippe-Auguste Jeanron (1808-1877),[Jeanron David et Goliath]![Jeanron David et Goliath.jpg]({{site.baseurl}}/fichiers/Jeanron David et Goliath.jpg)
- un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D’où l’intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ».  
+**« David et Goliath »**, de Philippe-Auguste Jeanron (1808-1877), un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D’où l’intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ».
+![Jeanron David et Goliath.jpg]({{site.baseurl}}/fichiers/oeuvres/2016-jeanron-david-et-goliath.jpg)
 
 **1ere Nuit des étudiants le 31 mars 2016** : organisée en collaboration avec la Métropole et le Conservatoire de Rouen à rayonnement régional. Soirée très festive avec de nombreuses animations. On a compté 718 étudiants dans les salles du MBA, qui, pour certains, entraient dans ce musée pour la première fois.
 
-
-
-
-
-   
-   
-   
-   
 ## 2015
 
 [*Douze Rotoreliefs*](/pages/mecenat/2015-duchamp.html) de **Marcel Duchamp**, datant de 1953. Ces disques optiques recto-verso en couleurs de 20 cm de diamètre étaient destinés à être vus sur un phonographe tournant à 33 tours/minute. Ils viennent compléter le fonds des frères Duchamp que possède le Musée des Beaux-Arts, en vue de l’exposition prévue en 2018.
