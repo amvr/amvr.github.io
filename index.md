@@ -14,6 +14,14 @@ published: true
 ****
 ## FLASH INFO  
 
+### Le 6 avril :  
+Nous sommes heureux d'ouvrir le musée  à partir de 19h et d'inviter les étudiants à  
+la **2ème _"Nuit des étudiants"_au musée des Beaux-Arts **  
+
+  
+  
+
+
 
 **_### Le 20 février, nous avons inscrit notre 1001eme adhérent !!_**  
 
