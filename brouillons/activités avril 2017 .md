@@ -2,23 +2,6 @@
 
  
 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
- 
-
 **Lundi 3 avril**  
 12h15 :_Midi-Musée-Musique_,  
 **"Rendez vous avec les classes de musique de chambre du conservatoire de Rouen"**,  
@@ -30,7 +13,9 @@
 Auditorium du musée des Beaux-Arts
 
 
-
+**Jeudi 6 avril**  
+A partir de 19h : **2ème Soirée:"Nuits des étudiants"**  
+Musée des Beaux-Arts
 
 
 
