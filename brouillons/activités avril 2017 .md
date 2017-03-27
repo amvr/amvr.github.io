@@ -1,6 +1,7 @@
 ## activités avril 2017
 
- 
+ **Lundi 3 avril**  
+_Sortie à la journée_ : Vermeer et les maîtres de la peinture de genre - Musée du Louvre.
 
 **Lundi 3 avril**  
 12h15 :_Midi-Musée-Musique_,  
@@ -9,26 +10,29 @@
 
 
 **Lundi 3 avril**  
-16h : _Monuments parisiens : Art et Histoire_ , **St Etienne du Mont et le Panthéon**  
-Auditorium du musée des Beaux-Arts
+16h et 18h : _Monuments parisiens : Art et Histoire_ , **St Etienne du Mont et le Panthéon** par Jean-Pierre Hascoët, conférencier national. 
+Auditorium du musée des Beaux-Arts  
+
 
 
 **Jeudi 6 avril**  
-A partir de 19h : **2ème Soirée:"Nuits des étudiants"**  
-Musée des Beaux-Arts
-
+De 19h à 23h : _Nuit des étudiants_ Musée des Beaux-Arts
 
 
 **Jeudi 27 avril** :  
 14h30 et 16h : _Une heure au Musée_ - **"Julio Gonzalez(1876 Barcelone-1842 Arcueil)"** ,  
 Visite de l'exposition
-Musée Le secq des tournelles.   
+Musée Le Secq des Tournelles.  
+
+**Vendredi 28 avril** :
+15h : _Les vendredis de la Métropole_ : conférence "Un musée à double vocation, original et méconnu", par Sophie Dormoy, responsable des collections du musée Flaubert - 
+Auditorium du musée des Beaux-Arts.
 
 
 **Samedi 29 avril** :  
 14h30 et 16h : _Une heure au Musée_ - **"Julio Gonzalez(1876 Barcelone-1842 Arcueil)"** ,  
 Visite de l'exposition
-Musée Le secq des tournelles. 
+Musée Le Secq des Tournelles. 
 
 
 
