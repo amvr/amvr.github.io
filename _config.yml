@@ -1,6 +1,6 @@
 # Site settings
 title: Association des Amis des Musées de la Ville de Rouen
-description: 
+description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://amis-musees-rouen.fr" # the base hostname & protocol for your site
 permalink: /:title.html
@@ -33,6 +33,7 @@ prose:
     - CNAME
     - README.md
     - .gitignore
+    - .jekyll-metadata
     - /_layouts
     - /_plugins
   media: "fichiers"
