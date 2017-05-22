@@ -14,7 +14,7 @@ Il s’agit d’un somptueux service à thé sorti des ateliers de la Manufactur
 Ce service à thé vraiment exceptionnel est actuellement la propriété d’un collectionneur américain. Sa rareté et ses illustrations donnent à penser qu’il serait une pièce majeure pour notre musée de la céramique à Rouen.
 Le prix d’acquisition étant très élevé, la RMM a demandé aux AMVR de participer à l’acquisition, et nous allons y contribuer pour 50 000€. La Métropole Rouen Normandie et d’autres fonds publics y contribueront également.
 
-**Une souscription limitée à 10 000 € est lancée et prendra fin le 30 juillet 2017. [Télécharger le bulletin de souscription ](/fichiers/170510-acquisition-service-a-the.pdf) qui vous permettra d’apporter, si vous le souhaitez, votre participation à cette importante acquisition.**
+**Notre objectif est d'atteindre 10 000 €. La souscription est lancée et prendra fin le 30 juillet 2017. [Télécharger le bulletin de souscription ](/fichiers/170510-acquisition-service-a-the.pdf) qui vous permettra d’apporter, si vous le souhaitez, votre participation à cette importante acquisition.**
 
 <a name="photos"></a>
 
