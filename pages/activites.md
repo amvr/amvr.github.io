@@ -6,7 +6,7 @@ published: true
 
 ## Programme
 
-[Télécharger le dépliant complet pour la saison 2017-2018](/fichiers/AMVR/AMVR brochure 2017 2018)
+[Télécharger le dépliant complet pour la saison 2017-2018](/fichiers/google drive/AMVR brochure 2017 2018)
 
 
 ## Nuit des étudiants 2016-2017 
