@@ -160,7 +160,72 @@ Rendez-vous avec les classes de musique de chambre du Conservatoire de Rouen à 
 Salle du Jubé
 
 Tarif adhérent : Forfait à 45€ le cycle de 5 concerts
-Tarif hors forfait par concert : 10€/adhérent –  adhérent moins de 26 ans/gratuit - 12€/non adhérent – 5€/ non adhérent moins de 26 ans. Gratuit pour les demandeurs d’emploi. 
+Tarif hors forfait par concert : 10€/adhérent –  adhérent moins de 26 ans/gratuit - 12€/non adhérent – 5€/ non adhérent moins de 26 ans. Gratuit pour les demandeurs d’emploi.   
+
+  
+  Page 6   Plaquette AMVR 2017/2018
+
+**LES VENDREDIS DE LA MÉTROPOLE**
+
+Ce cycle de trois conférences est le fruit d’une étroite collaboration entre les AMVR et les AMMD-SM.
+Comme l’an dernier, les responsables de trois musées situés sur le territoire de la Métropole vous exposeront avec enthousiasme les résultats de leurs recherches, travaux et réflexions sur ces lieux de culture riches de leur passé.
+-En février 2018, Nicolas Coutant viendra nous entretenir du Musée de l’Education (Munaé), et la conférence sera suivie d’une visite guidée des collections du centre ressource du Musée (plus de  950 000 pièces !).
+-En mars 2018, la Directrice du F.R.A.C, Véronique Souben , nous parlera de l’Art contemporain en Normandie, ce qui sera peut-être l’occasion de revenir sur la très belle exposition présentée au Musée des Antiquités.
+-En mai 2018, nous évoquerons le Musée Pierre Corneille de Petit-Couronne grâce à une formule inhabituelle intitulée « Sur le bout de la langue » : il s’agira, au cours d’une narration de la vie du dramaturge, de présenter des extraits de tragédies de Pierre Corneille interprétées par de jeunes acteurs.
+Les dates précises vous seront communiquées ultérieurement.
+Les conférences ont lieu à 15 h à l’auditorium du Musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
+ L’entrée est libre et gratuite dans la limite des places disponibles.
+                                                                 *************************
+Voyages de la saison 2017/2018
+-	28 septembre au 1er octobre 2017 : Hambourg- Brême- Worpswerde – Découverte des peintres expressionnistes nord-allemands.
+-	12 au 15 avril 2018 : Musées en Provence : Avignon, Aix et Marseille
+-	15 au 18 juin 2018 : Escapade culturelle à Edimbourg
+  
+    
+    Page 7     Plaquette AMVR 2017/2018
+**Les Arts décoratifs en Europe**
+_**Expérimenter la modernité : les Arts Décoratifs en Europe de 1850 à 1920**_
+Cycle de 6 conférences le samedi de 14h30 à 16h à l’auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet.
+
+La 6e édition du Temps des collections se tiendra du 24 novembre 2017 au 20 mai 2018. Dans ce cadre une exposition autour des Arts décoratifs sera organisée avec le musée d’Orsay dans les trois musées : le mouvement « Arts and Crafts » au musée des Beaux-Arts, Emile Gallé au musée de la Céramique et Hector Guimard au musée Le Secq des Tournelles.
+
+1 - Samedi 13 janvier 2018
+ Les Revivals au XIXe siècle
+Audrey Gay-Mazuel
+Conservateur du patrimoine, musée des Arts Décoratifs Paris
+
+2 - Samedi 20 janvier 2018
+Le mouvement Arts and Crafts
+Aurélie Petiot
+Maître de conférences à l’Université Paris Nanterre
+
+3 - Samedi 27 janvier 2018
+L’atelier de l’utopie : la Wiener Werkstätte et la Sécession viennoise
+Diederik Bakhuÿs
+Conservateur, musée des Beaux-Arts, Rouen
+
+4 - Samedi 10 février 2018
+Ferronnerie et Art nouveau
+Anne-Charlotte Cathelineau
+Conservateur du patrimoine, Conservation des œuvres d’art civiles et religieuses de la Ville de Paris
+
+5 - Samedi 24 mars 2018
+Christopher Dresser, le premier designer industriel
+Audrey Gay-Mazuel
+Conservateur du patrimoine, musée des Arts Décoratifs Paris
+
+6 - Samedi 7 avril 2018
+Sur les pas de Sir Edwin Lutyens et Miss Gertrude Jekyll au Bois des Moutiers
+Antoine Bouchayer-Mallet
+Directeur du Bois des Moutiers
+
+
+
+Tarif adhérent : Forfait à 45€ pour le cycle de 6 conférences
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant
+
+
+
 
 
 
