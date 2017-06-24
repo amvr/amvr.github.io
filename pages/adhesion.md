@@ -122,7 +122,7 @@ Forfait : 35€ (Gratuit le samedi pour les demandeurs d’emploi)
 
  Au cycle de 6 conférences « Art et Pouvoir dans les cours de la Renaissance italienne » (lundi) :  16h           18h     Forfait : 45€
 
-       Au cycle de 3 conférences « Lumières d’Extrême-Orient » (mardi) : Forfait : 22€ 
+ Au cycle de 3 conférences « Lumières d’Extrême-Orient » (mardi) : Forfait : 22€ 
  
  Au cycle de 5 conférences « Aspects du romantisme européen » (mardi) -  Forfait : 35€ 
 
