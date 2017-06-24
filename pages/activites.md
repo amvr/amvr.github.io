@@ -1,5 +1,5 @@
 ---
-title: activités de la saison 2017-2018
+title: Activités de la saison 2017-2018
 published: true
 ---
 
