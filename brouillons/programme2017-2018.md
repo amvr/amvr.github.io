@@ -222,7 +222,29 @@ Directeur du Bois des Moutiers
 
 
 Tarif adhérent : Forfait à 45€ pour le cycle de 6 conférences
-Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
+
+
+Page 8                    Plaquette AMVR 2017/2018
+
+**Cycle « Le christianisme des origines »**
+Cycle de 3 conférences à l’auditorium du Musée des Beaux-Arts.
+Par Marie-Agnès Bennett, chargée de cours à l’Université inter-âges de Paris 13
+Comment cette religion qui n’apparaissait au début que comme une secte juive s’est-elle imposée au monde romain jusqu’à devenir, malgré les vagues de persécutions, la religion officielle des empereurs et même des barbares ? De quel message nouveau était-elle porteuse auprès des hommes de ce temps ? Nous verrons comment l’introduction du christianisme fut préparée par l’expansion des cultes à mystères orientaux au sein de l’empire et comment la gnose tenta de proposer un syncrétisme entre la philosophie grecque et les dogmes chrétiens. Si l’existence historique de Jésus de Nazareth est attestée par les historiens, pourquoi sa doctrine a-t-elle fait très tôt l’objet d’hérésies au point qu’il fallut réunir des conciles auxquels les catholiques actuels se réfèrent encore aujourd’hui ? C’est à ces questions que nous tenterons de répondre au cours de ces conférences. 
+Lundi 25 septembre de 17h à 18h30 : une secte juive qui devient religion
+Lundi 9 octobre de 17h à 18h 30 : l’expansion au sein de l’empire romain
+Lundi 16 octobre de 10h 30 à 12h : le triomphe du christianisme
+
+**Cycle « Grands musiciens » : Chopin, poète du piano**
+Cycle de 3 conférences à l’auditorium du Musée des Beaux-Arts.
+Par Eric Bennett, chargé de cours à l’Université inter-âges de Paris 13
+Lorsque Robert Schumann termine un article sur un Chopin de vingt ans par la formule restée célèbre : « Chapeaux bas, Messieurs, un génie ! », il salue en même temps le pianiste prodige et le compositeur précoce. Devenu une figure de la vie musicale parisienne et du cénacle romantique, le jeune Polonais passe les étés à Nohant, chez George Sand, où il trouve la paix propre à la création ; il égrène dans ses compositions tantôt la mélancolie d’une âme à vif, tantôt les aspirations héroïques du peuple polonais humilié. Après une tournée épuisante en Angleterre et en Ecosse, rongé par la tuberculose, il meurt à Paris à 39 ans. Incomparable inventeur de mélodies, Chopin incarne à lui seul le piano romantique. 
+Lundi 12 mars 2018 à 17h
+Lundi 19 mars 2018 à 17h
+Lundi 26 mars 2018 à 17h
+
+Tarifs pour les adhérents : Forfait à 22€ pour chaque cycle de 3 conférences.
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non-adhérent- 5€/étudiant
 
 
 
