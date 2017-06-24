@@ -2,7 +2,7 @@
 
 Page 3 – Plaquette AMVR 2017/2018
 
-INITIATION A L’HISTOIRE DE L’ART
+### INITIATION A L’HISTOIRE DE L’ART
 3 cycles
 Ces visites-conférences d’une heure environ, données par les conférenciers du musée des Beaux-Arts, sont destinées à ceux qui veulent mieux comprendre les œuvres, acquérir des éléments d’histoire de l’art et avoir davantage de plaisir au musée. Les visites ont lieu dans les salles du musée, face aux oeuvres. Le cycle 1 est chronologique et donne une vue générale de l'histoire de l'art. Le cycle 2 permet d'aborder la peinture du XIXe siècle. Le cycle 3 propose la découverte de quelques chefs d'oeuvre du musée.
 Toutes les conférences de l’initiation ont lieu au musée des Beaux-Arts 
