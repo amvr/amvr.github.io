@@ -6,7 +6,7 @@ published: true
 
 ## Programme
 
-[Télécharger le dépliant complet pour la saison 2017-2018](/fichiers/brochure2017.pdf)
+[Télécharger le dépliant complet pour la saison 2017-2018](/fichiers/brochure2017-2018.pdf)
 
 
 ## Nuit des étudiants 2016-2017 
