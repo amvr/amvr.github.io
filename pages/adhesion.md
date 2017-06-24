@@ -31,7 +31,10 @@ En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collecti
  - Les sorties dans les grandes expositions à Paris et en région
  - 5% de réduction à la librairie du musée des Beaux-Arts
 
-## Comment adhérer ?  
+## Comment adhérer ?##
+
+
+ 
 **BULLETIN D’ADHÉSION**
 aux AMVR pour la saison  2017-2018
 
