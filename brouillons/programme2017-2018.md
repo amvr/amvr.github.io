@@ -45,8 +45,8 @@ Les divergences de la fin du siècle
 
 
 
-Cycle 3 : A la découverte des chefs d'oeuvre du musée des Beaux-Arts- 
-hiver 2018, le mercredi à 14h 30
+**Cycle 3 : A la découverte des chefs d'oeuvre du musée des Beaux-Arts- 
+hiver 2018, le mercredi à 14h 30**
 
 1- Mercredi 24 janvier 2018
 Gérard David : La Vierge entre les vierges
@@ -66,7 +66,108 @@ Claude Monet : Portail de la Cathédrale, temps gris
 
 
 Tarif adhérent :  Forfait à 20€ par cycle de 5 visites-conférences. 
-Tarif hors forfait par visite-conférence : 5€/adhérent – gratuit pour les adhérents de moins de 26 ans - 7€/non adhérent – Gratuit / étudiants et demandeurs d’emploi
+Tarif hors forfait par visite-conférence : 5€/adhérent – gratuit pour les adhérents de moins de 26 ans - 7€/non adhérent – Gratuit / étudiants et demandeurs d’emploi  
+
+
+  
+  Page 4  - Dépliant 2017/2018      Amis des musées de Rouen	
+### UNE HEURE AU MUSÉE 
+
+Une heure au musée pour porter un autre regard sur les collections permanentes, et être au coeur de l'actualité des musées : expositions temporaires, acquisitions.  Ces visites ont lieu dans les musées, face aux oeuvres, et sont assurées par les conférenciers du musée. 
+Le jeudi à 14h30 et 16h, le samedi à 14h30 et 16h.
+Durée : une heure environ.
+Rendez-vous à l’entrée du musée indiqué.
+   
+1 - Jeudi 5 et samedi 7 octobre 2017
+Les vanités
+Musée des Beaux-Arts
+
+2 - Jeudi 16 et samedi 18 novembre 2017
+Images du pouvoir dans la peinture
+Musée des Beaux-Arts
+
+3 - Jeudi 7 et samedi 9 décembre 2017
+Le dessin français aux XVIe et XVIIe siècles
+Musée des Beaux-Arts
+
+4 - Jeudi 11 et samedi 13 janvier 2018
+Les Arts Décoratifs du musée d'Orsay
+Les Arts and Crafts
+Musée des Beaux-Arts
+
+5 - Jeudi 1er et samedi 3 février 2018
+Hector Guimard et l'Art Nouveau
+Musée le Secq des Tournelles
+
+6 - Jeudi 15 et samedi 17 mars 2018
+Emile Gallé et l'Art Nouveau
+Musée de la Céramique
+
+7- Jeudi 5 et samedi 7 avril 2018
+Géricault
+Musée des Beaux-Arts
+
+8 - Jeudi 24 et samedi 26 mai 2018
+Delacroix
+Musée des Beaux-Arts
+
+Tarif adhérent :  Forfait à 35€  pour les 8 visites-conférences- Gratuit le samedi pour les demandeurs d’emploi.
+Tarif hors forfait par visite-conférence : 5€/adhérent – gratuit pour les adhérents de moins de 26 ans - 7€/non adhérent – 2€/moins de 26 ans – Gratuit le samedi pour les demandeurs d’emploi  
+
+
+Page 5 – Plaquette 2017/2018 AMVR
+
+**MIDI MUSÉE MUSIQUE**
+
+Cinq lundis dans l’année, de 12h15 à 13h15, à l’auditorium du musée des Beaux-Arts, ou dans la salle du Jubé du musée des Beaux-Arts.
+
+1 - Lundi 20 novembre 2017
+Duo piano violon
+Axel Trollese, piano ; Teira Yamashita, violon
+Beethoven : Variations sur « se vuol ballare » de Mozart Wo40
+Brahms : Sonate pour violon et piano n°1 en sol majeur op.78
+Debussy : Sonate pour violon et piano
+Auditorium
+
+2- Lundi 11 décembre 2017
+Récital de piano par Kanae Endo  
+Grieg :  Suite « Au temps de Holberg »
+Prélude, Sarabande, Gavotte, Air, Rigaudon
+Borodine : Petite Suite, Au Couvent, Intermezzo, Mazurka I, Mazurka II, Rêverie, Sérénade, Nocturne
+Chopin :  Grande Valse brillante en fa majeur, Op.34 n°3
+Valse en ut dièse mineur Op.64 n°2
+Tarentelle en la bémol majeur Op. 43
+Auditorium
+
+3 - Lundi 15 janvier 2018
+Quatuor Yako
+Ludovic Tilly, violon ; Pierre Maestra, violon
+Vincent Verhoeven, alto ; Alban Lebrun, contrebasse
+Haydn : op.74/3 « Le Cavalier »
+Philip Glass : Quatuor n°2
+Ravel : Quatuor
+Auditorium
+
+4 - Lundi 19 mars 2018
+Duo Piacevole
+Jean-François Simoine, flûte
+Béatrice Guillermin, harpe
+J.S. Bach, Donizetti, Ravel, Bartok
+Salle du Jubé
+
+5 - Lundi 09 avril 2018
+Rendez-vous avec les classes de musique de chambre du Conservatoire de Rouen à rayonnement régional.
+Salle du Jubé
+
+Tarif adhérent : Forfait à 45€ le cycle de 5 concerts
+Tarif hors forfait par concert : 10€/adhérent –  adhérent moins de 26 ans/gratuit - 12€/non adhérent – 5€/ non adhérent moins de 26 ans. Gratuit pour les demandeurs d’emploi. 
+
+
+
+###  
+
+
+
 
 
 Enter text in [initiation2017-2018](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
