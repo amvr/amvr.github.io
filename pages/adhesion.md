@@ -144,4 +144,4 @@ Demandeur d’emploi : gratuit
 Tarifs pour chaque conférence de tous les cycles :
 Adhérents : 8€  Non adhérents : 10€   Etudiants : 5€
 
- - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/adhesion-2016-2017.pdf)
+ - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/)
