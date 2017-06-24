@@ -244,7 +244,239 @@ Lundi 19 mars 2018 à 17h
 Lundi 26 mars 2018 à 17h
 
 Tarifs pour les adhérents : Forfait à 22€ pour chaque cycle de 3 conférences.
-Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non-adhérent- 5€/étudiant
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non-adhérent- 5€/étudiant  
+
+
+Page 9                       Plaquette AMVR 2017/2018
+
+**Art et Pouvoir dans les cours de la Renaissance italienne** 
+
+Parallèlement aux prestigieux foyers de la Renaissance qu'ont été Florence, Venise et Rome, les cours princières italiennes ont fait preuve d'un dynamisme créateur fascinant. La Ferrare des Este, la Mantoue des Gonzague, tout aussi bien que la cour de Naples, celles d’Urbino ou de Milan ont rivalisé de raffinement et de splendeur. L'art devient alors un formidable instrument du pouvoir princier à la veille des guerres d’Italie.
+
+Cycle de 6 conférences à l’auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
+Claire Grébille, guide conférencière nationale, assurera les conférences n° 1, 2, 3, 4 et 6. Hélène Decis-Lartigau, musicologue, donnera la conférence n°5.
+
+Deux horaires : 16h ou 18h
+
+
+1- Lundi 23 octobre 2017 
+Le palais, architecture et décor 
+
+2 - Lundi 6 novembre 2017
+La représentation du Prince 
+
+3 - Lundi 13 novembre 2017 
+L'artiste courtisan 
+
+4 - Lundi 27 novembre 2017 
+Les fêtes et la diplomatie 
+
+5 - Lundi 4 décembre 2017 :
+" Un Prince et ses musiciens " 
+
+6 - Lundi 11 décembre 2017 
+La collection et le « studiolo » 
+
+
+
+Tarif adhérent : Forfait à 45€ pour le cycle de 6 conférences  
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
+
+Page 10 –         Plaquette AMVR 2017/2018
+
+**ASPECTS DU ROMANTISME EUROPÉEN 1760-1860**
+ « L’art et la poésie antique n’admettent jamais le mélange des genres et des choses les plus opposées ».
+Ces quelques mots prononcés par A. Schlegel lors de son cours de littérature dramatique en 1816 révèlent ce nouveau courant né à la fin du XVIIIe siècle, qui fait prévaloir le sentiment sur la raison et l’imagination sur l’analyse critique.
+Cycle de 5 conférences par Sybille Bellamy-Brown, historienne d’art – Auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
+Le mardi de 14h30 à 16h 
+
+1-	Mardi 16 janvier 2018 
+Le romantisme noir de Francisco de Goya (1746-1828)
+
+2-	Mardi 23 janvier 2018
+Le romantisme allemand : Caspar David Friedrich (1774-1840), K.F Schinkel…
+
+3-	Mardi 6 février 2018 
+Théodore Géricault (1791-1824) et le salon de 1812
+
+4-	Mardi 20 mars 2018
+ Eugène Delacroix (1798-1863) et les romantiques français
+
+5-	Mardi 27 mars 2018 
+La lumière de Joseph Mallord William Turner (1775-1851) 
+
+
+
+Tarif adhérent : Forfait à 35€ pour le cycle de 5 conférences  
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
+
+Page 11               Plaquette AMVR 2017/2018
+**LUMIERES D’EXTRÊME-ORIENT**
+Il est difficile de dissocier les Arts d’Extrême-Orient des spiritualités et des courants philosophiques qui leur ont donné naissance. Au cours d’un cycle conçu en partenariat avec l’Association des Amis d’Orient, nous tenterons une approche pluraliste de lieux emblématiques  (Angkor, Xi’an et Kyoto) en y associant l’aspect artistique et philosophique (Enigme khmère, Confucianisme, Taoïsme et Bouddhisme).
+Envisagé comme un cycle découverte, présenté par d’éminents spécialistes dans leur domaine, il préfigure une approche plus complète de l’Art Bouddhique.
+Cycle de 3 conférences à l’Auditorium du Musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
+Horaire : 14h30 à 16h.
+Mardi 13 mars 2018 
+Angkor , la forêt de pierre
+Françoise Capelle, de l’école du Louvre, licenciée en histoire de l’art, Docteur en archéologie (Paris I)
+
+Mardi 10 avril 2018 
+Kyoto et le pluralisme religieux japonais 
+François Lachaud, spécialiste de bouddhisme et de civilisation japonaise, Directeur d’études à l’Ecole Française d’Extrême-Orient (E.F.E.O)
+
+Mardi 17 avril 2018 
+Xi’an, capitale de la Chine Impériale et Confucianisme
+Christine Kontler, sinisante, membre du Centre de recherches sur l’Extrême-Orient de Paris-Sorbonne (C.R.E.O.P.S)
+
+Tarifs adhérent : Forfait 22€ pour ce cycle de 3 conférences.
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non-adhérent- 5€ /étudiant  
+
+
+Page 12                Plaquette AMVR 2017/2018
+
+**Mythes peints , mythes sculptés** 
+ Des dieux et des héros grecs, aux banquets et aux frontons des temples 
+
+La mythologie grecque, familière à tous , n' est pas un texte révélé, réuni dans un seul ouvrage, mais la somme de traditions orales reprises et développées par Homère, Hésiode et les tragiques.
+L' iconographie de ces mythes, leur mise en image, fournit un répertoire fécond aux artistes grecs pour les vases, les autels ou les temples, offrant des messages riches de sens, pouvant varier selon les contextes ou les époques de réalisation.
+Un épilogue romain permettra de mettre en regard les usages de ceux qui apprirent tant à l'école des Grecs, tout en renouvelant largement l'usage des images.
+
+Cycle de 5 conférences à l’auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
+
+Deux horaires : 16h ou 18h
+
+
+1 -  Vendredi 10 novembre 2017
+Introduction : Des héros au banquet, le développement des cycles épiques dans la céramique attique du VIe siècle av. J.C.
+Ludovic Laugier, Conservateur au musée du Louvre 
+
+2 - Vendredi 24 novembre 2017
+ Le calme et la fureur au fronton des temples. De Corfou à Olympie, épopée et mythes fondateurs aux VIe et  Ve siècles av. J.C.
+ Isabelle Hasselin, Conservateur au musée du Louvre 
+
+3 - Vendredi 1er décembre 2017
+Le Parthénon et l’Athéna Parthénos, la mythologie grecque au service de la Cité 
+Isabelle Hasselin, Conservateur au Musée du Louvre 
+
+4 – Vendredi 8 décembre 2017
+Mythes et idéologie dynastique : l'autel de Pergame et les décors sculptés dans les royaumes hellénistiques
+Ludovic Laugier, Conservateur au musée du Louvre
+
+5 - Vendredi 15 décembre 2017
+Épilogue : mythe et politique à Rome, le monde des images et le pouvoir à l'époque impériale 
+Daniel Roger, Conservateur au musée du Louvre 
+
+
+Tarif adhérent : Forfait à 35€ pour le cycle de 5 conférences  
+Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
+
+
+ Page 13                            Plaquette 2017 – 2018 AMVR
+
+**La Renaissance allemande**
+
+La Renaissance se déploie dans les pays germaniques à partir de 1500 environ. Les artistes sont encore marqués par le style expressif du gothique finissant, mais l’art et la culture italiens prennent progressivement une place de plus en plus importante. C’est entre ces deux pôles opposés, la tradition gothique et la Renaissance italienne, que les grands artistes germaniques arrivent à faire une synthèse originale qui mérite qu’on s’y attarde.
+Cycle de 6 conférences par David Mandrella, professeur à l’Ecole du Louvre - A l’auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
+Deux horaires : 16h ou 18h
+1-	Vendredi 12 janvier 2018
+Introduction sur le XVe siècle dans les pays germaniques, et étude d’Albrecht Dürer : entre la tradition gothique et l’art italien.
+
+2-	Vendredi 19 janvier 2018
+Les arts à Nuremberg vers 1500 : sculpture, objets d’art et architecture
+
+3-	Vendredi 26 janvier 2018
+Hans Holbein père et fils
+
+4-	Vendredi 2 février 2018
+L’école du Danube
+
+5-	Vendredi 9 février 2018
+Lucas Cranach et son atelier
+
+6-	Vendredi 16 février
+La sculpture allemande de la Renaissance
+
+
+Un voyage d’application sera organisé en Bavière à l’automne 2018
+
+
+Tarif adhérent : Forfait à 45€pour le cycle de 6 conférences
+Tarif hors forfait pour chaque conférence : 8€ /adhérent – 10€/ non-adhérent – 5€/ étudiant  
+
+
+Page 14 – Plaquette 2017/2018
+**SORTIES**
+1 - Jeudi 21 septembre 2017 (après-midi)
+     Exposition « Eclats de verre »
+     Château de Martainville
+
+2 - Jeudi 12 octobre 2017
+    Derain, Balthus & Giacometti
+    Musée d’Art Moderne
+    Paris
+
+3 - Lundi 16 octobre 2017
+    Don Carlos –Opéra de Verdi
+    Opéra Bastille
+
+4 - Jeudi 16 novembre 2017
+    Gauguin, l’alchimiste
+    Le Grand Palais
+
+5 - Mercredi 13 décembre 2017
+     Chefs d’œuvre du MOMA
+     Fondation Louis Vuitton
+
+6 - Jeudi 18 janvier 2018
+      Derain, la période  fauve
+      Centre Pompidou
+
+7 - Jeudi 29 mars 2018
+     Musée Guimet 
+     En complément du cycle « Lumières d’Extrême-Orient » page 11 
+
+8 - 1ère quinzaine avril 2018
+     Visite du château de Vincennes
+     Suite à la conférence du 9 janvier 2017 (cycle sur les monuments parisiens)
+
+9 - Dimanche 6 mai 2018
+     Concert :  9ème symphonie de Beethoven 
+     Direction de Gustavo Dudamel
+     Orchestre de Los Angeles
+     Philharmonie de Paris
+
+10 - Semaine du 22 au 26 juin 2018
+       Château et jardins
+       Marly
+
+11 - Semaine du 11 au 16 juin 2018
+       Histoire, littérature et jardins
+       Balade en Cotentin
+
+Ces dates sont données à titre indicatif sous réserve de l’accueil des sites.  
+
+
+Page 15 – Plaquette AMVR 2017/2018
+
+**MÉCÉNAT**  
+
+Depuis sa création, le mécénat est un des objectifs fondamentaux de notre Association. Notre statut permet d’avoir une souplesse et une réactivité qu’apprécient beaucoup nos Conservateurs du Patrimoine, qui nous signalent régulièrement telle œuvre, tel objet intéressant, au fil des ventes ou des catalogues… La liste des œuvres ainsi données à nos musées au titre du mécénat est longue, et nous n’en indiquerons sur cette page que les dernières années. Mais vous pouvez en trouver la liste et les images depuis 1992 sur notre site www.amis-musees-rouen.fr. 
+Depuis 5 ans, à titre d’exemple, nous avons réalisé des actions de mécénat pour un montant de 150.000 €. Cela est possible grâce à vous tous, nos adhérents, et au travail actif de nos bénévoles : soyez-en tous remerciés !
+
+.
+2012 : Impression du nouveau catalogue du musée de la Céramique : « Le biscuit et la glaçure ». Acquisition d’un petit tableau de Jacques Villon réalisé vers 1913, qui représente un coin de l'atelier de son frère, le sculpteur Raymond Duchamp-Villon.
+2013	: Une coupe en fer forgé et en verre début XXe siècle, signée de Ferdinand Marrou (1836-1917) – Une paire de lanternes de procession du XVIIe, italiennes, en tôle peinte et dorée – Une horloge lanterne française du XVIIe siècle en laiton, fer découpé et bronze.
+2014 : Acquisition du tableau « Le Christ en croix », d’Adrien Sacquespée, une figure capitale du milieu rouennais du XVIIe siècle, dont peu d’œuvres sont aujourd’hui connues. 
+2015 : 12 Rotoreliefs de Marcel Duchamp, datant de 1953, qui complètent le fonds des frères Duchamp que possède le MBA. Un dessin de Fernand Guey. Un pastel de Deshays de Colleville. Participation à la restauration des réverbères de la Fontaine Sainte-Marie. Participation à la 1e Nuit des étudiants du 31 mars 2016.
+2016 : « David et Goliath », un tableau de Philippe-Auguste Jeanron (1808-1877), un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D’où l’intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ». Une magnifique frise en ferronnerie du début XVIIe siècle qui trouvera sa place au musée Le Secq des Tournelles.
+
+Une souscription est en cours jusqu’au 30 juillet 2017 pour participer à l’acquisition d’un service en porcelaine de Sèvres datant de 1837 
+
+
+
+
+
+
 
 
 
