@@ -1,14 +1,16 @@
-## initiation2017-2018
+## Programme 2017-2018
 
-Page 3 – Plaquette AMVR 2017/2018
+### Page 3###
 
-### INITIATION A L’HISTOIRE DE L’ART
+– Plaquette AMVR 2017/2018
+
+**INITIATION A L’HISTOIRE DE L’ART**
 3 cycles
 Ces visites-conférences d’une heure environ, données par les conférenciers du musée des Beaux-Arts, sont destinées à ceux qui veulent mieux comprendre les œuvres, acquérir des éléments d’histoire de l’art et avoir davantage de plaisir au musée. Les visites ont lieu dans les salles du musée, face aux oeuvres. Le cycle 1 est chronologique et donne une vue générale de l'histoire de l'art. Le cycle 2 permet d'aborder la peinture du XIXe siècle. Le cycle 3 propose la découverte de quelques chefs d'oeuvre du musée.
 Toutes les conférences de l’initiation ont lieu au musée des Beaux-Arts 
 Groupes limités à 25 personnes.
 
-**Cycle 1 chronologique : le lundi à 14h30 et à 16h**
+_**Cycle 1 chronologique : le lundi à 14h30 et à 16h**_
 
 1- 9 octobre 2017
 La Renaissance
@@ -23,10 +25,10 @@ Le XVIIIe siècle français
 Le paysage au XIXe siècle
 
 5 - 8 janvier 2018
-L'art moderne
+L'art moderne  
 
-**Cycle 2 thématique : le mercredi à 14 h 30 et 16 h 
-La peinture au XIXe siècle******
+_**Cycle 2 thématique : le mercredi à 14 h 30 et 16 h
+La peinture au XIXe siècle**_
 
 1 - 11 octobre 2017
 Le néo-classicisme
@@ -45,9 +47,8 @@ Les divergences de la fin du siècle
 
 
 
-**Cycle 3 : A la découverte des chefs d'oeuvre du musée des Beaux-Arts- 
-hiver 2018, le mercredi à 14h 30**
-
+_**Cycle 3 : A la découverte des chefs d'oeuvre du musée des Beaux-Arts- 
+hiver 2018, le mercredi à 14h 30**_
 1- Mercredi 24 janvier 2018
 Gérard David : La Vierge entre les vierges
 
@@ -70,8 +71,9 @@ Tarif hors forfait par visite-conférence : 5€/adhérent – gratuit pour les 
 
 
   
-  Page 4  - Dépliant 2017/2018      Amis des musées de Rouen	
-### UNE HEURE AU MUSÉE 
+### Page 4###  
+
+**UNE HEURE AU MUSÉE**
 
 Une heure au musée pour porter un autre regard sur les collections permanentes, et être au coeur de l'actualité des musées : expositions temporaires, acquisitions.  Ces visites ont lieu dans les musées, face aux oeuvres, et sont assurées par les conférenciers du musée. 
 Le jeudi à 14h30 et 16h, le samedi à 14h30 et 16h.
@@ -115,7 +117,9 @@ Tarif adhérent :  Forfait à 35€  pour les 8 visites-conférences- Gratuit le
 Tarif hors forfait par visite-conférence : 5€/adhérent – gratuit pour les adhérents de moins de 26 ans - 7€/non adhérent – 2€/moins de 26 ans – Gratuit le samedi pour les demandeurs d’emploi  
 
 
-Page 5 – Plaquette 2017/2018 AMVR
+### Page 5###
+
+
 
 **MIDI MUSÉE MUSIQUE**
 
@@ -163,7 +167,9 @@ Tarif adhérent : Forfait à 45€ le cycle de 5 concerts
 Tarif hors forfait par concert : 10€/adhérent –  adhérent moins de 26 ans/gratuit - 12€/non adhérent – 5€/ non adhérent moins de 26 ans. Gratuit pour les demandeurs d’emploi.   
 
   
-  Page 6   Plaquette AMVR 2017/2018
+### Page 6###
+
+  
 
 **LES VENDREDIS DE LA MÉTROPOLE**
 
@@ -182,7 +188,10 @@ Voyages de la saison 2017/2018
 -	15 au 18 juin 2018 : Escapade culturelle à Edimbourg
   
     
-    Page 7     Plaquette AMVR 2017/2018
+   ### Page 7###
+
+       
+     
 **Les Arts décoratifs en Europe**
 _**Expérimenter la modernité : les Arts Décoratifs en Europe de 1850 à 1920**_
 Cycle de 6 conférences le samedi de 14h30 à 16h à l’auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet.
@@ -225,7 +234,9 @@ Tarif adhérent : Forfait à 45€ pour le cycle de 6 conférences
 Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
 
 
-Page 8                    Plaquette AMVR 2017/2018
+### Page 8###
+
+	
 
 **Cycle « Le christianisme des origines »**
 Cycle de 3 conférences à l’auditorium du Musée des Beaux-Arts.
@@ -247,7 +258,9 @@ Tarifs pour les adhérents : Forfait à 22€ pour chaque cycle de 3 conférence
 Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non-adhérent- 5€/étudiant  
 
 
-Page 9                       Plaquette AMVR 2017/2018
+### Page 9###
+
+   
 
 **Art et Pouvoir dans les cours de la Renaissance italienne** 
 
@@ -282,7 +295,9 @@ La collection et le « studiolo »
 Tarif adhérent : Forfait à 45€ pour le cycle de 6 conférences  
 Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
 
-Page 10 –         Plaquette AMVR 2017/2018
+### Page 10###
+
+    
 
 **ASPECTS DU ROMANTISME EUROPÉEN 1760-1860**
  « L’art et la poésie antique n’admettent jamais le mélange des genres et des choses les plus opposées ».
@@ -310,7 +325,10 @@ La lumière de Joseph Mallord William Turner (1775-1851)
 Tarif adhérent : Forfait à 35€ pour le cycle de 5 conférences  
 Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
 
-Page 11               Plaquette AMVR 2017/2018
+### Page 11###
+
+   
+     
 **LUMIERES D’EXTRÊME-ORIENT**
 Il est difficile de dissocier les Arts d’Extrême-Orient des spiritualités et des courants philosophiques qui leur ont donné naissance. Au cours d’un cycle conçu en partenariat avec l’Association des Amis d’Orient, nous tenterons une approche pluraliste de lieux emblématiques  (Angkor, Xi’an et Kyoto) en y associant l’aspect artistique et philosophique (Enigme khmère, Confucianisme, Taoïsme et Bouddhisme).
 Envisagé comme un cycle découverte, présenté par d’éminents spécialistes dans leur domaine, il préfigure une approche plus complète de l’Art Bouddhique.
@@ -332,7 +350,9 @@ Tarifs adhérent : Forfait 22€ pour ce cycle de 3 conférences.
 Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non-adhérent- 5€ /étudiant  
 
 
-Page 12                Plaquette AMVR 2017/2018
+### Page 12###
+
+             
 
 **Mythes peints , mythes sculptés** 
  Des dieux et des héros grecs, aux banquets et aux frontons des temples 
@@ -371,7 +391,9 @@ Tarif adhérent : Forfait à 35€ pour le cycle de 5 conférences
 Tarif hors forfait pour chaque conférence : 8€/adhérent – 10€/non adhérent – 5€/étudiant  
 
 
- Page 13                            Plaquette 2017 – 2018 AMVR
+### Page 13###
+
+                          
 
 **La Renaissance allemande**
 
@@ -404,7 +426,9 @@ Tarif adhérent : Forfait à 45€pour le cycle de 6 conférences
 Tarif hors forfait pour chaque conférence : 8€ /adhérent – 10€/ non-adhérent – 5€/ étudiant  
 
 
-Page 14 – Plaquette 2017/2018
+### Page 14###
+
+
 **SORTIES**
 1 - Jeudi 21 septembre 2017 (après-midi)
      Exposition « Eclats de verre »
@@ -456,7 +480,9 @@ Page 14 – Plaquette 2017/2018
 Ces dates sont données à titre indicatif sous réserve de l’accueil des sites.  
 
 
-Page 15 – Plaquette AMVR 2017/2018
+### Page 15###
+
+ 
 
 **MÉCÉNAT**  
 
@@ -483,7 +509,7 @@ Une souscription est en cours jusqu’au 30 juillet 2017 pour participer à l’
 
 
 
-###  
+
 
 
 
