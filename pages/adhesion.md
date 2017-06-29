@@ -12,7 +12,7 @@ Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
  - Musée d'Histoires Naturelles
  - Musée de la Corderie Valois (notre dame de Bondeville)
  - Fabrique des Savoirs (Elbeuf)
- 
+
 ## Rejoignez l’association des Amis des Musées de la Ville de Rouen.
 
 En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collections des musées de votre ville.
@@ -34,7 +34,7 @@ En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collecti
 ## Comment adhérer ?##
 
 
- 
+
 **BULLETIN D’ADHÉSION**
 aux AMVR pour la saison  2017-2018
 
@@ -59,7 +59,7 @@ Courriel ……………………………………………….
 
 Sauf avis contraire de votre part, ces informations seront communiquées au service communication du musée des Beaux-Arts
 
- 
+
  Individuel : 30€
  Couple : 50€
  Moins de 26 ans/étudiant : 15€
@@ -68,7 +68,7 @@ Sauf avis contraire de votre part, ces informations seront communiquées au serv
  Senior (+ de 60 ans) : 25€
  Couple senior : 40€
   Demandeur d’emploi (sur justificatif en cours) : gratuit     
- 
+
  Membre donateur : 50€
  Membre bienfaiteur : 100€ ou plus
  Entreprise/Association : 200€
@@ -80,7 +80,7 @@ Ci-joint mon règlement d’adhésion* de  ………. €
 
 Je vous joins également une enveloppe timbrée à mon adresse pour l’envoi de ma carte d’adhérent.
 
-Fait à :                                         le 
+Fait à :                                         le
 
 Signature :
 
@@ -100,7 +100,7 @@ NOM………………………………………Prénom ……………………
 
 S’inscrit :
 
- A l’Initiation à l’histoire de l’art : 
+ A l’Initiation à l’histoire de l’art :
  Cycle 1 (chronologique)  oct à janvier   14h30      16h      
  Cycle 2 (thématique) oct à janvier :    14h30    16h
  Cycle 3 (chefs d’œuvre du MBA) janvier à mars 2018 :   14h30      
@@ -112,7 +112,7 @@ Cocher le jour et l’heure choisis :
          Samedi à 14h30                Samedi à 16h
 Forfait : 35€ (Gratuit le samedi pour les demandeurs d’emploi)
 
- Aux 5 concerts Midi Musée Musique :    Forfait : 45€ 
+ Aux 5 concerts Midi Musée Musique :    Forfait : 45€
 
  Au cycle des 6 conférences « Arts décoratifs en Europe » (samedi) : Forfait : 45€
 
@@ -122,20 +122,20 @@ Forfait : 35€ (Gratuit le samedi pour les demandeurs d’emploi)
 
  Au cycle de 6 conférences « Art et Pouvoir dans les cours de la Renaissance italienne » (lundi) :  16h           18h     Forfait : 45€
 
- Au cycle de 3 conférences « Lumières d’Extrême-Orient » (mardi) : Forfait : 22€ 
- 
- Au cycle de 5 conférences « Aspects du romantisme européen » (mardi) -  Forfait : 35€ 
+ Au cycle de 3 conférences « Lumières d’Extrême-Orient » (mardi) : Forfait : 22€
+
+ Au cycle de 5 conférences « Aspects du romantisme européen » (mardi) -  Forfait : 35€
 
  Au cycle de 5 conférences « Mythes peints, mythes sculptés » (vendredi) :
-                                                                      16h           18h     Forfait : 35€ 
+                                                                      16h           18h     Forfait : 35€
   Au cycle de 6 conférences « La Renaissance allemande » (vendredi) :
                                                                       16h           18h     Forfait : 45€    
-  
+
 Ci-joint un ou plusieurs chèque(s) en règlement du ou des forfait(s) choisi(s) : merci de prévoir un chèque par activité.
 
 La carte d’adhésion donne droit à un tarif préférentiel pour toutes les activités de l’association.
 Tarifs hors forfait :
-Tarifs par séance d’Initiation à l’histoire de l’art ou Une heure au musée : 
+Tarifs par séance d’Initiation à l’histoire de l’art ou Une heure au musée :
 Adhérents : 5€    /  Adhérents moins de 26 ans : gratuit
 Non adhérents : 7€  / Moins de 26 ans : 2€
 Gratuit le samedi pour les demandeurs d’emploi
@@ -147,4 +147,4 @@ Demandeur d’emploi : gratuit
 Tarifs pour chaque conférence de tous les cycles :
 Adhérents : 8€  Non adhérents : 10€   Etudiants : 5€
 
- - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/)
+ - [Télécharger et imprimer le bulletin d'adhésion](/fichiers/adhesion-2017-2018.pdf) (format PDF)
