@@ -22,16 +22,16 @@ Il reste quelques disponibilités pour la sortie de l’après-midi du **jeudi 2
 
 ### Une acquisition exceptionnelle
 
-La RMM nous propose une action d’envergure : **co-financer un service royal offert par le roi Louis-Philippe à la reine Marie-Amélie en 1837**.
+La RMM nous propose une action d’envergure : **co-financer un service royal offert par le roi Louis-Philippe à la reine Marie-Amélie en 1837**.  
+
+
 
 [En savoir plus](/pages/acquisition-2017.html)  
-[Télécharger le bulletin de souscription](/fichiers/170510-acquisition-service-a-the.pdf) (format PDF)
+[Télécharger le bulletin de souscription](/fichiers/170510-acquisition-service-a-the.pdf) (format PDF)  
 
----
+_**L'objectif des 10.000 € auquel "les Amis des Musées de la ville de Rouen" s'était engagé a été atteint  
+Un grand merci à nos mécènes pour cette participation**_
 
-### Assemblée générale extraordinaire
-
-Le **26  novembre**,a eu lieu l' _assemblée générale ordinaire annuelle_, qui a été suivie d’une _**assemblée générale extraordinaire**_ où ont été proposées des modifications de nos statuts d’une part, et du règlement intérieur d’autre part.
 
 ---
 
