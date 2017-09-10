@@ -32,12 +32,12 @@ Musée des Beaux-Arts
 _Sortie à la journée_ : Antiquités grecques et romaines - musée du Louvre - Paris
 
 
-**Samedi 11 mars**  
-14h 30 : _Cycle Picasso_ , **"Le dernier Picasso"**  
-Emilie Bouvard : conservatrice, Musée national Picasso-Paris  
+**Lundi 25 Septembre**  
+17h à 18h30: _Cycle "Le Christianisme des origines"_ , **"Une secte juive qui devient religion"**  
+Marie-Agnès Bennett : Chargée de cours à l'université inter âges de Paris 13
 Auditorium du musée des Beaux-Arts
 
-**Lundi 13 mars**  
+**Lundi **  
 12h15 :_Midi-Musée-Musique_,**"Quatuor Phantasy"**,  
 Anne Lefèvre,violon;  Sophie Piat,alto; Catherine Fléau,violoncelle; Christelle Chaizy, hautbois  
 _Mozart,quatuor pour hautbois,violon, alto et violoncelle KV 370_  
