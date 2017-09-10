@@ -13,6 +13,12 @@ published: true
 ---
 
 ## FLASH INFO  
+### Sortie Martainville
+
+
+Il reste quelques disponibilités pour la sortie de l’après-midi du **jeudi 21 septembre** : au programme la visite de l’exposition _**« Eclats de verre »**_ au château de Martainville, suivie d’un goûter à Ry, au cours duquel nous aurons le loisir d’échanger quelques impressions et de nous livrer au plaisir de la conversation…
+
+---
 
 ### Une acquisition exceptionnelle
 
