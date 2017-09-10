@@ -23,7 +23,3 @@ _Goûter à RY_
 Marie-Agnès Bennett : Chargée de cours à l'université inter âges de Paris 13  
 
 Auditorium du musée des Beaux-Arts
-
-
-
-
