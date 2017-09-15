@@ -12,13 +12,27 @@ published: true
 
 ---
 
-## FLASH INFO  
+## FLASH INFO   
+
+
 ### Sortie Martainville
 
 
 Il reste quelques disponibilités pour la sortie de l’après-midi du **jeudi 21 septembre** : au programme la visite de l’exposition _**« Eclats de verre »**_ au château de Martainville, suivie d’un goûter à Ry, au cours duquel nous aurons le loisir d’échanger quelques impressions et de nous livrer au plaisir de la conversation…
 
+---    
+### Conférence "Art moderne du Musée des Beaux Arts"
+
+
+Pour marquer ce début de saison 2017/2018, nous avons le plaisir de vous convier à une conférence **le 26 septembre prochain à 14h30 :**
+ 
+**_"Olga Popovitch et la collection d'art moderne du Musée des Beaux-Arts"_**  
+
+Par **Joanne SNRECH**, Conservateur en charge de la peinture moderne et contemporaine au musée des Beaux-Arts de Rouen.
+ 
+ L'entrée est libre dans la limite des places disponibles.  
 ---
+
 Le **cycle MYTHES PEINTS MYTHES SCULPTÉS** commencera le **vendredi 10 novembre** ;  des forfaits sont encore disponibles pour les deux horaires  16h ou 18h.  
 **_Trois conservateurs du musée du Louvre_** nous accompagneront dans ce voyage temps et espace et nous ferons découvrir la somme des traditions orales à l’origine  de la mythologie grecque (traditions orales reprises et développées par Homère, Hésiode et les tragiques).
  
