@@ -40,7 +40,7 @@ La RMM nous proposait une action d’envergure : **co-financer un service royal
 [En savoir plus](/pages/acquisition-2017.html)  
 [Télécharger le bulletin de souscription](/fichiers/170510-acquisition-service-a-the.pdf) (format PDF)  
 
-__**L'objectif des 10.000 € auquel "les Amis des Musées de la ville de Rouen" s'était engagé a été atteint  
+ 
 
 **_La souscription a dépassé nos espérances puisque nous avons recueilli plus de 24 000 €_**
 
