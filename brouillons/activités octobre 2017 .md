@@ -1,38 +1,56 @@
-## activités octobre 2017
+## activités octobre 2017  
 
- **Lundi 3 avril**  
-_Sortie à la journée_ : Vermeer et les maîtres de la peinture de genre - Musée du Louvre.
+**Jeudi 5 octobre**  
+14h30 et 16h : _Une heure au musée_ :  
+**"Les vanités"**  
+Musée des Beaux-Arts    
 
-**Lundi 3 avril**  
-12h15 :_Midi-Musée-Musique_,  
-**"Rendez vous avec les classes de musique de chambre du conservatoire de Rouen"**,  
- Salle du Jubé - musée de Beaux-Arts
-
-
-**Lundi 3 avril**  
-16h et 18h : _Monuments parisiens : Art et Histoire_ , **St Etienne du Mont et le Panthéon** par Jean-Pierre Hascoët, conférencier national. 
-Auditorium du musée des Beaux-Arts  
+**Samedi 7 octobre**  
+14h30 et 16h : _Une heure au musée_ :  
+**"Les vanités"**  
+Musée des Beaux-Arts 
 
 
+ **Lundi 9 octobre**  
+14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
+**"La renaissance"**  
+Musée des Beaux-Arts  
 
-**Jeudi 6 avril**  
-De 19h à 23h : _Nuit des étudiants_ Musée des Beaux-Arts
+**Lundi 9 octobre**  
+17h à 18h30 : _Cycle "Le christianisme des origines"_ :  
+ **"L'expansion au sein de l'empire romain"** par Marie-Agnès Bennett, chargée de cours à l'université inter-ages de Paris 13   
+Auditorium du musée des Beaux-Arts.
 
+**Mercredi 11 octobre**  
+14h30 et 16h:_Initiation à l'histoire de l'Art_ : Cycle II thématique :  
+**"Le néo-classicisme"**,  
+Musée de Beaux-Arts
 
-**Jeudi 27 avril** :  
-14h30 et 16h : _Une heure au Musée_ - **"Julio Gonzalez(1876 Barcelone-1842 Arcueil)"** ,  
-Visite de l'exposition
-Musée Le Secq des Tournelles.  
+**Jeudi 12 octobre**  
+_Sortie_ :  
+**"Derain, Balthus & Giacometti"**  
+Musée d'Art Moderne - Paris  
 
-**Vendredi 28 avril** :
-15h : _Les vendredis de la Métropole_ : conférence "Un musée à double vocation, original et méconnu", par Sophie Dormoy, responsable des collections du musée Flaubert - 
+**Lundi 16 octobre**  
+_Sortie_ :  
+**Don Carlos -opéra de Verdi**  
+Opera Bastille
+
+**Lundi 16 octobre** 
+10h30 à 12h :  _Cycle "Le christianisme des origines"_ :  
+**"Le triomphe du christianisme"** par Marie-Agnès Bennett, chargée de cours à l'université inter-ages de Paris 13   
 Auditorium du musée des Beaux-Arts.
 
 
-**Samedi 29 avril** :  
-14h30 et 16h : _Une heure au Musée_ - **"Julio Gonzalez(1876 Barcelone-1842 Arcueil)"** ,  
-Visite de l'exposition
-Musée Le Secq des Tournelles. 
+**Lundi 23 octobre**   
+16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
+**"Le palais, architechture et décor"** par Claire Grébille, guide conférencière nationale ,  
+Auditorium du musée des Beaux-Arts.  
+
+
+
+
+ 
 
 
 
