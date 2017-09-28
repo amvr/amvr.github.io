@@ -41,7 +41,7 @@ Musée d'Art Moderne - Paris
 
 **Lundi 16 octobre**  
 				_Sortie_ :  
-**Don Carlos -opéra de Verdi**  
+**"Don Carlos" - opéra de Verdi**  
 Opera Bastille - Paris
 
 **Lundi 16 octobre**   
