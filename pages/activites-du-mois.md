@@ -44,7 +44,7 @@ Musée d'Art Moderne - Paris
 **Don Carlos -opéra de Verdi**  
 Opera Bastille - Paris
 
-**Lundi 16 octobre** 
+**Lundi 16 octobre**   
 10h30 à 12h : 	 _Cycle "Le christianisme des origines"_ :  
 **"Le triomphe du christianisme"** par Marie-Agnès Bennett, chargée de cours à l'université inter-ages de Paris 13   
 Auditorium du musée des Beaux-Arts.
