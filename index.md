@@ -38,7 +38,7 @@ La RMM nous proposait une action d’envergure : **co-financer un service royal
 
 
 [En savoir plus](/pages/acquisition-2017.html)  
-[Télécharger le bulletin de souscription](/fichiers/170510-acquisition-service-a-the.pdf) (format PDF)  
+  
 
  
 
