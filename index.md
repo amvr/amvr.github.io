@@ -37,7 +37,7 @@ Il est encore temps de compléter votre adhésion.
 La RMM nous proposait une action d’envergure : **co-financer un service royal offert par le roi Louis-Philippe à la reine Marie-Amélie en 1837**.  
 
 
-[En savoir plus](/pages/acquisition-2017.html)  
+ 
   
 
  
