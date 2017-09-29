@@ -46,7 +46,7 @@ La RMM nous proposait une action d’envergure : **co-financer un service royal
 
 Le montant total et le détail seront expliqués à l'AG du 25 novembre  
 
-Un grand merci à nos mécènes pour cette participation**_
+**Un grand merci à nos mécènes pour cette participation**
 
 
 ---
