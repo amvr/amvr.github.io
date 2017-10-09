@@ -25,7 +25,7 @@ published: true
  ---
 
 Le **cycle MYTHES PEINTS MYTHES SCULPTÉS**  
-commencera le **vendredi 10 novembre** ;  des forfaits sont encore disponibles pour les deux horaires  16h  
+commencera le **vendredi 10 novembre** ;  des forfaits sont encore disponibles pour l' horaire de 16h  
 **_Trois conservateurs du musée du Louvre_** nous accompagneront dans ce voyage temps et espace et nous ferons découvrir la somme des traditions orales à l’origine  de la mythologie grecque (traditions orales reprises et développées par Homère, Hésiode et les tragiques).
  
 N’hésitez pas à nous rejoindre pour  ce voyage spatio-temporel, un dépaysement assuré !
