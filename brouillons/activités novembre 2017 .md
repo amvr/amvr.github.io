@@ -69,7 +69,7 @@ Musée de Beaux-Arts
 **Vendredi 24 novembre**  
 16h et 18h : _Mythes peints , Mythes sculptés_ :  
 **"Le calme et la fureur au fronton des temples. De Corfou à Olympe, épopée et mythes fondateurs aux VIe et Ve siècles av.J.C."**   
-par **_Isabelle Hasselin_** , Conservateur au musée du Louvre
+par **_Isabelle Hasselin_** , Conservateur au musée du Louvre  
 Auditorium du musée des Beaux-Arts 
 
  
