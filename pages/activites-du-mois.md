@@ -12,7 +12,7 @@ published: true
 Auditorium du musée des Beaux-Arts. 
 
 **Vendredi 10 novembre**  
-16h et 18h : _Mythes peints , Mythes sculptés_ :  
+16h  : _Mythes peints , Mythes sculptés_ :  
 **"Introduction : Des héros au banquet, le développement des cycles épiques dans la céramique attique du VIe siècle av.J.C.**  
 par **_Ludovic Laugier_** , Conservateur au musée du Louvre  
 Auditorium du musée des Beaux-Arts 
@@ -72,7 +72,7 @@ Musée de Beaux-Arts
 
 
 **Vendredi 24 novembre**  
-16h et 18h : _Mythes peints , Mythes sculptés_ :  
+16h  : _Mythes peints , Mythes sculptés_ :  
 **"Le calme et la fureur au fronton des temples. De Corfou à Olympe, épopée et mythes fondateurs aux VIe et Ve siècles av.J.C."**   
 par **_Isabelle Hasselin_** , Conservateur au musée du Louvre  
 Auditorium du musée des Beaux-Arts 
@@ -82,10 +82,4 @@ Auditorium du musée des Beaux-Arts
 **Lundi 27 novembre**  
 16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
 **"Les fêtes et la diplomatie"** par Claire Grébille, guide conférencière nationale ,  
-Auditorium du musée des Beaux-Arts.   
-
-
-
-
- 
- 
+Auditorium du musée des Beaux-Arts.
