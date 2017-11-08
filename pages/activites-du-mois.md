@@ -7,8 +7,8 @@ published: true
 
 
 **Lundi 6 novembre**   
-16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
-**"La représentation du Prince"** par Claire Grébille, guide conférencière nationale ,  
+16h et 18h : _Art et Pouvoir dans les cours de la Renaissance italienne_ :  
+**"La représentation du Prince"** par _**Claire Grébille**_, guide conférencière nationale ,  
 Auditorium du musée des Beaux-Arts. 
 
 **Vendredi 10 novembre**  
@@ -18,8 +18,8 @@ par **_Ludovic Laugier_** , Conservateur au musée du Louvre
 Auditorium du musée des Beaux-Arts 
 
 **Lundi 13 novembre**   
-16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
-**"L'artiste courtisan"** par Claire Grébille, guide conférencière nationale ,  
+16h et 18h : _Art et Pouvoir dans les cours de la Renaissance italienne_ :  
+**"L'artiste courtisan"** par _**Claire Grébille**_, guide conférencière nationale ,  
 Auditorium du musée des Beaux-Arts.  
 
 
@@ -80,6 +80,6 @@ Auditorium du musée des Beaux-Arts
  
 
 **Lundi 27 novembre**  
-16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
-**"Les fêtes et la diplomatie"** par Claire Grébille, guide conférencière nationale ,  
+16h et 18h : _Art et Pouvoir dans les cours de la Renaissance italienne_ :  
+**"Les fêtes et la diplomatie"** par _**Claire Grébille**_, guide conférencière nationale ,  
 Auditorium du musée des Beaux-Arts.
