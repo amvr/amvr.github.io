@@ -19,8 +19,8 @@ L'**assemblée générale** des _"Amis des Musées de la ville de Rouen"_
 se tiendra le **25 novembre à 9h30** à l'auditorium du Musée des Beaux-Arts
 
 Deux des cycles annoncés sur notre plaquette ont été rapidement complets, si bien que nous avons prévu un 2e horaire :  
--Aspects du Romantisme européen 1760/1860 (page 10 da la plaquette), janvier à mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet)  
--Lumières d’Extrême-Orient (page 11 de la plaquette), mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet).
+-**Aspects du Romantisme européen 1760/1860** (page 10 da la plaquette), janvier à mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet)  
+-**Lumières d’Extrême-Orient** (page 11 de la plaquette), mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet).
 
  
 
