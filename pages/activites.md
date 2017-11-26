@@ -8,7 +8,6 @@ published: true
 
 [Télécharger le dépliant complet pour la saison 2017-2018](/fichiers/brochure-2017-2018.pdf) (format PDF)
 
-###
 
   
 
