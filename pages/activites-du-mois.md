@@ -38,7 +38,7 @@ Musée de Beaux-Arts
 
 **Jeudi 7 décembre**  
 14h30 et 16h : _Une heure au musée_ :  
-**"Peintures et sculptures mythologiques , beatés et messages"**  
+**"Peintures et sculptures mythologiques , beautés et messages"**  
 Musée des Beaux-Arts   
 
 **Vendredi 8 décembre**  
@@ -49,7 +49,7 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 9 décembre**  
 14h30 et 16h : _Une heure au musée_ :  
-**"Peintures et sculptures mythologiques , beatés et messages"**  
+**"Peintures et sculptures mythologiques , beautés et messages"**  
 Musée des Beaux-Arts  
 
 **Lundi 11 décembre**  
