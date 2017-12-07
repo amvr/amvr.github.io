@@ -14,7 +14,12 @@ published: true
 
 ## FLASH INFO   
 
+**Modification de programme**  
+**_Une heure au musée_**   
+Jeudi 7 et samedi 9 décembre
+Sujet abordé : **"Peintures et sculptures mythologiques , beautés et messages"**  
 
+---
 
 Deux des cycles annoncés sur notre plaquette ont été rapidement complets, si bien que nous avons prévu un 2e horaire :  
 -**Aspects du Romantisme européen 1760/1860** (page 10 da la plaquette), janvier à mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet)  
