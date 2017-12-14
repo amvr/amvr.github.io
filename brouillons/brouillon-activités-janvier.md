@@ -1,84 +1,88 @@
-## Activités Janvier 2017
-
-**Jeudi 5 janvier** :  
-14h30 et 16h : _Une heure au Musée_ - **"Autour du Caravage, Réflexion sur la construction de l'image"** ,  
-Musée des Beaux-Arts.
-
-**Samedi 7 janvier** :  en remplacement de la conférence du samedi 10 décembre
-14h30 : _Cycle Picasso_  - **"Picasso et l'enfance"** , par Emilie Bouvard, conservatrice , Musée national Picasso-Paris,  
-Auditorium du musée des Beaux-Arts
+## Activités Janvier 2018
 
 
-**Samedi 7 janvier** :  
-14h30 et 16h : _Une heure au Musée_ -**"Autour du Caravage, Réflexion sur la construction de l'image"** ,  
-Musée des Beaux-Arts.  
-
-
-
-**Lundi 9 janvier** :  
-16h et 18h : _Monuments parisiens : Art et Histoire_  **"Le château de Vincennes"** par Jean-Pierre Hascoët ,conférencier national  
-Auditorium du musée des Beaux-Arts
-
-**Lundi 9 janvier** :  
-12h15 :_Midi-Musée-Musique_,**"Duo piano et violoncelle"** _Moeko Ezaki,piano;Guillaume Effler,violoncelle_  
-E.Grieg, sonate pour violoncelle et piano op.36  
-Cl. Debussy, sonate pour violoncelle et piano  
-F.Schubert, sonate Arpeggione  
-Auditorium du musée des Beaux-Arts
-
-**Vendredi 13 janvier :**  
-16h et 18h : _La sculpture grecque et romaine_ -  **"Les grands bronzes grecs aux époques classiques et hellenistiques"**  par Sophie Descamps, Conservateur en chef du patrimoine au musée du Louvre.  
-Auditorium du musée des Beaux-Arts.
-
-
-**Samedi 14 janvier** :  
-14h30 : _Cycle Picasso_  - **"Picasso à Boisgeloup"** , par Virginie Perdrisot, conservatrice , Musée national Picasso-Paris,  
-Auditorium du musée des Beaux-Arts
-
-**Lundi 16 janvier** :  
+**Lundi 8 janvier** :  
 14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle I chronologique : **"L'art moderne"** ,  
 Musée des Beaux-Arts. 
 
-**Lundi 16 janvier** :  
-16h et 18h : _Monuments parisiens : Art et Histoire_ **"Le Louvre 1ere partie "** par Jean-Pierre Hascoët, conférencier national  
+**Mercredi 10 janvier:**  
+14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique :La peinture au XIXe siècle   
+**"Les divergences de la fin du siècle"** ,  
+Musée des Beaux-Arts.
+
+**Jeudi 11 janvier** :  
+14h30 et 16h : _Une heure au Musée_   
+- **"Les Arts Décoratifs du musée d'Orsay : _Les Arts and Crafts_"**   
+Musée des Beaux-Arts.
+
+**Vendredi 12 janvier :**  
+16h et 18h : _La renaissance allemande_   
+**"Introduction sur le XVe siècle d'Albrecht Dürer : entre la tradition gothique et l'art italien"**  
+par David Mandrella, professeur à l'Ecole du Louvre.  
 Auditorium du musée des Beaux-Arts
 
-**Mercredi 18 janvier:**  
-14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique : **"Introduction à l'iconographie religieuse"** ,  
-Musée des Beaux-Arts. 
-
-**Vendredi 20 janvier** :  
-7h30 :_Sortie à Paris_ **"Opéra Garnier"** visite de l'Opéra et Paris hausmannien avec Marianne Autain
-
-**Vendredi 20 janvier**:  
-15h : _Les Vendredis de la Métropole_** - "Le Museum durable et responsable"** par Sébastien Minchin, directeur du Museum de Rouen.  
-Auditorium du musée des Beaux-Arts
-
-
-
-**Lundi 23 janvier** :  
-12h15 : _Midi-Musée-Musique_,**"Duo contre basse et alto"** _Esther Chen-Thiry, contrebasse;Patrick Dussart,alto_  
-Dittersdorf, Mozart, F.Mendelssohn  
-Auditorium du musée des Beaux-Arts
-
-**Mardi 24 janvier** :  
-14h30 et 17h : _Symbolisme - Japonisme - Art Nouveau_, **"Le Japonisme en France 1870-1900 - La révolution du regard"** par Frédéric Bigo, ancien directeur du musée Maurice Denis, historien de l'art, commissaire d'expositions  
-Auditorium du musée des Beaux-Arts
-
-**Mercredi 25 janvier:**  
-14h30 : _Initiation Histoire de l'Art_  - Cycle III les genres en peinture : **"La peinture d'histoire"** ,  
+**Samedi 13 janvier** :  
+14h30 et 16h : _Une heure au Musée_   
+-**"Les Arts Décoratifs du musée d'Orsay : _Les Arts and Crafts_"** ,  
 Musée des Beaux-Arts.  
 
+**Samedi 13 janvier** :  
+14h30 et 16h : _Les Arts décoratifs en Europe_  - **"Les Revivals au XIXe siècle"**   
+par Audrey Gay-Mazuel, conservateur du patrimoine, Musée des Arts décoratifs Paris,  
+Auditorium du musée des Beaux-Arts
 
-**Vendredi 27 janvier :**  
-16h et 18h : _La sculpture grecque et romaine_ -  **"Les Tanagras, sculptures en miniatures:pratiques artisanales et religieuses aux époques classique et hellenistique"**  par Violaine Jeammet, Conservateur en chef du patrimoine au musée du Louvre.  
+**Lundi 15 janvier** :  
+12h15 :_Midi-Musée-Musique_,**"Quatuor Yako"**  
+_Ludovic Tilly, violon; Pierre Maestra, violon; Vincent Verhoeven, alto; Alban Lebrun, contrebasse_  
+**Haydn** : op74/3 "Le cavalier"  
+**Philip Glass** : Quatuor n°2  
+**Ravel**: Quatuor  
+Auditorium du musée des Beaux-Arts
+
+**Mardi 16 janvier** :  
+14h30 et 16h : _Aspects du romantisme européen 1760-1860_,  
+**"Le romantisme noir de Francisco de Goya (1746-1828)"**  
+par Sybille Bellamy-Brown, Historienne d'art  
+Auditorium du musée des Beaux-Arts
+
+**Jeudi 18 janvier**  
+_Sorties_  
+**"Derain , la période fauve"**  
+Centre Pompidou
+
+
+.**Vendredi 19 janvier :**  
+16h et 18h : _La renaissance allemande_   
+**"Les arts à Nuremberg vers 1500 : sculp^ture, objets d'art et architechture"**  
+par David Mandrella, professeur à l'Ecole du Louvre.  
 Auditorium du musée des Beaux-Arts.
 
-
-**Samedi 28 janvier** :  
-14h30 : _Cycle Picasso_  - **"L'atelier de sculpture de Picasso à Boisgeloup"** , par Cécile Godefroy, Historienne de l'Art      
+**Samedi 20 janvier** :  
+14h30 et 16h : _Les Arts Décoratifs en Europe _   **_"Le mouvement Arts and Crafts"_** ,  
+_par Aurélie Petiot_, Maitre de conférences à l'université Paris Nanterre  
 Auditorium du musée des Beaux-Arts
 
-**Lundi 30 janvier** :  
-16h et 18h : _Monuments parisiens : Art et Histoire_ **"L'Opéra de Paris : Garnier et Bastille "** par Mathias Auclair,directeur du département de la musique de la Bibliothèque Nationale de France   
+**Mardi 23 janvier** :  
+14h30 et 16h : _Aspects du romantisme européen 1760-1860_,  
+**"Le romantisme allemand : Caspar David Friedrich (1774-1840), K.F. Schinkel..."**  
+par Sybille Bellamy-Brown, Historienne d'art  
 Auditorium du musée des Beaux-Arts
+
+**Mercredi 24 janvier:**  
+14h30 : _Initiation Histoire de l'Art_  
+- Cycle III A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
+**"Gérad David : la Vierge entre les vierges"**    
+Musée des Beaux-Arts. 
+
+**Vendredi 26 janvier :**  
+16h et 18h : _La renaissance allemande_   
+**"Hans Holbein père et fils"**  
+par David Mandrella, professeur à l'Ecole du Louvre.  
+Auditorium du musée des Beaux-Arts.
+
+**Samedi 27 janvier** :  
+14h30 et 16h : _Les Arts Décoratifs en Europe _   **_"L'atelier de l'utopie : La Wiener Werstätte et la  Sécession viennoise"_** ,  
+_par Diederik Bakhuÿs_,Conservateur, musée des Beaux-Arts, Rouen    
+Auditorium du musée des Beaux-Arts
+
+
