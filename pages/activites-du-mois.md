@@ -80,6 +80,8 @@ Centre Pompidou - Paris
 par **Daniel Roger** Conservateur au musée du Louvre  
 Auditorium du musée des Beaux-Arts
 
+---
+
 ## Activités Janvier 2018
 
 
@@ -168,4 +170,3 @@ Auditorium du musée des Beaux-Arts.
 14h30 et 16h : _Les Arts Décoratifs en Europe _   **_"L'atelier de l'utopie : La Wiener Werstätte et la  Sécession viennoise"_** ,  
 _par Diederik Bakhuÿs_,Conservateur, musée des Beaux-Arts, Rouen    
 Auditorium du musée des Beaux-Arts
-
