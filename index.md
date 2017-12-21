@@ -15,11 +15,9 @@ published: true
 ## FLASH INFO  
 
 
-Nous venons d'apprendre que  
-**André POULIQUEN**, notre secrétaire de l'association AMVR est décédé  
-Il sera inhumé **_Mardi 26 décembre à 14h30_** à **Mont Saint Aignan village**  
 
----
+
+
 
 
 **Modification de programme**  
