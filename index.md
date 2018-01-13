@@ -10,8 +10,8 @@ published: true
 - [Télécharger la brochure 2017-2018](/fichiers/brochure-2017-2018.pdf) (format PDF)
 - [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
----
-- [Voeux 2018](/fichiers/2018-01-13 Voeux.md)
+
+
 
 
 ---
