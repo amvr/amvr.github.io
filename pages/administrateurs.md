@@ -1,12 +1,12 @@
 ---
-title: "Administrateurs "
+title: 'Administrateurs '
 published: true
 ---
 
- - Présidente : Anne Marie Le Bocq
- - Vice Présidentes : Catherine Bastard et Marie-Odile Dévé
- - Secrétaire Général : André Pouliquen
+ - Présidente : Catherine Bastard
+ - Vice Présidentes : Anne-Marie Le Bocq et Marie-Odile Dévé
+ - Secrétaire Général : Catherine Poirot Bourdain
  - Trésorier : Patrick Vernier
- - Membres : Yvette Autain, Marie-Agnes Bennett, Alain Charpentier, Marc Laurent, Philippe Lebarc, Nicole Lepouzé, Marie-Claude Linskens, Jean Morin, Catherine Poirot-Bourdain, Sophie Pouliquen, Charlotte Rousseau,  Françoise Sauger.
+ - Membres : Yvette Autain, Marie-Agnes Bennett, Alain Charpentier,Anne Genevois,Sophie Gillouet, Marc Laurent,  Nicole Lepouzé, Marie-Claude Linskens,  Sophie Pouliquen, Charlotte Rousseau,  Françoise Sauger.
 
 _Liste établie au CA du 14 janvier 2016_
