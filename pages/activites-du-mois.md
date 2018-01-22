@@ -110,7 +110,7 @@ _**David Mandrella**_, professeur à l'Ecole du Louvre
 Auditorium du musée des Beaux-Arts.
 
 **Mardi 6 février :**  
-14h30 et 16h :_Aspects du romantisme européen 1760-1860_   
+14h30 et 17h :_Aspects du romantisme européen 1760-1860_   
  **"Théodore Géricault(1791-1824) et le salon de 1812"**  
 _**Sybille Bellamy-Brown**_, Historienne d'art  
 Auditorium du musée des Beaux-Arts  
@@ -151,4 +151,3 @@ Auditorium du musée des Beaux-Arts.
  Cycle III : A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
 **"Le Caravage :_La flagellation du Christ_"** ,  
 Musée des Beaux-Arts.
-
