@@ -16,8 +16,25 @@ published: true
 
 ---
 ## FLASH INFO  
+L’ASSOCIATION DES AMIS DES MUSÉES DE LA VILLE DE ROUEN
+et
+LES AMIS DES MUSÉES DE LA MÉTROPOLE ET DU DÉPARTEMENT
+DE SEINE-MARITIME
 
+organisent la 2ème saison des
 
+**_VENDREDIS DE LA MÉTROPOLE_**
+
+La première conférence aura lieu le 
+**vendredi 2 février 2018 à 10h30**
+à l’auditorium du Musée des Beaux-Arts
+26 bis rue Jean Lecanuet à Rouen.
+
+**Entrée libre**, dans la limite des places disponibles. Pas de réservation préalable.
+
+_**Nicolas Coutant**_, Conservateur du Patrimoine, Directeur adjoint du Musée National de l’Education, viendra nous entretenir du **"Musée national de l’Education".**
+
+---
 
 
 
