@@ -2,6 +2,24 @@
 title: Mécénat
 published: true
 ---
+## 2017  
+ Le mécénat 2016/2017 :  
+ 1) **Une magnifique frise en ferronnerie du XVIIe siècle** a été offerte au musée Le Secq des Tournelles -  
+ 
+2) **Participation et co-financement** (avec la Métropole, le Conservatoire la Fondation Flaubert, et les Zazimuts de la ville de Rouen) **de la 2e Nuit des Etudiants** le jeudi 6 avril 2017, qui a réuni 1620 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA : un vrai succès !  
+
+3) Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
+participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe**
+**à la Reine Marie-Amélie** : cette souscription a apporté _**24515€**_ de dons, qui, ajoutés aux
+_**50000€**_ que les AMVR donneront au titre du mécénat, contibueront de façon très notable à l’achat
+de cette pièce exceptionnelle destinée au musée de la Céramique.
+
+
+
+
+
+
+
 ## 2016  
 
 Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).
