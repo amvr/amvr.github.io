@@ -46,7 +46,13 @@ _**Nicolas Coutant**_, Conservateur du Patrimoine, Directeur adjoint du Musée N
 
 Deux des cycles annoncés sur notre plaquette ont été rapidement complets, si bien que nous avons prévu un 2e horaire :  
 -**Aspects du Romantisme européen 1760/1860** (page 10 da la plaquette), janvier à mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet)  
--**Lumières d’Extrême-Orient** (page 11 de la plaquette), mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet).
+-**Lumières d’Extrême-Orient** (page 11 de la plaquette), mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet).  
+ 
+ **A NOTER** : Dernière conférence du cycle « Art et pouvoir dans les cours de la Renaissance italienne » :
+nous avons été contraints d’annuler au dernier moment la conférence du lundi 4 décembre d’Hèlène
+Decis-Lartigau sur « Un Prince et ses musiciens ». Cette conférence est reprogrammée pour le lundi
+16 avril à 16h et à 18h, et sera assurée par Madame Camille Villanove, musicologue.
+
 
  
 
