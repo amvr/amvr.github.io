@@ -22,3 +22,17 @@ published: true
 
 ## Voyages proposés 2017/2018  
 
+
+- **« Musées en Provence : Avignon, Aix et Marseille, trois villes à découvrir »**, **du 12 au 15 avril** :
+voyage organisé par André Pouliquen, une quarantaine de personnes se sont inscrites.  
+_AnneMarie Le Bocq et Catherine Bastard_ont pris la relève et l’accompagneront.  
+
+- **Une balade de deux jours dans le Cotentin, les 13 et 14 juin** : organisée par _Nicole Lepouzé_.  
+
+
+- **Esacapade à Edimbourg du 15 au 18 juin**: proposé il y a déjà quelques mois.  
+_Yvette Autain_ a inscrit une quarantaine d’Amis, et a une liste d’attente.  
+
+- **Voyage en Bavière autour de la Renaissance allemande du 10 au 14 octobre** : il s’agit d’un
+voyage d’application suite au cycle de conférences de David Mandrella sur ce thème en
+janvier/février. Voyage organisé par _Marie-Agnès Bennett et Marie-Odile Dévé._
