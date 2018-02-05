@@ -16,25 +16,9 @@ published: true
 
 ---
 ## FLASH INFO  
-L’ASSOCIATION DES AMIS DES MUSÉES DE LA VILLE DE ROUEN
-et
-LES AMIS DES MUSÉES DE LA MÉTROPOLE ET DU DÉPARTEMENT
-DE SEINE-MARITIME
 
-organisent la 2ème saison des
 
-**_VENDREDIS DE LA MÉTROPOLE_**
 
-La première conférence aura lieu le 
-**vendredi 2 février 2018 à 10h30**
-à l’auditorium du Musée des Beaux-Arts
-26 bis rue Jean Lecanuet à Rouen.
-
-**Entrée libre**, dans la limite des places disponibles. Pas de réservation préalable.
-
-_**Nicolas Coutant**_, Conservateur du Patrimoine, Directeur adjoint du Musée National de l’Education, viendra nous entretenir du **"Musée national de l’Education".**
-
----
 
 
 
@@ -50,8 +34,13 @@ Deux des cycles annoncés sur notre plaquette ont été rapidement complets, si 
  
  **A NOTER** : Dernière conférence du cycle « Art et pouvoir dans les cours de la Renaissance italienne » :
 nous avons été contraints d’annuler au dernier moment la conférence du lundi 4 décembre d’Hèlène
-Decis-Lartigau sur « Un Prince et ses musiciens ». Cette conférence est reprogrammée pour le lundi
-16 avril à 16h et à 18h, et sera assurée par Madame Camille Villanove, musicologue.
+Decis-Lartigau sur « Un Prince et ses musiciens ». _**Cette conférence est reprogrammée pour le lundi
+16 avril à 16h et à 18h, et sera assurée par Madame Camille Villanove, musicologue.**_
+
+
+---  
+
+
 
 
  
