@@ -3,16 +3,14 @@ title: Historique
 published: true
 ---
 
-Quel promeneur, traversant le Square Verdrel, n’a pas remarqué ce bel édifice du XIXème siècle qu’est le Musée des Beaux-Arts ?  
+ 
 
-Quel Rouennais, quel habitant de la région ne s’est pas un instant imaginé propriétaire privilégié du patrimoine artistique d’un des plus beaux musée de province ?  
+_**Historique de l'Association des Amis des musées de la ville de Rouen**_  
 
-Leur demande-t’on d’en évoquer quelque inventaire ou seulement d’en expliquer ce qu’est la glyptique et l’on risque fort de les voir s’assombrir, pris en flagrant délit d’ignorance.
+Notre association, attachée dès l'origine aux _musées des Beaux-Arts, de la Céramique et au musée Le Secq des Tournelles_, a été créée en 1951.  
+Son premier président **Maurice Gorge** fit partie du comité d'organisation des expositions du musée, "Trois siècles d'argenterie française", et aussi, cette même année 1952, "Trésor de la faïence de Rouen". Cette première association disparut avant de renaître dans les années quatre-vingts. 
+Lors des grands travaux de rénovation du musée des Beaux-Arts, **François Bergot**, son directeur d'alors, suggère à **Gérald Drieu**, président de l'association depuis 1982, que celle-ci pourrait y prendre une part active. C'est **Catherine Flavigny** qui relève le défi en 1988. En effet, les travaux de rénovation du musée, commencés en février 1989 et terminés à l’automne 1994, ont donné un nouvel élan. Ils ont permis, grâce à l'étroite collaboration entre François Bergot, et Catherine Flavigny, de réunir le groupe de mécènes qui accompagna la transformation du musée. 
+Ses successeurs, **Richard Julien** de 2000 à 2006, puis **Claude Turion** jusqu'en 2014 et enfin **Anne-Marie Le Bocq** ont poursuivi l'oeuvre engagée. En particulier le nombre des adhérents a été considérablement augmenté, passant de 120 en 1988 à 620 en 2000. C'est sous la présidence d'Anne-Marie Le Bocq que le millième adhérent a été inscrit.  
+L'association poursuit aujourd'hui son action dans un cadre institutionnel transformé par la création, au premier janvier 2016,  de la **Réunion des musées  métropolitains Rouen Normandie**.
 
-*Ainsi est venue l’idée de la re-création de l’Association des Amis des Musées de Rouen, fondée en 1951, peu à peu tombée dans l’oubli.*
 
-L’association des Amis des Beaux-Arts et de la Céramique se propose d’apporter son aide au Musée, de développer une action dynamique auprès du public et de contribuer à l’enrichissement des collections. M. François Bergot, Conservateur du Musée des Beaux-Arts et de la Céramique de la Villle de Rouen nous a assuré être l’hôte dévoué et toujours attentif à tous ceux qui seront disposés à venir dialoguer avec les oeuvres d’art.
-
-À une époque où la tentation est grande de se laisser envahir par toutes sortes d’illusions, le temps n’est il pas venu de chercher des valeurs plus sûres, de rencontrer des artistes d’hier et d’aujourd’hui au travers de leurs œuvres ?
-
-Pour vous inviter à écouter ce discours subtil et silencieux, émouvant et enrichissant, montons le grand escalier somptueux à la recherche de la complicité d’un instant, celle qui s’établit entre l’œuvre et nous-mêmes et que cette ambition soit celle qui unit tous les membres de l’Association.
