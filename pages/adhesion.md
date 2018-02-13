@@ -65,19 +65,19 @@ Courriel ……………………………………………….
 Sauf avis contraire de votre part, ces informations seront communiquées au service communication du musée des Beaux-Arts
 
 
- Individuel : 30€
- Couple : 50€
- Moins de 26 ans/étudiant : 15€
- Handicapé : 15€
+ Individuel : 30€  
+ Couple : 50€  
+ Moins de 26 ans/étudiant : 15€  
+ Handicapé : 15€  
 
- Senior (+ de 60 ans) : 25€
- Couple senior : 40€
-  Demandeur d’emploi (sur justificatif en cours) : gratuit     
+ Senior (+ de 60 ans) : 25€  
+ Couple senior : 40€  
+  Demandeur d’emploi (sur justificatif en cours) : gratuit       
 
- Membre donateur : 50€
- Membre bienfaiteur : 100€ ou plus
- Entreprise/Association : 200€
-Un reçu fiscal permettant une déduction d’impôt de 66% sera adressé à partir d’un don de 50€ (hors cotisation)
+ Membre donateur : 50€  
+ Membre bienfaiteur : 100€ ou plus  
+ Entreprise/Association : 200€  
+**Un reçu fiscal permettant une déduction d’impôt de 66% sera adressé à partir d’un don de 50€ (hors cotisation)**
 
 J’adhère aux AMVR pour l’année 2017/2018.
 Ci-joint mon règlement d’adhésion* de  ………. €
@@ -89,7 +89,10 @@ Fait à :                                         le
 
 Signature :
 
-Rappel : nous assurons des permanences régulières au bureau des AMVR le lundi après-midi de 15h à 17h et le mercredi matin de 10h à 12h, hors vacances scolaires.
+Rappel : nous assurons des permanences régulières au bureau des AMVR le lundi après-midi de 15h à 17h et le mercredi matin de 10h à 12h, hors vacances scolaires.  
+
+---  
+
 
 
 
