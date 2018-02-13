@@ -13,7 +13,11 @@ participer à l’achat d’un service à thé royal en porcelaine de Sèvres, o
 **à la Reine Marie-Amélie** : [Visionner les photographies](#photos) : cette souscription a apporté _**24515€**_ de dons, qui, ajoutés aux_**50000€**_ que les AMVR donneront au titre du mécénat, contibueront de façon très notable à l’achatde cette pièce exceptionnelle destinée au musée de la Céramique.
 
 <a name="photos"></a>  
-
+![Acquisition 2017 - 1](/fichiers/acquisition-2017/acquisition-2017-1.jpg)
+![Acquisition 2017 - 2](/fichiers/acquisition-2017/acquisition-2017-5.jpg)
+![Acquisition 2017 - 3](/fichiers/acquisition-2017/acquisition-2017-2.jpg)
+![Acquisition 2017 - 4](/fichiers/acquisition-2017/acquisition-2017-3.jpg)
+![Acquisition 2017 - 5](/fichiers/acquisition-2017/acquisition-2017-4.jpg)
 
 
 
