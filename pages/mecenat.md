@@ -14,13 +14,7 @@ participer à l’achat d’un service à thé royal en porcelaine de Sèvres, o
 
 <a name="photos"></a>  
 
-## Photographies
 
-![Acquisition 2017 - 1](/fichiers/acquisition-2017/acquisition-2017-1.jpg)
-![Acquisition 2017 - 2](/fichiers/acquisition-2017/acquisition-2017-5.jpg)
-![Acquisition 2017 - 3](/fichiers/acquisition-2017/acquisition-2017-2.jpg)
-![Acquisition 2017 - 4](/fichiers/acquisition-2017/acquisition-2017-3.jpg)
-![Acquisition 2017 - 5](/fichiers/acquisition-2017/acquisition-2017-4.jpg)
 
 
 
