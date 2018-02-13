@@ -9,7 +9,8 @@ Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
  - Musée de la Céramique
  - Musée Le Secq des Tournelles (Art du fer)
  - Musée des Antiquités
- - Musée d'Histoires Naturelles
+ - Musée d'Histoires Naturelles  
+ - Musée Pierre Corneille
  - Musée de la Corderie Valois (notre dame de Bondeville)
  - Fabrique des Savoirs (Elbeuf)  
  
