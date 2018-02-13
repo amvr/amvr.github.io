@@ -1,4 +1,4 @@
 ![Vase Galle](/fichiers/oeuvres/2007-vase-galle.jpg)
 ![Briquet pistolet](/fichiers/oeuvres/2002-briquet-pistolet.jpg)
 
-![Bureau dit Mazarin](/fichiers/oeuvres/1992-bureau-mazarin.jpg)
+![Fruits Jacober](/fichiers/oeuvres/2008-jaccober-fruits.jpg)
