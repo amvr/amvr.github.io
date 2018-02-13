@@ -11,7 +11,11 @@ Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
  - Musée des Antiquités
  - Musée d'Histoires Naturelles
  - Musée de la Corderie Valois (notre dame de Bondeville)
- - Fabrique des Savoirs (Elbeuf)
+ - Fabrique des Savoirs (Elbeuf)  
+ 
+ Pour les découvrir :  
+ - [Site musées Rouen Normandie](http://musees-rouen-normandie.fr/fr)
+
 
 ## Rejoignez l’association des Amis des Musées de la Ville de Rouen.
 
