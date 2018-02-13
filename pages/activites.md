@@ -25,7 +25,7 @@ published: true
 
 -  **« Musées en Provence : Avignon, Aix et Marseille, trois villes à découvrir »**, **du 12 au 15 avril** :
 voyage organisé par André Pouliquen, une quarantaine de personnes se sont inscrites.  
-_AnneMarie Le Bocq et Catherine Bastard_ont pris la relève et l’accompagneront.  
+_AnneMarie Le Bocq et Catherine Bastard_ont pris la relève .  
 
 - **Une balade de deux jours dans le Cotentin, les 13 et 14 juin** : organisée par _Nicole Lepouzé_.  
 
