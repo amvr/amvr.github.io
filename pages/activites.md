@@ -23,7 +23,7 @@ published: true
 ## Voyages proposés 2017/2018  
 
 
-- **« Musées en Provence : Avignon, Aix et Marseille, trois villes à découvrir »**, **du 12 au 15 avril** :
+-  **« Musées en Provence : Avignon, Aix et Marseille, trois villes à découvrir »**, **du 12 au 15 avril** :
 voyage organisé par André Pouliquen, une quarantaine de personnes se sont inscrites.  
 _AnneMarie Le Bocq et Catherine Bastard_ont pris la relève et l’accompagneront.  
 
