@@ -12,9 +12,9 @@ Nombre d'adhérents: **plus de _1000_ en 2017**
 
 Ils ont pour objectifs  
 de **développer l'Art et la Culture** auprès de 3 musées  
-- Le Musée des Beaux-Arts : http://mbarouen.fr/fr
-- Le Musée de la Céramique : http://museedelaceramique.fr/fr
-- Le Musée le Secq des Tournelles : http://museelesecqdestournelles.fr/fr
+- Le Musée des Beaux-Arts : -[Musée des Beaux-Arts](http://mbarouen.fr/fr)
+- Le Musée de la Céramique : -[Musée de la Céramique](http://museedelaceramique.fr/fr)
+- Le Musée le Secq des Tournelles : -[Musée de la Ferronnerie](http://museelesecqdestournelles.fr/fr)
 
 et d'**animer auprès d'eux les actions de Mécénat**
 
