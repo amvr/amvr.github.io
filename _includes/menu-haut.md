@@ -5,3 +5,4 @@
  - [La Gazette](/pages/la-gazette.html)
  - [Contact](/pages/contact.html)
  - [Liens](/pages/liens.html)
+ - [Administrateurs](/pages/administrateurs.html)
