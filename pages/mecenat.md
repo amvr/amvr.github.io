@@ -2,6 +2,15 @@
 title: Mécénat
 published: true
 ---
+Depuis sacréation , le mécénat est un des objectifs fondamentaux de notre Association.  
+La liste des oeuvres ainsi données à nos musées au titre du mécénat est importante...  
+
+vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous  
+
+
+
+
+
 ## 2017  
  Le mécénat 2016/2017 :  
  1) **Une magnifique frise en ferronnerie du XVIIe siècle** a été offerte au musée Le Secq des Tournelles -  
