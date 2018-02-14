@@ -7,13 +7,14 @@ published: true
 
 ## Qui sommes nous?  
 
-Les **_"Amis des Musées de la Ville de Rouen"_ AMVR** ; Nombre d'adhérents: **plus de _1000_ en 2017**  
+Les **_"Amis des Musées de la Ville de Rouen"_ AMVR**   
+Nombre d'adhérents: **plus de _1000_ en 2017**  
 
 Ils ont pour objectifs  
 de **développer l'Art et la Culture** auprès de 3 musées  
-- Le Musée des Beaux-Arts  
-- Le Musée de la Céramique  
-- Le Musée le Secq des Tournelles  
+- Le Musée des Beaux-Arts : http://mbarouen.fr/fr
+- Le Musée de la Céramique : http://museedelaceramique.fr/fr
+- Le Musée le Secq des Tournelles : http://museelesecqdestournelles.fr/fr
 
 et d'**animer auprès d'eux les actions de Mécénat**
 
