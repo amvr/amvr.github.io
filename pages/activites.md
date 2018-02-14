@@ -22,7 +22,7 @@ published: true
 
 ## Voyages proposés 2017/2018  
 
-- **« Musées en Provence : Avignon, Aix et Marseille, trois villes à découvrir »**, **du 12 au 15 avril** :
+- **« Musées en Provence : Avignon, Aix et Marseille, trois villes à découvrir »**, **du 12 au 15 avril**:   
 voyage organisé par André Pouliquen, une quarantaine de personnes se sont inscrites.    
 _Anne-Marie Le Bocq et Catherine Bastard_ ont pris la relève .  
 
@@ -36,6 +36,3 @@ _Yvette Autain_ a inscrit une quarantaine d’Amis, et a une liste d’attente.
 voyage d’application suite au cycle de conférences de David Mandrella sur ce thème en
 janvier/février.  
 Voyage organisé par _Marie-Agnès Bennett et Marie-Odile Dévé._
-
-
-
