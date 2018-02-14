@@ -6,3 +6,4 @@
  - [Contact](/pages/contact.html)
  - [Liens](/pages/liens.html)
  - [Administrateurs](/pages/administrateurs.html)
+ - [Règlement intérieur](/pages/reglement-interieur.html)
