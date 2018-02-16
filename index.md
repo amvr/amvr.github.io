@@ -49,7 +49,7 @@ et d'animer auprès d'eux les **actions de Mécénat**
 
 
 Deux des cycles annoncés sur notre plaquette ont été rapidement complets, si bien que nous avons prévu un 2e horaire :  
--**Aspects du Romantisme européen 1760/1860** (page 10 da la plaquette), janvier à mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet)  
+-**Aspects du Romantisme européen 1760/1860** (page 10 de la plaquette), janvier à mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet)  
 -**Lumières d’Extrême-Orient** (page 11 de la plaquette), mars 2018 : 2e horaire à 17h (l’horaire de 14h30 est complet).  
  
  **A NOTER** : Dernière conférence du cycle « Art et pouvoir dans les cours de la Renaissance italienne » :
