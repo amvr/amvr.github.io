@@ -13,7 +13,9 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 
 ## 2017  
  Le mécénat 2016/2017 :  
- 1) **Une magnifique frise en ferronnerie du XVIIe siècle** a été offerte au musée Le Secq des Tournelles -  
+ 1) **Une magnifique frise en ferronnerie du XVIIe siècle**  
+ [Frise ferronnerie.jpg]({{site.baseurl}}/fichiers/Frise ferronnerie.jpg)
+ a été offerte au musée Le Secq des Tournelles -  
  
 2) **Participation et co-financement** (avec la Métropole, le Conservatoire la Fondation Flaubert, et les Zazimuts de la ville de Rouen) **de la 2e Nuit des Etudiants** le jeudi 6 avril 2017, qui a réuni 1620 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA : un vrai succès !  
 
