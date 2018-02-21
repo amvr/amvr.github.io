@@ -26,7 +26,9 @@ En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collecti
 ## Avantages réservés aux adhérents de l’Association :
 
   - Entrée gratuite dans les expositions temporaires
-  - Abonnement à la Gazette de l’Association
+  - Abonnement à la Gazette de l’Association  
+  - Participation aux sorties à la journée et aux voyages proposés
+  
 
 ## Tarif préférentiel pour :
 
