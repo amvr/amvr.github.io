@@ -21,13 +21,18 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 
 3) Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
 participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe**
-**à la Reine Marie-Amélie** : [Visionner les photographies]({{site.baseurl}}/fichiers/SERVICE_A_THE_170224_01.jpg({{site.baseurl}}/fichiers/SERVICE_A_THE_170224_10.jpg({{site.baseurl}}/fichiers/SERVICE_A_THE_170224_02.jpg({{site.baseurl}}/fichiers/SERVICE_A_THE_170224_09.jpg({{site.baseurl}}/fichiers/SERVICE_A_THE_170224_07.jpg)
+**à la Reine Marie-Amélie**:  
+[Service à thé image1]({{site.baseurl}}/fichier/SERVICE_A_THE_170224_01.jpg)  
+[Service à thé image2]({{site.baseurl}}/fichier/SERVICE_A_THE_170224_10.jpg)  
+[Service à thé image3]({{site.baseurl}}/fichier/SERVICE_A_THE_170224_02.jpg)  
+[Service à thé image4]({{site.baseurl}}/fichier/SERVICE_A_THE_170224_09.jpg)  
+[Service à thé image5]({{site.baseurl}}/fichier/SERVICE_A_THE_170224_07.jpg)
 
 
 
 
   
-  : cette souscription a apporté _**24515€**_ de dons que les AMVR donneront au titre du mécénat et contribueront de façon très notable à l’achat de ces pièces exceptionnelles destinées au musée de la Céramique.
+Cette souscription a apporté _**24515€**_ de dons que les AMVR donneront au titre du mécénat et contribueront de façon très notable à l’achat de ces pièces exceptionnelles destinées au musée de la Céramique.
 
 
 
