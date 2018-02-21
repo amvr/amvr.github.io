@@ -5,7 +5,6 @@ published: true
 
  
 
-### _**Historique de l'Association des Amis des Musées de la Ville de Rouen**_  
 
 Notre association, attachée dès l'origine aux _musées des Beaux-Arts, de la Céramique et au musée Le Secq des Tournelles_, a été créée en 1951.  
 Son premier président **Maurice Gorge** fit partie du comité d'organisation des expositions du musée, "Trois siècles d'argenterie française", et aussi, cette même année 1952, "Trésor de la faïence de Rouen". Cette première association disparut avant de renaître dans les années quatre-vingts. 
