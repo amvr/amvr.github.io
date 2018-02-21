@@ -5,9 +5,9 @@ published: true
 
 Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
 
- - Musée des Beaux-Arts
- - Musée de la Céramique
- - Musée Le Secq des Tournelles (Art du fer)
+ - Musée des Beaux-Arts -[Musée des Beaux-Arts](http://mbarouen.fr/fr)
+ - Musée de la Céramique-[Musée de la Céramique](http://museedelaceramique.fr/fr)
+ - Musée Le Secq des Tournelles-[Musée de la ferronnerie](http://museelesecqdestournelles.fr/fr)
  - Musée des Antiquités
  - Musée d'Histoires Naturelles  
  - Musée Pierre Corneille
