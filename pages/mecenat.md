@@ -50,7 +50,7 @@ Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort e
 Œuvre de l’architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s’organisait autour d’un escalier monumental semi-circulaire entourant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrés au monument, spécialement dessinés aux armes de la ville et surmontés d’un globe de verre.
 
 **« David et Goliath »**, de Philippe-Auguste Jeanron (1808-1877), un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D’où l’intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ».
-![Jeanron David et Goliath.jpg]({{site.baseurl}}/fichiers/oeuvres/2016-jeanron-david-et-goliath.jpg)
+![Jeanron David et Goliath.jpg](/fichiers/oeuvres/2016-jeanron-david-et-goliath.jpg)
 
 **1ere Nuit des étudiants le 31 mars 2016** : organisée en collaboration avec la Métropole et le Conservatoire de Rouen à rayonnement régional. Soirée très festive avec de nombreuses animations. On a compté 718 étudiants dans les salles du MBA, qui, pour certains, entraient dans ce musée pour la première fois.
 
