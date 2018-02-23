@@ -46,7 +46,7 @@ Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort e
  Ce tableau a été restauré et est accroché au Musée des Beaux-Arts.  
 
 **Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillés de cuivre, ils faisaient partie de la fontaine monumentale érigée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.
-![Restauration des réverbères](/fichiers/oeuvres/2016-reverbere.jpg)
+[Restauration des réverbères](/fichiers/oeuvres/2016-reverbere.jpg)
 Œuvre de l’architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s’organisait autour d’un escalier monumental semi-circulaire entourant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrés au monument, spécialement dessinés aux armes de la ville et surmontés d’un globe de verre.
 
 **« David et Goliath »**, de Philippe-Auguste Jeanron (1808-1877), un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D’où l’intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ».
