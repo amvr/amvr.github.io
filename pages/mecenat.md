@@ -22,8 +22,8 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 3) Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
 participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe**
 **à la Reine Marie-Amélie**:  
-[Service Royal](/pages/mecenat/2018-service-royal.md)
-
+[Service Royal](/pages/mecenat/2018-service-royal.jpg)
+![service royal](https://github.com/amvr/amvr.github.io/blob/master/fichiers/IMG_5440.JPG?raw=true)
 
 
 
