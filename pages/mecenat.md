@@ -22,7 +22,7 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 3) Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
 participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe**
 **à la Reine Marie-Amélie**:  
-[service royal](pages/mecenat/2018-serviceroyal.md)
+![service royal](pages/mecenat/2018-serviceroyal.jpg)
 
 
 
@@ -42,7 +42,7 @@ Cette souscription a apporté _**24515€**_ de dons que les AMVR donneront au t
 ## 2016  
 
 Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).
-![Dame au chapeau noir](/fichiers/oeuvres/2016-deshays-de-colleville.jpg)
+[Dame au chapeau noir](fichiers/oeuvres/2016-deshays-de-colleville.jpg/)
  Ce tableau a été restauré et est accroché au Musée des Beaux-Arts.  
 
 **Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillés de cuivre, ils faisaient partie de la fontaine monumentale érigée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.
