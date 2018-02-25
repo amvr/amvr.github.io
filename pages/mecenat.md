@@ -11,7 +11,8 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 
 
 
-## 2017  
+## 2017
+
  Le mécénat 2016/2017 :  
  1) **Une magnifique frise en ferronnerie du XVIIe siècle**  
  [Frise ferronnerie]({{site.baseurl}}/fichiers/Frise ferronnerie.jpg)
@@ -20,26 +21,10 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 2) **Participation et co-financement** (avec la Métropole, le Conservatoire la Fondation Flaubert, et les Zazimuts de la ville de Rouen) **de la 2e Nuit des Etudiants** le jeudi 6 avril 2017, qui a réuni 1620 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA : un vrai succès !  
 
 3) Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
-participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe**
-**à la Reine Marie-Amélie**:  
-[Service Royal](/pages/mecenat/2018-service-royal.jpg)
-![service royal](https://github.com/amvr/amvr.github.io/blob/master/fichiers/IMG_5440.JPG?raw=true)
+participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe à la Reine Marie-Amélie**:  
+[Service Royal](/pages/mecenat/2018-service-royal.html)
 
-
-
-
-
-  
-Cette souscription a apporté _**24515€**_ de dons que les AMVR donneront au titre du mécénat et contribueront de façon très notable à l’achat de ces pièces exceptionnelles destinées au musée de la Céramique.
-
-
-
-
-
-
-
-
-## 2016  
+## 2016
 
 Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).  
 [Portrait d'une Dame au chapeau noir](/fichiers/oeuvres/2016-deshays-de-colleville.jpg)  
