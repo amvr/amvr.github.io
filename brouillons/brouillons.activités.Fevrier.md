@@ -34,6 +34,14 @@ Auditorium du musée des Beaux-Arts.
 14h30 et 16h : _Une heure au Musée_ **"Emile Gallé et l'Art Nouveau"**,  
 Musée de la céramique.  
 
+**Lundi 19 mars**  
+12h15 : _Midi Musée musique_ **"Duo Placevoie"**  
+Jean-François Simoine, Flute  
+Béatrice Guillermin, harpe  
+**J.S.Bach, Donizetti, Ravel, Bartok**  
+Salle du Jubé
+
+
 **Samedi 10 février :**   
 14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Ferronnerie et Art nouveau"** ,  
 _**Anne-Charlotte Cathelineau**_, Conservateur du patrimoine, Conservateur des oeuvres d'art civiles et religieuses de la ville de Paris  
