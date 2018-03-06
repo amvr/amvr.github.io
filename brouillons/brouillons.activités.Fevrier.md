@@ -1,4 +1,4 @@
-## Calendrier du mois : Fevrier 2018
+## Calendrier du mois : Mars 2018
 
 
 
@@ -52,9 +52,4 @@ Auditorium du musée des Beaux-Arts.
 14h30  : _Initiation Histoire de l'Art_   
  Cycle III : A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
 **"Le Caravage :_La flagellation du Christ_"** ,  
-Musée des Beaux-Arts. 
-  
-  
-
-
-
+Musée des Beaux-Arts.
