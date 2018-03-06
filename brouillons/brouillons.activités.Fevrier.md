@@ -8,7 +8,12 @@ Auditorium du musée des Beaux-Arts
 
 **Jeudi 15 mars** :  
 14h30 et 16h : _Une heure au Musée_ - **"Emile Gallé et l'Art Nouveau"** ,  
-Musée de la céramique.  
+Musée de la céramique.   
+
+**Lundi 19 Mars**  
+17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
+**_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
+Auditorium du musée des Beaux-Arts
 
 **Vendredi 2 février :**  
 16h et 18h : _La renaissance allemande_ **"L'école du Danuble"**  
@@ -56,7 +61,10 @@ Auditorium du musée des Beaux-Arts.
 _**David Mandrella**_, professeur à l'Ecole du Louvre  
 Auditorium du musée des Beaux-Arts.
 
-
+**Lundi 26 Mars**  
+17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
+**_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
+Auditorium du musée des Beaux-Arts
 
 
   
