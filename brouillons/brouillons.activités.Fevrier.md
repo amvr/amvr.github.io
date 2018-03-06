@@ -1,5 +1,9 @@
 ## Calendrier du mois : Mars 2018
 
+**Lundi 12 Mars**  
+17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
+**_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
+Auditorium du musée des Beaux-Arts
 
 
 **Jeudi 15 mars** :  
