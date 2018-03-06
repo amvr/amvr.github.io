@@ -48,8 +48,8 @@ Auditorium du musée des Beaux-Arts.
 
 
   
-**Mercredi 21 février:**  
+**Mercredi 28 mars:**  
 14h30  : _Initiation Histoire de l'Art_   
  Cycle III : A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-**"Le Caravage :_La flagellation du Christ_"** ,  
+**"Claude Monet: Portail de la Cathédrale, temps gris_"** ,  
 Musée des Beaux-Arts.
