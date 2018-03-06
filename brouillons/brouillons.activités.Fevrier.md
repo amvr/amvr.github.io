@@ -20,9 +20,9 @@ Auditorium du musée des Beaux-Arts
 _**David Mandrella**_, professeur à l'Ecole du Louvre  
 Auditorium du musée des Beaux-Arts.
 
-**Mardi 6 février :**  
+**Mardi 20 mars :**  
 14h30 et 16h :_Aspects du romantisme européen 1760-1860_   
- **"Théodore Géricault(1791-1824) et le salon de 1812"**  
+ **"Eugène Delacroix (1798-1863) et les romantiques français"**  
 _**Sybille Bellamy-Brown**_, Historienne d'art  
 Auditorium du musée des Beaux-Arts  
 
@@ -66,7 +66,11 @@ Auditorium du musée des Beaux-Arts.
 **_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
 Auditorium du musée des Beaux-Arts
 
-
+**Mardi 27 mars :**  
+14h30 et 16h :_Aspects du romantisme européen 1760-1860_   
+ **"La lumière de Joseph Mallord William Turner (1775-1851)"**  
+_**Sybille Bellamy-Brown**_, Historienne d'art  
+Auditorium du musée des Beaux-Arts  
   
 **Mercredi 28 mars:**  
 14h30  : _Initiation Histoire de l'Art_   
