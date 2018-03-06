@@ -17,10 +17,10 @@ Auditorium du musée des Beaux-Arts.
 _**Sybille Bellamy-Brown**_, Historienne d'art  
 Auditorium du musée des Beaux-Arts  
 
-**Mercredi 7 février :**  
+**Mercredi 14 mars :**  
 14h30  : _Initiation Histoire de l'Art_   
  Cycle III : A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-**"Gérard David : _La vierge entre les vierges_"** ,  
+**"Paul Delaroche: Jeanne d'Arc malade est interrogée dans sa prison par le cardinal de Winchester_"** ,  
 Musée des Beaux-Arts. 
 
 **Vendredi 9 février :**  
