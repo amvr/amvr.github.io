@@ -3,21 +3,7 @@
 **Lundi 12 Mars**  
 17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
 **_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
-Auditorium du musée des Beaux-Arts
-
-
-**Jeudi 15 mars** :  
-14h30 et 16h : _Une heure au Musée_ - **"Emile Gallé et l'Art Nouveau"** ,  
-Musée de la céramique.   
-
-**Lundi 19 Mars**  
-17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
-**_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
-Auditorium du musée des Beaux-Arts
-
-
-
-
+Auditorium du musée des Beaux-Arts  
 
 **Mardi 13 mars**  
 14h30 et 17h : _Lumières d'extrème-orient_ **"Angkor, la forêt de pierre"**  
@@ -31,11 +17,19 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts. 
 
 
-
+**Jeudi 15 mars** :  
+14h30 et 16h : _Une heure au Musée_ - **"Emile Gallé et l'Art Nouveau"** ,  
+Musée de la céramique.  
 
 **Samedi 17 mars :**  
 14h30 et 16h : _Une heure au Musée_ **"Emile Gallé et l'Art Nouveau"**,  
-Musée de la céramique.  
+Musée de la céramique. 
+
+**Lundi 19 Mars**  
+17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
+**_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
+Auditorium du musée des Beaux-Arts
+
 
 **Lundi 19 mars**  
 12h15 : _Midi Musée musique_ **"Duo Placevoie"**  
@@ -78,4 +72,3 @@ Musée des Beaux-Arts.
 **Jeudi 29 mars**  
 _Sorties_ **"Musée Guimet"**  
 en complément du cycle "Lumières d'Extrème-Orient"
-
