@@ -26,6 +26,11 @@ Auditorium du musée des Beaux-Arts.
 _**Sybille Bellamy-Brown**_, Historienne d'art  
 Auditorium du musée des Beaux-Arts  
 
+**Mardi 13 mars**  
+14h30 et 17h : _Lumières d'extrème-orient_ **"Angkor, la forêt de pierre"**  
+**_Françoise Capelle_**, de l'école du Louvre, licenciée en histoire de l'art,Docteur en archéologie Paris 1 
+Auditorium du musée des Beaux-Arts
+
 **Mercredi 14 mars :**  
 14h30  : _Initiation Histoire de l'Art_   
  Cycle III : A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
