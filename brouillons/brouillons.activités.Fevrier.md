@@ -2,9 +2,9 @@
 
 
 
-**Jeudi 1 février** :  
-14h30 et 16h : _Une heure au Musée_ - **"Hector Guimard et l'Art Nouveau"** ,  
-Musée le Secq des Tournelles.  
+**Jeudi 15 mars** :  
+14h30 et 16h : _Une heure au Musée_ - **"Emile Gallé et l'Art Nouveau"** ,  
+Musée de la céramique.  
 
 **Vendredi 2 février :**  
 16h et 18h : _La renaissance allemande_ **"L'école du Danuble"**  
@@ -30,9 +30,9 @@ Auditorium du musée des Beaux-Arts.
 
 
 
-**Samedi 10 février :**  
-14h30 et 16h : _Une heure au Musée_ **"Hector Guimard et l'Art Nouveau"**,  
-Musée le Secq des Tournelles.  
+**Samedi 17 mars :**  
+14h30 et 16h : _Une heure au Musée_ **"Emile Gallé et l'Art Nouveau"**,  
+Musée de la céramique.  
 
 **Samedi 10 février :**   
 14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Ferronnerie et Art nouveau"** ,  
