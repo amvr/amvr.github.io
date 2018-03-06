@@ -42,9 +42,9 @@ Béatrice Guillermin, harpe
 Salle du Jubé
 
 
-**Samedi 10 février :**   
-14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Ferronnerie et Art nouveau"** ,  
-_**Anne-Charlotte Cathelineau**_, Conservateur du patrimoine, Conservateur des oeuvres d'art civiles et religieuses de la ville de Paris  
+**Samedi 24 mars :**   
+14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Christopher Dresser, le premier designer industriel"**
+_**Audrey Gay-Mazuel**_, Conservateur du patrimoine, musée des Arts Décoratifs Paris  
 Auditorium du musée des Beaux-Arts.   
 
 **Vendredi 16 février :**  
