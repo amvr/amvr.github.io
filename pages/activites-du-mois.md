@@ -56,7 +56,10 @@ _**Sybille Bellamy-Brown**_, Historienne d'art
 Auditorium du musée des Beaux-Arts  
 
 
-**Samedi 24 mars :**   
+**Samedi 24 mars :**  
+
+**Conférence reportée au 21 Avril**
+
 14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Christopher Dresser, le premier designer industriel"**
 _**Audrey Gay-Mazuel**_, Conservateur du patrimoine, musée des Arts Décoratifs Paris  
 Auditorium du musée des Beaux-Arts.   
@@ -83,6 +86,3 @@ Musée des Beaux-Arts.
 **Jeudi 29 mars**  
 _Sorties_ **"Musée Guimet"**  
 en complément du cycle "Lumières d'Extrème-Orient"
-
-
-
