@@ -57,7 +57,6 @@ Auditorium du musée des Beaux-Arts
 
 
 **Samedi 24 mars :**  
-
 **Conférence reportée au 21 Avril**
 
 14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Christopher Dresser, le premier designer industriel"**
