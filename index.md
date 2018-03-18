@@ -38,7 +38,7 @@ et d'animer auprès d'eux les **actions de Mécénat**
 ## FLASH INFO  
 
 La conférence du Samedi 24 Mars : **"Christopher Dresser designer industriel"** est reportée  
-au _**Samedi 21 avril**_ à 14h30 à l'auditorium du Musée des Beaux-Arts
+au _**Samedi 21 avril**_ à 14h30 et 16h à l'auditorium du Musée des Beaux-Arts
 
 
 
