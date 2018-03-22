@@ -31,7 +31,7 @@ Musée des Beaux-Arts.
 Auditorium du musée des Beaux-Arts
 
 
-**Lundi 19 mars**  
+**Lundi 9 Avril**  
 12h15 : _Midi Musée musique_ **"RdV avec les classes de musique de chambre du conservatoire de Rouen"**    
 Salle du Jubé  
 
@@ -43,8 +43,7 @@ Auditorium du musée des Beaux-Arts
 
 
 **Samedi 24 mars :**   
-14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Sur les pas de Sir Edwin Lutyens et Miss Gertrude Jekill au Bois des Moutiers"**  
-
+14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Sur les pas de Sir Edwin Lutyens et Miss Gertrude Jekill au Bois des Moutiers"**
 _**Antoine Bouchayer-Mallet**_, Directeur du Bois des Moutiers   
 Auditorium du musée des Beaux-Arts.   
 
