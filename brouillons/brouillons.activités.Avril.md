@@ -5,9 +5,9 @@
 **_Eric Bennett_** chargé de cours à l'université inter-ages de Paris 13  
 Auditorium du musée des Beaux-Arts  
 
-**Mardi 13 mars**  
-14h30 et 17h : _Lumières d'extrème-orient_ **"Angkor, la forêt de pierre"**  
-**_Françoise Capelle_**, de l'école du Louvre, licenciée en histoire de l'art,Docteur en archéologie Paris 1 
+**Mardi 10 Avril**  
+14h30 et 17h : _Lumières d'extrème-orient_ **"Kyoto et le pluralisme religieux japonais"**  
+**_François Lachaud_**, Spécialiste de bouddhisme et de civilisation japonaise, Directeur d'études à l'Ecole Française d'Extrème-Orient (E.F.E.O)   
 Auditorium du musée des Beaux-Arts
 
 **Mercredi 14 mars :**  
