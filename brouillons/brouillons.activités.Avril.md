@@ -32,7 +32,7 @@ Auditorium du musée des Beaux-Arts
 
 
 **Lundi 19 mars**  
-12h15 : _Midi Musée musique_ **"RdV avec les classes de musique de chambre du concervatoire de Rouen"**   
+12h15 : _Midi Musée musique_ **"RdV avec les classes de musique de chambre du conservatoire de Rouen"**    
 Salle du Jubé  
 
 **Mardi 20 mars :**  
