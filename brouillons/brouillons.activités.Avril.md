@@ -17,13 +17,13 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts. 
 
 
-**Jeudi 15 mars** :  
-14h30 et 16h : _Une heure au Musée_ - **"Emile Gallé et l'Art Nouveau"** ,  
-Musée de la céramique.  
+**Jeudi 5 Avril** :  
+14h30 et 16h : _Une heure au Musée_ - **"Géricault"** ,  
+Musée des Beaux-Arts.  
 
-**Samedi 17 mars :**  
-14h30 et 16h : _Une heure au Musée_ **"Emile Gallé et l'Art Nouveau"**,  
-Musée de la céramique. 
+**Samedi 7 Avril :**  
+14h30 et 16h : _Une heure au Musée_ **"Géricault"**,  
+Musée des Beaux-Arts. 
 
 **Lundi 19 Mars**  
 17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
