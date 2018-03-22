@@ -32,10 +32,7 @@ Auditorium du musée des Beaux-Arts
 
 
 **Lundi 19 mars**  
-12h15 : _Midi Musée musique_ **"Duo Placevoie"**  
-Jean-François Simoine, Flute  
-Béatrice Guillermin, harpe  
-**J.S.Bach, Donizetti, Ravel, Bartok**  
+12h15 : _Midi Musée musique_ **"RdV avec les classes de musique de chambre du concervatoire de Rouen"**   
 Salle du Jubé  
 
 **Mardi 20 mars :**  
