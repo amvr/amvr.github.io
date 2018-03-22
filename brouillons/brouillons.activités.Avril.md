@@ -70,6 +70,6 @@ Auditorium du musée des Beaux-Arts
 **"Claude Monet: Portail de la Cathédrale, temps gris_"** ,  
 Musée des Beaux-Arts.  
 
-**Jeudi 29 mars**  
-_Sorties_ **"Musée Guimet"**  
-en complément du cycle "Lumières d'Extrème-Orient"
+**Jeudi 12 Avril**  
+_Sorties_ **"Visite du château de Vincennes"**    
+Suite à la conférence du 9 janvier 2017 (cycle des monuments parisiens)
