@@ -16,8 +16,8 @@ Musée des Beaux-Arts.
 Musée des Beaux-Arts. 
 
 **Samedi 7 Avril :**   
-14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Sur les pas de Sir Edwin Lutyens et Miss Gertrude Jekill au Bois des Moutiers"**    
-
+14h30 et 16h : _les Arts décoratifs en Europe_    
+**"Sur les pas de Sir Edwin Lutyens et Miss Gertrude Jekill au Bois des Moutiers"**    
 _**Antoine Bouchayer-Mallet**_, Directeur du Bois des Moutiers   
 Auditorium du musée des Beaux-Arts. 
 
@@ -40,11 +40,3 @@ Suite à la conférence du 9 janvier 2017 (cycle des monuments parisiens)
 14h30 et 17h : _Lumières d'extrème-orient_ **"Xi'an, capitale de la Chine Impériale et Confucianisme"**  
 **_Christine Kontler_**, Sinisante, membre du centre de recherches sur l'Extrème-Orient de Paris-Sorbonne (C.R.E.O.P.S.)  
 Auditorium du musée des Beaux-Arts
-
-
-
-
-  
- 
-
-
