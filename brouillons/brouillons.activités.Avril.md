@@ -1,4 +1,4 @@
-## Calendrier du mois : Mars 2018
+## Calendrier du mois : avril 2018
 
 **Lundi 12 Mars**  
 17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
