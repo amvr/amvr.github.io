@@ -48,7 +48,10 @@ Auditorium du musée des Beaux-Arts
 _**Antoine Bouchayer-Mallet**_, Directeur du Bois des Moutiers   
 Auditorium du musée des Beaux-Arts.   
 
-
+**Mardi 17 Avril**  
+14h30 et 17h : _Lumières d'extrème-orient_ **"Xi'an, capitale de la Chine Impériale et Confucianisme"**  
+**_Christine Kontler_**, Sinisante, membre du centre de recherches sur l'Extrème-Orient de Paris-Sorbonne (C.R.E.O.P.S.)  
+Auditorium du musée des Beaux-Arts
 
 **Lundi 26 Mars**  
 17h : _Cycle "Grands Musiciens"_ **Chopin, poëte du piano**  
