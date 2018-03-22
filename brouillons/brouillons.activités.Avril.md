@@ -42,7 +42,7 @@ _**Sybille Bellamy-Brown**_, Historienne d'art
 Auditorium du musée des Beaux-Arts  
 
 
-**Samedi 24 mars :**   
+**Samedi 7 Avril :**   
 14h30 et 16h : _les Arts décoratifs en Europe_  -  **"Sur les pas de Sir Edwin Lutyens et Miss Gertrude Jekill au Bois des Moutiers"**
 _**Antoine Bouchayer-Mallet**_, Directeur du Bois des Moutiers   
 Auditorium du musée des Beaux-Arts.   
