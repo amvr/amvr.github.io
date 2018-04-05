@@ -46,7 +46,11 @@ au _**Samedi 21 avril**_ à 14h30  à l'auditorium du Musée des Beaux-Arts
 
 
 **Modification de programme**  
-  
+  Un contre temps du musée des Beaux-Arts  nous oblige à annuler la visite dans le cadre d’une heure au musée du **samedi 7 avril**  sur GERICAULT , aux deux horaires 14h30 et 16h.
+
+ 
+
+Merci de bien vouloir noter que cette visite est reportée au **samedi 21 avril**, aux mêmes horaires 14h30 et 16h.
 
 
 
