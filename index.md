@@ -37,28 +37,37 @@ et d'animer auprès d'eux les **actions de Mécénat**
 ---
 ## FLASH INFO  
 
-La conférence du Samedi 24 Mars : **"Christopher Dresser designer industriel"** est reportée  
-au _**Samedi 21 avril**_ à 14h30  à l'auditorium du Musée des Beaux-Arts
 
-
-
-
-
-
-**Modification de programme**  
-  Un contre temps du musée des Beaux-Arts  nous oblige à annuler la visite dans le cadre d’une heure au musée du **samedi 7 avril**  sur GERICAULT , aux deux horaires 14h30 et 16h.
+1)    Pour accompagner l’exposition   « ABCDUCHAMP » qui se tiendra au musée des Beaux-arts du 14 juin au 24 septembre 2018 , nous vous proposons :
 
  
 
-Merci de bien vouloir noter que cette visite est reportée au **samedi 21 avril**, aux mêmes horaires 14h30 et 16h.
+• Un mini cycle de deux conférences sur Marcel Duchamp, les mardis 22 et 29 mai à 15h, mais également,
+
+ 
+
+• Une visite guidée de cette exposition, plusieurs dates au choix en juin.
+
+ 
+
+ 
+
+2)    D’autre part, nos Amis des Musées de la Métropole et du Département nous propose  une visite guidée de l’exposition qui se tiendra au musée des Antiquités  du 24 mai au 16 septembre sur le thème  « Les Juifs d’Europe du Nord au moyen-âge ».
+
+ 
+
+
+
 
 
 
  
- **A NOTER** : Dernière conférence du cycle « Art et pouvoir dans les cours de la Renaissance italienne » :
-nous avons été contraints d’annuler au dernier moment la conférence du lundi 4 décembre d’Hèlène
-Decis-Lartigau sur « Un Prince et ses musiciens ». _**Cette conférence est reprogrammée pour le lundi
-16 avril à 16h et à 18h, et sera assurée par Madame Camille Villanove, musicologue.**_
+ 
+
+
+
+ 
+
 
 
 ---  
