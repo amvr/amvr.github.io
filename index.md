@@ -48,7 +48,7 @@ et d'animer auprès d'eux les **actions de Mécénat**
 
 • Une visite guidée de cette exposition, plusieurs dates au choix en juin.
 
- 
+ ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-3.jpg)
 
  
 
