@@ -44,12 +44,12 @@ et d'animer auprès d'eux les **actions de Mécénat**
 
 • Un mini cycle de deux conférences sur Marcel Duchamp, les mardis 22 et 29 mai à 15h, mais également,
 
- 
+  ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-2.jpg)
 
 • Une visite guidée de cette exposition, plusieurs dates au choix en juin.
 
  ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-3.jpg)
- ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-2.jpg)
+
  
 
 2)    D’autre part, nos Amis des Musées de la Métropole et du Département nous propose  une visite guidée de l’exposition qui se tiendra au musée des Antiquités  du 24 mai au 16 septembre sur le thème  « Les Juifs d’Europe du Nord au moyen-âge ».
