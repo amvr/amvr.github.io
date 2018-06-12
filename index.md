@@ -36,13 +36,13 @@ et d'animer auprès d'eux les **actions de Mécénat**
 
 ---
 ## FLASH INFO  
-
+**« Vous l’attendez tous avec impatience…La brochure de la saison 2018/2019 va vous être envoyée aux environs du 20 juin ! Surveillez votre boîte à lettres… ».**
 
 1)    Pour accompagner l’exposition   « ABCDUCHAMP » qui se tiendra au musée des Beaux-arts du 14 juin au 24 septembre 2018 , nous vous proposons :
 
  
 
-• Un mini cycle de deux conférences sur Marcel Duchamp, les mardis 22 et 29 mai à 15h, mais également,
+
  ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-2.jpg)
  ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-3.jpg)
 • Une visite guidée de cette exposition, plusieurs dates au choix en juin.
