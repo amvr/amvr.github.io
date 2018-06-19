@@ -21,7 +21,7 @@ Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
 ## Rejoignez l’association des Amis des Musées de la Ville de Rouen.
 
 En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collections des musées de votre ville.  
-- [Télécharger et imprimer le bulletin d'adhésion](/fichiers/adhesions-2018-2019.md)(Format PDF)
+- [Télécharger et imprimer le bulletin d'adhésion](/fichiers/adhesion-2018-2019.pdf) (Format PDF)
 
 ## Avantages réservés aux adhérents de l’Association :
 
