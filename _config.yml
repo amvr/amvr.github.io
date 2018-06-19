@@ -36,4 +36,6 @@ prose:
     - .jekyll-metadata
     - /_layouts
     - /_plugins
+    - Gemfile
+    - Gemfile.lock
   media: "fichiers"
