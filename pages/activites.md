@@ -6,7 +6,7 @@ published: true
 
 ## Programme
 
-[Télécharger le dépliant complet pour la saison 2018-2019](/fichiers/brochure-2017-2018.pdf) (format PDF)
+[Télécharger le dépliant complet pour la saison 2018-2019](/fichiers/adhesion-2018-2019.pdf) (format PDF)
 
 
  --- 
