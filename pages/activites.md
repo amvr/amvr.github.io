@@ -14,10 +14,9 @@ published: true
 
 
 
-## Nuit des étudiants 2016-2017
+## Nuit des étudiants 2017-2018
 
-[Télécharger le compte rendu de la nuit des étudiants](/fichiers/161128-nuit-des-etudiants-au-musee.pdf) (format PDF)
-
+**1310** Participants à 21 heures nous nous félicitons de cet engouement pour cette manifestation qui sera renouvelée
 ---
 
 ## Voyages proposés 2018  
