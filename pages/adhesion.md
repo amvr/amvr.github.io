@@ -121,13 +121,13 @@ Forfait : 35€ (Gratuit le samedi pour les demandeurs d’emploi)
 
  Aux 5 concerts**Midi Musée Musique** :    Forfait : 45€ 
 
- Aux 4 conférences **« L'Art du dessin »** (mercredi) : Forfait : 30€
+ Aux 3 conférences **« L'Art du dessin »** (mercredi) : Forfait : 22€
 
  Aux 4 conférences **« Elégantes et dandys romantiques »** (samedi) : Forfait : 30 €
 
  Aux 3 conférences du cycle **« Paradis artificiels »** (samedi) : Forfait : 22€
 
- Aux 3 conférences **« Bysance 1000 ans d'art et d'histoire »** (lundi) :  Forfait : 22€
+ Aux 3 conférences **« Byzance 1000 ans d'art et d'histoire »** (lundi) :  Forfait : 22€
 
  Aux de 3 conférences **« Le musicien et le pouvoir »** (lundi) : Forfait : 22€   
  
@@ -158,5 +158,3 @@ Non adhérents : 12€ / Moins de 26 ans : 5€
 Demandeur d’emploi : gratuit
 Tarifs pour chaque conférence de tous les cycles :
 Adhérents : 8€  Non adhérents : 10€   Etudiants : 5€
-
-
