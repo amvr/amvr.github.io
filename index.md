@@ -30,15 +30,6 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## FLASH INFO
 
-**« Vous l’attendez tous avec impatience…La brochure de la saison 2018/2019 va vous être envoyée aux environs du 20 juin ! Surveillez votre boîte à lettres… ».**
-
-1) Pour accompagner l’exposition   « ABCDUCHAMP » qui se tiendra au musée des Beaux-arts du 14 juin au 24 septembre 2018 , nous vous proposons **une visite guidée de cette exposition**, plusieurs dates au choix en juin.
-
- ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-2.jpg)
- ![Disques Duchamp](fichiers/oeuvres/2015-duchamp-3.jpg)
-
-2) D’autre part, nos Amis des Musées de la Métropole et du Département nous propose  une visite guidée de l’exposition qui se tiendra au musée des Antiquités  du 24 mai au 16 septembre sur le thème  « Les Juifs d’Europe du Nord au moyen-âge ».
-
 ---
 
 ## Règlement intérieur
