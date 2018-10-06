@@ -21,7 +21,7 @@ Samedi 6 octobre  :
 **"la peinture du XVIIIe siècle"**  
 Musée des Beaux-Arts.
 
-- 14h30 : cycle _les Paradis articiels_
+- 14h30 : cycle _les Paradis articiels_  
 1ere conférence : **"Absinthe, la fée verte"**  
 par Sophie Rochefort-Guillouet,professeur d'Histoire comparée  et d'histoire de l'rt à l'Institut d'Etudes Politiques de Paris  
 Auditorium musée des Beaux-Arts.  
@@ -32,7 +32,7 @@ Lundi 8 octobre :
 Musée des Beaux-Arts.
 
 Mercredi 10 octobre:  
-- 14h30 et 16h : _Initiation Histoire de l'Art_ - Cycle II thématique :  
+- 14h30 et 16h : _Initiation Histoire de l'Art_ - Cycle II thématique :    
 **Le developpement du paysage  la Renaissance**  
 Musée des Beaux-Arts.
 
@@ -40,4 +40,3 @@ Jeudi 18 octobre :
 - _Sortie_  
 **"Exposition Zao Wou Ki"**  
 Musée d'Art Moderne de Paris
-
