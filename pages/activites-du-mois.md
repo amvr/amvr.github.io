@@ -18,12 +18,10 @@ Auditorium du musée des Beaux-Arts.
 
 Samedi 6 octobre  :
 - 15h et 16h30 : _Une heure au Musée_  
-
 **"la peinture du XVIIIe siècle"**  
 Musée des Beaux-Arts.
 
 - 14h30 : cycle _les Paradis articiels_  
-
 1ere conférence : **"Absinthe, la fée verte"**  
 par Sophie Rochefort-Guillouet,professeur d'Histoire comparée  et d'histoire de l'rt à l'Institut d'Etudes Politiques de Paris  
 Auditorium musée des Beaux-Arts.  
