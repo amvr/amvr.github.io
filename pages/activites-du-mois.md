@@ -18,7 +18,7 @@ Auditorium du musée des Beaux-Arts.
 
 Samedi 6 octobre  :
 - 15h et 16h30 : _Une heure au Musée_  
-**la peinture du XVIIe siècle**  
+**La peinture du XVIIe siècle**  
 Musée des Beaux-Arts.
 
 - 14h30 : cycle _les Paradis artificiels_  
