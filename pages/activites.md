@@ -27,7 +27,7 @@ Voyage d’application suite au cycle de conférences de David Mandrella sur ce 
 janvier/février.  
 Voyage organisé par _Marie-Agnès Bennett et Marie-Odile Dévé._  
 
--Voyage sur le thème **"Abbayes et textiles dans le Bourbonnaisdu 21 au 23 mai 2019"**, en lien avec l'exposition du Musée des Beaux-Arts, .  
+-Voyage sur le thème **"Abbayes et textiles dans le Bourbonnais du 21 au 23 mai 2019"**, en lien avec l'exposition du Musée des Beaux-Arts, .  
 
 -**Escapade culturelle à Berlin  et Postdam du 19 au 22 septembre 2019**.
 
