@@ -2,7 +2,7 @@
 title: Activités du mois
 published: true
 ---
-## Activités octobre 2018##  
+## Activités octobre 2018
 
 Jeudi 4 octobre :  
 - 15h et 16h30 : _Une heure au Musée_  
