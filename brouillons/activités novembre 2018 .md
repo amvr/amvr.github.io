@@ -3,16 +3,16 @@
 
  
 
-**Vendredi 1 décembre**  
-16h  : _Mythes peints , Mythes sculptés_ :  
-**"Le Parthénon et l'Athéna Parthénos, la mythologie grecque au service de la Cité**  
-par **_Isabelle Hasselin_** , Conservateur au musée du Louvre  
+**Samedi 17 novembre **  
+14h30  : _Les paradis artificiels_ :  
+**"Rèves d'opium**  
+par **_Sophie Rochefort-Guillouet_** , Proffesseur d'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris 
 Auditorium du musée des Beaux-Arts 
 
 **Lundi 4 décembre**   
 16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
 **"Un Prince et ses musiciens"**   
-par H**élène Decis-Lartigau**, musicologue  
+par **_Hélène Decis-Lartigau_**, musicologue  
 Auditorium du musée des Beaux-Arts.  
 
 
@@ -52,10 +52,28 @@ Musée de Beaux-Arts
 **"Le dessin français aux XVIe et XVIIe siècles"**  
 Musée des Beaux-Arts   
 
-**Vendredi 8 décembre**  
-16h : _Mythes peints , Mythes sculptés_ :  
-**"Mythes et idéologie dynastique : l'autel de Pergame et les décors scuptés dans les royaumes hellénistiques"**  
-par **Ludovic Laugier** Conservateur au musée du Louvre  
+**Vendredi 9 novembre**  
+16h et 18h : _La renaissance en France_ :  
+**"La Renaissance en Normandie"**  
+par **_Etienne Faisant_** docteur en histoire de l'art  
+Auditorium du musée des Beaux-Arts  
+
+**Vendredi 16 novembre**  
+16h et 18h : _La renaissance en France_ :  
+**"Les Dames d'influence "**  
+par **_Aubrée David-Chapy_** docteur en histoire, spécialiste des femmes de pouvoir  
+Auditorium du musée des Beaux-Arts  
+
+**Vendredi 23 novembre**  
+16h et 18h : _La renaissance en France_ :  
+**"La musique à la Renaissance "**  
+par **_Denis Raisin Dadre_** musicologue de la Renaissance, fondateur et directeur de l'ensemble Doulce Mémoire
+Auditorium du musée des Beaux-Arts  
+
+**Vendredi 30 novembre**  
+16h et 18h : _La renaissance en France_ :  
+**"Les jardins de la Renaissance "**  
+par **_Hervé Brunon_** historien des jardins et du paysage, directeur de recherche au C.N.R.S.  
 Auditorium du musée des Beaux-Arts  
 
 **Jeudi 8 novembre**  
@@ -78,7 +96,7 @@ Musée Le Secq des Tournelles
 **Lundi 11 décembre**  
 16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
 **"La collection et le "studiolo""**  
-par **Claire Grébille**, guide conférencière nationale ,  
+par **_Claire Grébille_**, guide conférencière nationale ,  
 Auditorium du musée des Beaux-Arts. 
 
 
@@ -99,16 +117,26 @@ Christophe Beau, violoncelle
 
 Salle du jubé   
 
-**Mercredi 13 décembre**  
-_Sortie_ :  
-**"Chefs d'oeuvre du MOMA"**  
-Centre Pompidou - Paris    
+**Mercredi 14 novembre**  
+17h :_L'Art du dessin_ :  
+**"Le caractére d'une grande collection : le fonds de dessins français du XVIIè siécle du cabinet des dessins de Rouen"**  
+par **_Diederik Bakhuys_** Conservateur au musée des Beaux-Arts de Rouen 
+
+Auditorium du musée des Beaux-Arts.
+   
+   
+   **Mercredi 21 novembre**  
+17h :_L'Art du dessin_ :  
+**"Simon Vouet (1590-1649) son oeuvre et ses élèves"**  
+par **_Barbara Brejon de Lavergnée_** ancienne bibliothécaire  à la réserve du département des Estampes et de la photographie, Bibliothèque nationale de France 
+
+Auditorium du musée des Beaux-Arts.
 
 
 **Vendredi 30 novembre**  
 14h30 : _Vendredis de la métropole_ :  
 **"Sauvegarde et mise en valeur du patrimoine industriel de la vallée du Cailly: l'exemple du musée de la corderie Vallois à Notre-Dame de Bondeville"**  
-par **Alain Alexandre** historien , président de l'association du Musée de l'homme et de l'industrie (AMHI)  
+par **_Alain Alexandre_** historien , président de l'association du Musée de l'homme et de l'industrie (AMHI)  
 Auditorium du musée des Beaux-Arts
 
   
