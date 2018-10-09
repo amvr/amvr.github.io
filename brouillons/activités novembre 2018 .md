@@ -88,7 +88,7 @@ Auditorium du musée des Beaux-Arts.
 Christelle Rayneau, flute  
 Nathanaelle Marie, violon  
 Vinciane Beranger, alto  
-Christophe Beau, violoncelle
+Christophe Beau, violoncelle  
 _Mozart_ : Quatuor en do Kw 285b ;Allegro thème et variations  
  
 _Haydn_ : Quartet op.5 n      )5 en réM
