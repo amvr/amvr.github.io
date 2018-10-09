@@ -84,21 +84,23 @@ Auditorium du musée des Beaux-Arts.
 
 **Lundi 26 novembre**  
 12h15 : _Midi Musée Musique_ :  
-**"Avec la participation de l'association Phares Quatuor Helios"**   
+**"Avec la participation de l'association Phares Quatuor Helios"**  
+
 Christelle Rayneau, flute  
 Nathanaelle Marie, violon  
 Vinciane Beranger, alto  
 Christophe Beau, violoncelle  
-_Mozart_ : Quatuor en do Kw 285b ;Allegro thème et variations  
- 
-_Haydn_ : Quartet op.5 n      )5 en réM
 
-_Debussy_ : Choix de préludes(transcription Alain Louvier)  
+**_Mozart_** : Quatuor en do Kw 285b ;Allegro thème et variations  
+ 
+**_Haydn_** : Quartet op.5 n      )5 en réM
+
+**_Debussy_** : Choix de préludes(transcription Alain Louvier)  
 			Bruyéres, Les pas sur la neige, Minstrels  
 
-_Finzi_: Océan, mer (dédié à Hélios) sur des poèmes de Verlaine, Rimbaud, Richepin, Corbiére, Marbeuf.  
+**_Finzi_**: Océan, mer (dédié à Hélios) sur des poèmes de Verlaine, Rimbaud, Richepin, Corbiére, Marbeuf.  
 
-_Bizet-Borne_: variations sur le thème de Carmen
+**_Bizet-Borne_**: variations sur le thème de Carmen
 
 
 
