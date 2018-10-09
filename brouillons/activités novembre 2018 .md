@@ -97,8 +97,6 @@ Christophe Beau, violoncelle
 **_Finzi_**: Océan, Mer (dédié à Hélios) sur des poèmes de Verlaine, Rimbaud, Richepin, Corbiére, Marbeuf.  
 **_Bizet-Borne_**: variations sur le thème de Carmen
 
-
-
 Salle du jubé   
 
 **Mercredi 13 décembre**  
@@ -107,10 +105,10 @@ _Sortie_ :
 Centre Pompidou - Paris    
 
 
-**Vendredi 15 décembre**  
-16h : _Mythes peints , Mythes sculptés_ :  
-**"Epilogue : mythe et politique à Rome, le monde des images et le pouvoir à l'époque impériale"**  
-par **Daniel Roger** Conservateur au musée du Louvre  
+**Vendredi 30 novembre**  
+14h30 : _Vendredis de la métropole_ :  
+**"Sauvegarde et mise en valeur du patrimoine industriel de la vallée du Cailly: l'exemple du musée de la corderie Vallois à Notre-Dame de Bondeville"**  
+par **Alain Alexandre** historien , président de l'association du Musée de l'homme et de l'industrie (AMHI)  
 Auditorium du musée des Beaux-Arts
 
   
