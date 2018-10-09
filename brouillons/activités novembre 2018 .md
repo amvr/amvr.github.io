@@ -16,10 +16,21 @@ par H**élène Decis-Lartigau**, musicologue
 Auditorium du musée des Beaux-Arts.  
 
 
- **Lundi 4 décembre**  
+ **Lundi 12 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
-**"Le paysage au XVIIIe siècle"**  
+**"Le baroque et le classicisme"**  
 Musée des Beaux-Arts  
+
+**Lundi 19 novembre**  
+14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
+**"Le XVIIIè siècle français"**  
+Musée des Beaux-Arts
+
+**Lundi 26 novembre**  
+14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
+**"Le Les grands mouvements  du XIXè siècle"**  
+Musée des Beaux-Arts  
+
 
 **Mercredi 6 décembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
