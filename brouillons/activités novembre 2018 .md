@@ -28,13 +28,23 @@ Musée des Beaux-Arts
 
 **Lundi 26 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
-**"Le Les grands mouvements  du XIXè siècle"**  
+**"Les grands mouvements du XIXè siècle"**  
 Musée des Beaux-Arts  
 
 
-**Mercredi 6 décembre**  
+**Mercredi 14 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
-**"Le réalisme et le naturalisme"**,  
+**"Le paysage au XVIIè siècle"**,  
+Musée de Beaux-Arts 
+
+**Mercredi 21 novembre**  
+14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
+**"Le paysage au XVIIIè siècle"**,  
+Musée de Beaux-Arts
+
+**Mercredi 28 novembre**  
+14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
+**"Le paysage romantique"**,  
 Musée de Beaux-Arts 
 
 **Jeudi 7 décembre**  
@@ -48,10 +58,22 @@ Musée des Beaux-Arts
 par **Ludovic Laugier** Conservateur au musée du Louvre  
 Auditorium du musée des Beaux-Arts  
 
-**Samedi 9 décembre**  
+**Jeudi 8 novembre**  
 14h30 et 16h : _Une heure au musée_ :  
-**"Le dessin français aux XVIe et XVIIe siècles"**  
-Musée des Beaux-Arts  
+**"Le service à thé offert par Louis-Philippe à la reine Marie-Amélie"**  
+Musée de la Céramique  
+
+
+**Samedi 10 novembre**  
+14h30 et 16h : _Une heure au musée_ :  
+**"Le service à thé offert par Louis-Philippe à la reine Marie-Amélie"**  
+Musée de la Céramique 
+
+**Jeudi 29 novembre**  
+14h30 et 16h : _Une heure au musée_ :  
+**"Restaurations et acquisitions , une collection qui continue de s'enrichir"**  
+Musée Le Secq des Tournelles
+
 
 **Lundi 11 décembre**  
 16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
@@ -60,14 +82,27 @@ par **Claire Grébille**, guide conférencière nationale ,
 Auditorium du musée des Beaux-Arts. 
 
 
-**Lundi 11 décembre**  
+**Lundi 26 novembre**  
 12h15 : _Midi Musée Musique_ :  
-**"Récital de piano par Kanae Endo"**  
-_Grieg_ : Suite "Au temps de Holberg"
-	Prélude, Sarabande, Gavotte, Air, Rigaudon  
-_Borodine_ : Petite Suite, Au couvent, Intermezzo, Mazurka I, Mazurka II, Rêverie, Sérénade, Nocturne  
-_Chopin_ : Grande Valse brillante en fa majeur, op.34 n°3, Valse en ut dièse mineur Op.64 n°2, Tarentelle en la bémol majeur OP.43  
-Auditorium du musée des Beaux-Arts   
+**"Avec la participation de l'association Phares Quatuor Helios"**   
+Christelle Rayneau, flute  
+Nathanaelle Marie, violon  
+Vinciane Beranger, alto  
+Christophe Beau, violoncelle
+_Mozart_ : Quatuor en do Kw 285b ;Allegro thème et variations  
+ 
+_Haydn_ : Quartet op.5 n      )5 en réM
+
+_Debussy_ : Choix de préludes(transcription Alain Louvier)  
+			Bruyéres, Les pas sur la neige, Minstrels  
+
+_Finzi_: Océan, mer (dédié à Hélios) sur des poèmes de Verlaine, Rimbaud, Richepin, Corbiére, Marbeuf.  
+
+_Bizet-Borne_: variations sur le thème de Carmen
+
+
+
+Salle du jubé   
 
 **Mercredi 13 décembre**  
 _Sortie_ :  
