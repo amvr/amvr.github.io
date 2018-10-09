@@ -9,11 +9,11 @@
 par **_Sophie Rochefort-Guillouet_** , Proffesseur d'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris 
 Auditorium du musée des Beaux-Arts 
 
-**Lundi 4 décembre**   
-16h et 18h : _Art et Pouvoir dans les cours de la renaissance italienne_ :  
-**"Un Prince et ses musiciens"**   
-par **_Hélène Decis-Lartigau_**, musicologue  
-Auditorium du musée des Beaux-Arts.  
+**Mardi 13 novembre **   
+ 	_Sortie_ :  
+**"Exposition Egon Schiele/Jean Michel Basquiat"**   
+  Fondation Vuitton Paris
+  
 
 
  **Lundi 12 novembre**  
