@@ -28,9 +28,12 @@ Auditorium du musée des Beaux-Arts.
 Musée des Beaux-Arts.  
 
 **Lundi 10 décembre** :  
-12h15 :_Midi-Musée-Musique_,**"Quatuor Daphnis"**  
+12h15 :_Midi-Musée-Musique_  
+**"Quatuor Daphnis"**  
+
 _**Eva Zavaro**_, violon; _**Rya Kojima**_, violon;  
 _**Violaine Despeyroux**_, alto; _**Alexis Derouin**_, Violoncelle  
+
 **Wieczyslaw Weinberg (1919-1996)** :Quatuor n°5  
 **Piotr Illitch Tchaikosky** : Quatuor n°1    
  Salle du Jubé
@@ -53,5 +56,3 @@ Auditorium du musée des Beaux-Arts
 **"Les richesses du patrimoine médical de Rouen"**  
 par _**Philippe Hecketsweiller**_, professeur à la faculté de Médecine de Rouen, président du groupe d'Etude sur l'Histoire des hôpitaux de Rouen.  
 Auditorium du musée des Beaux-Arts.
-
-
