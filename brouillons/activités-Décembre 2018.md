@@ -30,13 +30,13 @@ Musée des Beaux-Arts.
 **Samedi 13 janvier** :  
 14h30 et 16h : _Les Arts décoratifs en Europe_    
 **"Les Revivals au XIXe siècle"**   
-par _Audrey Gay-Mazuel_, conservateur du patrimoine, Musée des Arts décoratifs Paris,  
+par _**Audrey Gay-Mazuel**_, conservateur du patrimoine, Musée des Arts décoratifs Paris,  
 Auditorium du musée des Beaux-Arts
 
 **Lundi 10 décembre** :  
 12h15 :_Midi-Musée-Musique_,**"Quatuor Daphnis"**  
-
-_Eva Zavaro_, violon; _Rya Kojima_, violon; _Violaine Despeyroux_, alto; _Alexis Derouin_, Violoncelle  
+_**Eva Zavaro**_, violon; _**Rya Kojima**_, violon;  
+_**Violaine Despeyroux**_, alto; _**Alexis Derouin**_, Violoncelle  
 **Wieczyslaw Weinberg (1919-1996)** :Quatuor n°5  
 **Piotr Illitch Tchaikosky** : Quatuor n°1    
  Salle du Jubé
@@ -53,10 +53,10 @@ _Sorties_
 Centre Pompidou
 
 
-.**Vendredi 19 janvier :**  
-16h et 18h : _La renaissance allemande_   
-**"Les arts à Nuremberg vers 1500 : sculp^ture, objets d'art et architechture"**  
-par _David Mandrella_, professeur à l'Ecole du Louvre.  
+.**Vendredi 14 décembre :**  
+14h30 : _Vendredis de la métropole_   
+**"Les richesses du patrimoine médical de Rouen"**  
+par _Philippe Hecketsweiller_, professeur à la faculté de Médecine de Rouen, président du groupe d'Etude sur l'Histoire des hôpitaux de Rouen.  
 Auditorium du musée des Beaux-Arts.
 
 **Samedi 20 janvier** :  
