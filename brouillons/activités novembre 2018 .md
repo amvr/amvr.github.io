@@ -57,6 +57,10 @@ Auditorium du musée des Beaux-Arts
 **"Le XVIIIè siècle français"**  
 Musée des Beaux-Arts
 
+**Mercredi 21 novembre**  
+14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
+**"Le paysage au XVIIIè siècle"**,  
+Musée de Beaux-Arts 
    
    **Mercredi 21 novembre**  
 17h :_L'Art du dessin_ :  
