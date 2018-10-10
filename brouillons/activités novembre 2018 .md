@@ -88,7 +88,7 @@ Christophe Beau, violoncelle
 **_Haydn_** : Quartet op.5 n°5 en réM
 **_Debussy_** : Choix de préludes(transcription Alain Louvier); Bruyéres, Les pas sur la neige, Minstrels  
 **_Finzi_**: Océan, Mer (dédié à Hélios) sur des poèmes de Verlaine, Rimbaud, Richepin, Corbiére, Marbeuf.  
-**_Bizet-Borne_**: variations sur le thème de Carmen
+**_Bizet-Borne_**: variations sur le thème de Carmen.  
 Salle du jubé   
 
 
