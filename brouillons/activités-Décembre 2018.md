@@ -11,10 +11,10 @@ Musée des Beaux-Arts.
 **"Le paysage impressionniste"**   
 Musée des Beaux-Arts.
 
-**Jeudi 11 janvier** :  
+**Jeudi 1 décembre** :  
 14h30 et 16h : _Une heure au Musée_   
-**"Les Arts Décoratifs du musée d'Orsay : _Les Arts and Crafts_"**   
-Musée des Beaux-Arts.
+**"Restaurations et acquisitions, une collection qui continue de s'enrichir_"**   
+Musée Le Secq des tournelles.
 
 **Vendredi 12 janvier :**  
 16h et 18h : _La renaissance allemande_   
@@ -33,13 +33,13 @@ Musée des Beaux-Arts.
 par _Audrey Gay-Mazuel_, conservateur du patrimoine, Musée des Arts décoratifs Paris,  
 Auditorium du musée des Beaux-Arts
 
-**Lundi 15 janvier** :  
-12h15 :_Midi-Musée-Musique_,**"Quatuor Yako"**  
-_Ludovic Tilly_, violon; _Pierre Maestra_, violon; _Vincent Verhoeven_, alto; _Alban Lebrun_, contrebasse  
-**Haydn** : op74/3 "Le cavalier"  
-**Philip Glass** : Quatuor n°2  
-**Ravel**: Quatuor  
-Auditorium du musée des Beaux-Arts
+**Lundi 10 décembre** :  
+12h15 :_Midi-Musée-Musique_,**"Quatuor Daphnis"**  
+
+_Eva Zavaro_, violon; _Rya Kojima_, violon; _Violaine Despeyroux_, alto; _Alexis Derouin_, Violoncelle  
+**Wieczyslaw Weinberg (1919-1996)** :Quatuor n°5  
+**Piotr Illitch Tchaikosky** : Quatuor n°1    
+ Salle du Jubé
 
 **Mardi 16 janvier** :  
 14h30 et 16h : _Aspects du romantisme européen 1760-1860_,  
