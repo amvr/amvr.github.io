@@ -9,7 +9,14 @@ Musée des Beaux-Arts.
 **Mercredi 12 décembre:**  
 14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique : Le paysage   
 **"Le paysage impressionniste"**   
-Musée des Beaux-Arts.
+Musée des Beaux-Arts.  
+
+**Mercredi 12 décembre**  
+17h :_L'Art du dessin_  
+**Henri Baderou en Amérique.  
+Ventes et découvertes d'un grand collectionneur**  
+par **_Elodie Vaysse_**,Conservateur  du patrimoine -Musée national des châteaux de Malmaison et Bois-Préau  
+Auditorium du musée des Beaux-Arts
 
 **Jeudi 1 décembre** :  
 14h30 et 16h : _Une heure au Musée_   
