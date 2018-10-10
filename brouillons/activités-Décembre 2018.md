@@ -54,10 +54,11 @@ _**Violaine Despeyroux**_, alto; _**Alexis Derouin**_, Violoncelle
 par _Sybille Bellamy-Brown_, Historienne d'art  
 Auditorium du musée des Beaux-Arts
 
-**Jeudi 18 janvier**  
+**Jeudi 6 décembre**  
 _Sorties_  
-**"Derain , la période fauve"**  
-Centre Pompidou
+**"Les pêcheries "**musée de Fécamp  
+Fécamp
+
 
 
 .**Vendredi 14 décembre :**  
