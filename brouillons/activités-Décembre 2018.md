@@ -23,16 +23,16 @@ Auditorium du musée des Beaux-Arts
 **"Restaurations et acquisitions, une collection qui continue de s'enrichir_"**   
 Musée Le Secq des tournelles.
 
-**Vendredi 12 janvier :**  
-16h et 18h : _La renaissance allemande_   
-**"Introduction sur le XVe siècle d'Albrecht Dürer : entre la tradition gothique et l'art italien"**  
-par _David Mandrella_, professeur à l'Ecole du Louvre.  
+**Vendredi 7 décembre :**  
+16h et 18h : _La renaissance en france_   
+**"La Renaissance au cinéma"**  
+par _Nicole Roux_, professeur d'histoire moderne à l'Université Paris XIII.  
 Auditorium du musée des Beaux-Arts
 
-**Samedi 13 janvier** :  
-14h30 et 16h : _Une heure au Musée_   
-**"Les Arts Décoratifs du musée d'Orsay : _Les Arts and Crafts_"** ,  
-Musée des Beaux-Arts.  
+**Samedi 8 décembre** :  
+14h30  : _Les paradis artificiels_   
+**"Femmes fatales et sortilèges_"** ,  
+Auditorium du musée des Beaux-Arts.  
 
 **Samedi 13 janvier** :  
 14h30 et 16h : _Les Arts décoratifs en Europe_    
