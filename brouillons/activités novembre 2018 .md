@@ -30,7 +30,12 @@ Auditorium du musée des Beaux-Art
  **Lundi 12 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
 **"Le baroque et le classicisme"**  
-Musée des Beaux-Arts
+Musée des Beaux-Arts  
+
+**Mardi 13 novembre**  
+_Sorties_  
+**"Exposition Egon Schiele/Jean-Michel Basquiat"**  
+Fondation Vuitton à Paris
 
 **Mercredi 14 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
