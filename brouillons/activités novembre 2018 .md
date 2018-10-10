@@ -1,6 +1,9 @@
 ## activités novembre 2018  
 
-
+**Lundi 5 Novembre**  
+17h : _Bysance, 1000ans d'art et d'histoire_  
+par **_Marie Agnès Bennett_** chargée de cours à l'Université Inter-ages de Paris 13  
+Auditorium du musée des Beaux-Art
 
  **Jeudi 8 novembre**  
 14h30 et 16h : _Une heure au musée_ :  
@@ -18,7 +21,10 @@ Auditorium du musée des Beaux-Arts
 **"Le service à thé offert par Louis-Philippe à la reine Marie-Amélie"**  
 Musée de la Céramique 
 
- 
+ **Lundi 12 Novembre**  
+17h : _Bysance, 1000ans d'art et d'histoire_  
+par **_Marie Agnès Bennett_** chargée de cours à l'Université Inter-ages de Paris 13  
+Auditorium du musée des Beaux-Art
 
 
  **Lundi 12 novembre**  
@@ -49,7 +55,10 @@ Auditorium du musée des Beaux-Arts
 par **_Sophie Rochefort-Guillouet_** , Proffesseur d'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris 
 Auditorium du musée des Beaux-Arts 
 
-
+**Lundi 19 Novembre**  
+17h : _Bysance, 1000ans d'art et d'histoire_  
+par **_Marie Agnès Bennett_** chargée de cours à l'Université Inter-ages de Paris 13  
+Auditorium du musée des Beaux-Art
 
 
 **Lundi 19 novembre**  
@@ -113,23 +122,7 @@ Musée Le Secq des Tournelles
 par **_Hervé Brunon_** historien des jardins et du paysage, directeur de recherche au C.N.R.S.  
 Auditorium du musée des Beaux-Arts  
 
-  
-
-
-
-
-
-
-
  
-
-
-
-
-
-   
-
-
 
 **Vendredi 30 novembre**  
 14h30 : _Vendredis de la métropole_ :  
