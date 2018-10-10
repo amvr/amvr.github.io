@@ -35,8 +35,10 @@ Auditorium du musée des Beaux-Arts
 
 **Lundi 10 décembre** :  
 12h15 :_Midi-Musée-Musique_,**"Quatuor Daphnis"**  
+
 _**Eva Zavaro**_, violon; _**Rya Kojima**_, violon;  
 _**Violaine Despeyroux**_, alto; _**Alexis Derouin**_, Violoncelle  
+
 **Wieczyslaw Weinberg (1919-1996)** :Quatuor n°5  
 **Piotr Illitch Tchaikosky** : Quatuor n°1    
  Salle du Jubé
