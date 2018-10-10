@@ -1,14 +1,14 @@
 ## Activités Décembre 2018
 
 
-**Lundi 8 janvier** :  
+**Lundi 10 décembre** :  
 14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle I chronologique :  
 **"L'art moderne"**   
 Musée des Beaux-Arts. 
 
-**Mercredi 10 janvier:**  
-14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique :La peinture au XIXe siècle   
-**"Les divergences de la fin du siècle"**   
+**Mercredi 12 décembre:**  
+14h30 et 16h : _Initiation Histoire de l'Art_  - Cycle II thématique : Le paysage   
+**"Le paysage impressionniste"**   
 Musée des Beaux-Arts.
 
 **Jeudi 11 janvier** :  
