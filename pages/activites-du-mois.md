@@ -2,6 +2,8 @@
 title: Activités du mois
 published: true
 ---
+
+
 ## Activités novembre 2018  
 
 **Lundi 5 Novembre**  
@@ -131,13 +133,3 @@ Auditorium du musée des Beaux-Arts
 14h30 : _Vendredis de la métropole_ :  
 **"Sauvegarde et mise en valeur du patrimoine industriel de la vallée du Cailly: l'exemple du musée de la corderie Vallois à Notre-Dame de Bondeville"**  
 par **_Alain Alexandre_** historien , président de l'association du Musée de l'homme et de l'industrie (AMHI)  Auditorium du musée des Beaux-Arts
-
-  
-
-
-
-
-
- 
-
-  
