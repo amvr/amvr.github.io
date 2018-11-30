@@ -3,16 +3,9 @@ title: Activités du mois
 published: true
 ---
 
-**Vendredi 30 novembre**  
-16h et 18h : _La Renaissance en France_ :  
-**"Les jardins à la Renaissance "**  
-par **_Hervé Brunon_** historien des jardins et du paysage, directeur de recherche au C.N.R.S.  
-Auditorium du musée des Beaux-Arts  
+**### Décembre 2018** 
 
-**Vendredi 30 novembre**  
-14h30 : _Vendredis de la métropole_ :  
-**"Sauvegarde et mise en valeur du patrimoine industriel de la vallée du Cailly: l'exemple du musée de la corderie Vallois à Notre-Dame de Bondeville"**  
-par **_Alain Alexandre_** historien , président de l'association du Musée de l'homme et de l'industrie (AMHI)  Auditorium du musée des Beaux-Arts
+
 
  
  
