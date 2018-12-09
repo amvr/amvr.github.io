@@ -114,10 +114,10 @@ Salle du jubé
 **"Le paysage romantique"**,  
 Musée de Beaux-Arts 
 
-**Jeudi 29 novembre**  
+**Jeudi 31 janvier**  
 14h30 et 16h : _Une heure au musée_ :  
-**"Restaurations et acquisitions , une collection qui continue de s'enrichir"**  
-Musée Le Secq des Tournelles
+**"Spécial mode : le temps des collections"**  
+Musée des Beaux-Arts
 
 **Vendredi 30 novembre**  
 16h et 18h : _La Renaissance en France_ :  
