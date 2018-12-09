@@ -96,6 +96,14 @@ Musée des Beaux-Arts
 
 Auditorium du MBA 
 
+
+**Samedi 26 janvier**  
+14h30 :_Elégantes et Dandys romantiques_ :   
+**"Etre élégante à l'époque romantique"**
+par**_Catherine Join-Diéterie_**, conservatrice générale honoraire, ancienne directrice du palais Galliera , musée de la mode de la ville de Paris
+
+
+
 **Mercredi 28 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
 **"Le paysage romantique"**,  
