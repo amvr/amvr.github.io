@@ -1,9 +1,6 @@
 ## Activités janvier 2019  
 
-**Lundi 5 Novembre**  
-17h : _Byzance, 1000 ans d'art et d'histoire_  
-par **_Marie-Agnès Bennett_** chargée de cours à l'Université Inter-âges de Paris 13  
-Auditorium du musée des Beaux-Arts
+
 
  **Jeudi 10 janvier**  
 15h et 16h30 : _Une heure au musée_ :  
@@ -21,10 +18,7 @@ Auditorium du musée des Beaux-Arts
 **"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles"**  
 Musée des Beaux-Arts 
 
- **Lundi 12 Novembre**  
-17h : _Byzance, 1000 ans d'art et d'histoire_  
-par **_Marie-Agnès Bennett_** chargée de cours à l'Université Inter-âges de Paris 13  
-Auditorium du musée des Beaux-Arts
+
 
 
  **Lundi 12 novembre**  
@@ -50,16 +44,13 @@ Auditorium du musée des Beaux-Arts.
 par **_Aubrée David-Chapy_** docteur en histoire, spécialiste des femmes de pouvoir  
 Auditorium du musée des Beaux-Arts 
 
-**Samedi 17 novembre **  
-14h30  : _Les paradis artificiels_ :  
-**"Rèves d'opium**  
-par **_Sophie Rochefort-Guillouet_** , Professeur d'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris 
+**Samedi 19 janvier **  
+14h30  : _Elégantes et Dandys romantiques_ :  
+**"La silhouette romantique , un retour aux modes du passé**  
+par **_Alexandra Bosc _** , Conservatrice du patrimoine , RMM Rouen Normandie
 Auditorium du musée des Beaux-Arts 
 
-**Lundi 19 Novembre**  
-17h : _Byzance, 1000 ans d'art et d'histoire_  
-par **_Marie-Agnès Bennett_** chargée de cours à l'Université Inter-âges de Paris 13  
-Auditorium du musée des Beaux-Arts
+
 
 **Lundi 19 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
