@@ -7,8 +7,8 @@ Auditorium du musée des Beaux-Arts
 
  **Jeudi 10 janvier**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Chefs-d'oeuvre du dessin français"**  
-Musée de la Céramique  
+**"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles "**  
+Musée des Beaux-Arts  
 
 **Vendredi 9 novembre**  
 16h et 18h : _La Renaissance en France_ :  
@@ -18,8 +18,8 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 12 janvier**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Chefs-d'oeuvre du dessin français"**  
-Musée de la Céramique 
+**"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles"**  
+Musée des Beaux-Arts 
 
  **Lundi 12 Novembre**  
 17h : _Byzance, 1000 ans d'art et d'histoire_  
