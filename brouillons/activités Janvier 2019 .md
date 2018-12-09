@@ -33,8 +33,9 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts  
 
 **Mercredi 14 novembre**  
-14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
-**"Le paysage au XVIIe siècle"**,  
+14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
+- A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
+**"Le pérugin"**,Triptyque avec l'adoration des mages, le Baptème du Christ et la résurrection du Christ  
 Musée des Beaux-Arts 
 
 **Mercredi 14 novembre**  
