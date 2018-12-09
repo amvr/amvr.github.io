@@ -68,7 +68,8 @@ Musée des Beaux-Arts
 
 **Mercredi 30 janvier**  
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III  :  
-- A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :
+- A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
+
 **"Martin de Vos"**, - Suite d'Ellezer et Rebecca 
 Musée des Beaux-Arts 
    
