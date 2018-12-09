@@ -32,7 +32,7 @@ Auditorium du musée des Beaux-Arts
 **"Le baroque et le classicisme"**  
 Musée des Beaux-Arts  
 
-**Mercredi 14 novembre**  
+**Mercredi 16 janvier**  
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
 - A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
 **"Le pérugin"**,Triptyque avec l'adoration des mages, le Baptème du Christ et la résurrection du Christ  
