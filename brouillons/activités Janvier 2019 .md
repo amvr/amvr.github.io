@@ -5,9 +5,9 @@
 par **_Marie-Agnès Bennett_** chargée de cours à l'Université Inter-âges de Paris 13  
 Auditorium du musée des Beaux-Arts
 
- **Jeudi 8 novembre**  
-14h30 et 16h : _Une heure au musée_ :  
-**"Le service à thé offert par Louis-Philippe à la reine Marie-Amélie"**  
+ **Jeudi 10 janvier**  
+15h et 16h30 : _Une heure au musée_ :  
+**"Chefs-d'oeuvre du dessin français"**  
 Musée de la Céramique  
 
 **Vendredi 9 novembre**  
@@ -16,9 +16,9 @@ Musée de la Céramique
 par **_Etienne Faisant_** docteur en histoire de l'art  
 Auditorium du musée des Beaux-Arts  
 
-**Samedi 10 novembre**  
-14h30 et 16h : _Une heure au musée_ :  
-**"Le service à thé offert par Louis-Philippe à la reine Marie-Amélie"**  
+**Samedi 12 janvier**  
+15h et 16h30 : _Une heure au musée_ :  
+**"Chefs-d'oeuvre du dessin français"**  
 Musée de la Céramique 
 
  **Lundi 12 Novembre**  
