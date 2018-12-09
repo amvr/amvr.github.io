@@ -66,9 +66,10 @@ Auditorium du musée des Beaux-Arts
 **"Le XVIIIe siècle français"**  
 Musée des Beaux-Arts
 
-**Mercredi 21 novembre**  
-14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
-**"Le paysage au XVIIIe siècle"**,  
+**Mercredi 30 janvier**  
+14h30  : _Initiation à l'histoire de l'Art_ : Cycle III  :  
+- A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :
+**"Martin de Vos"**, - Suite d'Ellezer et Rebecca 
 Musée des Beaux-Arts 
    
 **Mercredi 21 novembre**  
