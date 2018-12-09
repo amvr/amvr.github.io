@@ -94,20 +94,14 @@ Auditorium du musée des Beaux-Arts
 **"Les grands mouvements du XIXe siècle"**  
 Musée des Beaux-Arts 
 
-**Lundi 26 novembre**  
+**Lundi 14 janvier**  
 12h15 : _Midi Musée Musique_ :  
-**"Avec la participation de l'association Phares : Quatuor Helios"**  
-Christelle Rayneau, flûte  
-Nathanaëlle Marie, violon  
-Vinciane Beranger, alto  
-Christophe Beau, violoncelle  
+**"Trio Agathe Blondel,alto; Jacques Perez, violoncelle; Guillaume Latour, piano."**  
 
-**_Mozart_** : Quatuor en do Kw 285b ; Allegro thème et variations  
-**_Haydn_** : Quartet op.5 n°5 en réM
-**_Debussy_** : Choix de préludes(transcription Alain Louvier); Bruyéres, Les pas sur la neige, Minstrels  
-**_Finzi_**: Océan, Mer (dédié à Hélios) sur des poèmes de Verlaine, Rimbaud, Richepin, Corbiére, Marbeuf.  
-**_Bizet-Borne_**: variations sur le thème de Carmen.  
-Salle du jubé   
+**_Beeethoven_** : Trio n°2 op.8 "Sérénade" 
+**_Van Dohnanyl (1877-1960)_** : Trio à cordes en ut majeur op.10
+
+Auditorium du MBA 
 
 **Mercredi 28 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle II thématique :  
