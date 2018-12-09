@@ -98,7 +98,7 @@ Musée des Beaux-Arts
 12h15 : _Midi Musée Musique_ :  
 **"Trio :  Agathe Blondel,alto; Jacques Perez, violoncelle; Guillaume Latour, piano."**  
 
-**_Ludwig Van Beeethoven_** : Trio n°2 op.8 "Sérénade" 
+**_Ludwig Van Beeethoven_** : Trio n°2 op.8 "Sérénade"   
 **_Ernst Van Dohnanyl (1877-1960)_** : Trio à cordes en ut majeur op.10
 
 Auditorium du MBA 
