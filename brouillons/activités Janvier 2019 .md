@@ -27,7 +27,7 @@ Musée des Beaux-Arts
 
 **_Ludwig Van Beeethoven_** : Trio n°2 op.8 "Sérénade"  
 **_Ernst Van Dohnanyl (1877-1960)_** : Trio à cordes en ut majeur op.10  
-Auditorium du MBA   
+Auditorium du musée des Beaux-Arts  
 
 **Mardi 15 janvier**  
 14h30 et 17h : _La peinture chinoise ancienne_ :  
