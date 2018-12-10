@@ -17,10 +17,10 @@ Musée des Beaux-Arts
 par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
 Auditorium du musée des Beaux-Arts
 
-**Vendredi 9 novembre**  
-16h et 18h : _La Renaissance en France_ :  
-**"La Renaissance en Normandie"**  
-par **_Etienne Faisant_** docteur en histoire de l'art  
+**Vendredi 11 janvier**  
+16h  : _La peinture française au XVIIè siècle_ :  
+  
+par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
 Auditorium du musée des Beaux-Arts  
 
 **Samedi 12 janvier**  
