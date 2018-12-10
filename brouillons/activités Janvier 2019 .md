@@ -1,6 +1,10 @@
 ## Activités janvier 2019  
 
-
+**Mardi 8 janvier**  
+14h30 et 17h : _La peinture chinoise ancienne_ :  
+**"Principes de la peinture chinoise : expression culturelle et spirituelle"**  
+par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
+Auditorium du musée des Beaux-Arts
 
  **Jeudi 10 janvier**  
 15h et 16h30 : _Une heure au musée_ :  
