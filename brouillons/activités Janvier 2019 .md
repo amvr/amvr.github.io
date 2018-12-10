@@ -9,7 +9,13 @@ Auditorium du musée des Beaux-Arts
  **Jeudi 10 janvier**  
 15h et 16h30 : _Une heure au musée_ :  
 **"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles "**  
-Musée des Beaux-Arts  
+Musée des Beaux-Arts   
+
+**Mardi 15 janvier**  
+14h30 et 17h : _La peinture chinoise ancienne_ :  
+**"La peinture de paysage : les grands maîtres pour tous les temps (VIIIè - XIIè siècle)"**  
+par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
+Auditorium du musée des Beaux-Arts
 
 **Vendredi 9 novembre**  
 16h et 18h : _La Renaissance en France_ :  
@@ -54,7 +60,17 @@ Auditorium du musée des Beaux-Arts
 par **_Alexandra Bosc _** , Conservatrice du patrimoine , RMM Rouen Normandie
 Auditorium du musée des Beaux-Arts 
 
+**Mardi 22 janvier**  
+14h30 et 17h : _La peinture chinoise ancienne_ :  
+**"L'éloge de la spontanéité dans la peinture chinoise (XIIIè - XVIIè siècle)"**  
+par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
+Auditorium du musée des Beaux-Arts  
 
+**Mardi 29 janvier**  
+14h30 et 17h : _La peinture chinoise ancienne_ :  
+**"Proposition sur la modernité et l'art chinois contemporain"**  
+par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
+Auditorium du musée des Beaux-Arts
 
 **Lundi 19 novembre**  
 14h30 et 16h : _Initiation à l'histoire de l'Art_ : Cycle I chronologique :  
