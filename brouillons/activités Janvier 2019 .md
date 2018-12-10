@@ -51,7 +51,8 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 19 janvier **  
 14h30  : _Elégantes et Dandys romantiques_ :  
-**"La silhouette romantique , un retour aux modes du passé"** 
+** "La silhouette romantique , un retour aux modes du passé" **   
+
 par **_Alexandra Bosc _** , Conservatrice du patrimoine , RMM Rouen Normandie
 Auditorium du musée des Beaux-Arts 
 
