@@ -51,13 +51,14 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 19 janvier **  
 14h30  : _Elégantes et Dandys romantiques_ :  
-**"La silhouette romantique , un retour aux modes du passé"**  
+**"La silhouette romantique , un retour aux modes du passé"** 
 par **_Alexandra Bosc _** , Conservatrice du patrimoine , RMM Rouen Normandie
 Auditorium du musée des Beaux-Arts 
 
 **Mardi 22 janvier**  
 14h30 et 17h : _La peinture chinoise ancienne_ :  
-**"L'éloge de la spontanéité dans la peinture chinoise (XIIIè - XVIIè siècle)"**
+**"L'éloge de la spontanéité dans la peinture chinoise (XIIIè - XVIIè siècle)"**  
+
 par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
 Auditorium du musée des Beaux-Arts  
 
