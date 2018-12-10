@@ -19,8 +19,7 @@ Auditorium du musée des Beaux-Arts
 
 **Vendredi 11 janvier**  
 16h  : _La peinture française au XVIIè siècle_ :  
-  
-par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
+  par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
 Auditorium du musée des Beaux-Arts  
 
 **Samedi 12 janvier**  
