@@ -32,7 +32,7 @@ Auditorium du musée des Beaux-Arts
 **Mardi 15 janvier**  
 14h30 et 17h : _La peinture chinoise ancienne_ :  
 **"La peinture de paysage : les grands maîtres pour tous les temps (VIIIè - XIIè siècle)"**  
-par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
+par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne), Président honoraire du musée national des arts asiatiques : Guimet  
 Auditorium du musée des Beaux-Arts
 
 
