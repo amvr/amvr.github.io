@@ -76,7 +76,6 @@ Auditorium du musée des Beaux-Arts
 14h30 :_Elégantes et Dandys romantiques_ :   
 **"Etre élégante à l'époque romantique"**  
 par**_Catherine Join-Diéterie_**, conservatrice générale honoraire, ancienne directrice du palais Galliera , musée de la mode de la ville de Paris  
-
 Auditorium du MBA
 
 
