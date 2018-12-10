@@ -39,7 +39,12 @@ Musée des Beaux-Arts
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
 - A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
 **"Le pérugin"**,Triptyque avec l'adoration des mages, le Baptème du Christ et la résurrection du Christ  
-Musée des Beaux-Arts 
+Musée des Beaux-Arts  
+
+**Vendredi 18 janvier**  
+16h  : _La peinture française au XVIIè siècle_ :  
+  par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
+Auditorium du musée des Beaux-Arts 
 
 **Mercredi 14 novembre**  
 17h :_L'Art du dessin_ :  
@@ -63,7 +68,12 @@ Auditorium du musée des Beaux-Arts
 14h30 et 17h : _La peinture chinoise ancienne_ :  
 **"L'éloge de la spontanéité dans la peinture chinoise (XIIIè - XVIIè siècle)"**  
 par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
-Auditorium du musée des Beaux-Arts  
+Auditorium du musée des Beaux-Arts   
+
+**Vendredi 25 janvier**  
+16h  : _La peinture française au XVIIè siècle_ :  
+  par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
+Auditorium du musée des Beaux-Arts 
 
 **Mardi 29 janvier**  
 14h30 et 17h : _La peinture chinoise ancienne_ :  
