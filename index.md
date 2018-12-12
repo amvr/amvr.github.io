@@ -30,7 +30,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## FLASH INFO  
 
-La prochaine grande exposition au musée des Beaux-Arts de Rouen nous invite à découvrir 
+1) La prochaine grande exposition au musée des Beaux-Arts de Rouen nous invite à découvrir 
 du **8 novembre 2018 au 11 février 2019**
  
 **L’ŒIL ET LA MAIN**, _chefs-d’œuvre du dessin français des XVIe et XVIIe siècles_
@@ -62,6 +62,6 @@ _Elodie Vaysse_, Conservateur du patrimoine - Musée national des châteaux de M
 
  
 ---
-**Voyage "Abbayes et textiles"** (modification) 
+2) **Voyage "Abbayes et textiles"** (modification) 
 
-c'est désormais prévu du **_5 au 7 juin 2019_**  
+c'est désormais prévu du **_5 au 7 juin 2019_**
