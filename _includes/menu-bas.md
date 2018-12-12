@@ -5,6 +5,6 @@
  - [Activités](/pages/activites.html)
  - [La Gazette](/pages/la-gazette.html)
  - [Contact](/pages/contact.html)
- - [Règlement intérieur](/pages/reglement-interieur.html)
+ 
  - [Administrateurs](/pages/administrateurs.html)
  - [Liens](/pages/liens.html)
