@@ -12,7 +12,7 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
  
 - Acquisition de deux dessins de Georges Braque, l'Arbre de Jessé, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail Dominique marchant vers la sainteté, pour la chapelle Saint Dominique de Varengeville, les deux dessins sont signés et dédicacés G.Braque, pour l'abbé Lecoq  
 
-- Participation et co-financement pour "la nuit étudiante", chapitre 3, le jeudi 29 mars2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional ,de Rouen, l'Université de Rouen, la Métropole :1310 visiteurs sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.  
+- Participation et co-financement pour "la nuit étudiante", chapitre 3, le jeudi 29 mars2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional de Rouen, l'Université de Rouen, la Métropole : 1310 visiteurs sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.  
 
 - Acquisition d'un tableau de Edouard Henri Théophile Pingret signé et daté de 1830: un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin). Ce tableau est à l'honneur dans l'exposition actuelle "Elégantes et Dandys romantiques"  
 
