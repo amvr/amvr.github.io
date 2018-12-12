@@ -63,8 +63,5 @@ _Elodie Vaysse_, Conservateur du patrimoine - Musée national des châteaux de M
  
 ---
 
-## Règlement intérieur
 
-Le **réglement intérieur** est compulsable sur le site (voir la rubrique en bas de page) ainsi que le seront les **statuts** modifiés
 
-[Télécharger la proposition de modification des statuts](/fichiers/161115-proposition-de-modifications-des-statuts.pdf) (format PDF)
