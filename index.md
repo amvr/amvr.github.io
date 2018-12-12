@@ -62,6 +62,6 @@ _Elodie Vaysse_, Conservateur du patrimoine - Musée national des châteaux de M
 
  
 ---
+**Voyage "Abbayes et textiles"** (modification) 
 
-
-
+c'est désormais prévu du **_5 au 7 juin 2019_**  
