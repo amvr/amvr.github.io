@@ -16,17 +16,15 @@ Musée des Beaux-Arts
   par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
 Auditorium du musée des Beaux-Arts  
 
-**Samedi 12 janvier**  
+**Samedi 2 Février**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles"**  
+**"Spécial mode: le temps des collections"** :  
 Musée des Beaux-Arts   
 
-**Lundi 14 janvier**  
-12h15 : _Midi Musée Musique_ :  
-**"Trio :  Agathe Blondel,alto; Jacques Perez, violoncelle; Guillaume Latour, piano."**  
-
-**_Ludwig Van Beeethoven_** : Trio n°2 op.8 "Sérénade"  
-**_Ernst Van Dohnanyl (1877-1960)_** : Trio à cordes en ut majeur op.10  
+**Lundi 4 Février**  
+16h et 18h : _Une saison Rodin_ :  
+**"Rodin et les papiers découpés"**  
+par _**Sophie Biass Fabiani**_Conservateur du patrimoine chargée des dessins
 Auditorium du musée des Beaux-Arts  
 
 **Mardi 15 janvier**  
@@ -36,10 +34,10 @@ par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbo
 Auditorium du musée des Beaux-Arts
 
 
-**Mercredi 16 janvier**  
+**Mercredi 6 Février**  
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
 A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-- **"Le pérugin"**,Triptyque avec l'adoration des mages, le Baptème du Christ et la résurrection du Christ  
+- **"Vélasquez"**,Démocrite  
 Musée des Beaux-Arts  
 
 **Vendredi 18 janvier**  
