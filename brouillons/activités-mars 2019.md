@@ -32,6 +32,7 @@ Musée des Beaux-Arts
 **_Ludwig Van Beeethoven_** : Trio  op.1 N°3  
 **_Johannes Brahms _** : Trio N° 3 op.101  
 _**Franz Shubert**_ : Notturno D.897  
+
 Auditorium du musée des Beaux-Arts  
 
 **Mardi 15 janvier**  
