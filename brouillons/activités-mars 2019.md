@@ -3,11 +3,6 @@
 
 ## Activités Mars 2019  
 
-**Mardi 8 janvier**  
-14h30 et 17h : _La peinture chinoise ancienne_ :  
-**"Principes de la peinture chinoise : expression culturelle et spirituelle"**  
-par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
-Auditorium du musée des Beaux-Arts
 
 **Lundi 4 mars**  
 16h et 18h : _Une Saison Rodin_  
@@ -18,12 +13,13 @@ Auditorium du musée des Beaux-Arts
  **Jeudi 7 mars**  
 15h et 16h30 : _Une heure au musée_ :  
 **"Les Icônes ; nouvelle présentation "**  
-Musée des Beaux-Arts   
+Musée des Beaux-Arts    
 
-**Vendredi 11 janvier**  
+**Vendredi 8 mars**  
 16h  : _La peinture française au XVIIè siècle_ :  
   par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
-Auditorium du musée des Beaux-Arts  
+Auditorium du musée des Beaux-Arts 
+
 
 **Samedi 9 Mars**  
 15h et 16h30 : _Une heure au musée_ :  
@@ -35,6 +31,33 @@ Musée des Beaux-Arts
 **"De Lully à Chostakovitch, la difficile liberté"**  
 par**_Eric Bennett_**,charhé de cours à l'université inter-ages de Paris 13  
 Auditorium du Musée des Beaux-Arts  
+
+
+**Mercredi 13 mars**  
+14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
+A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
+- **"Delacroix"**: La justice de Trajan  
+Musée des Beaux-Arts   
+
+**Vendredi 15 Mars**  
+17h : _Parcours croisés entre littérature et peinture_  
+**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
+par **_Annick Pollin_** agrégée de lettres classsiques  
+ 1) Le tournant de la modernité picturale au XIXè siècle  
+Auditorium du musée des Beaux-Arts   
+
+**Vendredi 15 Mars**  
+17h : _Parcours croisés entre littérature et peinture_  
+**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
+par **_Annick Pollin_** agrégée de lettres classsiques  
+ 2) Comment un artiste passe de "la belle nature" au paysage naturel avec les peintres de Barbizon, et du portrait conventionnel au portrait impressionniste   
+Auditorium du musée des Beaux-Arts
+
+**Samedi 16 Mars**  
+14h30  : _Elégantes et Dandys romantiques_ :  
+**"Le bijou romantique"**   
+ par **_Matthieu Rousset-Perrier _** , Conservatrice du patrimoine , chercheur au service Inventaire Patrimoine, Région Grand Est    
+Auditorium du musée des Beaux-Arts 
 
 **Lundi 18 mars**  
 17h : **Le musicien et le pouvoir**  
@@ -52,55 +75,6 @@ Auditorium du Musée des Beaux-Arts
 _**Franz Shubert**_ : Notturno D.897
 Auditorium du musée des Beaux-Arts  
 
-**Mardi 15 janvier**  
-14h30 et 17h : _La peinture chinoise ancienne_ :  
-**"La peinture de paysage : les grands maîtres pour tous les temps (VIIIè - XIIè siècle)"**  
-par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne), Président honoraire du musée national des arts asiatiques : Guimet  
-Auditorium du musée des Beaux-Arts
-
-
-**Mercredi 13 mars**  
-14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
-A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-- **"Delacroix"**: La justice de Trajan  
-Musée des Beaux-Arts   
-
-**Vendredi 15 Mars**  
-17h : _Parcours croisés entre littérature et peinture_  
-**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
-par **_Annick Pollin_** agrégée de lettres classsiques  
- 1) Le tournant de la modernité picturale au XIXè siècle  
-Auditorium du musée des Beaux-Arts
-
-**Vendredi 18 janvier**  
-16h  : _La peinture française au XVIIè siècle_ :  
-  par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
-Auditorium du musée des Beaux-Arts 
-
-
-
-**Samedi 16 Mars**  
-14h30  : _Elégantes et Dandys romantiques_ :  
-**"Le bijou romantique"**   
- par **_Matthieu Rousset-Perrier _** , Conservatrice du patrimoine , chercheur au service Inventaire Patrimoine, Région Grand Est    
-Auditorium du musée des Beaux-Arts 
-
-**Mardi 22 janvier**  
-14h30 et 17h : _La peinture chinoise ancienne_ :  
-**"L'éloge de la spontanéité dans la peinture chinoise (XIIIè - XVIIè siècle)"**  
-par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
-Auditorium du musée des Beaux-Arts  
-
-**Jeudi 28 mars**  
-_Sortie_  
-**"Visite de la ville de Caen: abbaye aux hommes etc..."**  
-
-
-**Vendredi 8 mars**  
-16h  : _La peinture française au XVIIè siècle_ :  
-  par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
-Auditorium du musée des Beaux-Arts 
-
 
 **Samedi 23 mars**  
 14h30 :_Elégantes et Dandys romantiques_ :   
@@ -108,18 +82,17 @@ Auditorium du musée des Beaux-Arts
 par **_Farid Chenoune_**, Historien de mode  
 Auditorium du MBA  
 
-**Vendredi 15 Mars**  
-17h : _Parcours croisés entre littérature et peinture_  
-**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
-par **_Annick Pollin_** agrégée de lettres classsiques  
- 2) Comment un artiste passe de "la belle nature" au paysage naturel avec les peintres de Barbizon, et du portrait conventionnel au portrait impressionniste   
-Auditorium du musée des Beaux-Arts
 
 **Lundi 25 mars**  
 17h : **Le musicien et le pouvoir**  
 **"De Lully à Chostakovitch, la difficile liberté"**  
 par**_Eric Bennett_**,charhé de cours à l'université inter-ages de Paris 13  
-Auditorium du Musée des Beaux-Arts  
+Auditorium du Musée des Beaux-Arts    
+
+
+**Jeudi 28 mars**  
+_Sortie_  
+**"Visite de la ville de Caen: abbaye aux hommes etc..."**  
 
 **Vendredi 29 Mars**  
 17h : _Parcours croisés entre littérature et peinture_  
@@ -130,21 +103,5 @@ Auditorium du musée des Beaux-Arts
 
 
 
-**Mardi 29 janvier**  
-14h30 et 17h : _La peinture chinoise ancienne_ :  
-**"Proposition sur la modernité et l'art chinois contemporain"**  
-par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
-Auditorium du musée des Beaux-Arts
 
 
-**Mercredi 30 janvier**  
-14h30  : _Initiation à l'histoire de l'Art_ : Cycle III  :  
-A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-- **"Martin de Vos"**, - Suite d'Ellezer et Rebecca 
-Musée des Beaux-Arts 
-   
-
-**Jeudi 31 janvier**  
-14h30 et 16h : _Une heure au musée_ :  
-**"Spécial mode : le temps des collections"**  
-Musée des Beaux-Arts
