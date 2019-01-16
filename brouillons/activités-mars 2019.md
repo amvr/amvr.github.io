@@ -80,7 +80,7 @@ Auditorium du musée des Beaux-Arts
 **Samedi 23 mars**  
 14h30 :_Elégantes et Dandys romantiques_ :   
 **"Techniques du dandysme"**  
-par**_Farid Chenoune_**, Historien de mode  
+par **_Farid Chenoune_**, Historien de mode  
 Auditorium du MBA
 
 
