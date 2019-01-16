@@ -63,7 +63,14 @@ Auditorium du musée des Beaux-Arts
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
 A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
 - **"Delacroix"**: La justice de Trajan  
-Musée des Beaux-Arts  
+Musée des Beaux-Arts   
+
+**Vendredi 15 Mars**  
+17h : _Parcours croisés entre littérature et peinture_  
+**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
+par **_Annick Pollin_** agrégée de lettres classsiques  
+ 1) Le tournant de la modernité picturale au XIXè siècle  
+Auditorium du musée des Beaux-Arts
 
 **Vendredi 18 janvier**  
 16h  : _La peinture française au XVIIè siècle_ :  
@@ -100,6 +107,13 @@ Auditorium du musée des Beaux-Arts
 **"Techniques du dandysme"**  
 par **_Farid Chenoune_**, Historien de mode  
 Auditorium du MBA  
+
+**Vendredi 15 Mars**  
+17h : _Parcours croisés entre littérature et peinture_  
+**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
+par **_Annick Pollin_** agrégée de lettres classsiques  
+ 2) Comment un artiste passe de "la belle nature" au paysage naturel avec les peintres de Barbizon, et du portrait conventionnel au portrait impressionniste   
+Auditorium du musée des Beaux-Arts
 
 **Lundi 25 mars**  
 17h : **Le musicien et le pouvoir**  
