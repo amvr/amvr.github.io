@@ -56,7 +56,7 @@ Auditorium du musée des Beaux-Arts
 **Samedi 16 Mars**  
 14h30  : _Elégantes et Dandys romantiques_ :  
 **"Le bijou romantique"**   
- par **_Matthieu Rousset-Perrier _** , Conservatrice du patrimoine , chercheur au service Inventaire Patrimoine, Région Grand Est    
+ par **_Matthieu Rousset-Perrier_** , Conservatrice du patrimoine , chercheur au service Inventaire Patrimoine, Région Grand Est    
 Auditorium du musée des Beaux-Arts 
 
 **Lundi 18 mars**  
