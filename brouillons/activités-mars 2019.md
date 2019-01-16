@@ -77,10 +77,10 @@ Centre Pompidou - Paris
 Auditorium du musée des Beaux-Arts 
 
 
-**Samedi 26 janvier**  
+**Samedi 23 mars**  
 14h30 :_Elégantes et Dandys romantiques_ :   
-**"Etre élégante à l'époque romantique"**  
-par**_Catherine Join-Diéterie_**, conservatrice générale honoraire, ancienne directrice du palais Galliera , musée de la mode de la ville de Paris  
+**"Techniques du dandysme"**  
+par**_Farid Chenoune_**, Historien de mode  
 Auditorium du MBA
 
 
