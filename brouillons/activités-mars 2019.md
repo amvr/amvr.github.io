@@ -1,7 +1,7 @@
 
 
 
-## Activités janvier 2019  
+## Activités Mars 2019  
 
 **Mardi 8 janvier**  
 14h30 et 17h : _La peinture chinoise ancienne_ :  
@@ -9,9 +9,9 @@
 par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
 Auditorium du musée des Beaux-Arts
 
- **Jeudi 10 janvier**  
+ **Jeudi 7 mars**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles "**  
+**"Les Icônes ; nouvelle présentation "**  
 Musée des Beaux-Arts   
 
 **Vendredi 11 janvier**  
@@ -19,17 +19,19 @@ Musée des Beaux-Arts
   par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
 Auditorium du musée des Beaux-Arts  
 
-**Samedi 12 janvier**  
+**Samedi 9 Mars**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Chefs-d'oeuvre du dessin français des XVIè et XVIIè siècles"**  
+**"Les Icônes ; nouvelle présentation"**  
 Musée des Beaux-Arts   
 
-**Lundi 14 janvier**  
+**Lundi 18 mars**  
 12h15 : _Midi Musée Musique_ :  
-**"Trio :  Agathe Blondel,alto; Jacques Perez, violoncelle; Guillaume Latour, piano."**  
+**"Avec la participation du Forum musical Normandie: Trio Hellos"**  
+**Camille Fonteneau**, violon; **Raphaël Jouan**, violoncelle; **Alexis Gournel**, piano
 
-**_Ludwig Van Beeethoven_** : Trio n°2 op.8 "Sérénade"  
-**_Ernst Van Dohnanyl (1877-1960)_** : Trio à cordes en ut majeur op.10  
+**_Ludwig Van Beeethoven_** : Trio  op.1 N°3  
+**_Johannes Brahms _** : Trio N° 3 op.101  
+_**Franz Shubert**_ : Notturno D.897
 Auditorium du musée des Beaux-Arts  
 
 **Mardi 15 janvier**  
@@ -39,10 +41,10 @@ par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbo
 Auditorium du musée des Beaux-Arts
 
 
-**Mercredi 16 janvier**  
+**Mercredi 13 mars**  
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
 A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-- **"Le pérugin"**,Triptyque avec l'adoration des mages, le Baptème du Christ et la résurrection du Christ  
+- **"Delacroix"**: La justice de Trajan  
 Musée des Beaux-Arts  
 
 **Vendredi 18 janvier**  
