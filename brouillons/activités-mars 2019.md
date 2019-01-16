@@ -36,7 +36,7 @@ Auditorium du Musée des Beaux-Arts
 **Mercredi 13 mars**  
 14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
 A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
- **"Delacroix"**: La justice de Trajan  
+ **_"Delacroix"_**: La justice de Trajan  
 Musée des Beaux-Arts   
 
 **Vendredi 15 Mars**  
