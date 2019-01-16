@@ -9,6 +9,12 @@
 par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
 Auditorium du musée des Beaux-Arts
 
+**Lundi 4 mars**  
+16h et 18h : _Une Saison Rodin_  
+**"Rodin collectionneur d'Antiques"**  
+par **_Bénedicte Garnier_**, Conservateur du Patrimoine , Responsable de la collection Rodin au Musée Rodin  
+Auditorium du musée des Beaux-Arts
+
  **Jeudi 7 mars**  
 15h et 16h30 : _Une heure au musée_ :  
 **"Les Icônes ; nouvelle présentation "**  
@@ -83,7 +89,7 @@ _Sortie_
 **"Le cubisme"**  
 Centre Pompidou - Paris
 
-**Vendredi 25 janvier**  
+**Vendredi 8 mars**  
 16h  : _La peinture française au XVIIè siècle_ :  
   par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
 Auditorium du musée des Beaux-Arts 
