@@ -31,8 +31,7 @@ Musée des Beaux-Arts
 
 **_Ludwig Van Beeethoven_** : Trio  op.1 N°3  
 **_Johannes Brahms _** : Trio N° 3 op.101  
-_**Franz Shubert**_ : Notturno D.897  
-
+_**Franz Shubert**_ : Notturno D.897
 Auditorium du musée des Beaux-Arts  
 
 **Mardi 15 janvier**  
@@ -55,10 +54,10 @@ Auditorium du musée des Beaux-Arts
 
 
 
-**Samedi 19 janvier**  
+**Samedi 16 Mars**  
 14h30  : _Elégantes et Dandys romantiques_ :  
-**"La silhouette romantique , un retour aux modes du passé"**   
- par **_Alexandra Bosc _** , Conservatrice du patrimoine , RMM Rouen Normandie  
+**"Le bijou romantique"**   
+ par **_Matthieu Rousset-Perrier _** , Conservatrice du patrimoine , chercheur au service Inventaire Patrimoine, Région Grand Est    
 Auditorium du musée des Beaux-Arts 
 
 **Mardi 22 janvier**  
