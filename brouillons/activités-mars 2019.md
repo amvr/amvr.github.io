@@ -71,7 +71,7 @@ Auditorium du Musée des Beaux-Arts
 **Camille Fonteneau**, violon; **Raphaël Jouan**, violoncelle; **Alexis Gournel**, piano
 
 **_Ludwig Van Beeethoven_** : Trio  op.1 N°3  
-**_Johannes Brahms _** : Trio N° 3 op.101  
+**_Johannes Brahms_** : Trio N° 3 op.101  
 _**Franz Shubert**_ : Notturno D.897
 Auditorium du musée des Beaux-Arts  
 
