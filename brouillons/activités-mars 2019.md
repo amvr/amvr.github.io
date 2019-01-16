@@ -119,7 +119,14 @@ Auditorium du musée des Beaux-Arts
 17h : **Le musicien et le pouvoir**  
 **"De Lully à Chostakovitch, la difficile liberté"**  
 par**_Eric Bennett_**,charhé de cours à l'université inter-ages de Paris 13  
-Auditorium du Musée des Beaux-Arts
+Auditorium du Musée des Beaux-Arts  
+
+**Vendredi 29 Mars**  
+17h : _Parcours croisés entre littérature et peinture_  
+**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
+par **_Annick Pollin_** agrégée de lettres classsiques  
+ 3) Le passagedu Romantisme à la Modernité dans le travail du peintre normand Félix Buhot 
+Auditorium du musée des Beaux-Arts
 
 
 
