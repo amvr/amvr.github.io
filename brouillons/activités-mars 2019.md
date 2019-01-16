@@ -91,10 +91,10 @@ Auditorium du musée des Beaux-Arts
 par **_Jacques Glès_**, sinologue, Docteur en histoire de l'art (Paris IV Sorbonne),Président honoraire du musée national des arts asiatiques : Guimet  
 Auditorium du musée des Beaux-Arts  
 
-**Jeudi 24 janvier**  
+**Jeudi 28 mars**  
 _Sortie_  
-**"Le cubisme"**  
-Centre Pompidou - Paris
+**"Visite de la ville de Caen: abbaye aux hommes etc..."**  
+
 
 **Vendredi 8 mars**  
 16h  : _La peinture française au XVIIè siècle_ :  
