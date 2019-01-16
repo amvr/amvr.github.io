@@ -27,7 +27,7 @@ Auditorium du musée des Beaux-Arts
 Musée des Beaux-Arts    
 
 **Lundi 11 mars**  
-17h : **Le musicien et le pouvoir**  
+17h : _Le musicien et le pouvoir_ 
 **"De Lully à Chostakovitch, la difficile liberté"**  
 par **_Eric Bennett_**, chargé de cours à l'université inter-ages de Paris 13  
 Auditorium du Musée des Beaux-Arts  
@@ -60,7 +60,7 @@ Auditorium du musée des Beaux-Arts
 Auditorium du musée des Beaux-Arts 
 
 **Lundi 18 mars**  
-17h : **Le musicien et le pouvoir**  
+17h : _Le musicien et le pouvoir_
 **"De Lully à Chostakovitch, la difficile liberté"**  
 par **_Eric Bennett_**, chargé de cours à l'université inter-ages de Paris 13  
 Auditorium du Musée des Beaux-Arts
@@ -84,7 +84,7 @@ Auditorium du MBA
 
 
 **Lundi 25 mars**  
-17h : **Le musicien et le pouvoir**  
+17h : _Le musicien et le pouvoir_ 
 **"De Lully à Chostakovitch, la difficile liberté"**  
 par **_Eric Bennett_**, chargé de cours à l'université inter-ages de Paris 13  
 Auditorium du Musée des Beaux-Arts    
