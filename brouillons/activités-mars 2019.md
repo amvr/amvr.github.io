@@ -22,8 +22,8 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 9 mars**  
 14h30 : _Elégantes et Dandys Romantiques_  
-**_"Techniques du dandysme"_**  
-par Farid Chenoune  
+**"Techniques du dandysme"**  
+par **_Farid Chenoune_**  
 Auditorium du musée des Beaux-Arts
 
 **Samedi 9 Mars**  
