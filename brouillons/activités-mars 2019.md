@@ -20,6 +20,11 @@ Musée des Beaux-Arts
   par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
 Auditorium du musée des Beaux-Arts 
 
+**Samedi 9 mars**  
+14h30 : _Elégantes et Dandys Romantiques_  
+**_"Techniques du dandysme"_**  
+par Farid Chenoune  
+Auditorium du musée des Beaux-Arts
 
 **Samedi 9 Mars**  
 15h et 16h30 : _Une heure au musée_ :  
