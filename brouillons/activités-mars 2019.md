@@ -78,8 +78,8 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 23 mars**  
 14h30 :_Elégantes et Dandys romantiques_ :   
-**"Techniques du dandysme"**  
-par **_Farid Chenoune_**, Historien de mode  
+**"Paco Rabanne l'outsider"**  
+par **_Alexandre Bosc_**  
 Auditorium du MBA  
 
 
