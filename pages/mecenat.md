@@ -11,8 +11,8 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 ## 2018  
  
 1) Acquisition de **deux dessins de Georges Braque**,  **_l'Arbre de Jessé_**1962, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail **_Dominique marchant vers la sainteté_**1956, pour la chapelle Saint Dominique de Varengeville, les deux dessins proviennent par voie successorale de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque 
-[Braque](/fichier/oeuvres/2018-Braque-Dessin Arbre de Jesse.jpg)
-[Braque](/fichier/oeuvres/2018 Braque dessin St Dominique.jpg)
+[Braque](/fichier/oeuvres/2018-braque-dessinarbredejesse.jpg)
+[Braque](/fichier/oeuvres/2018braquedessinstdominique.jpg)
 
 2) Participation et co-financement pour **"la nuit étudiante"**, chapitre 3, le jeudi 29 mars 2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional de Rouen, l'Université de Rouen, la Métropole :**_1310 visiteurs_** sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.  
 
