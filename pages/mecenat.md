@@ -10,7 +10,7 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 
 ## 2018  
  
-1) Acquisition de **deux dessins de Georges Braque**,  **_l'Arbre de Jessé_**, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail **_Dominique marchant vers la sainteté_**, pour la chapelle Saint Dominique de Varengeville, les deux dessins sont signés et dédicacés G.Braque, pour l'abbé Lecoq 
+1) Acquisition de **deux dessins de Georges Braque**,  **_l'Arbre de Jessé_**1962, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail **_Dominique marchant vers la sainteté_**1956, pour la chapelle Saint Dominique de Varengeville, les deux dessins sont signés et dédicacés G.Braque, pour l'abbé Lecoq 
 [G.Braque](/fichier/oeuvres/2018-Braque-Dessin Arbre de Jesse.jpg)
 [G.Braque](/fichier/oeuvres/Braque dessin St Dominique.jpg)
 
