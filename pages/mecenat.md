@@ -16,7 +16,8 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 
 2) Participation et co-financement pour **"la nuit étudiante"**, chapitre 3, le jeudi 29 mars 2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional de Rouen, l'Université de Rouen, la Métropole :**_1310 visiteurs_** sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.  
 
-3) Acquisition d'un **tableau de Edouard Henri Théophile Pingret** signé et daté de 1830: **_un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)_**. Ce tableau est à l'honneur dans l'exposition actuelle "Elégantes et Dandys romantiques"  
+3) Acquisition d'un **tableau de Edouard Henri Théophile Pingret** signé et daté de 1830: **_un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)_**. Ce tableau est à l'honneur dans l'exposition actuelle "Elégantes et Dandys romantiques" 
+[Pingret](/fichier/oeuvres/Robert Pingret-Boieldieu.png)
 
 
 ## 2017
