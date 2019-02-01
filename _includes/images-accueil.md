@@ -1,3 +1,4 @@
 
-![Disques Duchamp](fichiers/oeuvres/2015-duchamp-1.jpg)
+
 ![L'Arbre de Jessé](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html)
+![un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)](/pages/mecenat/2018-pingret-boieldieu.html)
