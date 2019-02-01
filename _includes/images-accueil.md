@@ -1,3 +1,3 @@
-![Vase Galle](/fichiers/oeuvres/2007-vase-galle.jpg)
-![Disques Duchamp](fichiers/oeuvres/2015-duchamp-1.jpg)  
 
+![Disques Duchamp](fichiers/oeuvres/2015-duchamp-1.jpg)
+[L'Arbre de Jessé](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html)
