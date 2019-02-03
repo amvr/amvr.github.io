@@ -5,21 +5,7 @@ published: true
 
 
 
-## Activités janvier 2019  
 
-
-
-**Mercredi 30 janvier**  
-14h30  : _Initiation à l'histoire de l'Art_ : Cycle III  :  
-A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
-- **"Martin de Vos"**, - Suite d'Ellezer et Rebecca 
-Musée des Beaux-Arts 
-   
-
-**Jeudi 31 janvier**  
-14h30 et 16h : _Une heure au musée_ :  
-**"Spécial mode : le temps des collections"**  
-Musée des Beaux-Arts  
 
 
 
