@@ -30,36 +30,12 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## FLASH INFO  
 
-1) La prochaine grande exposition au musée des Beaux-Arts de Rouen nous invite à découvrir 
-du **8 novembre 2018 au 11 février 2019**
- 
-**L’ŒIL ET LA MAIN**, _chefs-d’œuvre du dessin français des XVIe et XVIIe siècles_
- 
- 
-Le musée des Beaux-arts possède plus de huit mille dessins, c’est l’un des plus riches cabinets d’arts graphiques, en dehors de Paris. Le XVIIe siècle y tient une place centrale avec des feuilles d’une qualité exceptionnelle. L’exposition  présente cent vingt dessins dont beaucoup n’ont jamais été montrés au public. Un catalogue est publié qui en reproduit l’intégralité.
- 
-Pour mieux profiter de cette exposition, nous avons mis en place un cycle de trois conférences 
- 
-Ce Cycle de trois conférences,**L’ART DU DESSIN,**  aura lieu le **mercredi de 17h à 18h30**
-à l'auditorium du musée des Beaux-Arts, 26 bis rue Jean Lecanuet à Rouen.
- 
- 
-Mercredi 14 novembre 2018  
-**Le caractère d’une grande collection : le fonds de dessins français du XVIIe siècle du cabinet des dessins de Rouen**  
-_Diederik Bakhuÿs_, Conservateur, musée des Beaux-Arts, Rouen  
+1) **Une heure au musée, les 7 et 9 mars**
 
  
-Mercredi 21 novembre 2018  
-**Simon Vouet (1590 - 1649), son œuvre et ses élèves**  
-_Barbara Brejon de Lavergnée_, ancienne bibliothécaire à la Réserve du département des Estampes et de la photographie, Bibliothèque nationale de France  
+La salle des icones ne pouvant être réaménagée pour cette date,  nous vous proposons de découvrir une icône de la mode  PACO RABANNE , exposition dans le cadre du temps des collections.
 
- 
-Mercredi 12 décembre 2018  
-**Henri Baderou en Amérique. Ventes et découvertes d'un grand collectionneur**      
-_Elodie Vaysse_, Conservateur du patrimoine - Musée national des châteaux de Malmaison et Bois-Préau
-
-
-
+Rendez-vous au musée Le Secq des Tournelles à 15h ou 16h30
  
 ---
 2) **Voyage "Abbayes et textiles"** (modification) 
