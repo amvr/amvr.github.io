@@ -15,8 +15,8 @@ Auditorium du musée des Beaux-Arts
 
  **Jeudi 7 mars**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Les Icônes ; nouvelle présentation "**  
-Musée des Beaux-Arts    
+**"Paco Rabanne, une icône de la mode "**  
+Musée Le Secq des Tournelles    
 
 **Vendredi 8 mars**  
 16h  : _La peinture française au XVIIè siècle_ :  
@@ -31,8 +31,8 @@ Auditorium du musée des Beaux-Arts
 
 **Samedi 9 Mars**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Les Icônes ; nouvelle présentation"**  
-Musée des Beaux-Arts    
+**"Paco Rabanne une icône de la mode"**  
+Musée  Le Secq des Tournelles    
 
 **Lundi 11 mars**  
 17h : _Le musicien et le pouvoir_   
@@ -108,9 +108,3 @@ _Sortie_
 par **_Annick Pollin_** agrégée de lettres classsiques  
  3) Le passagedu Romantisme à la Modernité dans le travail du peintre normand Félix Buhot 
 Auditorium du musée des Beaux-Arts
-
-
-
-
-
-
