@@ -29,15 +29,8 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 ---
 
 ## FLASH INFO  
-
-1) **Une heure au musée, les 7 et 9 mars**
-
- 
-La salle des icones ne pouvant être réaménagée pour cette date,  nous vous proposons de découvrir une icône de la mode  PACO RABANNE , exposition dans le cadre du temps des collections.
-
-Rendez-vous au musée Le Secq des Tournelles à 15h ou 16h30
  
 ---
-2) **Voyage "Abbayes et textiles"** (modification) 
+ **Voyage "Abbayes et textiles"** (modification) 
 
 c'est désormais prévu du **_5 au 7 juin 2019_**
