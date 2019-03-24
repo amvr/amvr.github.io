@@ -7,90 +7,6 @@ published: true
 ## Activités Mars 2019  
 
 
-**Lundi 4 mars**  
-16h et 18h : _Une Saison Rodin_  
-**"Rodin collectionneur d'Antiques"**  
-par **_Bénedicte Garnier_**, Conservateur du Patrimoine , Responsable de la collection Rodin au Musée Rodin  
-Auditorium du musée des Beaux-Arts
-
- **Jeudi 7 mars**  
-15h et 16h30 : _Une heure au musée_ :  
-**"Paco Rabanne, une icône de la mode "**  
-Musée Le Secq des Tournelles    
-
-**Vendredi 8 mars**  
-16h  : _La peinture française au XVIIè siècle_ :  
-  par **_Frédérique Lanoé_** docteur en histoire de l'art, chargée de cours au Mobilier national - Manufacture des Gobelins  
-Auditorium du musée des Beaux-Arts 
-
-**Samedi 9 mars**  
-14h30 : _Elégantes et Dandys Romantiques_  
-**"Techniques du dandysme"**  
-par **_Farid Chenoune_**  
-Auditorium du musée des Beaux-Arts
-
-**Samedi 9 Mars**  
-15h et 16h30 : _Une heure au musée_ :  
-**"Paco Rabanne une icône de la mode"**  
-Musée  Le Secq des Tournelles    
-
-**Lundi 11 mars**  
-17h : _Le musicien et le pouvoir_   
-**"De Lully à Chostakovitch, la difficile liberté"**  
-par **_Eric Bennett_**, chargé de cours à l'université inter-ages de Paris 13  
-Auditorium du Musée des Beaux-Arts  
-
-
-**Mercredi 13 mars**  
-14h30  : _Initiation à l'histoire de l'Art_ : Cycle III   
-A la découverte des chefs-d'oeuvre au musée des Beaux-Arts :  
- **_"Delacroix"_**: La justice de Trajan  
-Musée des Beaux-Arts   
-
-**Vendredi 15 Mars**  
-17h : _Parcours croisés entre littérature et peinture_  
-**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
-par **_Annick Pollin_** agrégée de lettres classsiques  
- 1) Le tournant de la modernité picturale au XIXè siècle  
-Auditorium du musée des Beaux-Arts   
-
-**Vendredi 15 Mars**  
-17h : _Parcours croisés entre littérature et peinture_  
-**"Comment devient-on (ou pas) un peintre moderne au XIXè siècle"**  
-par **_Annick Pollin_** agrégée de lettres classsiques  
- 2) Comment un artiste passe de "la belle nature" au paysage naturel avec les peintres de Barbizon, et du portrait conventionnel au portrait impressionniste   
-Auditorium du musée des Beaux-Arts
-
-**Samedi 16 Mars**  
-14h30  : _Elégantes et Dandys romantiques_ :  
-**"Le bijou romantique"**   
- par **_Matthieu Rousset-Perrier_** , Conservatrice du patrimoine , chercheur au service Inventaire Patrimoine, Région Grand Est    
-Auditorium du musée des Beaux-Arts 
-
-**Lundi 18 mars**  
-17h : _Le musicien et le pouvoir_  
-**"De Lully à Chostakovitch, la difficile liberté"**  
-par **_Eric Bennett_**, chargé de cours à l'université inter-ages de Paris 13  
-Auditorium du Musée des Beaux-Arts
-
-**Lundi 18 mars**  
-12h15 : _Midi Musée Musique_ :  
-**"Avec la participation du Forum musical Normandie: Trio Hellos"**  
-**Camille Fonteneau**, violon; **Raphaël Jouan**, violoncelle; **Alexis Gournel**, piano
-
-**_Ludwig Van Beeethoven_** : Trio  op.1 N°3  
-**_Johannes Brahms_** : Trio N° 3 op.101  
-_**Franz Shubert**_ : Notturno D.897
-Auditorium du musée des Beaux-Arts  
-
-
-**Samedi 23 mars**  
-14h30 :_Elégantes et Dandys romantiques_ :   
-**"Paco Rabanne l'outsider"**  
-par **_Alexandre Bosc_**  
-Auditorium du MBA  
-
-
 **Lundi 25 mars**  
 17h : _Le musicien et le pouvoir_   
 **"De Lully à Chostakovitch, la difficile liberté"**  
@@ -108,3 +24,33 @@ _Sortie_
 par **_Annick Pollin_** agrégée de lettres classsiques  
  3) Le passagedu Romantisme à la Modernité dans le travail du peintre normand Félix Buhot 
 Auditorium du musée des Beaux-Arts
+
+
+
+## Activités AVRIL 2019  
+
+
+**Lundi 1 avril**  
+12h15 : _Midi Musée Musique_ :  
+**"Rendez vous avec les classes de musiques de chambre du conservatoire de Rouen à rayonnement régional"**  
+Salle du Jubé
+
+**Lundi 1 avril**  
+16h et 18h : _Une Saison Rodin_  
+**"Rodin et la danse"**  
+par **_Christine Lancestremère_**, Conservateur du Patrimoine , chef de service de la Conservation  
+Auditorium du musée des Beaux-Arts
+
+ **Jeudi 25 avril**  
+15h et 16h30 : _Une heure au musée_ :  
+**"Rouen, la Seine, le port et les bateaux dans la peinture   "**  
+Musée des Beaux-Arts  
+
+**Jeudi 25 avril**  
+_Sortie_  
+**"Le château-musée et la Crypte de la basilique Notre Dame à Boulogne sur mer (Pas de Calais)"**
+
+**Samedi 27 avril**  
+15h et 16h30 : _Une heure au musée_ :  
+**"Rouen, la Seine, le port et les bateaux dans la peinture"**  
+Musée des Beaux-Arts    
