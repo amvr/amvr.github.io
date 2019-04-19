@@ -54,6 +54,9 @@ Nom …................................................................. Prénom
 Portable...............................................................   Mail..................................................................... 
 Ci-joint un chèque de 15€  x  .......... =  …..........€ 
 Merci de retourner ce coupon-réponse accompagné de votre règlement  et d’une enveloppe timbrée pour la réponse à :  Amis des Musées de la ville de Rouen – Esplanade Marcel Duchamp – 76000 Rouen en indiquant « Mini-cycle Braque » sur l’enveloppe. 
+---   
+
+
 ---
  **Voyage "Abbayes et textiles"** (modification) 
 
