@@ -42,11 +42,20 @@ _Sortie_
 Musée des Beaux-Arts  
 
 
-
 **Samedi 18 Mai**  
 15h et 16h30 : _Une heure au musée_ :  
 **"Braque et Miro à Varengeville"**  
-Musée des Beaux-Arts  
+Musée des Beaux-Arts    
+
+**dimanche 19 mai**  
+_Sortie_
+**une journée à Saint-Germain-en-Laye**
+
+   ·         Visite guidée de l’exposition **« "Henri II, Renaissance à Saint-Germain-en-Laye" »** , pour commémorer la naissance de ce dernier, au château de Saint-Germain- en- Laye
+
+·         Visite guidée du  musée archéologique et du domaine
+
+·         Déjeuner au café Jules, à proximité du château
 
 
 ##  Supplément  
