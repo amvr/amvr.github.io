@@ -48,8 +48,8 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts    
 
 **dimanche 19 mai**  
-_Sortie_
-**une journée à Saint-Germain-en-Laye**
+_Sortie_  
+**"une journée à Saint-Germain-en-Laye"**
 
    ·         Visite guidée de l’exposition **« "Henri II, Renaissance à Saint-Germain-en-Laye" »** , pour commémorer la naissance de ce dernier, au château de Saint-Germain- en- Laye
 
