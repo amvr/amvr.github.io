@@ -24,7 +24,7 @@ Musée des Beaux-Arts
 _Sortie_  
 **"Le château-musée et la Crypte de la basilique Notre Dame à Boulogne sur mer (Pas de Calais)"**
 
-**Samedi 27 avril**  
+**Samedi 18 Mai**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Braque te Miro à Varengeville"**  
+**"Braque et Miro à Varengeville"**  
 Musée des Beaux-Arts
