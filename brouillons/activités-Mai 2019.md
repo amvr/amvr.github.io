@@ -29,18 +29,17 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts  
 
 
-### Supplément   
+##  Supplément  
 
 
 **Mardi 14 mai 2019**  
-à 16h 
-**"Miró à Varengeville"**
+à 16h : 
+**"Miró à Varengeville"**  
 **_Joanne Snrech_**, conservatrice et commissaire de l'exposition
 
 **Mardi 21 mai 2019**  
 à 16h :
-Georges Braque et Paul Nelson à Varengeville-sur-Mer (1920-1979) 
-Martine Sautory, historienne de l'art et conseillère scientifique de l'exposition
+**Georges Braque et Paul Nelson à Varengeville-sur-Mer (1920-1979)**   
+**_Martine Sautory_**, historienne de l'art et conseillère scientifique de l'exposition
 
-Ces conférences auront lieu à l’auditorium du MBA, 26 bis rue Jean Lecanuet. 
-  
+Ces conférences auront lieu à l’auditorium du MBA, 26 bis rue Jean Lecanuet.
