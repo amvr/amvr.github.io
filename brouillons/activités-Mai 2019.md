@@ -15,9 +15,9 @@ Salle du Jubé
 par **_Christine Lancestremère_**, Conservateur du Patrimoine , chef de service de la Conservation  
 Auditorium du musée des Beaux-Arts
 
- **Jeudi 25 avril**  
+ **Jeudi 16 Mai**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Rouen, la Seine, le port et les bateaux dans la peinture   "**  
+**"Braque et Miro à Varengeville"**  
 Musée des Beaux-Arts  
 
 **Jeudi 25 avril**  
@@ -26,5 +26,5 @@ _Sortie_
 
 **Samedi 27 avril**  
 15h et 16h30 : _Une heure au musée_ :  
-**"Rouen, la Seine, le port et les bateaux dans la peinture"**  
+**"Braque te Miro à Varengeville"**  
 Musée des Beaux-Arts
