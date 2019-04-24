@@ -42,4 +42,8 @@ Musée des Beaux-Arts
 **Georges Braque et Paul Nelson à Varengeville-sur-Mer (1920-1979)**   
 **_Martine Sautory_**, historienne de l'art et conseillère scientifique de l'exposition
 
-Ces conférences auront lieu à l’auditorium du MBA, 26 bis rue Jean Lecanuet.
+Ces conférences auront lieu à l’auditorium du MBA, 26 bis rue Jean Lecanuet.  
+Nous vous proposons un forfait de 15€ pour les 2 conférences, auquel vous pouvez souscrire  
+Sinon les tarifs sont les tarifs habituels : Adhérent : 8€ / conférence -Non adhérent : 10€ / conférence Etudiant / 5 € - Dans la limite des places disponibles.
+
+Contact : Catherine Bastard - 06 63 28 82 13
