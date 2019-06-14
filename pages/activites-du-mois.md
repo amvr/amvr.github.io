@@ -1,5 +1,5 @@
 ---
-title: ActivitÃ©s du mois
+title: Activités du mois
 published: true
 ---
 ## Juin
