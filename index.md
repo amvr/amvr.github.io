@@ -21,13 +21,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ---
 
-## Programme 2018-2019
+## Programme 2019-2020
 
-- [Télécharger la brochure 2018-2019](/fichiers/adhesion-2018-2019.pdf) (format PDF)
+- [Télécharger la brochure 2019-2020](/fichiers/plaquette-2019-2020.pdf) (format PDF)
 - [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
-
----
-
-## FLASH INFO  
-
-Les nouvelles plaquettes annonçant notre programme 2019 - 2020 seront envoyées aux environs du 19 juin. 
