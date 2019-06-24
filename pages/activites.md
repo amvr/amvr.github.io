@@ -15,16 +15,20 @@ published: true
 _**1310 Participants** à 21 heures nous nous félicitons de cet engouement pour cette manifestation qui sera renouvelée_  
 
 ---
+## Voyages à venir
 
-## Voyages proposés 2018  
 
-**Voyage en Bavière autour de la Renaissance allemande du 10 au 14 octobre** : il s’agit d’un
-Voyage d’application suite au cycle de conférences de David Mandrella sur ce thème en
-janvier/février.  
-Voyage organisé par _Marie-Agnès Bennett et Marie-Odile Dévé._  
+**Escapade culturelle à Berlin et Potsdam**  
+- 4 jours/3 nuits du 19 au 22 septembre 2019   
 
-Voyage sur le thème **"Abbayes et textiles dans le Bourbonnais du 21 au 23 mai 2019"**, en lien avec l'exposition du Musée des Beaux-Arts, .  
+**La Grèce classique à travers la sculpture classique**  
+- 8 jours/7 nuits du 7 au 14 octobre 2019 : _un voyage d’application suite aux cycles sur la sculpture de 2016 et 2017._
 
-**Escapade culturelle à Berlin  et Postdam du 19 au 22 septembre 2019**.
+**Voyage culturel au cœur de Rome**   
+- 5 jours /4 nuits du 17 au 21 mars 2020.  
 
-**Voyage en Grèce**, une semaine en octobre 2019 suite aux deux cycles sur les sculptures grecques des saisons 2016/2017 et 2017/2018.
+**Voyage autour du thème de la fresque**   
+- Poitiers, Saint Savin et la vallée des fresques _plus grand ensemble de peintures murales d’Europe  XIe et XIIe siècle_: en projet pour le printemps 2020.
+
+**Escapade au Mont Saint Michel**  
+- 3 jours/2 nuits en octobre 2020, _suite au cycle proposé en page 12 du programme 2019-2020_
