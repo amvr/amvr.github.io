@@ -1,5 +1,5 @@
 # Site settings
-title: Association des Amis des Musées de la Ville de Rouen
+title: Amis des Musées d'Art de Rouen
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://amis-musees-rouen.fr" # the base hostname & protocol for your site
@@ -38,4 +38,5 @@ prose:
     - /_plugins
     - Gemfile
     - Gemfile.lock
+    - /fonts
   media: "fichiers"

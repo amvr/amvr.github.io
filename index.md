@@ -7,7 +7,7 @@ published: true
 
 ## Qui sommes nous?
 
-Les **_"Amis des Musées de la Ville de Rouen"_ AMVR**.  
+Les **&laquo;&nbsp;Amis des Musées d'Art de Rouen&nbsp;&raquo;**.  
 Nombre d'adhérents: **plus de _1000_ en 2017**.
 
 ## Objectifs

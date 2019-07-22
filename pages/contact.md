@@ -5,7 +5,7 @@ published: true
 
 ## Coordonnées
 
-Association des Amis des musées de la ville de Rouen  
+Association des Amis des Musées d'Art de Rouen  
 Esplanade Marcel-Duchamp  
 76000 Rouen
 

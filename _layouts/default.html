@@ -8,13 +8,8 @@
 <body {% if page.url == '/index.html' %} class="home"{% endif %}>
   <header id="header">
     <div class="wrapper">
-      <div class="logo">
-        <a href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/fichiers/logo-amvr-bleu.png" width="88" height="80" alt="Les Amis des Musées de Rouen">
-        </a>
-      </div>
       <div class="sitetitle">
-        <a href="{{ site.baseurl }}/">Association des Amis des Musées<br>de la Ville de Rouen</a>
+        <a href="{{ site.baseurl }}/">Les Amis des Musées d'Art de Rouen</a>
       </div>
       <nav>
         {% capture menu %}{% include menu-haut.md %}{% endcapture %}
@@ -60,7 +55,7 @@
         {% capture menu %}{% include menu-bas.md %}{% endcapture %}
         {{ menu | markdownify }}
       </nav>
-      <p>© Amis des Musées de Rouen.</p>
+      <p>© Amis des Musées d'Art de Rouen.</p>
     </div>
   </footer>
   <script src="/google-analytics.js" async></script>

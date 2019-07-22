@@ -5,7 +5,7 @@
 **BULLETIN D’ADHÉSION**
 aux AMVR pour la saison  2018-2019
 
-Merci de compléter le bulletin ci-dessous et de l’adresser, accompagné du chèque correspondant, à : AMVR - Association des Amis des musées de la ville de Rouen – Esplanade Marcel Duchamp – 76000 Rouen.
+Merci de compléter le bulletin ci-dessous et de l’adresser, accompagné du chèque correspondant, à : Association des Amis des Musées d'Art de Rouen – Esplanade Marcel Duchamp – 76000 Rouen.
 Renseignements : tél 02 35 07 37 35  ou www.amis-musees-rouen.fr
 Courriel : amismuseesrouen@orange.fr
 
@@ -57,7 +57,7 @@ Rappel : nous assurons des permanences régulières au bureau des AMVR le lundi 
 
 
 **BULLETIN D’INSCRIPTION**
-aux activités 2018/2019 des Amis des Musées de la Ville de Rouen
+aux activités 2018/2019 des Amis des Musées d'Art de Rouen
 
 Forfaits réservés aux adhérents des AMVR :
 
