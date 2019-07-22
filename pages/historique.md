@@ -13,4 +13,4 @@ Ses successeurs, **Richard Julien** de 2000 à 2006, puis **Claude Turion** jusq
 
 L'association poursuit aujourd'hui son action dans un cadre institutionnel transformé par la création, au premier janvier 2016,  de la **Réunion des musées  métropolitains Rouen Normandie**.
 
-Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux _Amis des Musées d’Art de Rouen_ depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et muée Le Secq des Tournelles.
+Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux _Amis des Musées d’Art de Rouen_ depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
