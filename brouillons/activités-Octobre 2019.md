@@ -27,6 +27,15 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts   
 
 
+**Mercredi 16 Octobre**  
+14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II  
+
+**"La femme objet"**  
+Musée des Beaux-Arts 
+
+
+
+
 **Jeudi 9 Mai**  
 _Sortie_  
 **"Eglise de Varengeville et jardin des Moutiers"**
