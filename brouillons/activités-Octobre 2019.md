@@ -8,18 +8,21 @@
 
 **Lundi 7 Octobre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
+
 **"La Renaissance"**  
 Musée des Beaux-Arts   
 
 
 **Lundi 14 Octobre**  
-14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I 
+14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
+
 **"Le Baroque et le Classicisme"**  
 Musée des Beaux-Arts 
 
 
 **Mercredi 9 Octobre**  
-14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II 
+14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II  
+
 **"La femme fatale"**  
 Musée des Beaux-Arts   
 
