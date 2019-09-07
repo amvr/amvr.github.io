@@ -36,9 +36,11 @@ Musée des Beaux-Arts
 
 
 
-**Jeudi 9 Mai**  
-_Sortie_  
-**"Eglise de Varengeville et jardin des Moutiers"**
+**Vendredi 11 Octobre**  
+17h : _Regard et Cinéma_  
+**"1895-1910 : Ebahir & canaliser l'attention - Lumière, Mélies, Pathé"**  
+par Cédric de Veigy , enseignant chercheur spécialisé en photographie et cinéma  
+Musée des Beaux-Arts
 
  **Jeudi 16 Mai**  
 15h et 16h30 : _Une heure au musée_ :  
