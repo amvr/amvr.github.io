@@ -47,11 +47,21 @@ Musée des Beaux-Arts
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts  
 
- **Mardi 1er Octobre**  
-16h : _Notre-Dame, une Cathédrale vivante_ :  
-**"Les merveilles de Notre-Dame"**  
-par **_Marianne Autain_**, conférencière nationale , diplômée de l'Ecole du Louvre
+
+**Vendredi 11 Octobre**  
+17h : _Regard et Cinéma_  
+**"1895-1910 : Ebahir & canaliser l'attention - Lumière, Mélies, Pathé"**  
+par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
+Musée des Beaux-Arts   
+
+
+**Mardi 1er Octobre**  
+16h :_Notre Dame de PARIS ; une cathédrale vivante_  
+
+**Les merveilles de Notre-Dame** ,     
+par **_Marianne Autain_** conférencière nationale , diplômée de l'Ecole du Louvre  
 Auditorium du Musée des Beaux-Arts  
+
 
 
 
