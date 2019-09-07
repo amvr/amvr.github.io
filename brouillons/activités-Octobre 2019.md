@@ -34,13 +34,18 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts 
 
 
-
-
 **Vendredi 11 Octobre**  
 17h : _Regard et Cinéma_  
 **"1895-1910 : Ebahir & canaliser l'attention - Lumière, Mélies, Pathé"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
-Musée des Beaux-Arts
+Musée des Beaux-Arts  
+
+
+**Vendredi 18 Octobre**  
+17h : _Regard et Cinéma_  
+**"1910 - 1920 : Convier & enchainer l'attention - Griffith, Chaplin"**  
+par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
+Musée des Beaux-Arts  
 
  **Jeudi 16 Mai**  
 15h et 16h30 : _Une heure au musée_ :  
