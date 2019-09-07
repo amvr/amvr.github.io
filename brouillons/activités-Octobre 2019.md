@@ -14,7 +14,7 @@ Musée des Beaux-Arts
 
 
 **Lundi 14 Octobre**  
-14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
+14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I     
 
 **"Le Baroque et le Classicisme"**  
 Musée des Beaux-Arts 
