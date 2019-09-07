@@ -47,12 +47,24 @@ Auditorium du Musée des Beaux-Arts
 Musée des Beaux-Arts   
 
 
+**Jeudi 10 Octobre**  
+15h et 16h30 : _Une heure au musée_  
+**"L'Art contemporain dans la collection Pinault ..._So British_"**  
+Musée des Beaux-Arts  
+
+
+
 **Vendredi 11 Octobre**  
 17h : _Regard et Cinéma_  
 **"1895-1910 : Ebahir & canaliser l'attention -_Lumière, Mélies, Pathé_"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts     
 
+
+**Samedi 12 Octobre**  
+15h et 16h30 :_Une heure au musée_  
+**"L'Art contemporain dans la collection Pinault ..._So British_"**  
+Musée des Beaux-Arts  
 
 
 **Lundi 14 Octobre**  
@@ -73,15 +85,4 @@ Musée des Beaux-Arts
 17h : _Regard et Cinéma_  
 **"1910 - 1920 : Convier & enchainer l'attention - Griffith, Chaplin"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
-Musée des Beaux-Arts  
-
-
-
-
-
-
-
-
-
-
-
+Musée des Beaux-Arts
