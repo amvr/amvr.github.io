@@ -50,7 +50,7 @@ Musée des Beaux-Arts
  **Mardi 1er Octobre**  
 16h : _Notre-Dame, une Cathédrale vivante_ :  
 **"Les merveilles de Notre-Dame"**  
-par marianne Autain, conférencière nationale , diplômée de l'Ecole du Louvre
+par **_Marianne Autain_**, conférencière nationale , diplômée de l'Ecole du Louvre
 Auditorium du Musée des Beaux-Arts  
 
 
