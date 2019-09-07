@@ -47,10 +47,11 @@ Musée des Beaux-Arts
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts  
 
- **Jeudi 16 Mai**  
-15h et 16h30 : _Une heure au musée_ :  
-**"Braque et Miro à Varengeville"**  
-Musée des Beaux-Arts  
+ **Mardi 1er Octobre**  
+16h : _Notre-Dame, une Cathédrale vivante_ :  
+**"Les merveilles de Notre-Dame"**  
+par marianne Autain, conférencière nationale , diplômée de l'Ecole du Louvre
+Auditorium du Musée des Beaux-Arts  
 
 
 
