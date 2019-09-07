@@ -3,9 +3,6 @@
 
 ## Activités Octobre 2019  
 
-
-
-
 **Lundi 7 Octobre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
 **"La Renaissance"**  
