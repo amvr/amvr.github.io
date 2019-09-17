@@ -31,7 +31,7 @@ Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Norm
 
 
 
-À compter du 9 septembre 2019, près de**_70 000 objets et œuvres_** issus des collections des musées
+À compter du 9 septembre 2019, près de **_70 000 objets et œuvres_** issus des collections des musées
 normands sont accessibles à tous de chez soi. En effet,**59 établissements**, membres du Réseau des
 musées de Normandie, ont décidé de mettre en ligne leurs collections dans un désir de diffusion et
 de partage des données. Elles sont accessibles à l’adresse https://collections.musees-normandie.fr.
