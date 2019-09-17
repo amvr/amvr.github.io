@@ -9,7 +9,7 @@ published: true
  - [Amis du musée André Malraux (Le Havre)](http://www.muma-lehavre.fr)  
  - [Site musée des Beaux-Arts de Caen](http://mba.caen.fr)
  - [Fédération française des sociétés d'Amis de musées](http://www.amis-musees.fr)
- - [Les collections du réseau des musées de Normandie](https://collections.musees-normandie.fr)
+ - [Les Collections du réseau des musées de Normandie](https://collections.musees-normandie.fr)
  
  
 
