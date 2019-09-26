@@ -10,7 +10,7 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous
 
 ### Georges Rochegrosse (1859-1938)
 Peintre, illustrateur et affichiste
-Nous avons offert au musée des Beaux-Arts trois magnifiques gouaches préparatoires à une édition de luxe du roman de Flaubert Salammbô, parue en 1900 : **Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour**![salammbô](fi), **La Bataille du Macar** et **Carthage en joie**.
+Nous avons offert au musée des Beaux-Arts trois magnifiques gouaches préparatoires à une édition de luxe du roman de Flaubert Salammbô, parue en 1900 : **Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour**![salammbô](fichier/oeuvres/2019-salammbo), **La Bataille du Macar** et **Carthage en joie**.
 Ces œuvres ont été acquises en vente publique à Paris le 12 février 2019.
 Ces gouaches constitueront des pièces importantes de l’exposition Salammbô prévue en 2021 au musée des Beaux-Arts de Rouen, en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
 
