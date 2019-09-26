@@ -5,28 +5,28 @@ published: true
 Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
 La liste des oeuvres ainsi données à nos musées au titre du mécénat est importante...  
 
-vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci dessous  
-## 2019  
+vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
+
+## 2019
 
 ### Georges Rochegrosse (1859-1938)
-Peintre, illustrateur et affichiste
-Nous avons offert au musée des Beaux-Arts trois magnifiques gouaches préparatoires à une édition de luxe du roman de Flaubert Salammbô, parue en 1900 : **Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour**![salammbo](fichier/oeuvres/2019-salammbo), **La Bataille du Macar** et **Carthage en joie**.
-Ces œuvres ont été acquises en vente publique à Paris le 12 février 2019.
+
+Peintre, illustrateur et affichiste  
+Nous avons offert au musée des Beaux-Arts trois magnifiques gouaches préparatoires à une édition de luxe du roman de Flaubert Salammbô, parue en 1900 : [Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour](/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html), [La Bataille du Macar](/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [Carthage en joie](/pages/mecenat/2019-rochegrosse-carthage-en-joie.html).  
+Ces œuvres ont été acquises en vente publique à Paris le 12 février 2019.  
 Ces gouaches constitueront des pièces importantes de l’exposition Salammbô prévue en 2021 au musée des Beaux-Arts de Rouen, en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
 
 ### Gabriel Germain Joncherie (vers 1790-après 1844)
-**Trompe-l’œil au cabinet de curiosités**, toile acquise le 12 mai 2019, à Doullens (Somme). 
-L’œuvre a rejoint un ensemble significatif de trompe-l’œil conservé au musée des Beaux-Arts
+
+[Trompe-l’œil au cabinet de curiosités](/pages/mecenat/2019-joncherie-trompe-l-oeil.html), toile acquise le 12 mai 2019, à Doullens (Somme).  
+L’œuvre a rejoint un ensemble significatif de trompe-l’œil conservé au musée des Beaux-Arts  
 C’est une œuvre étrange, d’esprit très moderne. Elle assemble des éléments d’histoire naturelle, des objets du quotidien (bénitier domestique, lanterne, carte à jouer) et des œuvres et des outils empruntés à l’atelier du peintre. Elle porte la date de 1823. La collection Baderou comprend une autre toile de Joncherie, demeurée anonyme jusqu’à ce jour, mais que, par comparaison avec plusieurs compositions de notre artiste, les conservateurs du musée lui attribuent aujourd’hui : Le Chat et les chardonnerets.
 
-### Jean-Louis Henri Le Secq des Tournelles (1818-1882), 
-**Jeune fille italienne à la fontaine** vers 1844-1848. Toile peinte à Rome. La signature est en bas à gauche.  Un tableau au sujet très gracieux. L'acquisition a été faite le jeudi 13 juin 2019
-Henri Le Secq père, peintre et photographe avait reçu une formation artistique à l'école des Beaux-Arts, d'abord avec un passage dans l'atelier de sculpture de James Pradier (1790-1852) en 1835, puis en tant qu'élève de Paul Delaroche (1797-1856). 
-Le musée Le Secq des Tournelles, musée des arts du fer, compte 16 000 objets environ, dont 9 600 venant du don initial fait par Henri-Jean Le Secq des Tournelles (1854-1925) en 1920, qui a mené à l'ouverture du musée en 1921. Cette fabuleuse collection avait été initiée vers 1862 par son père,  Jean-Louis Henri Le Secq Destournelles. 
+### Jean-Louis Henri Le Secq des Tournelles (1818-1882)
 
-
-
-
+**Jeune fille italienne à la fontaine** vers 1844-1848. Toile peinte à Rome. La signature est en bas à gauche.  Un tableau au sujet très gracieux. L'acquisition a été faite le jeudi 13 juin 2019  
+Henri Le Secq père, peintre et photographe avait reçu une formation artistique à l'école des Beaux-Arts, d'abord avec un passage dans l'atelier de sculpture de James Pradier (1790-1852) en 1835, puis en tant qu'élève de Paul Delaroche (1797-1856).  
+Le musée Le Secq des Tournelles, musée des arts du fer, compte 16 000 objets environ, dont 9 600 venant du don initial fait par Henri-Jean Le Secq des Tournelles (1854-1925) en 1920, qui a mené à l'ouverture du musée en 1921. Cette fabuleuse collection avait été initiée vers 1862 par son père,  Jean-Louis Henri Le Secq Destournelles.
 
 ## 2018  
  
