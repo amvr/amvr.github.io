@@ -24,7 +24,7 @@ C’est une œuvre étrange, d’esprit très moderne. Elle assemble des éléme
 
 ### Jean-Louis Henri Le Secq des Tournelles (1818-1882)
 
-**Jeune fille italienne à la fontaine** vers 1844-1848. Toile peinte à Rome. La signature est en bas à gauche.  Un tableau au sujet très gracieux. L'acquisition a été faite le jeudi 13 juin 2019  
+[Jeune fille italienne à la fontaine](/pages/oeuvres/2019-le-secq-des-tournelles-jeune-fille-italienne-a-la-fontaine.html) vers 1844-1848. Toile peinte à Rome. La signature est en bas à gauche.  Un tableau au sujet très gracieux. L'acquisition a été faite le jeudi 13 juin 2019  
 Henri Le Secq père, peintre et photographe avait reçu une formation artistique à l'école des Beaux-Arts, d'abord avec un passage dans l'atelier de sculpture de James Pradier (1790-1852) en 1835, puis en tant qu'élève de Paul Delaroche (1797-1856).  
 Le musée Le Secq des Tournelles, musée des arts du fer, compte 16 000 objets environ, dont 9 600 venant du don initial fait par Henri-Jean Le Secq des Tournelles (1854-1925) en 1920, qui a mené à l'ouverture du musée en 1921. Cette fabuleuse collection avait été initiée vers 1862 par son père,  Jean-Louis Henri Le Secq Destournelles.
 
