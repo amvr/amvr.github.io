@@ -1,4 +1,4 @@
 
 
 
-![Pingret-Boieldieu](//fichiers/oeuvres/2018-pingret-boieldieu.png)
+![Trompe-l’œil au cabinet de curiosités](/pages/mecenat/2019-joncherie-trompe-l-oeil.html)
