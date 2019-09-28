@@ -1,3 +1,4 @@
 
 
-![Trompe-l’œil au cabinet de curiosités](/pages/mecenat/2019-joncherie-trompe-l-oeil.html)
+
+![rochegrosse](fichiers/oeuvres/2019-rochegrosse-salammbo-repousse-maatho.jpg)
