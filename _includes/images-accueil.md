@@ -1,4 +1,4 @@
 
 
 
-![un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)](/fichiers/oeuvres/2018-pingret-boieldieu.png)
+![joncherie-trompe-l-oeil](//fichier/oeuvres/joncherie-trompe-l-oeil.jpg)
