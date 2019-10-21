@@ -27,23 +27,23 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts 
 
 
-**Vendredi 11 Octobre**  
+**Vendredi 8 Novembre**  
 17h : _Regard et Cinéma_  
-**"1895-1910 : Ebahir & canaliser l'attention - Lumière, Mélies, Pathé"**  
+**"1921-1928 : Devancer& convaincre l'attention - Eisenstein , Hitchcock"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts  
 
 
-**Vendredi 18 Octobre**  
+**Vendredi 15 Novembre**  
 17h : _Regard et Cinéma_  
-**"1910 - 1920 : Convier & enchainer l'attention - Griffith, Chaplin"**  
+**"1929-1944 : Subjuguer & élargir l'attention - Vidor , Lang"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts  
 
 
-**Vendredi 11 Octobre**  
+**Vendredi 22 Novembre**  
 17h : _Regard et Cinéma_  
-**"1895-1910 : Ebahir & canaliser l'attention - Lumière, Mélies, Pathé"**  
+**"1945-1955 : Observer & réfléchir l'attention - Rossellini"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts   
 
@@ -71,9 +71,10 @@ par **_Marianne Autain_** conférencière nationale , diplômée de l'Ecole du L
 Auditorium du Musée des Beaux-Arts
 
 
-**Jeudi 3 Octobre**  
+**Jeudi 7 ou 14 Novembre**  
  _Sortie_ :  
-**"Château d'EU"**   
+**"Exposition Le Greco"**  
+Grand palais - Paris
 
 **Lundi 25 Novembre**  
 12h15 à 13h15 : _Midi Musée Musique_  
@@ -81,18 +82,12 @@ Auditorium du Musée des Beaux-Arts
 _Lutxi Nesparias, piano ; Guillaume Latour,violon ; Jacques Perez, violoncelle_  
 **Dimitri Chostakovitch** : Trio pour piano et cordes n°1 en ut mineur  
 **Sergueï Rachmaninov** : Trio élégiaque n°1  
-**Félix Mendelssohn** :Trio avec piano et cordes en ré mineur op.198  
-Auditorium du Musée des Beaux-Arts
+**Félix Mendelssohn** :Trio avec piano et cordes en ré mineur op.198
 
 **Jeudi 28 Novembre**  
 15h et 16h30 : _Une heure au musée_  
 **"Philippe de Champaigne et la peinture religieuse du XVIIe siècle"**  
-Musée des Beaux-Arts  
-
-**Vendredi 29 Novembre**  
-14h30 : _Vendredi de la Métropole_  
-**"Le patrimoine photographique (Rouen 1940-1950) et les débuts difficiles de la reconstruction"** avec Jacques Greber  
-Auditorium du Musée des Beaux-Arts
+Musée des Beaux-Arts   
 
 **Samedi 30 Novembre**  
 15h et 16h30 : _Une heure au musée_  
