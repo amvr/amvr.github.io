@@ -8,6 +8,38 @@
 **"Le XVIIIe siècle"**  
 Musée des Beaux-Arts   
 
+**Mercredi 6 Novembre**  
+14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II  
+**"La femme et le sacré"**  
+Musée des Beaux-Arts   
+
+**Jeudi 7 ou 14 Novembre**  
+ _Sortie_ :  
+**"Exposition Le Greco"**  
+Grand palais - Paris
+
+**Vendredi 8 Novembre**  
+17h : _Regard et Cinéma_  
+**"1921-1928 : Devancer& convaincre l'attention - Eisenstein , Hitchcock"**  
+par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
+Musée des Beaux-Arts  
+
+**Jeudi 14 Novembre**  
+15h et 16h30 : _Une heure au musée_  
+**"Art et Cinéma - Les liaisons heureuses : visite de l'exposition"**  
+Musée des Beaux-Arts  
+
+**Vendredi 15 Novembre**  
+17h : _Regard et Cinéma_  
+**"1929-1944 : Subjuguer & élargir l'attention - Vidor , Lang"**  
+par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
+Musée des Beaux-Arts  
+
+**Samedi 16 Novembre**  
+15h et 16h30 : _Une heure au musée_  
+**"Art et Cinéma - Les liaisons heureuses : visite de l'exposition"**  
+Musée des Beaux-Arts  
+  
 
 **Lundi 18 Novembre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I     
@@ -15,10 +47,7 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts 
 
 
-**Mercredi 6 Novembre**  
-14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II  
-**"La femme et le sacré"**  
-Musée des Beaux-Arts   
+
 
 
 **Mercredi 20 Novembre**  
@@ -27,18 +56,10 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts 
 
 
-**Vendredi 8 Novembre**  
-17h : _Regard et Cinéma_  
-**"1921-1928 : Devancer& convaincre l'attention - Eisenstein , Hitchcock"**  
-par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
-Musée des Beaux-Arts  
+ 
 
 
-**Vendredi 15 Novembre**  
-17h : _Regard et Cinéma_  
-**"1929-1944 : Subjuguer & élargir l'attention - Vidor , Lang"**  
-par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
-Musée des Beaux-Arts  
+  
 
 
 **Vendredi 22 Novembre**  
@@ -47,34 +68,14 @@ Musée des Beaux-Arts
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts   
 
-**Jeudi 14 Novembre**  
-15h et 16h30 : _Une heure au musée_  
-**"Art et Cinéma - Les liaisons heureuses : visite de l'exposition"**  
-Musée des Beaux-Arts  
 
-**Samedi 16 Novembre**  
-15h et 16h30 : _Une heure au musée_  
-**"Art et Cinéma - Les liaisons heureuses : visite de l'exposition"**  
-Musée des Beaux-Arts  
+
+
   
-  
-**Mardi 1er Octobre**  
-16h :_Notre Dame de PARIS ; une cathédrale vivante_  
-**Les merveilles de Notre-Dame** ,     
-par **_Marianne Autain_** conférencière nationale , diplômée de l'Ecole du Louvre  
-Auditorium du Musée des Beaux-Arts  
-
-**Mardi 8 Octobre**  
-16h :_Notre Dame de PARIS ; une cathédrale vivante_  
-**Restaurer et créer** ,     
-par **_Marianne Autain_** conférencière nationale , diplômée de l'Ecole du Louvre  
-Auditorium du Musée des Beaux-Arts
 
 
-**Jeudi 7 ou 14 Novembre**  
- _Sortie_ :  
-**"Exposition Le Greco"**  
-Grand palais - Paris
+
+
 
 **Lundi 25 Novembre**  
 12h15 à 13h15 : _Midi Musée Musique_  
