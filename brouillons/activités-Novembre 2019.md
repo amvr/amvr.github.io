@@ -81,14 +81,20 @@ Auditorium du Musée des Beaux-Arts
 _Lutxi Nesparias, piano ; Guillaume Latour,violon ; Jacques Perez, violoncelle_  
 **Dimitri Chostakovitch** : Trio pour piano et cordes n°1 en ut mineur  
 **Sergueï Rachmaninov** : Trio élégiaque n°1  
-**Félix Mendelssohn** :Trio avec piano et cordes en ré mineur op.198
+**Félix Mendelssohn** :Trio avec piano et cordes en ré mineur op.198  
+Auditorium du Musée des Beaux-Arts
 
 **Jeudi 28 Novembre**  
 15h et 16h30 : _Une heure au musée_  
 **"Philippe de Champaigne et la peinture religieuse du XVIIe siècle"**  
-Musée des Beaux-Arts   
+Musée des Beaux-Arts  
+
+**Vendredi 29 Novembre**  
+14h30 : _Vendredi de la Métropole_  
+**"Le patrimoine photographique (Rouen 1940-1950) et les débuts difficiles de la reconstruction"** avec Jacques Greber  
+Auditorium du Musée des Beaux-Arts
 
 **Samedi 30 Novembre**  
 15h et 16h30 : _Une heure au musée_  
 **"Philippe de Champaigne et la peinture religieuse du XVIIe siècle"**  
-Musée des Beaux-Arts   
+Musée des Beaux-Arts
