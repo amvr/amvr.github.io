@@ -16,10 +16,7 @@ Musée des Beaux-Arts
 **"La femme et le sacré"**  
 Musée des Beaux-Arts   
 
-**Jeudi 7 ou 14 Novembre**  
- _Sortie_ :  
-**"Exposition Le Greco"**  
-Grand palais - Paris
+
 
 **Vendredi 8 Novembre**  
 17h : _Regard et Cinéma_  
@@ -53,7 +50,12 @@ Musée des Beaux-Arts
 **Mercredi 20 Novembre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II  
 **"Jeanne d'Arc, bergère ou guerrière ?"**  
-Musée des Beaux-Arts 
+Musée des Beaux-Arts  
+
+**Jeudi 21 Novembre**  
+ _Sortie_ :  
+**"Exposition Le Greco"**  
+Grand palais - Paris
 
 **Vendredi 22 Novembre**  
 17h : _Regard et Cinéma_  
