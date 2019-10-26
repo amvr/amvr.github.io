@@ -50,8 +50,9 @@ published: true
  Nouveaux Statuts  
  ---
  
+ [Nouveaux statuts sur 3 colonnes FINAL]
  
- (C:/Users/domar/Downloads/AMVR%202016-2017/Nouveaux%20statuts%20sur%203%20colonnes%20FINAL.pdf)
+ 
  
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
