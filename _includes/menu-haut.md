@@ -6,4 +6,5 @@
  - [Contact](/pages/contact.html)
  - [Liens](/pages/liens.html)
  - [Administrateurs](/pages/administrateurs.html)
- - [Statuts]
+ - [Statuts](/pages/statuts)
+.
