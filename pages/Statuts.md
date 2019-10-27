@@ -48,7 +48,11 @@ published: true
 ---
 
  Nouveaux Statuts  
- ---
+ ---  
+ 
+**Ces modifications des statuts sont demandées par le ministère de l’Intérieur pour les mettre en conformité avec les statuts types de 2018 pour les associations d’utilité publique**
+ 
+ 
  
  [Nouveaux statuts sur 3 colonnes FINAL]()
  
