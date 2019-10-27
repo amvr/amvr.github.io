@@ -7,4 +7,3 @@
  - [Liens](/pages/liens.html)
  - [Administrateurs](/pages/administrateurs.html)
  - [Statuts](/pages/statuts)
-.
