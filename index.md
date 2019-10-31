@@ -27,6 +27,12 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info  
 
+**Date à retenir** :  **_Mardi 26 Novembre 2019_**  
+### AG des AMAR (Amis des Musées d'Art de Rouen)   
+
+
+
+
 Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé : LIEN de notre site   
 
 
@@ -35,6 +41,3 @@ Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Norm
 normands sont accessibles à tous de chez soi. En effet, **59 établissements**, membres du Réseau des
 musées de Normandie, ont décidé de mettre en ligne leurs collections dans un désir de diffusion et
 de partage des données. Elles sont accessibles à l’adresse -(https://collections.musees-normandie.fr)
-
-
-
