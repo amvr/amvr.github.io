@@ -36,7 +36,7 @@ avec à l'ordre du jour la _modification des "statuts"_
 
 
 
-Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé : LIEN de notre site   
+Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé :**LIEN** de notre site   
 
 
 
