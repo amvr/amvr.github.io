@@ -89,19 +89,22 @@ Musée des Beaux-Arts
  _Sortie_ :  
 **"Platée" opéra de Rameau**  
 Théatre des Champs-Elysées - Paris
+
 ​
 ​
 **Vendredi 6 Décembre**
 14h30 : _Vendredis de la Métropole_  
 **"La Bibliothèque municipale de Rouen, 200ans d'histoire(s)"**  
 **_Marie-Françoise Rose_** , conservatrice honoraire des bibliothèques de Rouen  
-Auditorium du musée des Beaux-Arts de Rouen
+Auditorium du musée des Beaux-Arts de Rouen  
+
 ​
 ​
 **Lundi 9 Décembre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
 **"L'Art moderne"**  
 Musée des Beaux-Arts   
+
 ​
 **Mercredi 11 Décembre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle II  
