@@ -3,6 +3,13 @@
 
 ## Activités Décembre 2019  
 
+**Vendredi 6 Décembre**
+14h30 : _Vendredis de la Métropole_  
+**"La Bibliothèque municipale de Rouen, 200ans d'histoire(s)"**  
+**_Marie-Françoise Rose_** , conservatrice honoraire des bibliothèques de Rouen  
+Auditorium du musée des Beaux-Arts de Rouen
+
+
 **Lundi 9 Décembre**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
 **"L'Art moderne"**  
@@ -13,10 +20,10 @@ Musée des Beaux-Arts
 **"Les femmes peintres au musée des Beaux-Arts de Rouen"**  
 Musée des Beaux-Arts   
 
-**Jeudi 7 ou 14 Novembre**  
+**Lundi 2 Décembre**  
  _Sortie_ :  
-**"Exposition Le Greco"**  
-Grand palais - Paris
+**"Platée" opéra de Rameau**  
+Théatre des Champs-Elysées - Paris
 
 **Vendredi 8 Novembre**  
 17h : _Regard et Cinéma_  
@@ -29,9 +36,9 @@ Musée des Beaux-Arts
 **"Art et Cinéma - Les liaisons heureuses : visite de l'exposition"**  
 Musée des Beaux-Arts  
 
-**Vendredi 15 Novembre**  
+**Vendredi 13 Décembre**  
 17h : _Regard et Cinéma_  
-**"1929-1944 : Subjuguer & élargir l'attention - Vidor , Lang"**  
+**"1956-1967 : Déplacer & interroger l'attention  -Bergman, Godard"**  
 par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
 Musée des Beaux-Arts  
 
