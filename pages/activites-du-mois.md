@@ -112,8 +112,7 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts   
 ​
  
- 
-​
+ ​
 **Vendredi 13 Décembre**  
 17h : _Regard et Cinéma_  
 **"1956-1967 : Déplacer & interroger l'attention  -Bergman, Godard"**  
@@ -121,8 +120,7 @@ par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie e
 Musée des Beaux-Arts  
 ​
   
-​
-​
+​​
 **Lundi 16 Décembre**  
 12h15 à 13h15 : _Midi Musée Musique_  
 **"Duo Piano-Violoncelle"**  
