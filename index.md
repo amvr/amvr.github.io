@@ -27,10 +27,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info  
 
-**Date à retenir** :  **_Mardi 26 Novembre 2019_à 17h**  
-### Assemblée Générale des AMAR (Amis des Musées d'Art de Rouen)   
 
-avec à l'ordre du jour la _modification des "statuts"_ 
 
 ---  
 
