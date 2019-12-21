@@ -44,10 +44,25 @@ Musée des Beaux-Arts
 conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
 Auditorium du musée des Beaux-Arts de Rouen
 
+​
+**Mardi 14 janvier**  
+14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
+**"Un héritage ouvert, en partage: l'Inde et le Gandhara"** (VIe siècle av. J.C.-Ve siècle ap. J.C.)  
+par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
+Auditorium du musée des Beaux-Arts
+
 **Mercredi 15 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
 **"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
 Musée des Beaux-Arts  
+
+​
+**Mardi 21 janvier**  
+14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
+**"Développement et transmission dans la Haute Asie, en Sérinde"**  
+**"L'échelle des oasis sur la route de la soie"** (Ie - VIIe siècle ap. J.C.)
+par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
+Auditorium du musée des Beaux-Arts
 
 **Lundi 20 janvier**  
  17h _Carthage de Didon à Salammbô_ :  
