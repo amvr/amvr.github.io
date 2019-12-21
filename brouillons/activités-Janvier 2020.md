@@ -56,7 +56,7 @@ Musée des Beaux-Arts
 **Lundi 13 janvier**  
 12h15 à 13h15 : _Midi Musée Musique_  
  Bernard Mathern, violon ; Axel Salmona, violoncelle_  
-**J.S.Bach ** :1ère et 2ème Suites pour violoncelle seul
+**J.S.Bach** : 1ère et 2ème Suites pour violoncelle seul
 **R.Glière** : 8 Miniatures pour violon et violoncelle  
 **G.Haendel/Halvorsen** : Passacaille  
 
