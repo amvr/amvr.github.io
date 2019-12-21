@@ -51,6 +51,8 @@ Auditorium du musée des Beaux-Arts de Rouen
 **J.S.Bach** : 1ère et 2ème Suites pour violoncelle seul  
 **R.Glière** : 8 Miniatures pour violon et violoncelle  
 **G.Haendel/Halvorsen** : Passacaille  
+.
+
 
 
 
