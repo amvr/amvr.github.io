@@ -10,10 +10,10 @@ conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Unive
 Auditorium du musée des Beaux-Arts de Rouen
 
 
-**Vendredi 6 Décembre**
-14h30 : _Vendredis de la Métropole_  
-**"La Bibliothèque municipale de Rouen, 200ans d'histoire(s)"**  
-**_Marie-Françoise Rose_** , conservatrice honoraire des bibliothèques de Rouen  
+**Vendredi 17 janvier**
+14h30 et 17h : _A la découverte du Mont Saint Michel_  
+**"Les origines du Mont Saint Michel d'après les manuscrits d'Avranches"**  
+**_Pierre Bouët_** , Maitre de conférences honoraire de l'Université de Caen  
 Auditorium du musée des Beaux-Arts de Rouen  
 
 **Mardi 7 janvier**  
@@ -32,6 +32,14 @@ Musée des Beaux-Arts
 15h et 16h30 :_Une heure au musée_  
 **"Trompe l'oeil et cabinets de curiosités"**  
 Musée des Beaux-Arts
+
+**Samedi 11 janvier**  
+14h30 : _L'art de la Fresque_  
+**"Aux origines de la fresque: de Pompei à Saint-Savin"**  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+Auditorium du musée des Beaux-Arts
+
+
 
 **Samedi 11 janvier**  
 15h et 16h30 :_Une heure au musée_  
@@ -56,6 +64,18 @@ Auditorium du musée des Beaux-Arts
 **"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
 Musée des Beaux-Arts  
 
+**Samedi 18 janvier**  
+14h30 : _L'art de la Fresque_  
+**"Sous les parois enduites, l'esprit(Giotto,Théophane le grec, Roubiev, Fra Angelico"**  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+Auditorium du musée des Beaux-Arts
+
+
+**Samedi 25 janvier**  
+14h30 : _L'art de la Fresque_  
+**"La fresque ou le sexe de l'architecture (masaccio,Miche-Ange,Carrache)"**  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+Auditorium du musée des Beaux-Arts
 ​
 **Mardi 21 janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
@@ -70,6 +90,12 @@ Auditorium du musée des Beaux-Arts
 conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
 Auditorium du musée des Beaux-Arts de Rouen
 
+**Vendredi 17 janvier**
+14h30 et 17h : _A la découverte du Mont Saint Michel_  
+**"Les multiples visages de l'Abbaye romane"**  
+**_Florence Margo Schwoebel_** , élève conservatrice du patrimoine , Institut national du patrimoine, Doctorante UMR 5138, Université Louis Lumière Lyon 2
+Auditorium du musée des Beaux-Arts de Rouen  
+​
 ​
 **Mardi 28janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
