@@ -104,6 +104,7 @@ Auditorium du musée des Beaux-Arts
 **"Les multiples visages de l'Abbaye romane"**  
 **_Florence Margo Schwoebel_** , élève conservatrice du patrimoine , Institut national du patrimoine, Doctorante UMR 5138, Université Louis Lumière Lyon 2
 Auditorium du musée des Beaux-Arts de Rouen  
+.
 ​
 **Samedi 25 janvier**  
 14h30 : _L'art de la Fresque_  
