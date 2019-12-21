@@ -21,6 +21,17 @@ Auditorium du musée des Beaux-Arts de Rouen
 **"L'Art moderne"**  
 Musée des Beaux-Arts   
 
+**Jeudi 9 janvier**  
+15h et 16h30 :_Une heure au musée_  
+**"Trompe l'oeil et cabinets de curiosités"**  
+Musée des Beaux-Arts
+
+**Jeudi 9 janvier**  
+15h et 16h30 :_Une heure au musée_  
+**"Trompe l'oeil et cabinets de curiosités"**  
+Musée des Beaux-Arts
+
+
 **Mercredi 15 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
 **"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
