@@ -70,6 +70,13 @@ Auditorium du musée des Beaux-Arts
 conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
 Auditorium du musée des Beaux-Arts de Rouen
 
+​
+**Mardi 28janvier**  
+14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
+**"Transmission : le bouddhisme en Chine - les grottes de Dunhang (I.)"** (Ier-VIe siècle)  
+par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
+Auditorium du musée des Beaux-Arts
+
  **Mercredi 29 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
 **"Antoine Etex (1808-1888): Le Tombeau de Géricault"**  
