@@ -3,10 +3,11 @@
 
 ## Activités Janvier 2020  
 
-**Lundi 2 Décembre**  
- _Sortie_ :  
-**"Platée" opéra de Rameau**  
-Théatre des Champs-Elysées - Paris
+**Lundi 6 janvier**  
+ 17h _Carthage de Didon à Salammbô_ :  
+**"Didon, la fondatrice , entre histoire et légende"**  
+conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
+Auditorium du musée des Beaux-Arts de Rouen
 
 
 **Vendredi 6 Décembre**
@@ -31,11 +32,22 @@ Musée des Beaux-Arts
 **"Trompe l'oeil et cabinets de curiosités"**  
 Musée des Beaux-Arts
 
+**Lundi 13 janvier**  
+ 17h _Carthage de Didon à Salammbô_ :  
+**"Carthage , un "empire de la mer"**  
+conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
+Auditorium du musée des Beaux-Arts de Rouen
 
 **Mercredi 15 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
 **"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
 Musée des Beaux-Arts  
+
+**Lundi 20 janvier**  
+ 17h _Carthage de Didon à Salammbô_ :  
+**"Salammbô, Hannibal et la lutte contre Rome"**  
+conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
+Auditorium du musée des Beaux-Arts de Rouen
 
  **Mercredi 29 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
