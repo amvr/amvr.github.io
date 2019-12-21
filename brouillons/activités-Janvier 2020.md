@@ -10,11 +10,7 @@ conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Unive
 Auditorium du musée des Beaux-Arts de Rouen
 
 
-**Vendredi 17 janvier**
-14h30 et 17h : _A la découverte du Mont Saint Michel_  
-**"Les origines du Mont Saint Michel d'après les manuscrits d'Avranches"**  
-**_Pierre Bouët_** , Maitre de conférences honoraire de l'Université de Caen  
-Auditorium du musée des Beaux-Arts de Rouen  
+
 
 **Mardi 7 janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
@@ -23,10 +19,7 @@ par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbo
 Auditorium du musée des Beaux-Arts
 
 
-**Lundi 9 Décembre**  
-14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle I  
-**"L'Art moderne"**  
-Musée des Beaux-Arts   
+  
 
 **Jeudi 9 janvier**  
 15h et 16h30 :_Une heure au musée_  
@@ -52,6 +45,12 @@ Musée des Beaux-Arts
 conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
 Auditorium du musée des Beaux-Arts de Rouen
 
+**Lundi 13 janvier**  
+12h15 à 13h15 : _Midi Musée Musique_  
+ Bernard Mathern, violon ; Axel Salmona, violoncelle_  
+**J.S.Bach** : 1ère et 2ème Suites pour violoncelle seul  
+**R.Glière** : 8 Miniatures pour violon et violoncelle  
+**G.Haendel/Halvorsen** : Passacaille  
 ​
 **Mardi 14 janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
@@ -64,6 +63,14 @@ Auditorium du musée des Beaux-Arts
 **"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
 Musée des Beaux-Arts  
 
+**Vendredi 17 janvier**
+14h30 et 17h : _A la découverte du Mont Saint Michel_  
+**"Les origines du Mont Saint Michel d'après les manuscrits d'Avranches"**  
+**_Pierre Bouët_** , Maitre de conférences honoraire de l'Université de Caen  
+Auditorium du musée des Beaux-Arts de Rouen  
+
+
+
 **Samedi 18 janvier**  
 14h30 : _L'art de la Fresque_  
 **"Sous les parois enduites, l'esprit(Giotto,Théophane le grec, Roubiev, Fra Angelico"**  
@@ -71,18 +78,9 @@ par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue 
 Auditorium du musée des Beaux-Arts
 
 
-**Samedi 25 janvier**  
-14h30 : _L'art de la Fresque_  
-**"La fresque ou le sexe de l'architecture (masaccio,Miche-Ange,Carrache)"**  
-par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
-Auditorium du musée des Beaux-Arts
+
 ​
-**Mardi 21 janvier**  
-14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
-**"Développement et transmission dans la Haute Asie, en Sérinde"**  
-**"L'échelle des oasis sur la route de la soie"** (Ie - VIIe siècle ap. J.C.)
-par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
-Auditorium du musée des Beaux-Arts
+
 
 **Lundi 20 janvier**  
  17h _Carthage de Didon à Salammbô_ :  
@@ -90,12 +88,25 @@ Auditorium du musée des Beaux-Arts
 conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
 Auditorium du musée des Beaux-Arts de Rouen
 
-**Vendredi 17 janvier**
+**Mardi 21 janvier**  
+14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
+**"Développement et transmission dans la Haute Asie, en Sérinde"**  
+**"L'échelle des oasis sur la route de la soie"** (Ie - VIIe siècle ap. J.C.)
+par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
+Auditorium du musée des Beaux-Arts
+
+**Vendredi 24 janvier**
 14h30 et 17h : _A la découverte du Mont Saint Michel_  
 **"Les multiples visages de l'Abbaye romane"**  
 **_Florence Margo Schwoebel_** , élève conservatrice du patrimoine , Institut national du patrimoine, Doctorante UMR 5138, Université Louis Lumière Lyon 2
 Auditorium du musée des Beaux-Arts de Rouen  
 ​
+**Samedi 25 janvier**  
+14h30 : _L'art de la Fresque_  
+**"La fresque ou le sexe de l'architecture (masaccio,Miche-Ange,Carrache)"**  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+Auditorium du musée des Beaux-Arts 
+
 ​
 **Mardi 28janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
@@ -110,21 +121,8 @@ Musée des Beaux-Arts
 
  
 
-**Vendredi 13 Décembre**  
-17h : _Regard et Cinéma_  
-**"1956-1967 : Déplacer & interroger l'attention  -Bergman, Godard"**  
-par **_Cédric de Veigy_** , enseignant chercheur spécialisé en photographie et cinéma  
-Musée des Beaux-Arts  
-
-  
 
 
-**Lundi 13 janvier**  
-12h15 à 13h15 : _Midi Musée Musique_  
- Bernard Mathern, violon ; Axel Salmona, violoncelle_  
-**J.S.Bach** : 1ère et 2ème Suites pour violoncelle seul  
-**R.Glière** : 8 Miniatures pour violon et violoncelle  
-**G.Haendel/Halvorsen** : Passacaille  
 
 **Jeudi 30 janvier**  
 15h et 16h30 :_Une heure au musée_  
