@@ -26,7 +26,7 @@ Musée des Beaux-Arts
 **"Trompe l'oeil et cabinets de curiosités"**  
 Musée des Beaux-Arts
 
-**Jeudi 9 janvier**  
+**Samedi 11 janvier**  
 15h et 16h30 :_Une heure au musée_  
 **"Trompe l'oeil et cabinets de curiosités"**  
 Musée des Beaux-Arts
@@ -53,10 +53,22 @@ Musée des Beaux-Arts
   
 
 
-**Lundi 16 Décembre**  
+**Lundi 13 janvier**  
 12h15 à 13h15 : _Midi Musée Musique_  
-**"Duo Piano-Violoncelle"**  
-_ Kanae Endo, Piano ; Guillaume Effler, violoncelle_  
-**Félix Mendelssohn** : Sonate en ré majeur op.58  
-**Ludwig van Beethoven** : 7 variations sur le thème de "La flute enchantée" de W.A.Mozart WoO 46 en mimineur 
-**Johannes Brahms** :Sonate en mi mineur op.38
+ Bernard Mathern, violon ; Axel Salmona, violoncelle_  
+**J.S.Bach ** : 1ère et 2ème Suites pour violoncelle seul  
+**R.Glière** : 8 Miniatures pour violon et violoncelle 
+**G.Haendel/Halvorsen** : Passacaille  
+
+**Jeudi 30 janvier**  
+15h et 16h30 :_Une heure au musée_  
+**"La violence, illustrée par des objets de curiosités"**  
+Musée Le Secq des Tournelles  
+ 
+ 
+**Samedi 1 Février**  
+15h et 16h30 :_Une heure au musée_  
+**"La violence, illustrée par des objets de curiosités"**  
+Musée Le Secq des Tournelles
+
+
