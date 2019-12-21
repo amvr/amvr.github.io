@@ -109,9 +109,10 @@ Auditorium du musée des Beaux-Arts de Rouen
 14h30 : _L'art de la Fresque_  
 **"La fresque ou le sexe de l'architecture (masaccio,Miche-Ange,Carrache)"**  
 par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
-Auditorium du musée des Beaux-Arts 
+Auditorium du musée des Beaux-Arts  
+.
 
-​
+
 **Mardi 28janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
 **"Transmission : le bouddhisme en Chine - les grottes de Dunhang (I.)"** (Ier-VIe siècle)  
