@@ -19,7 +19,8 @@ Auditorium du musée des Beaux-Arts de Rouen
 **Mardi 7 janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
 **"Le Bouddhisme en sa terre d'origine: le monde indien"** (VIe -Ve siècle av. J.C.)  
-par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet  
+par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet
+
 Auditorium du musée des Beaux-Arts
 
 
