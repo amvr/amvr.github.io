@@ -14,7 +14,12 @@ Auditorium du musée des Beaux-Arts de Rouen
 14h30 : _Vendredis de la Métropole_  
 **"La Bibliothèque municipale de Rouen, 200ans d'histoire(s)"**  
 **_Marie-Françoise Rose_** , conservatrice honoraire des bibliothèques de Rouen  
-Auditorium du musée des Beaux-Arts de Rouen
+Auditorium du musée des Beaux-Arts de Rouen  
+
+**Mardi 7 janvier**  
+14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
+**"Le Bouddhisme en sa terre d'origine: le monde indien"** (VIe -Ve siècle av. J.C.)  
+Auditorium du musée des Beaux-Arts
 
 
 **Lundi 9 Décembre**  
