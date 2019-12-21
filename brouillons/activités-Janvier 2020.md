@@ -23,12 +23,12 @@ Musée des Beaux-Arts
 
 **Mercredi 15 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
-**"Pierre Puget: Hercule terrassantl'Hydre de Lerne"**  
+**"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
 Musée des Beaux-Arts  
 
  **Mercredi 29 janvier**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
-**"Antoine Etex (1808-1888):Le Tombeau de Géricault"**  
+**"Antoine Etex (1808-1888): Le Tombeau de Géricault"**  
 Musée des Beaux-Arts   
 
  
