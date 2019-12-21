@@ -57,7 +57,7 @@ Musée des Beaux-Arts
 12h15 à 13h15 : _Midi Musée Musique_  
  Bernard Mathern, violon ; Axel Salmona, violoncelle_  
 **J.S.Bach ** : 1ère et 2ème Suites pour violoncelle seul  
-**R.Glière** : 8 Miniatures pour violon et violoncelle 
+**R.Glière** : 8 Miniatures pour violon et violoncelle  
 **G.Haendel/Halvorsen** : Passacaille  
 
 **Jeudi 30 janvier**  
@@ -70,5 +70,3 @@ Musée Le Secq des Tournelles
 15h et 16h30 :_Une heure au musée_  
 **"La violence, illustrée par des objets de curiosités"**  
 Musée Le Secq des Tournelles
-
-
