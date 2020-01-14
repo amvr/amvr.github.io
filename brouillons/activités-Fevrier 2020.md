@@ -26,9 +26,9 @@ Auditorium du musée des Beaux-Arts
 **"Trompe l'oeil et cabinets de curiosités"**  
 Musée des Beaux-Arts
 
-**Samedi 11 janvier**  
+**Samedi 1 Février**  
 14h30 : _L'art de la Fresque_  
-**"Aux origines de la fresque: de Pompei à Saint-Savin"**  
+**"Lenduit de chaux : quand la lumière vient de l'intérieur (Les Tiépolo,Goya)"**  
 par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
 Auditorium du musée des Beaux-Arts
 
