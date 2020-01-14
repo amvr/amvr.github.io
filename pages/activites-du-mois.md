@@ -69,7 +69,6 @@ par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédagogue e
 Auditorium du musée des Beaux-Arts  
 .
 
-
 **Mardi 28janvier**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
 **"Transmission : le bouddhisme en Chine - les grottes de Dunhang (I.)"** (Ier-VIe siècle)  
@@ -83,19 +82,14 @@ Musée des Beaux-Arts
 
  
 
-
-
-
 **Jeudi 30 janvier**  
 15h et 16h30 :_Une heure au musée_  
 **"La violence, illustrée par des objets de curiosités"**  
 Musée Le Secq des Tournelles  
  
  
-**Samedi 1 Février**  
-15h et 16h30 :_Une heure au musée_  
-**"La violence, illustrée par des objets de curiosités"**  
-Musée Le Secq des Tournelles  
+ 
+
 
 ## Activités Février 2020  
 
