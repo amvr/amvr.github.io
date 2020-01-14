@@ -8,55 +8,6 @@ published: true
 
 ## Activités Janvier 2020  
 
-**Lundi 6 janvier**  
- 17h _Carthage de Didon à Salammbô_ :  
-**"Didon, la fondatrice , entre histoire et légende"**  
-conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
-Auditorium du musée des Beaux-Arts de Rouen
-
-
-
-
-**Mardi 7 janvier**  
-14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
-**"Le Bouddhisme en sa terre d'origine: le monde indien"** (VIe -Ve siècle av. J.C.)  
-par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
-Auditorium du musée des Beaux-Arts
-
-
-  
-
-**Jeudi 9 janvier**  
-15h et 16h30 :_Une heure au musée_  
-**"Trompe l'oeil et cabinets de curiosités"**  
-Musée des Beaux-Arts
-
-**Samedi 11 janvier**  
-14h30 : _L'art de la Fresque_  
-**"Aux origines de la fresque: de Pompei à Saint-Savin"**  
-par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédagogue et fondatrice de l'association (Paris Affresco)  
-Auditorium du musée des Beaux-Arts
-
-
-
-**Samedi 11 janvier**  
-15h et 16h30 :_Une heure au musée_  
-**"Trompe l'oeil et cabinets de curiosités"**  
-Musée des Beaux-Arts
-
-**Lundi 13 janvier**  
- 17h _Carthage de Didon à Salammbô_ :  
-**"Carthage , un "empire de la mer"**  
-conférence proposée par **Marie-Agnès Bennett**, chargée de cours à l'Université inter-âges de Paris 13
-Auditorium du musée des Beaux-Arts de Rouen
-
-**Lundi 13 janvier**  
-12h15 à 13h15 : _Midi Musée Musique_  
- Bernard Mathern, violon ; Axel Salmona, violoncelle_  
-**J.S.Bach** : 1ère et 2ème Suites pour violoncelle seul  
-**R.Glière** : 8 Miniatures pour violon et violoncelle  
-**G.Haendel/Halvorsen** : Passacaille  
-.
 
 
 
