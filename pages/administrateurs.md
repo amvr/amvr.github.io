@@ -9,4 +9,4 @@ published: true
  - **Trésorier**: Jacques Malétras
  - **Membres**: Yvette Autain,Michèle Baron, Marie-Agnes Bennett, Marie Christiane de La Conte, Anne Genevois, Sophie Guillouet, Marc Laurent,  Nicole Lepouzé, Marie-Claude Linskens,  Sophie Pouliquen, Charlotte Rousseau, Françoise Sauger.Patrick Vernier
 
-_Liste établie au CA du 26 Novembre 2019_
+_Liste établie au CA du 9 Janvier 2020_
