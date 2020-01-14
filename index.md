@@ -25,9 +25,30 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 - [Télécharger la brochure 2019-2020](/fichiers/plaquette-2019-2020.pdf) (format PDF)
 - [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## Flash Info  
+## Flash Info   
 
 
+**Attention**
+
+Le cycle  « A la découverte du Mont Saint Michel » débutera le vendredi 17 janvier 2020  
+à _**11h au lieu de 14h30**_
+
+
+**vendredi 17 janvier / 15h**  
+
+Itinéraire d’un collectionneur
+
+Rencontre avec Jean Claude Gandur
+
+
+Animée par Sylvain Amic, directeur de la Réunion des musées métropolitains
+
+et Bertrand Dumas, conservateur à la Fondation Gandur pour l’Art.
+
+
+Auditorium du Musée des Beaux-arts, Rouen
+
+ 
 
 ---  
 
