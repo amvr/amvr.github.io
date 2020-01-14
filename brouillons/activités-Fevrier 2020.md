@@ -67,10 +67,10 @@ Auditorium du musée des Beaux-Arts
 **"Pierre-Charles Simart (1806-1857): Oreste réfugié à l'autel de Pallas"**  
 Musée des Beaux-Arts  
 
-**Vendredi 17 janvier**
+**Vendredi 7 Février**
 14h30 et 17h : _A la découverte du Mont Saint Michel_  
-**"Les origines du Mont Saint Michel d'après les manuscrits d'Avranches"**  
-**_Pierre Bouët_** , Maitre de conférences honoraire de l'Université de Caen  
+**"L'Abbaye du Mont Saint Michel à l'époque gothique"**  
+**_Yves Gallet_** ,Professeur d'histoire de l'art à l'université Bordeaux-Montaigne 
 Auditorium du musée des Beaux-Arts de Rouen  
 
 
