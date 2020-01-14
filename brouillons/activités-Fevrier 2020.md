@@ -56,15 +56,15 @@ Auditorium du musée des Beaux-Arts de Rouen
 
 
 
-**Mardi 14 janvier**  
+**Mardi **  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
 **"Un héritage ouvert, en partage: l'Inde et le Gandhara"** (VIe siècle av. J.C.-Ve siècle ap. J.C.)  
 par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
 Auditorium du musée des Beaux-Arts
 
-**Mercredi 15 janvier**  
+**Mercredi 5 Février**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
-**"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
+**"Pierre-Charles Simart (1806-1857): Oreste réfugié à l'autel de Pallas"**  
 Musée des Beaux-Arts  
 
 **Vendredi 17 janvier**
