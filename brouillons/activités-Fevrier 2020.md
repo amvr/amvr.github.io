@@ -40,9 +40,14 @@ Auditorium du musée des Beaux-Arts
 **Mercredi 5 Février**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
 **"Pierre-Charles Simart (1806-1857): Oreste réfugié à l'autel de Pallas"**  
-Musée des Beaux-Arts  
+Musée des Beaux-Arts    
 
-**Vendredi 7 Février**
+
+**Jeudi 6 Février**  
+_Sorties_  
+**"Les Fresques du 20è siècle à Paris (palais de la Porte Dorée - Eglise de Deaumesnil ey/ou cathédrale de Nanterre"**
+
+**Vendredi 7 Février**  
 14h30 et 17h : _A la découverte du Mont Saint Michel_  
 **"L'Abbaye du Mont Saint Michel à l'époque gothique"**  
 **_Yves Gallet_** ,Professeur d'histoire de l'art à l'université Bordeaux-Montaigne 
