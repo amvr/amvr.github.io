@@ -56,9 +56,9 @@ Auditorium du musée des Beaux-Arts de Rouen
 
 
 
-**Mardi **  
+**Mardi 4 Février **  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
-**"Un héritage ouvert, en partage: l'Inde et le Gandhara"** (VIe siècle av. J.C.-Ve siècle ap. J.C.)  
+**"Acculturation : le Bouddhisme chinois - les grottes de Dunhang (II.)"** (VIIe siècle -XIIIe siècle)  
 par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet   
 Auditorium du musée des Beaux-Arts
 
