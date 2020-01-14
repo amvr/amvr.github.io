@@ -34,7 +34,7 @@ Musée des Beaux-Arts
 **Samedi 11 janvier**  
 14h30 : _L'art de la Fresque_  
 **"Aux origines de la fresque: de Pompei à Saint-Savin"**  
-par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédagogue et fondatrice de l'association (Paris Affresco)  
 Auditorium du musée des Beaux-Arts
 
 
@@ -83,7 +83,7 @@ Auditorium du musée des Beaux-Arts de Rouen
 **Samedi 18 janvier**  
 14h30 : _L'art de la Fresque_  
 **"Sous les parois enduites, l'esprit(Giotto,Théophane le grec, Roubiev, Fra Angelico"**  
-par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédagogue et fondatrice de l'association (Paris Affresco)  
 Auditorium du musée des Beaux-Arts
 
 
@@ -114,7 +114,7 @@ Auditorium du musée des Beaux-Arts de Rouen
 **Samedi 25 janvier**  
 14h30 : _L'art de la Fresque_  
 **"La fresque ou le sexe de l'architecture (masaccio,Miche-Ange,Carrache)"**  
-par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédagogue et fondatrice de l'association (Paris Affresco)  
 Auditorium du musée des Beaux-Arts  
 .
 
@@ -145,6 +145,3 @@ Musée Le Secq des Tournelles
 15h et 16h30 :_Une heure au musée_  
 **"La violence, illustrée par des objets de curiosités"**  
 Musée Le Secq des Tournelles
-
-  
-
