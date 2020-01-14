@@ -75,9 +75,10 @@ Auditorium du musée des Beaux-Arts de Rouen
 
 
 
-**Samedi 18 janvier**  
+**Samedi 8Février**  
 14h30 : _L'art de la Fresque_  
-**"Sous les parois enduites, l'esprit(Giotto,Théophane le grec, Roubiev, Fra Angelico"**  
+**"Paris, théatre du renouveau de la bonne et vraie fresque : l'art mural et l'art total au tournant du XXèsiècle.  
+Propagation de la fresque de Paris vers le continent américain"**  
 par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
 Auditorium du musée des Beaux-Arts
 
