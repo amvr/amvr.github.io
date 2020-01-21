@@ -4,9 +4,20 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
+- type: directory
+  path: brouillons
+  label: Brouillons
+  create: documents
+  match: "**/*"
+  templates:
+  - page
+- type: directory
+  path: pages
   label: Pages
   create: all
+  match: "**/*"
+  templates:
+  - page
 upload_dir: fichiers
 public_path: "/fichiers"
 front_matter_path: ''
