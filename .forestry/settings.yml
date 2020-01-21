@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _includes
+  label: Blocs
+  create: documents
+  match: "**/*"
+  templates:
+  - page
+- type: directory
   path: brouillons
   label: Brouillons
   create: documents
