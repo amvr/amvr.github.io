@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Titre
+pages:
+- pages/mars-2020.md
