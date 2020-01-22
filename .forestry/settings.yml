@@ -9,14 +9,14 @@ sections:
   label: index.md
 - type: directory
   path: pages
-  label: Pages
+  label: pages
   create: all
   match: "**/*"
   templates:
   - page
 - type: directory
   path: brouillons
-  label: Brouillons
+  label: brouillons
   create: documents
   match: "**/*"
   templates:
