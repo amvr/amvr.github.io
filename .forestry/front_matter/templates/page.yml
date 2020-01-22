@@ -8,5 +8,6 @@ fields:
     required: false
   label: Titre
 pages:
+- pages/jjklllm.md
 - pages/projet-2020.md
 - pages/test2.md
