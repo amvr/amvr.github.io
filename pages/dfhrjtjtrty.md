@@ -1,7 +1,0 @@
----
-title: dfhrjtjtrty
-
----
-grtjjjjnn
-
-ghhkl
