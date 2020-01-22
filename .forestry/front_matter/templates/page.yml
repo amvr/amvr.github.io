@@ -8,4 +8,5 @@ fields:
     required: false
   label: Titre
 pages:
+- pages/lknglk.md
 - pages/mars-2020.md
