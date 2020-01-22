@@ -1,8 +1,8 @@
 ---
 title: Une acquisition exceptionnelle
-published: true
----
+titre: Une acquisition exceptionnelle
 
+---
 Le 10 mai 2017.
 
 La RMM nous propose une action d’envergure : **co-financer un service royal offert par le roi Louis-Philippe à la reine Marie-Amélie en 1837**.
