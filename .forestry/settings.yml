@@ -5,9 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _includes
-  label: Blocs
-  create: documents
+  path: pages
+  label: Pages
+  create: all
   match: "**/*"
   templates:
   - page
@@ -19,9 +19,9 @@ sections:
   templates:
   - page
 - type: directory
-  path: pages
-  label: Pages
-  create: all
+  path: _includes
+  label: Blocs
+  create: documents
   match: "**/*"
   templates:
   - page
