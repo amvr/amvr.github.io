@@ -1,7 +1,7 @@
 ---
 title: Documentation
-
 ---
+
 ## Forestry
 
 * [https://app.forestry.io/sites](https://app.forestry.io/sites/ "https://app.forestry.io/sites/")
@@ -13,7 +13,7 @@ title: Documentation
 * Le dossier "pages" contient les pages du site et les sous-dossiers des pages Activités et Mécénat
 * Le dossier "brouillons" contient les pages en cours de rédaction
 * Le dossier "fichiers" contient les fichiers PDF, images, etc...
-* Le dossier "_includes" contient les menus haut et bas du site (de simples listes de liens)
+* Le dossier "\_includes" contient les menus haut et bas du site (de simples listes de liens)
 
 ## Actions sur les dossiers et fichiers
 
@@ -55,7 +55,8 @@ La hauteur importe peu.
 ## Lien vers un PDF
 
 - Media > Upload : ajouter le fichier
-- Dans la Page : créer un lien vers une URL comme **https://amis-musees-rouen.fr/fichiers/NOM_DU_FICHIER.pdf**
+- Dans la Page : créer un lien
+- URL comme : **https://amis-musees-rouen.fr/fichiers/NOM_DU_FICHIER.pdf**
 
 ## Nommage des fichiers
 
