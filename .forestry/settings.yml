@@ -15,13 +15,6 @@ sections:
   templates:
   - page
 - type: directory
-  path: brouillons
-  label: brouillons
-  create: documents
-  match: "**/*"
-  templates:
-  - page
-- type: directory
   path: _includes
   label: _includes
   create: documents
