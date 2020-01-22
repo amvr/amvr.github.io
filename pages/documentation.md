@@ -4,8 +4,8 @@ title: Documentation
 ---
 ## Forestry
 
-* [https://app.forestry.io/sites/](https://app.forestry.io/sites/ "https://app.forestry.io/sites/")
-* Se connecter grâce au compte Github
+* [https://app.forestry.io/sites](https://app.forestry.io/sites/ "https://app.forestry.io/sites/")
+* Se connecter grâce au compte [Github](https://github.com/login)
 
 ## Structure des dossiers et fichiers
 
