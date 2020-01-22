@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: index.md
-  label: Accueil
+  label: index.md
 - type: directory
   path: pages
   label: Pages
@@ -23,7 +23,7 @@ sections:
   - page
 - type: directory
   path: _includes
-  label: Blocs
+  label: _includes
   create: documents
   match: "**/*"
   templates:
