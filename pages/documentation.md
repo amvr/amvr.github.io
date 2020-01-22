@@ -34,7 +34,32 @@ Une nouvelle est toujours créé comme brouillon (_draft_). Afin de retirer cet 
 
 Pour enregistrer la page, **cliquer sur "Save"** en haut à droite.
 
-Le nommage des fichiers doit respecter ces règles :
+## Images
+
+Les images doivent être redimensionnées avant d'être envoyées.
+
+La largeur idéale (maximum) est de 600 pixels.  
+La hauteur importe peu.
+
+### Avec Paint
+
+- Icone Windows en bas à gauche > rechercher Paint (ou Paint 3D)
+- Fichier > Ouvrir
+- (Avec Paint 3D : cliquer sur Zone de dessin)
+- Redimensionner
+- Sélectionner **Pixels**
+- Horizontal : **600px** (maximum)
+- OK
+- Fichier > Enregistrer sous > JPEG
+
+## Lien vers un PDF
+
+- Media > Upload : ajouter le fichier
+- Dans la Page : créer un lien vers une URL comme **https://amis-musees-rouen.fr/fichiers/NOM_DU_FICHIER.pdf**
+
+## Nommage des fichiers
+
+Idéalement, le nommage des fichiers respecte ces règles :
 
 * Pas d'accent
 * Pas d'espace
@@ -45,12 +70,3 @@ Uniquement :
 * des lettres minuscules
 * des chiffres
 * des tirets (du 6 ou du 8)
-
-L'extension de fichier est ".md" pour [Markdown](https://fr.wikipedia.org/wiki/Markdown).
-
-## Images
-
-Les images doivent être redimensionnées avant d'être envoyées.
-
-La largeur idéale (maximum) est de 600 pixels.  
-La hauteur importe peu.
