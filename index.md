@@ -27,6 +27,18 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info
 
+➢  Quelques informations à noter pour la saison en cours -
+
+\-Cycle **« Les Jeudis de Port-Royal »** : deux horaires étaient initialement prévus (14h30 et 17h) pour ce cycle (6 conférences) qui se tiendra du 12 mars au 7 mai. Il n’y aura finalement qu’un seul horaire à 14h30.  
+
+\-Cycle **« Les grands collectionneurs »** : annoncé succinctement en page 6 de notre plaquette annuelle, en liaison avec l’exposition « Normandie impressionniste » qui commence le 3 avril, en voici le programme, mis en place avec les AMMD-SM :
+
+ * Mardi 5 mai : _La collection du cardinal Fesch_, par **Matteo Gianeselli,** conservateur du patrimoine, musée national de la renaissance, Ecouen. 
+
+\* Mardi 19 mai : _La collection du rouennais Gaston Le Breton,_ par **Caroline Dorion-Peyronnet**, conservateur en chef du patrimoine, département de la Seine-Maritime, et Guillaume Gohon, guide-conférencier.
+
+\* Mardi 26 mai : _La collection de François Depeaux_, par **Joanne Snrech**, conservatrice du patrimoine et commissaire de l’exposition « François Depeaux, l’homme aux 600 tableaux »
+
 ***
 
 Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé :**LIENS** de notre site
