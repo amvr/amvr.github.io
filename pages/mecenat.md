@@ -1,13 +1,15 @@
 ---
 title: Mécénat
-published: true
+
 ---
 Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
-La liste des oeuvres ainsi données à nos musées au titre du mécénat est importante...  
+La liste des oeuvres ainsi données à nos musées au titre du mécénat est importante...
 
 vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
 ## 2019
+
+La saison 2018/2019 s’est achevée avec l’achat, en juin, du « Trompe-l’œil illustrant un cabinet de curiosités » de Gabriel-Germain Joncherie (1790-1844), tableau qui figure sur notre carte de vœux 2020. Diverses demandes des conservateurs ont pu être satisfaites depuis :  • Un petit tableau de Henri Le Secq des Tournelles père, « Jeune fille italienne à la fontaine » (vers 1844-1848). • Une aquarelle de Henri Rochegrosse (1859-1938) sur le thème de Salammbô, comme les 3 autres acquises début 2019. • Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850) « Vivant-Denon replaçant dans son tombeau les ossements du Cid ». Pour l’achat de cette œuvre, l’association a bénéficié d’un don important de Jean-Claude Delauney.  • Une aquarelle de François-Etienne Villeret (1800-1866) « Rouen la cathédrale, le portail des libraires – 1834 » • Une gravure anonyme du XIXe siècle qui représente La place de la Pucelle. • Une œuvre de grand format de Georges Ribemont-Dessaignes (1884-1974), un artiste extrêmement rare : « L’Archer », datée sans doute de 1909 ou 1910, une toile colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur. Par ailleurs, en octobre nous avons contribué à lancer la souscription pour la restauration de la grande frise viking récemment acquise par la Réunion des Musées Métropolitains, « The skeleton in Armor ». Ce monumental cycle décoratif de Walter Crane, peint en 1883, trouvera sa place dans la collection Arts and Crafts du musée des Beaux-Arts. 
 
 ### Georges Rochegrosse (1859-1938)
 
@@ -28,33 +30,29 @@ C’est une œuvre étrange, d’esprit très moderne. Elle assemble des éléme
 Henri Le Secq père, peintre et photographe avait reçu une formation artistique à l'école des Beaux-Arts, d'abord avec un passage dans l'atelier de sculpture de James Pradier (1790-1852) en 1835, puis en tant qu'élève de Paul Delaroche (1797-1856).  
 Le musée Le Secq des Tournelles, musée des arts du fer, compte 16 000 objets environ, dont 9 600 venant du don initial fait par Henri-Jean Le Secq des Tournelles (1854-1925) en 1920, qui a mené à l'ouverture du musée en 1921. Cette fabuleuse collection avait été initiée vers 1862 par son père,  Jean-Louis Henri Le Secq Destournelles.
 
-## 2018  
- 
-1) Acquisition de **deux dessins de Georges Braque**, _[L'Arbre de Jessé](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html)_ 1962, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail _[Dominique marchant vers la sainteté](/pages/mecenat/2018-braque-dessin-st-dominique.html)_ 1956, pour la chapelle Saint Dominique de Varengeville, les deux dessins proviennent par voie successorale de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque 
+## 2018
 
-2) Participation et co-financement pour **"la nuit étudiante"**, chapitre 3, le jeudi 29 mars 2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional de Rouen, l'Université de Rouen, la Métropole :**_1310 visiteurs_** sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.  
-
-3) Acquisition d'un **tableau de Édouard Henri Théophile Pingret** signé et daté de 1830 : _[un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)](/pages/mecenat/2018-pingret-boieldieu.html)_. Cette oeuvre acquise en novembre 2018 est à l'honneur dans l'exposition actuelle "Elégantes et Dandys romantiques" aun MBA ,dans le cadre du temps des collections.
-
+1. Acquisition de **deux dessins de Georges Braque**, [_L'Arbre de Jessé_](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html) 1962, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail [_Dominique marchant vers la sainteté_](/pages/mecenat/2018-braque-dessin-st-dominique.html) 1956, pour la chapelle Saint Dominique de Varengeville, les deux dessins proviennent par voie successorale de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque
+2. Participation et co-financement pour **"la nuit étudiante"**, chapitre 3, le jeudi 29 mars 2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional de Rouen, l'Université de Rouen, la Métropole :**_1310 visiteurs_** sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.
+3. Acquisition d'un **tableau de Édouard Henri Théophile Pingret** signé et daté de 1830 : [_un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)_](/pages/mecenat/2018-pingret-boieldieu.html). Cette oeuvre acquise en novembre 2018 est à l'honneur dans l'exposition actuelle "Elégantes et Dandys romantiques" aun MBA ,dans le cadre du temps des collections.
 
 ## 2017
 
- Le mécénat 2016/2017 :  
- 1) **Une magnifique frise en ferronnerie du XVIIe siècle**  
- [Frise ferronnerie]({{site.baseurl}}/fichiers/Frise ferronnerie.jpg)
- a été offerte au musée Le Secq des Tournelles -  
- 
-2) **Participation et co-financement** (avec la Métropole, le Conservatoire la Fondation Flaubert, et les Zazimuts de la ville de Rouen) **de la 2e Nuit des Etudiants** le jeudi 6 avril 2017, qui a réuni 1620 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA : un vrai succès !  
+Le mécénat 2016/2017 :
 
-3) Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
-participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe à la Reine Marie-Amélie**:  
-[Service Royal](/pages/mecenat/2018-service-royal.html)
+1. **Une magnifique frise en ferronnerie du XVIIe siècle**  
+   [Frise ferronnerie]({{site.baseurl}}/fichiers/Frise ferronnerie.jpg)
+   a été offerte au musée Le Secq des Tournelles -
+2. **Participation et co-financement** (avec la Métropole, le Conservatoire la Fondation Flaubert, et les Zazimuts de la ville de Rouen) **de la 2e Nuit des Etudiants** le jeudi 6 avril 2017, qui a réuni 1620 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA : un vrai succès !
+3. Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
+   participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe à la Reine Marie-Amélie**:  
+   [Service Royal](/pages/mecenat/2018-service-royal.html)
 
 ## 2016
 
 Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d’une dame au chapeau noir »**, datant de 1787, dans son état d’origine (toile, chassis, cadre ovale, verre).  
 [Portrait d'une Dame au chapeau noir](/fichiers/oeuvres/2016-deshays-de-colleville.jpg)  
- Ce tableau a été restauré et est accroché au Musée des Beaux-Arts.  
+Ce tableau a été restauré et est accroché au Musée des Beaux-Arts.
 
 **Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillés de cuivre, ils faisaient partie de la fontaine monumentale érigée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.  
 [Restauration des réverbères](/fichiers/oeuvres/2016-reverbere.jpg)  
@@ -67,11 +65,11 @@ Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort e
 
 ## 2015
 
-[*Douze Rotoreliefs*](/pages/mecenat/2015-duchamp.html) de **Marcel Duchamp**, datant de 1953. Ces disques optiques recto-verso en couleurs de 20 cm de diamètre étaient destinés à être vus sur un phonographe tournant à 33 tours/minute. Ils viennent compléter le fonds des frères Duchamp que possède le Musée des Beaux-Arts, en vue de l’exposition prévue en 2018.
+[_Douze Rotoreliefs_](/pages/mecenat/2015-duchamp.html) de **Marcel Duchamp**, datant de 1953. Ces disques optiques recto-verso en couleurs de 20 cm de diamètre étaient destinés à être vus sur un phonographe tournant à 33 tours/minute. Ils viennent compléter le fonds des frères Duchamp que possède le Musée des Beaux-Arts, en vue de l’exposition prévue en 2018.
 
 ## 2014
 
-Acquisition du tableau [*Le Christ en croix*](/pages/mecenat/2014-sacquespee.html), d’**Adrien Sacquespée**, une figure capitale du milieu rouennais du XVIIe siècle, dont peu d’œuvres sont aujourd’hui connues.
+Acquisition du tableau [_Le Christ en croix_](/pages/mecenat/2014-sacquespee.html), d’**Adrien Sacquespée**, une figure capitale du milieu rouennais du XVIIe siècle, dont peu d’œuvres sont aujourd’hui connues.
 
 ## 2013
 
@@ -83,7 +81,7 @@ Acquisition du tableau [*Le Christ en croix*](/pages/mecenat/2014-sacquespee.htm
 
 ## 2012
 
-Impression du nouveau catalogue du Musée de la Céramique : [*Le biscuit et la glaçure*](/pages/mecenat/2012-le-biscuit-et-la-glacure.html).
+Impression du nouveau catalogue du Musée de la Céramique : [_Le biscuit et la glaçure_](/pages/mecenat/2012-le-biscuit-et-la-glacure.html).
 
 Acquisition d’un [petit tableau de Jacques Villon réalisé vers 1913](/pages/mecenat/2012-villon.html), qui représente un coin de l'atelier de son frère, le sculpteur Raymond Duchamp-Villon.
 
@@ -107,7 +105,7 @@ Acquisition d’un [vase en céramique](/pages/mecenat/2007-vase-galle.html) de 
 
 ## 2005/2006
 
-Acquisition de [*L’Ange exterminateur*](/pages/mecenat/2006-lemonnier.html), étude de **Gabriel Lemonnier** pour le tableau *La Peste de Milan*.
+Acquisition de [_L’Ange exterminateur_](/pages/mecenat/2006-lemonnier.html), étude de **Gabriel Lemonnier** pour le tableau _La Peste de Milan_.
 
 ## 2003/2004
 
@@ -115,7 +113,7 @@ Acquisition exceptionnelle d’un [buste de Vierge](/pages/mecenat/2003-buste-vi
 
 ## 2002
 
-Acquisition d’un [briquet-pistolet du XVIIIe siècle](/pages/mecenat/2002-briquet-pistolet.html) pour le musée Le Secq des Tournelles ; acquisition d’un dessin de **Charles Le Boulanger de Boisfremont** : *Boieldieu composant « la Dame blanche »*.
+Acquisition d’un [briquet-pistolet du XVIIIe siècle](/pages/mecenat/2002-briquet-pistolet.html) pour le musée Le Secq des Tournelles ; acquisition d’un dessin de **Charles Le Boulanger de Boisfremont** : _Boieldieu composant « la Dame blanche »_.
 
 ## 2001
 
@@ -123,7 +121,7 @@ Participation au Bicentenaire du musée (concert et réception).
 
 ## 2000
 
-Acquisition d’une aquarelle de **William Callow** : [*Vue de Rouen*](/pages/mecenat/2000-callow.html).
+Acquisition d’une aquarelle de **William Callow** : [_Vue de Rouen_](/pages/mecenat/2000-callow.html).
 
 ## 1999
 
@@ -141,7 +139,7 @@ Acquisition d’un [buste de bacchante](/pages/mecenat/1997-callamard.html) (ter
 
 ## 1995
 
-Organisation d’une souscription pour l’acquisition de deux bustes de **Pierre Chapelle**, [*Cérès*](/pages/mecenat/1995-buste-ceres.html) et [*Bacchus*](/pages/mecenat/1995-buste-bacchus.html), musée de la céramique.
+Organisation d’une souscription pour l’acquisition de deux bustes de **Pierre Chapelle**, [_Cérès_](/pages/mecenat/1995-buste-ceres.html) et [_Bacchus_](/pages/mecenat/1995-buste-bacchus.html), musée de la céramique.
 
 ## 1994
 
@@ -153,4 +151,4 @@ Restauration de la toile de **Puvis de Chavannes** (grand escalier du Musée des
 
 ## 1992
 
-Restauration du [bureau dit *Mazarin*](/pages/mecenat/1992-bureau-mazarin.html).
+Restauration du [bureau dit _Mazarin_](/pages/mecenat/1992-bureau-mazarin.html).
