@@ -33,7 +33,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 \-Cycle **« Les grands collectionneurs »** : annoncé succinctement en page 6 de notre plaquette annuelle, en liaison avec l’exposition « Normandie impressionniste » qui commence le 3 avril, en voici le programme, mis en place avec les AMMD-SM :
 
-* Mardi 5 mai : _La collection du cardinal Fesch_, par **Matteo Gianeselli,** conservateur du patrimoine, musée national de la renaissance, Ecouen.
+\* Mardi 5 mai : _La collection du cardinal Fesch_, par **Matteo Gianeselli,** conservateur du patrimoine, musée national de la renaissance, Ecouen.
 
 \* Mardi 19 mai : _La collection du rouennais Gaston Le Breton,_ par **Caroline Dorion-Peyronnet**, conservateur en chef du patrimoine, département de la Seine-Maritime, et Guillaume Gohon, guide-conférencier.
 
