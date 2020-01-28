@@ -16,6 +16,7 @@ Résumé de la saison 2018/2019
 *  Une gravure anonyme du XIXe siècle qui représente La place de la Pucelle. 
 *  Une œuvre de grand format de **Georges Ribemont-Dessaignes** (1884-1974), un artiste extrêmement rare :       **_« L’Archer »_**, datée sans doute de 1909 ou 1910, une toile colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
 *  Par ailleurs, en octobre nous avons contribué à lancer la souscription pour la restauration de la grande frise viking récemment acquise par la Réunion des Musées Métropolitains, **_« The skeleton in Armor »_**. Ce monumental cycle décoratif de **Walter Crane**, peint en 1883, trouvera sa place dans la collection Arts and Crafts du musée des Beaux-Arts.
+* et
 
 ### Georges Rochegrosse (1859-1938)
 
