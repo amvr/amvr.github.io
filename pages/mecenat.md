@@ -9,7 +9,13 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
 ## 2019
 
-La saison 2018/2019 s’est achevée avec l’achat, en juin, du « Trompe-l’œil illustrant un cabinet de curiosités » de Gabriel-Germain Joncherie (1790-1844), tableau qui figure sur notre carte de vœux 2020. Diverses demandes des conservateurs ont pu être satisfaites depuis :  • Un petit tableau de Henri Le Secq des Tournelles père, « Jeune fille italienne à la fontaine » (vers 1844-1848). • Une aquarelle de Henri Rochegrosse (1859-1938) sur le thème de Salammbô, comme les 3 autres acquises début 2019. • Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850) « Vivant-Denon replaçant dans son tombeau les ossements du Cid ». Pour l’achat de cette œuvre, l’association a bénéficié d’un don important de Jean-Claude Delauney.  • Une aquarelle de François-Etienne Villeret (1800-1866) « Rouen la cathédrale, le portail des libraires – 1834 » • Une gravure anonyme du XIXe siècle qui représente La place de la Pucelle. • Une œuvre de grand format de Georges Ribemont-Dessaignes (1884-1974), un artiste extrêmement rare : « L’Archer », datée sans doute de 1909 ou 1910, une toile colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur. Par ailleurs, en octobre nous avons contribué à lancer la souscription pour la restauration de la grande frise viking récemment acquise par la Réunion des Musées Métropolitains, « The skeleton in Armor ». Ce monumental cycle décoratif de Walter Crane, peint en 1883, trouvera sa place dans la collection Arts and Crafts du musée des Beaux-Arts. 
+Résumé de la saison 2018/2019 
+
+*  Une aquarelle d’**Alexandre-Evariste Fragonard** (1780-1850) **_« Vivant-Denon replaçant dans son tombeau les ossements du Cid »_**. Pour l’achat de cette œuvre, l’association a bénéficié d’un don important de Jean-Claude Delauney.
+*  Une aquarelle de **François-Etienne Villeret** (1800-1866)   « **_Rouen la cathédrale, le portail des libraires – 1834_** »
+*  Une gravure anonyme du XIXe siècle qui représente La place de la Pucelle. 
+*  Une œuvre de grand format de **Georges Ribemont-Dessaignes** (1884-1974), un artiste extrêmement rare :       **_« L’Archer »_**, datée sans doute de 1909 ou 1910, une toile colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
+*  Par ailleurs, en octobre nous avons contribué à lancer la souscription pour la restauration de la grande frise viking récemment acquise par la Réunion des Musées Métropolitains, **_« The skeleton in Armor »_**. Ce monumental cycle décoratif de **Walter Crane**, peint en 1883, trouvera sa place dans la collection Arts and Crafts du musée des Beaux-Arts.
 
 ### Georges Rochegrosse (1859-1938)
 
