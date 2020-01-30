@@ -27,9 +27,12 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info
 
+  
+**_La séance annulée d’initiation à l’histoire de l’art du mercredi 29 janvier est reportée au mercredi 11 mars_**, même horaires, même thème, même conférencier.
+
 ➢  Quelques informations à noter pour la saison en cours
 
- -Cycle **« Les Jeudis de Port-Royal »** : deux horaires étaient initialement prévus (14h30 et 17h) pour ce cycle (6 conférences) qui se tiendra du 12 mars au 7 mai. Il n’y aura finalement qu’un seul horaire à 14h30.
+\-Cycle **« Les Jeudis de Port-Royal »** : deux horaires étaient initialement prévus (14h30 et 17h) pour ce cycle (6 conférences) qui se tiendra du 12 mars au 7 mai. Il n’y aura finalement qu’un seul horaire à 14h30.
 
 \-Cycle **« Les grands collectionneurs »** : annoncé succinctement en page 6 de notre plaquette annuelle, en liaison avec l’exposition « Normandie impressionniste » qui commence le 3 avril, en voici le programme, mis en place avec les AMMD-SM :
 
