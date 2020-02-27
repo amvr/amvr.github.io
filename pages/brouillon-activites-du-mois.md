@@ -3,14 +3,7 @@ title: BROUILLON Activités du mois
 published: false
 
 ---
-## Activités Janvier 2020
-
-**Mardi 14 janvier**
-
-14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
-**"Un héritage ouvert, en partage: l'Inde et le Gandhara"** (VIe siècle av. J.C.-Ve siècle ap. J.C.)  
-par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet  
-Auditorium du musée des Beaux-Arts
+## Activités Mars 2020
 
 **Mercredi 18 mars**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
@@ -71,42 +64,155 @@ Musée des Beaux-Arts
 Musée des Beaux-Arts
 
 **Samedi 7 mars**  
-15h et 16h30 :_Une heure au musée_  
+15h et 16h30 : _Une heure au musée_  
 **"Les icônes : nouvelle présentation"**  
 Musée des Beaux-Arts
 
-**Samedi 1 Février**  
-14h30 : _L'art de la Fresque_  
-**"Lenduit de chaux : quand la lumière vient de l'intérieur (Les Tiépolo,Goya)"**  
-par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
+**Lundi 9 Mars**    
+
+12h15 : Salle du Jubé du musée des Beaux-Arts    
+
+**"Trio Jacob"**  
+
+Raphaël Jacob, violon; Jérémy Pasquier, alto; Sarah Jacob, violoncelle  
+
+**_Jean Françaix(1912-1997) trio à cordes_**  
+
+**_W.A.Mozart: Divertimento KV563_**   
+
+**Jeudi 12 mars**   
+
+14h30 et 17h : _les jeudis de Port-Royal_  
+
+**"Port-Royal et l'histoire, Port-Royal dans l'histoire"**  
+
+par **Laurence Plazenet**, professeur de littérature française du XVIIe siècle, présidente de la Société des Amis de Port-Royal  
+
+Auditorium du musée des Beaux-Arts    
+
+**Jeudi 19 mars**  
+
+14h30 et 17h : _les jeudis de Port-Royal_    
+
+**"Port-Royal et les images"**  
+
+par **Tony Gheeraert**, professeur de littérature françaisedu XVIIe siècle à l'université de Rouen  
+
+Auditorium du musée des Beaux-Arts    
+
+**Jeudi 26 mars**  
+
+14h30 et 17h : _les jeudis de Port-Royal_   
+
+**"Pascal :une pensée de Port-Royal"**  
+
+par **Laurence Plazenet**, professeur de littérature française du XVIIe siècle, présidente de la Société des Amis de Port-Royal  
+
+Auditorium du musée des Beaux-Arts    
+
+**Vendredi 20 mars**  
+
+14h30 : _Vendredi de la métropole_  
+
+**"Le Rouen de Maupassant - Maupassant à Rouen - Rouen dans l'oeuvre de Maupassant"**  
+
+Conférence lecture par l'association des Amis de Flaubert et Maupassant: Gilles Cléroux, Hubert Hangard, Mario Johnston, Yvan Leclerc et Guy Pessiot  
+
 Auditorium du musée des Beaux-Arts  
 
-**Lundi 9 Mars**  
+**Mardi 10 mars**
 
-12h15 :Auditorium ou Salle du Jubé du musée des Beaux-Arts  
+14h30 et 17h : _La Mésopotamie_  
 
-**"Trio Jacob"**
+**"La naissance de la civilisation au pays de Sumer: les cités-états archéologiques ; l'empire d'Akkad ; La renaissance sumérienne"**   
 
-**Mardi 4 Février**  
-14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
-**"Acculturation : le Bouddhisme chinois - les grottes de Dunhang (II.)"** (VIIe siècle -XIIIe siècle)  
-par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet  
-Auditorium du musée des Beaux-Arts
+par **Elisabeth Fontan** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
 
-**Mercredi 5 Février**  
-14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
-**"Pierre-Charles Simart (1806-1857): Oreste réfugié à l'autel de Pallas"**  
-Musée des Beaux-Arts
+Auditorium du musée des Beaux-Arts  
+
+**Mardi 17 mars**  
+
+14h30 et 17h : _La Mésopotamie_
+
+**"Le deuxième millénaire: l'expansion amorrite ; Hammurabi de Babylone ; le royaume du Mitanni,les dynasties kassites ; la naissance de l'Assyrie"**  
+
+par **Elisabeth Fontan** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.  
+
+Auditorium du musée des Beaux-Arts    
+
+**Mardi 24 mars**  
+
+14h30 et 17h : _La Mésopotamie_
+
+**"Les grands empires du 1er millénaire jusqu'a la victoire de Cyrus II le Grand(539 av J.C.), Assur et Babylone"**  
+
+par **Elisabeth Fontan** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.  
+
+Auditorium du musée des Beaux-Arts  
+
+**Samedi 21 Mars**   
+
+14h30 :  _Fin de siècle_  
+
+**"La décadence"**   
+
+par **Sophie Rochefort-Guillouet** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris  
+
+Auditorium du musée des Beaux-Arts   
+
+ **Samedi 28 Mars**   
+
+14h30 :  _Fin de siècle_  
+
+**"Le dandysme"**   
+
+par **Sophie Rochefort-Guillouet,** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris  
+
+Auditorium du musée des Beaux-Arts 
+
+   
 
 **Jeudi 6 Février**  
 _Sorties_  
-**"Les Fresques du 20è siècle à Paris (palais de la Porte Dorée - Eglise de Deaumesnil ey/ou cathédrale de Nanterre"**
+**"Les Fresques du 20è siècle à Paris (palais de la Porte Dorée - Eglise de Deaumesnil ey/ou cathédrale de Nanterre"**  
 
-**Vendredi 7 Février**  
+**Vendredi 6 mars**  
+
+  
 14h30 et 17h : _A la découverte du Mont Saint Michel_  
-**"L'Abbaye du Mont Saint Michel à l'époque gothique"**  
-**_Yves Gallet_** ,Professeur d'histoire de l'art à l'université Bordeaux-Montaigne
-Auditorium du musée des Beaux-Arts de Rouen
+
+  
+**"Le Mont dans la guerre de Cent Ans, une forteresse contre les Anglais"**  
+
+  
+par **_David Fiasson,_** attaché à l'université Grenoble-Alpes, doctorant en histoire médiévale  
+
+ Auditorium du musée des Beaux-Arts de Rouen  
+
+**Vendredi 13mars**  
+
+  
+14h30 et 17h : _A la découverte du Mont Saint Michel_  
+
+  
+**"L'histoire des prisons au Mont Saint Michel"**  
+
+  
+par **Sophie Rochefort-Guillouet,** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris    
+
+ Auditorium du musée des Beaux-Arts de Rouen   
+
+**Vendredi 27 mars**  
+
+14h30 et 17h : _A la découverte du Mont Saint Michel_  
+
+  
+**"Histoire de la restauration du monument et de son site"**  
+
+  
+par **Henry Decaens,** Professeur des Amis du Mont Saint Michel    
+
+ Auditorium du musée des Beaux-Arts de Rouen   
 
 **Samedi 8 Février**  
 14h30 : _L'art de la Fresque_  
