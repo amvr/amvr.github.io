@@ -12,9 +12,9 @@ published: false
 par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet  
 Auditorium du musée des Beaux-Arts
 
-**Mercredi 15 janvier**  
+**Mercredi 18 mars**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
-**"Pierre Puget: Hercule terrassant l'Hydre de Lerne"**  
+**"Raymond Duchamp-Villon(1876-1918):Le Cheval majeur"**  
 Musée des Beaux-Arts
 
 **Vendredi 17 janvier**
@@ -60,28 +60,32 @@ Auditorium du musée des Beaux-Arts
 par **Jacques Giès**,sinologue , docteur en histoire de l'art (Paris IV - Sorbonne), ancien président du Musée national des arts asiatiques Guimet  
 Auditorium du musée des Beaux-Arts
 
-**Mercredi 29 janvier**  
+**Mercredi 25 mars**  
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III  
-**"Antoine Etex (1808-1888): Le Tombeau de Géricault"**  
+**"Elmar Trenkwalder (né en 1959):WVZ n°182"**  
 Musée des Beaux-Arts
 
-**Jeudi 30 janvier**  
+**Jeudi 5 mars**  
 15h et 16h30 :_Une heure au musée_  
-**"La violence, illustrée par des objets de curiosités"**  
-Musée Le Secq des Tournelles
+**"Les icônes : nouvelle présentation"**  
+Musée des Beaux-Arts
 
-## Activités Février 2020
-
-**Samedi 1 Février**  
+**Samedi 7 mars**  
 15h et 16h30 :_Une heure au musée_  
-**"La violence, illustrée par des objets de curiosités"**  
-Musée Le Secq des Tournelles
+**"Les icônes : nouvelle présentation"**  
+Musée des Beaux-Arts
 
 **Samedi 1 Février**  
 14h30 : _L'art de la Fresque_  
 **"Lenduit de chaux : quand la lumière vient de l'intérieur (Les Tiépolo,Goya)"**  
 par **Isabelle Bonzom** fresquiste, historienne de l'art, auteur et pédaguogue et fondatrice de l'association (Paris Affresco)  
-Auditorium du musée des Beaux-Arts
+Auditorium du musée des Beaux-Arts  
+
+**Lundi 9 Mars**  
+
+12h15 :Auditorium ou Salle du Jubé du musée des Beaux-Arts  
+
+**"Trio Jacob"**
 
 **Mardi 4 Février**  
 14h30 et 17h : _Rayonnement culturel et religieux sur la route de la soie_  
