@@ -4,7 +4,7 @@ title: Activités du mois
 ---
 ## Activités Mars 2020
 
-**Jeudi 5 mars**
+**** Jeudi 5 mars**
 
 15h et 16h30 : _Une heure au musée_
 
@@ -12,7 +12,7 @@ title: Activités du mois
 
 Musée des Beaux-Arts
 
-**Vendredi 6 mars**
+**** Vendredi 6 mars**
 
 14h30 et 17h : _A la découverte du Mont Saint Michel_
 
@@ -22,7 +22,7 @@ par **_David Fiasson,_** attaché à l'université Grenoble-Alpes, doctorant en 
 
 Auditorium du musée des Beaux-Arts de Rouen
 
-**Samedi 7 mars**
+**** Samedi 7 mars**
 
 15h et 16h30 : _Une heure au musée_
 
@@ -30,7 +30,7 @@ Auditorium du musée des Beaux-Arts de Rouen
 
 Musée des Beaux-Arts
 
-**Lundi 9 Mars**
+**** Lundi 9 Mars**
 
 12h15 : Salle du Jubé du musée des Beaux-Arts
 
@@ -42,7 +42,7 @@ _Raphaël Jacob_, violon ; _Jérémy Pasquier_, alto ; _Sarah Jacob_, violoncell
 
 **_W.A.Mozart: Divertimento KV563_**
 
-**Mardi 10 mars**
+**** Mardi 10 mars**
 
 14h30 et 17h : _La Mésopotamie_
 
@@ -52,7 +52,7 @@ par **_Elisabeth Fontan_** conservateur en chef  honoraire , département des An
 
 Auditorium du musée des Beaux-Arts
 
-**Jeudi 12 mars**
+**** Jeudi 12 mars**
 
 14h30 et 17h : _les jeudis de Port-Royal_
 
@@ -62,7 +62,7 @@ par **_Laurence Plazenet_**, professeur de littérature française du XVIIe siè
 
 Auditorium du musée des Beaux-Arts
 
-**Vendredi 13mars**
+**** Vendredi 13mars**
 
 14h30 et 17h : _A la découverte du Mont Saint Michel_
 
@@ -72,7 +72,7 @@ par **Sophie Rochefort-Guillouet,** Professeurd'histoire comparée et d'histoire
 
 Auditorium du musée des Beaux-Arts de Rouen
 
-**Mardi 17 mars**
+**** Mardi 17 mars**
 
 14h30 et 17h : _La Mésopotamie_
 
@@ -82,7 +82,7 @@ par **_Elisabeth Fontan, _**conservateur en chef  honoraire , département des A
 
 Auditorium du musée des Beaux-Arts
 
-**Mercredi 18 mars**
+**** Mercredi 18 mars**
 
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III
 
@@ -90,7 +90,7 @@ Auditorium du musée des Beaux-Arts
 
 Musée des Beaux-Arts
 
-**Jeudi 19 mars**
+**** Jeudi 19 mars**
 
 14h30 et 17h : _les jeudis de Port-Royal_
 
@@ -100,7 +100,7 @@ par **_Tony Gheeraert_**, professeur de littérature françaisedu XVIIe siècle 
 
 Auditorium du musée des Beaux-Arts
 
-**Vendredi 20 mars**
+**** Vendredi 20 mars**
 
 14h30 : _Vendredi de la métropole_
 
@@ -110,7 +110,7 @@ Conférence lecture par l'association des Amis de Flaubert et Maupassant: Gilles
 
 Auditorium du musée des Beaux-Arts
 
-**Samedi 21 Mars**
+**** Samedi 21 Mars**
 
 14h30 :  _Fin de siècle_
 
@@ -120,7 +120,7 @@ par **_Sophie Rochefort-Guillouet_** Professeurd'histoire comparée et d'histoir
 
 Auditorium du musée des Beaux-Arts
 
-**Mardi 24 mars**
+**** Mardi 24 mars**
 
 14h30 et 17h : _La Mésopotamie_
 
@@ -130,7 +130,7 @@ par **_Elisabeth Fontan_** conservateur en chef  honoraire , département des An
 
 Auditorium du musée des Beaux-Arts
 
-**Mercredi 25 mars**
+**** Mercredi 25 mars**
 
 14h30 et 16h : _Initiation à l'Histoire de l'Art_ Cycle III
 
@@ -138,7 +138,7 @@ Auditorium du musée des Beaux-Arts
 
 Musée des Beaux-Arts
 
-**Jeudi 26 mars**
+**** Jeudi 26 mars**
 
 14h30 et 17h : _les jeudis de Port-Royal_
 
@@ -148,7 +148,7 @@ par **Laurence Plazenet**, professeur de littérature française du XVIIe siècl
 
 Auditorium du musée des Beaux-Arts
 
-**Vendredi 27 mars**
+**** Vendredi 27 mars**
 
 14h30 et 17h : _A la découverte du Mont Saint Michel_
 
@@ -158,7 +158,7 @@ par **_Henry Decaens_,** Professeur des Amis du Mont Saint Michel
 
 Auditorium du musée des Beaux-Arts de Rouen
 
-**Samedi 28 Mars**
+**** Samedi 28 Mars**
 
 14h30 :  _Fin de siècle_
 
