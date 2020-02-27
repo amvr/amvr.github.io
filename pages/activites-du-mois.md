@@ -6,7 +6,7 @@ title: Activités du mois
 
 **Jeudi 5 mars**
 
-15h et 16h30 :_Une heure au musée_
+15h et 16h30 : _Une heure au musée_
 
 **"Les icônes : nouvelle présentation"**
 
@@ -36,7 +36,7 @@ Musée des Beaux-Arts
 
 **"Trio Jacob"**
 
-Raphaël Jacob, violon; Jérémy Pasquier, alto; Sarah Jacob, violoncelle
+_Raphaël Jacob_, violon ; _Jérémy Pasquier_, alto ; _Sarah Jacob_, violoncelle
 
 **_Jean Françaix(1912-1997) trio à cordes_**
 
@@ -48,7 +48,7 @@ Raphaël Jacob, violon; Jérémy Pasquier, alto; Sarah Jacob, violoncelle
 
 **"La naissance de la civilisation au pays de Sumer: les cités-états archéologiques ; l'empire d'Akkad ; La renaissance sumérienne"**
 
-par **Elisabeth Fontan** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
+par **_Elisabeth Fontan_** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
 
 Auditorium du musée des Beaux-Arts
 
@@ -58,7 +58,7 @@ Auditorium du musée des Beaux-Arts
 
 **"Port-Royal et l'histoire, Port-Royal dans l'histoire"**
 
-par **Laurence Plazenet**, professeur de littérature française du XVIIe siècle, présidente de la Société des Amis de Port-Royal
+par **_Laurence Plazenet_**, professeur de littérature française du XVIIe siècle, présidente de la Société des Amis de Port-Royal
 
 Auditorium du musée des Beaux-Arts
 
@@ -78,7 +78,7 @@ Auditorium du musée des Beaux-Arts de Rouen
 
 **"Le deuxième millénaire: l'expansion amorrite ; Hammurabi de Babylone ; le royaume du Mitanni,les dynasties kassites ; la naissance de l'Assyrie"**
 
-par **Elisabeth Fontan** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
+par **_Elisabeth Fontan, _**conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
 
 Auditorium du musée des Beaux-Arts
 
@@ -96,7 +96,7 @@ Musée des Beaux-Arts
 
 **"Port-Royal et les images"**
 
-par **Tony Gheeraert**, professeur de littérature françaisedu XVIIe siècle à l'université de Rouen
+par **_Tony Gheeraert_**, professeur de littérature françaisedu XVIIe siècle à l'université de Rouen
 
 Auditorium du musée des Beaux-Arts
 
@@ -116,7 +116,7 @@ Auditorium du musée des Beaux-Arts
 
 **"La décadence"**
 
-par **Sophie Rochefort-Guillouet** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris
+par **_Sophie Rochefort-Guillouet_** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris
 
 Auditorium du musée des Beaux-Arts
 
@@ -126,7 +126,7 @@ Auditorium du musée des Beaux-Arts
 
 **"Les grands empires du 1er millénaire jusqu'a la victoire de Cyrus II le Grand(539 av J.C.), Assur et Babylone"**
 
-par **Elisabeth Fontan** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
+par **_Elisabeth Fontan_** conservateur en chef  honoraire , département des Antiquités Orientales , Musée du Louvre.
 
 Auditorium du musée des Beaux-Arts
 
@@ -154,7 +154,7 @@ Auditorium du musée des Beaux-Arts
 
 **"Histoire de la restauration du monument et de son site"**
 
-par **Henry Decaens,** Professeur des Amis du Mont Saint Michel
+par **_Henry Decaens_,** Professeur des Amis du Mont Saint Michel
 
 Auditorium du musée des Beaux-Arts de Rouen
 
@@ -164,6 +164,6 @@ Auditorium du musée des Beaux-Arts de Rouen
 
 **"Le dandysme"**
 
-par **Sophie Rochefort-Guillouet,** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris
+par **_Sophie Rochefort-Guillouet_,** Professeurd'histoire comparée et d'histoire de l'art à l'institut d'Etudes Politiques de Paris
 
 Auditorium du musée des Beaux-Arts
