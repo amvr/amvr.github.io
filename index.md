@@ -27,8 +27,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info
 
-  
-**_La séance annulée d’initiation à l’histoire de l’art du mercredi 29 janvier est reportée au mercredi 11 mars_**, même horaires, même thème, même conférencier.
+**Compte tenu de la situation (Coronavirus) présente dans tout le pays, nous avons décidé de reporter l’ensemble de nos activités (conférences, sorties, concerts et visites) jusqu’à fin avril**
 
 ➢  Quelques informations à noter pour la saison en cours
 
