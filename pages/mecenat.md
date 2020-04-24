@@ -47,53 +47,7 @@ Une magnifique frise en ferronnerie du XVIIe siècle a été offerte au musée L
 
 10 mai 2017 : sollicitée par la RMM et la métropole, notre association a lancé une souscription pour participer à l’achat du service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe à la Reine Marie-Amélie. Cette souscription a été un succès et 108 donateurs ont participé. Le service est aujourd’hui exposé au musée de la Céramique.
 
-## 2019
-
-Résumé de la saison 2018/2019
-
-* Une aquarelle d’**Alexandre-Evariste Fragonard** (1780-1850) **_« Vivant-Denon replaçant dans son tombeau les ossements du Cid »_**. Pour l’achat de cette œuvre, l’association a bénéficié d’un don important de Jean-Claude Delauney.
-* Une aquarelle de **François-Etienne Villeret** (1800-1866)   « **_Rouen la cathédrale, le portail des libraires – 1834_** »
-* Une gravure anonyme du XIXe siècle qui représente La place de la Pucelle.
-* Une œuvre de grand format de **Georges Ribemont-Dessaignes** (1884-1974), un artiste extrêmement rare :       **_« L’Archer »_**, datée sans doute de 1909 ou 1910, une toile colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
-* Par ailleurs, en octobre nous avons contribué à lancer la souscription pour la restauration de la grande frise viking récemment acquise par la Réunion des Musées Métropolitains, **_« The skeleton in Armor »_**. Ce monumental cycle décoratif de **Walter Crane**, peint en 1883, trouvera sa place dans la collection Arts and Crafts du musée des Beaux-Arts.
-* et
-
-### Georges Rochegrosse (1859-1938)
-
-Peintre, illustrateur et affichiste  
-Nous avons offert au musée des Beaux-Arts trois magnifiques gouaches préparatoires à une édition de luxe du roman de Flaubert Salammbô, parue en 1900 : [Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour](/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html), [La Bataille du Macar](/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [Carthage en joie](/pages/mecenat/2019-rochegrosse-carthage-en-joie.html).  
-Ces œuvres ont été acquises en vente publique à Paris le 12 février 2019.  
-Ces gouaches constitueront des pièces importantes de l’exposition Salammbô prévue en 2021 au musée des Beaux-Arts de Rouen, en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
-
-### Gabriel Germain Joncherie (vers 1790-après 1844)
-
-[Trompe-l’œil au cabinet de curiosités](/pages/mecenat/2019-joncherie-trompe-l-oeil.html), toile acquise le 12 mai 2019, à Doullens (Somme).  
-L’œuvre a rejoint un ensemble significatif de trompe-l’œil conservé au musée des Beaux-Arts  
-C’est une œuvre étrange, d’esprit très moderne. Elle assemble des éléments d’histoire naturelle, des objets du quotidien (bénitier domestique, lanterne, carte à jouer) et des œuvres et des outils empruntés à l’atelier du peintre. Elle porte la date de 1823. La collection Baderou comprend une autre toile de Joncherie, demeurée anonyme jusqu’à ce jour, mais que, par comparaison avec plusieurs compositions de notre artiste, les conservateurs du musée lui attribuent aujourd’hui : Le Chat et les chardonnerets.
-
-### Jean-Louis Henri Le Secq des Tournelles (1818-1882)
-
-[Jeune fille italienne à la fontaine](/pages/mecenat/2019-le-secq-des-tournelles-jeune-fille-italienne-a-la-fontaine.html) vers 1844-1848. Toile peinte à Rome. La signature est en bas à gauche.  Un tableau au sujet très gracieux. L'acquisition a été faite le jeudi 13 juin 2019  
-Henri Le Secq père, peintre et photographe avait reçu une formation artistique à l'école des Beaux-Arts, d'abord avec un passage dans l'atelier de sculpture de James Pradier (1790-1852) en 1835, puis en tant qu'élève de Paul Delaroche (1797-1856).  
-Le musée Le Secq des Tournelles, musée des arts du fer, compte 16 000 objets environ, dont 9 600 venant du don initial fait par Henri-Jean Le Secq des Tournelles (1854-1925) en 1920, qui a mené à l'ouverture du musée en 1921. Cette fabuleuse collection avait été initiée vers 1862 par son père,  Jean-Louis Henri Le Secq Destournelles.
-
-## 2018
-
-1. Acquisition de **deux dessins de Georges Braque**, [_L'Arbre de Jessé_](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html) 1962, projet de vitrail pour l'église Saint Valéry de Varengeville et l'esquisse préparatoire pour le vitrail [_Dominique marchant vers la sainteté_](/pages/mecenat/2018-braque-dessin-st-dominique.html) 1956, pour la chapelle Saint Dominique de Varengeville, les deux dessins proviennent par voie successorale de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque
-2. Participation et co-financement pour **"la nuit étudiante"**, chapitre 3, le jeudi 29 mars 2018 organisée avec le service des publics de la RMM et la ville de Rouen, le Cesar , le Concervatoire régional de Rouen, l'Université de Rouen, la Métropole :**_1310 visiteurs_** sont venus pour la musique, la danse, le théatre, les jeux et les médiations culturelles.
-3. Acquisition d'un **tableau de Édouard Henri Théophile Pingret** signé et daté de 1830 : [_un couple de musiciens (Adrien Boïeldieu et Jenny Philis-Bertin)_](/pages/mecenat/2018-pingret-boieldieu.html). Cette oeuvre acquise en novembre 2018 est à l'honneur dans l'exposition actuelle "Elégantes et Dandys romantiques" aun MBA ,dans le cadre du temps des collections.
-
-## 2017
-
-Le mécénat 2016/2017 :
-
-1. **Une magnifique frise en ferronnerie du XVIIe siècle**  
-   [Frise ferronnerie]({{site.baseurl}}/fichiers/Frise ferronnerie.jpg)
-   a été offerte au musée Le Secq des Tournelles -
-2. **Participation et co-financement** (avec la Métropole, le Conservatoire la Fondation Flaubert, et les Zazimuts de la ville de Rouen) **de la 2e Nuit des Etudiants** le jeudi 6 avril 2017, qui a réuni 1620 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA : un vrai succès !
-3. Sollicités par la RMM et la Métropole, nous avons lancé en juin **une souscription pour
-   participer à l’achat d’un service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe à la Reine Marie-Amélie**:  
-   [Service Royal](/pages/mecenat/2018-service-royal.html)
+1. 
 
 ## 2016
 
