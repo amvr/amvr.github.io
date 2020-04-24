@@ -7,46 +7,6 @@ La liste des oeuvres ainsi données à nos musées au titre du mécénat est imp
 
 vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
-**2019**
-
-Le 12 février 2019 : acquisition de trois gouaches de Georges Rochegrosse (1859-1938) : [_Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour_](https://amis-musees-rouen.fr/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html), [_La Bataille du Macar_](https://amis-musees-rouen.fr/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [_Carthage en joie_](https://amis-musees-rouen.fr/pages/mecenat/2019-rochegrosse-carthage-en-joie.html)_._ Ces gouaches sont des études préparatoires pour une édition de luxe du roman de Flaubert _Salammbô_, parue en 1900. En 2021, elles devraient constituer des pièces importantes de l’exposition Salammbô prévue au musée des Beaux-Arts de Rouen en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée de Rouen depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
-
-Jeudi 28 mars, participation à la _Nuit Etudiante_, chapitre 4, avec une participation active de 1641 étudiants dans le musée des Beaux-Arts. Nos partenaires ont renouvelé leur contribution. Parmi les activités, la Salsa a eu un grand succès dans la salle du jubé.
-
-12 mai 2019 : une toile du peintre Gabriel-Germain Joncherie (vers 1790 - après 1844), _Trompe-l'oeil au cabinet de curiosités_, signée et datée de 1823. Cette oeuvre a rejoint un ensemble significatif de trompe-l'oeil conservé au musée.
-
-Le 13 juin 2019 : acquisition d'une toile de Jean-Louis Henri Le Secq des Tournelles (1818-1882), [_Jeune fille italienne à la fontaine_](https://amis-musees-rouen.fr/pages/mecenat/2019-le-secq-des-tournelles-jeune-fille-italienne-a-la-fontaine.html), toile peinte vers 1844-1848 à Rome – un tableau au sujet très gracieux. Henri Le Secq père, fut peintre et photographe. Il est l'initiateur de la collection poursuivie par son fils Henri-Jean Le Secq des Tournelles (1854-1925) et offerte à la ville de Rouen, ce qui a mené à l'ouverture, en 1921 le musée des Arts du fer, musée Le Secq des Tournelles.
-
-Le 9 octobre 2019 : participation des Amis des Musées d'Art de Rouen à la souscription lancée par la Réunion des Musées Métropolitains, qui a obtenu 68 contributions pour la restauration de l'oeuvre monumentale de Walter Crane, _The Squeleton in armor_, achetée par la RMM. Ce monumental cycle décoratif, peint en 1883, trouvera sa place dans la collection _Arts and Crafts_ du musée des Beaux-Arts
-
-Le 24 octobre 2019, acquisition de plusieurs œuvres :
-
-Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), _Vivant-Denon replaçant dans son tombeau les ossements du Cid_. Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
-
-Une aquarelle de François-Etienne Villeret (1800-1866), _Rouen la cathédrale, le portail des libraires – 1834_.
-
-Une gravure anonyme du XIXe siècle représentant _La place de la Pucelle_.
-
-Le 10 décembre 2019 : une quatrième oeuvre de Rochegrosse, exécutée à l’aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l’édition de _Salammbô._
-
-Le 19 décembre 2019 : une toile de grand format de Georges Ribemont-Dessaignes (1884-1974), _L’Archer_, datée de 1909 ou 1910,. C’est une oeuvre colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
-
-**2018**
-
-Le 27 mars 2018, acquisition de deux dessins de Georges Braque : [_L'Arbre de Jessé_](https://amis-musees-rouen.fr/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html)_,_ 1962, projet de vitrail pour l'église Saint Valéry de Varengeville, et l'esquisse préparatoire pour le vitrail [_Dominique marchant vers la sainteté_](https://amis-musees-rouen.fr/pages/mecenat/2018-braque-dessin-st-dominique.html)_,_ 1956, pour la chapelle Saint Dominique de Varengeville. Ces deux dessins proviennent par voie successorale de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque.
-
-le jeudi 29 mars 2018 : participation à _La nuit étudiante_ , chapitre 3, organisée avec le service des publics de la RMM et la ville de Rouen, le CESAR, le Conservatoire régional de Rouen, l'Université de Rouen, la métropole. Plus de 1300 visiteurs sont répondu à l’invitation : musique et danse, théâtre, jeux et médiations culturelles au sein du musée.
-
-Le 10 octobre 2018, acquisition d'un tableau de Édouard Henri Théophile Pingret, daté de 1830 : [_un couple de musiciens, Adrien Boïeldieu et Jenny Philis-Bertin._](https://amis-musees-rouen.fr/pages/mecenat/2018-pingret-boieldieu.html) Cette oeuvre a été à l'honneur dans l'exposition, « Elégantes et Dandys romantiques au musée des Beaux-Arts » (Le temps des Collections 2018_2019). Elle est maintenant accrochée dans la salle consacrée à Boieldieu.
-
-**2017**
-
-Une magnifique frise en ferronnerie du XVIIe siècle a été offerte au musée Le Secq des Tournelles.
-
-6 avril 2017 : participation à la 2ème _Nuit des étudiants_, qui a réuni 1600 étudiants venus écouter de la musique, assister à du théâtre ou à des commentaires de médiation devant certaines œuvres du MBA. La soirée a été cofinancée par les AMAR, avec la métropole, le conservatoire, la Fondation Flaubert et les Zazimuts de la ville de Rouen.
-
-10 mai 2017 : sollicitée par la RMM et la métropole, notre association a lancé une souscription pour participer à l’achat du service à thé royal en porcelaine de Sèvres, offert par le Roi Louis-Philippe à la Reine Marie-Amélie. Cette souscription a été un succès et 108 donateurs ont participé. Le service est aujourd’hui exposé au musée de la Céramique.
-
 # 2019
 
 Le 12 février 2019 : acquisition de trois gouaches de Georges Rochegrosse (1859-1938) : [_Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour_](https://amis-musees-rouen.fr/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html), [_La Bataille du Macar_](https://amis-musees-rouen.fr/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [_Carthage en joie_](https://amis-musees-rouen.fr/pages/mecenat/2019-rochegrosse-carthage-en-joie.html)_._ Ces gouaches sont des études préparatoires pour une édition de luxe du roman de Flaubert _Salammbô_, parue en 1900. En 2021, elles devraient constituer des pièces importantes de l’exposition Salammbô prévue au musée des Beaux-Arts de Rouen en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée de Rouen depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
