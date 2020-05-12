@@ -29,6 +29,8 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 **Compte tenu de la situation (Coronavirus) présente dans tout le pays, nous avons décidé de reporter l’ensemble de nos activités (conférences, sorties, concerts et visites) jusqu’en Septembre**
 
+**Nous vous adresserons au mois de juin un dépliant dans lequel vous trouverez un bulletin d'adhésion à l’association** ainsi que les titres des principaux cycles de conférences que nous envisageons pour cette prochaine saison. Ce dépliant comportera aussi un rappel des actions de mécénat que nous avons réalisées dernièrement grâce à vous. **Nous serions heureux si vous nous renouveliez votre confiance en adhérant pour la prochaine saison dès que vous le recevrez.** **_La plaquette de la saison 2020-2021 vous sera adressée au mois de septembre._**
+
 ***
 
 Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé :**LIENS** de notre site
@@ -36,4 +38,4 @@ Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Norm
 À compter du 9 septembre 2019, près de **_70 000 objets et œuvres_** issus des collections des musées
 normands sont accessibles à tous de chez soi.
 
- En effet, **59 établissements**, membres du Réseau des musées de Normandie, ont décidé de mettre en ligne leurs collections dans un désir de diffusion et de partage des données. Elles sont accessibles sur le site [https://collections.musees-normandie.fr](https://collections.musees-normandie.fr "https://collections.musees-normandie.fr")
+En effet, **59 établissements**, membres du Réseau des musées de Normandie, ont décidé de mettre en ligne leurs collections dans un désir de diffusion et de partage des données. Elles sont accessibles sur le site [https://collections.musees-normandie.fr](https://collections.musees-normandie.fr "https://collections.musees-normandie.fr")
