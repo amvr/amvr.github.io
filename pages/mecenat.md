@@ -29,7 +29,7 @@ Une gravure anonyme du XIXe siècle représentant _La place de la Pucelle_.
 
 Le 10 décembre 2019 : une quatrième oeuvre de Rochegrosse, exécutée à l’aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l’édition de _Salammbô._
 
-Le 19 décembre 2019 : une toile de grand format de Georges Ribemont-Dessaignes (1884-1974), _L’Archer_, datée de 1909 ou 1910,. C’est une oeuvre colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
+Le 19 décembre 2019 : une toile de grand format de Georges Ribemont-Dessaignes (1884-1974), _L’Archer_, datée de 1909 ou 1910,.C’est une oeuvre colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
 
 ## 2018
 
