@@ -1,6 +1,6 @@
 ---
-title: La Gazette 2020
+title: Télécharger l'édition 2020
 published: false
 
 ---
-télécharger La Gazette 2020
+la-gazette-n-22.pdf
