@@ -1,6 +1,5 @@
 ---
 title: La Gazette
-published: false
 
 ---
 L’association AMVR publie cette année un bulletin conçu avec l’association des amis du Musée Malraux du Havre et les Amis du Musée de Caen.
