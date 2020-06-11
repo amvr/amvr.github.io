@@ -7,5 +7,3 @@ fields:
   config:
     required: false
   label: Titre
-pages:
-- pages/mecenat/l-archer.md
