@@ -7,5 +7,3 @@ fields:
   config:
     required: false
   label: Titre
-pages:
-- pages/la-gazette-2020.md
