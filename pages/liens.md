@@ -10,4 +10,4 @@ published: false
 * [Site musée des Beaux-Arts de Caen](http://mba.caen.fr)
 * [Fédération française des sociétés d'Amis de musées](http://www.amis-musees.fr)
 * [Les Collections du réseau des musées de Normandie](https://collections.musees-normandie.fr)
-* [http://www.lacoutureboussey.fr/lcb-mairie/index.php/fr/musee](http://www.lacoutureboussey.fr/lcb-mairie/index.php/fr/musee "Musée des instruments à vent")
+* [http://www.lacoutureboussey.fr/lcb-mairie/index.php/fr/musee](http://www.lacoutureboussey.fr/lcb-mairie/index.php/fr/musee "http://www.lacoutureboussey.fr/lcb-mairie/index.php/fr/musee")
