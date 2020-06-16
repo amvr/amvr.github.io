@@ -1,6 +1,5 @@
 ---
 title: Liens utiles
-published: false
 
 ---
 * [Site musées Rouen Normandie](http://musees-rouen-normandie.fr/fr)
