@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Titre
+pages:
+- pages/depliant-amar-pour-web.pdf/depliant.md
