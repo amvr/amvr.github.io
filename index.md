@@ -1,5 +1,6 @@
 ---
 title: Bienvenue
+published: false
 
 ---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
@@ -29,7 +30,9 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 **Compte tenu de la situation (Coronavirus) présente dans tout le pays, nous avons décidé de reporter l’ensemble de nos activités (conférences, sorties, concerts et visites) jusqu’en Septembre**
 
-**Nous vous adressons**[ **le depliant**]() **dans lequel vous trouverez un bulletin d'adhésion à l’association** ainsi que les titres des principaux cycles de conférences que nous envisageons pour cette prochaine saison. Ce dépliant comportera aussi un rappel des actions de mécénat que nous avons réalisées dernièrement grâce à vous. **Nous serions heureux si vous nous renouveliez votre confiance en adhérant pour la prochaine saison dès que vous le recevrez.** **_La plaquette de la saison 2020-2021 vous sera adressée au mois de septembre._**
+**Nous vous adressons**[ **le depliant**]() **dans lequel vous trouverez un bulletin d'adhésion à l’association** ainsi que les titres des principaux cycles de conférences que nous envisageons pour cette prochaine saison. Ce dépliant comportera aussi un rappel des actions de mécénat que nous avons réalisées dernièrement grâce à vous. **Nous serions heureux si vous nous renouveliez votre confiance en adhérant pour la prochaine saison dès que vous le recevrez.**
+
+ **_La plaquette de la saison 2020-2021 vous sera adressée au mois de septembre._**
 
 ***
 
