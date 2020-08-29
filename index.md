@@ -1,8 +1,7 @@
 ---
 title: Bienvenue
-published: true
----
 
+---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
 Nombre d'adhérents: **plus de _1000_ en 2017**.
@@ -30,7 +29,19 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 **Compte tenu de la situation (Coronavirus) présente dans tout le pays, nous avons décidé de reporter l’ensemble de nos activités (conférences, sorties, concerts et visites) jusqu’en Septembre**
 
-**Nous vous adressons**[ **le depliant**](/fichiers/depliant-amar-pour-web-1.pdf) **dans lequel vous trouverez un bulletin d'adhésion à l’association** ainsi que les titres des principaux cycles de conférences que nous envisageons pour cette prochaine saison. Ce dépliant comportera aussi un rappel des actions de mécénat que nous avons réalisées dernièrement grâce à vous. **Nous serions heureux si vous nous renouveliez votre confiance en adhérant pour la prochaine saison dès que vous le recevrez.**
+**_Comme nous l’espérions, nous avons le plaisir de vous confirmer que les conférences du cycle « Fin de siècle »_** sont reprogrammées sur le mois de septembre à 14h30 à l’auditorium du musée des beaux-arts.
+
+Voici donc le nouveau calendrier :
+
+Samedi 12 septembre : La décadence
+
+Samedi 19 septembre : Le dandysme
+
+Samedi 26 septembre : Les débuts de la publicité et l’art de l’affiche
+
+L’accès à l’auditorium nécessite le port du masque obligatoire.
+
+Seuls les adhérents inscrits à ce cycle pourront y assister.
 
 **_La plaquette de la saison 2020-2021 vous sera adressée au mois de septembre._**
 
