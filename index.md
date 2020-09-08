@@ -27,8 +27,6 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info
 
-**Compte tenu de la situation (Coronavirus) présente dans tout le pays, nous avons décidé de reporter l’ensemble de nos activités (conférences, sorties, concerts et visites) jusqu’en Septembre**
-
 **_Comme nous l’espérions, nous avons le plaisir de vous confirmer que les conférences du cycle « Fin de siècle »_** sont reprogrammées sur le mois de septembre à 14h30 à l’auditorium du musée des beaux-arts.
 
 Voici donc le nouveau calendrier :
@@ -42,8 +40,6 @@ Samedi 26 septembre : Les débuts de la publicité et l’art de l’affiche
 L’accès à l’auditorium nécessite le port du masque obligatoire.
 
 Seuls les adhérents inscrits à ce cycle pourront y assister.
-
-**_La plaquette de la saison 2020-2021 vous sera adressée au mois de septembre._**
 
 ***
 
