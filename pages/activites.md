@@ -6,7 +6,7 @@ published: true
 
 ## Programme
 
-[Télécharger le dépliant complet pour la saison 2019-2020](/fichiers/plaquette-2019-2020.pdf) (format PDF)
+[Télécharger le dépliant complet pour la saison 2020-2021](/fichiers/plaquette-2020-2021.pdf) (format PDF)
 
 ---
 
