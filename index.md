@@ -27,7 +27,51 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info
 
-**_Comme nous l’espérions, nous avons le plaisir de vous confirmer que les conférences du cycle « Fin de siècle »_** sont reprogrammées sur le mois de septembre à 14h30 à l’auditorium du musée des beaux-arts.
+**PROTOCOLE SANITAIRE pour ACCÉS A L’AUDITORIUM – COVID**
+
+**A LIRE TRÉS ATTENTIVEMENT**
+
+**Avant d’entrer dans l’auditorium :**
+
+1) **_3 personnes de l’association vous accueilleront_** :
+
+une à l’entrée du bâtiment, mise en place d’un serre-file.
+
+une au bureau d’accueil dans le couloir qui mène à l’auditorium pour contrôle des billets
+
+une à l’entrée de l’auditorium, qui vous placera par ordre d’arrivée.
+
+2) **_L’ordre de placement sera le suivant_** :
+
+les premiers rangs d’abord, puis successivement les rangs suivants
+
+Il ne doit pas y avoir plus de 10 personnes entre la porte d’entrée et l’auditorium. C’est dire qu’il est fortement conseillé d’arriver seulement avec 15 minutes d’avance. La file, au-delà de 10 personnes, sera à l’extérieur du bâtiment dans l’espace du serre-file et la distanciation d’un mètre devra être respectée. Merci de laisser la porte d’entrée dégagée.
+
+3) **_Gel obligatoire à l’entrée._**
+
+4) **_Masque obligatoire à l'entrée, et à garder pendant toute la conférence._**
+
+**Dans l’auditorium :**
+
+**_La jauge de l’auditorium est de 50 personnes individuelles,_** jusqu’à 60 personnes s‘il y a des couples ; étant entendu qu’un fauteuil vide séparera deux personnes présentes. : -
+
+L’ordre de placement sera le suivant : les premiers rangs d’abord, puis successivement les rangs suivants.
+
+**_Il n’y a plus de vestiaire_** : chacun garde son vêtement sur les genoux ou sur le siège voisin s’il est inoccupé.
+
+**_les tablettes ne devront plus être utilisées_**
+
+**Pour sortir de l’auditorium :**
+
+Les derniers rangs sortiront en premier et les premiers rangs seront les derniers à sortir ;
+
+Merci de suivre ces consignes pour préserver la santé de tous et rendre possible ces conférences.
+
+***
+
+***
+
+**_-Comme nous l’espérions, nous avons le plaisir de vous confirmer que les conférences du cycle « Fin de siècle »_** sont reprogrammées sur le mois de septembre à 14h30 à l’auditorium du musée des beaux-arts.
 
 Voici donc le nouveau calendrier :
 
