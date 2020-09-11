@@ -27,7 +27,9 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Flash Info
 
-**PROTOCOLE SANITAIRE pour ACCÉS A L’AUDITORIUM – COVID**
+## _PROTOCOLE SANITAIRE_
+
+ **pour ACCÉS A L’AUDITORIUM – COVID**
 
 **A LIRE TRÉS ATTENTIVEMENT**
 
