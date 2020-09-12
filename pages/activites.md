@@ -2,9 +2,7 @@
 title: Activités de la saison 2020-2021
 
 ---
-## Programme
-
-[Télécharger ](/fichiers/plaquette-2020-2021.pdf)la brochure 2020-2021 (format PDF)
+## télécharger la brochure 2020-2021 (format PDF)
 
 ***
 
