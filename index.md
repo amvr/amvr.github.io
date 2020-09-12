@@ -25,17 +25,17 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 * [Télécharger la brochure 2020-2021](/fichiers/plaquette-2020-2021.pdf) (format PDF)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## Flash Info
+## **Flash Info**
 
 ## _PROTOCOLE SANITAIRE_
 
- **pour ACCÉS A L’AUDITORIUM – COVID**
+**pour ACCÉS A L’AUDITORIUM – COVID**
 
 **A LIRE TRÉS ATTENTIVEMENT**
 
 **Avant d’entrer dans l’auditorium :**
 
-1) **_3 personnes de l’association vous accueilleront_** :
+1. **_3 personnes de l’association vous accueilleront_** :
 
 une à l’entrée du bâtiment, mise en place d’un serre-file.
 
@@ -43,15 +43,14 @@ une au bureau d’accueil dans le couloir qui mène à l’auditorium pour contr
 
 une à l’entrée de l’auditorium, qui vous placera par ordre d’arrivée.
 
-2) **_L’ordre de placement sera le suivant_** :
+1. **_L’ordre de placement sera le suivant_** :
 
 les premiers rangs d’abord, puis successivement les rangs suivants
 
 Il ne doit pas y avoir plus de 10 personnes entre la porte d’entrée et l’auditorium. C’est dire qu’il est fortement conseillé d’arriver seulement avec 15 minutes d’avance. La file, au-delà de 10 personnes, sera à l’extérieur du bâtiment dans l’espace du serre-file et la distanciation d’un mètre devra être respectée. Merci de laisser la porte d’entrée dégagée.
 
-3) **_Gel obligatoire à l’entrée._**
-
-4) **_Masque obligatoire à l'entrée, et à garder pendant toute la conférence._**
+1. **_Gel obligatoire à l’entrée._**
+2. **_Masque obligatoire à l'entrée, et à garder pendant toute la conférence._**
 
 **Dans l’auditorium :**
 
