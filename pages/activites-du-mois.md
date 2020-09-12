@@ -10,7 +10,7 @@ title: Activités du mois
 
 **Vendredis de la Métropole**   
 
-**_Le Rouen de Maupassant :_** _Maupassant à Rouen, Rouen dans l'oeuvre de Maupassant_   
+**_"Le Rouen de Maupassant" :_** _Maupassant à Rouen, Rouen dans l'oeuvre de Maupassant_   
 
 par l'association des Amis de Flaubert et Maupassant  
 
@@ -22,7 +22,7 @@ _Conférencier_ : M. Yvan Leclerc, _Lecteurs_ : Gilles Cléroux, Joël Dupressoi
 
 Cycle I : Chronologie  
 
-**_La Renaissance_**  
+**_"La Renaissance"_**  
 
 \-Samedi 10 octobre, 16h  
 
@@ -30,13 +30,13 @@ Cycle I : Chronologie
 
 Cycle I : Chronologie  
 
-**_La Renaissance_**    
+**_"La Renaissance"_**    
 
 \-Jeudi 1 octobre,15h et 16h30  
 
 **Une heure au Musée**
 
-**_François Depeaux : l'homme au 600 tableaux_**  
+**_"François Depeaux : l'homme au 600 tableaux"_**  
 
 Musée des Beaux-Arts
 
@@ -44,7 +44,7 @@ Musée des Beaux-Arts
 
 **Une heure au Musée**
 
-**_François Depeaux : l'homme au 600 tableaux_**  
+**_"François Depeaux : l'homme au 600 tableaux"_**  
 
 Musée des Beaux-Arts  
 
@@ -52,8 +52,14 @@ Musée des Beaux-Arts
 
 **Les Icônes, Images Sacrées de la Spiritualité orthodoxe**  
 
-**_Les Icônes : Histoire et signification_**  
+**_"Les Icônes : Histoire et signification"_**  
 
 par _Claire Grébille_ ,guide conférencière nationale  
 
-Auditorium du musée des Beaux-Arts.
+Auditorium du musée des Beaux-Arts.  
+
+\-Jeudi 15 octobre   
+
+**Sortie**  
+
+**_Bolbec : (Fresques de la chapelle Sainte Anne et Atelier musée du textile)_**
