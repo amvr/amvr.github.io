@@ -2,7 +2,7 @@
 title: Activités de la saison 2020-2021
 
 ---
-## La brochure 2020-2021  
+## La brochure 2020-2021
 
 * [Télécharger la brochure 2020-2021](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/plaquette-2020-2021.pdf) (format PDF)
 
@@ -11,8 +11,6 @@ title: Activités de la saison 2020-2021
 ***
 
 ## Voyages à venir
-
-* 
 
 **Voyage culturel au cœur de Rome**
 
