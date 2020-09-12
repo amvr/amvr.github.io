@@ -2,7 +2,9 @@
 title: Activités de la saison 2020-2021
 
 ---
-## télécharger la brochure 2020-2021 (format PDF)
+## La brochure 2020-2021  
+
+* [Télécharger la brochure 2020-2021](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/plaquette-2020-2021.pdf) (format PDF)
 
 ***
 
