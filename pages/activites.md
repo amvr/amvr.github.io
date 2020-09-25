@@ -8,6 +8,8 @@ title: Activités de la saison 2020-2021
 
 ***
 
+## Modalités d'inscription à nos activités
+
 Le 23 septembre 2020
 
 Chers Amis,
@@ -28,13 +30,13 @@ Cycle 1 (chronologique) – lundi 14h30 🗆 samedi 16h 🗆
 
 Cycle 2 (chefs d’œuvre du musée) – lundi 14h30 🗆 samedi 16h 🗆
 
-2) **_Une heure au musée (page 4)_** : vous avez été avertis que les 2 premières séances étaient exclusivement réservées aux adhérents qui avaient pris le forfait l’an dernier, et qui n’avaient pas eu les 2 dernières prestations pour cause de pandémie. Il reste donc 6 séances , numérotées de 3 à 8 en page 4, au prix de 30€ le forfait.
+1. **_Une heure au musée (page 4)_** : vous avez été avertis que les 2 premières séances étaient exclusivement réservées aux adhérents qui avaient pris le forfait l’an dernier, et qui n’avaient pas eu les 2 dernières prestations pour cause de pandémie. Il reste donc 6 séances , numérotées de 3 à 8 en page 4, au prix de 30€ le forfait.
 
 Merci de cocher votre choix : Jeudi 15h 🗆 Jeudi 16h30 🗆
 
 Samedi 15h 🗆 Samedi 16h30 🗆
 
-3) **_Cycles de conférences dans l’auditorium (50 personnes au lieu de 100)_** : 10 cycles de conférences dans l’auditorium sont programmés, **soit 67 conférences, dont certaines avec 2 horaires**…d’où l’impossibilité d’envisager de retenir sa place pour chaque conférence comme nous l’avions d’abord imaginé. Voici les deux cycles auxquels nous vous proposons de vous inscrire :
+1. **_Cycles de conférences dans l’auditorium (50 personnes au lieu de 100)_** : 10 cycles de conférences dans l’auditorium sont programmés, **soit 67 conférences, dont certaines avec 2 horaires**…d’où l’impossibilité d’envisager de retenir sa place pour chaque conférence comme nous l’avions d’abord imaginé. Voici les deux cycles auxquels nous vous proposons de vous inscrire :
 
 \- **le cycle « Art de l’icône » (page 10)** , qui commence le lundi 12 octobre, 6 conférences, au prix de 48€ le forfait. Deux horaires : 14h30 🗆 ou 17h 🗆
 
