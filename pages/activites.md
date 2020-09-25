@@ -1,5 +1,6 @@
 ---
 title: Activités de la saison 2020-2021
+published: false
 
 ---
 ## La brochure 2020-2021
