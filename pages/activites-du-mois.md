@@ -1,5 +1,6 @@
 ---
 title: Activités du mois
+published: false
 
 ---
 ## Activités du mois d'Octobre
