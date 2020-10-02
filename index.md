@@ -72,20 +72,6 @@ Merci de suivre ces consignes pour préserver la santé de tous et rendre possib
 
 ***
 
-**_-Comme nous l’espérions, nous avons le plaisir de vous confirmer que les conférences du cycle « Fin de siècle »_** sont reprogrammées sur le mois de septembre à 14h30 à l’auditorium du musée des beaux-arts.
-
-Voici donc le nouveau calendrier :
-
-Samedi 12 septembre : La décadence
-
-Samedi 19 septembre : Le dandysme
-
-Samedi 26 septembre : Les débuts de la publicité et l’art de l’affiche
-
-L’accès à l’auditorium nécessite le port du masque obligatoire.
-
-Seuls les adhérents inscrits à ce cycle pourront y assister.
-
 ***
 
 Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé :**LIENS** de notre site
