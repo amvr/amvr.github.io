@@ -73,10 +73,3 @@ Merci de suivre ces consignes pour préserver la santé de tous et rendre possib
 ***
 
 ***
-
-Nous vous invitons à visiter :**"Les Collections du Réseau des musées de Normandie"** que vous pouvez désormais découvrir en cliquant sur l'intitulé :**LIENS** de notre site
-
-À compter du 9 septembre 2019, près de **_70 000 objets et œuvres_** issus des collections des musées
-normands sont accessibles à tous de chez soi.
-
-En effet, **59 établissements**, membres du Réseau des musées de Normandie, ont décidé de mettre en ligne leurs collections dans un désir de diffusion et de partage des données. Elles sont accessibles sur le site [https://collections.musees-normandie.fr](https://collections.musees-normandie.fr "https://collections.musees-normandie.fr")
