@@ -169,7 +169,31 @@ Auditorium du Musée des Beaux-Arts
 
 **"La couleur primitive, nouvelle source des modernes"**  
 
-_Isabelle Bonzom,_ peintre et historienne de l'art , Spécialiste des liens entre technique et iconographie, elle a enseigné la chromatologie ( étude de l'art et de la science de la couleur)  
+_Isabelle Bonzom,_ peintre et historienne de l'art , Spécialiste des liens entre technique et iconographie, elle a enseigné la chromatologie ( étude de l'art et de la science de la couleur)   
+
+ Auditorium du Musée des Beaux-Arts   
+
+**§§**   Jeudi 12 Novembre à 14h30 et 17h  
+
+**_L'Art de la couleur, entre abstraction et incarnation_**
+
+**"L'incarnation par la couleur"**  
+
+_Isabelle Bonzom,_ peintre et historienne de l'art , Spécialiste des liens entre technique et iconographie, elle a enseigné la chromatologie ( étude de l'art et de la science de la couleur)   
+
+ Auditorium du Musée des Beaux-Arts   
+
+**§§**   Jeudi19 Novembre à 14h30 et 17h  
+
+**_L'Art de la couleur, entre abstraction et incarnation_**
+
+**"Couleur-Lumière, couleur charnelle "**  
+
+_Isabelle Bonzom,_ peintre et historienne de l'art , Spécialiste des liens entre technique et iconographie, elle a enseigné la chromatologie ( étude de l'art et de la science de la couleur)   
+
+ Auditorium du Musée des Beaux-Arts  
+
+§§  
 
       
 
