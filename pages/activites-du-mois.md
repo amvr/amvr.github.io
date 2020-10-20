@@ -193,8 +193,6 @@ _Isabelle Bonzom,_ peintre et historienne de l'art , Spécialiste des liens entr
 
  Auditorium du Musée des Beaux-Arts  
 
-§§  
-
       
 
 ****
