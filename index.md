@@ -28,9 +28,9 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## **Flash Info**
 
-> ## Le colloque "_Collectionner l’impressionnisme"_,  
+> ## Le colloque "_Collectionner l’impressionnisme"_,
 >
->  qui devait se dérouler en présentiel à l'auditorium du panorama XXL à Rouen les 12 et 13 novembre 2020, se tiendra finalement uniquement sur internet en deux volets
+> qui devait se dérouler en présentiel à l'auditorium du panorama XXL à Rouen les 12 et 13 novembre 2020, se tiendra finalement uniquement sur internet en deux volets
 >
 > \- Du **9 au 12 novembre**, les vidéos des interventions préalablement enregistrées par les intervenants seront **diffusées par sessions et librement accessibles  
 > sur le site officiel du colloque** [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
@@ -42,7 +42,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 >
 > Retrouvez tous les détails du programme et les modalités d'inscription sur le site internet [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
 
-###   _PROTOCOLE SANITAIRE_
+### _PROTOCOLE SANITAIRE_
 
 **pour ACCÉS A L’AUDITORIUM – COVID**
 
@@ -66,18 +66,6 @@ Il ne doit pas y avoir plus de 10 personnes entre la porte d’entrée et l’au
 
 1. **_Gel obligatoire à l’entrée._**
 2. **_Masque obligatoire à l'entrée, et à garder pendant toute la conférence._**
-
-**Dans l’auditorium :**
-
-**_La jauge de l’auditorium est de 50 personnes individuelles,_** jusqu’à 60 personnes s‘il y a des couples ; étant entendu qu’un fauteuil vide séparera deux personnes présentes. : -
-
-L’ordre de placement sera le suivant : les premiers rangs d’abord, puis successivement les rangs suivants.
-
-**_Il n’y a plus de vestiaire_** : chacun garde son vêtement sur les genoux ou sur le siège voisin s’il est inoccupé.
-
-**_les tablettes ne devront plus être utilisées_**
-
-**Pour sortir de l’auditorium :**
 
 Les derniers rangs sortiront en premier et les premiers rangs seront les derniers à sortir ;
 
