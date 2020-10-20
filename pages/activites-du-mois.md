@@ -97,11 +97,79 @@ Auditorium du Musée des Beaux-Arts
 
 **_Regard et cinéma - saison II_**  
 
-**"1939,1941 Etaler l'attention jusqu'à l'épuiser   -   Renoir et Welles"**     
+**"1939,1941  Etaler l'attention jusqu'à l'épuiser   -   Renoir et Welles."**     
 
 _Cédric de Veigy_, enseignant-chercheur spécialisé en photographie et cinéma
 
-Auditorium du Musée des Beaux-Arts
+Auditorium du Musée des Beaux-Arts    
+
+**§§** Vendredi 13 Novembre à 17h  
+
+**_Regard et cinéma - saison II_**  
+
+**"1953,1956  Disposer l'attention jusqu'à la personnifier  -  Mizoguchi."**     
+
+_Cédric de Veigy_, enseignant-chercheur spécialisé en photographie et cinéma
+
+Auditorium du Musée des Beaux-Arts  
+
+**§§** Vendredi 20 Novembre à 17h  
+
+**_Regard et cinéma - saison II_**  
+
+**"1954,1958,1960 Fétichiser l'attention jusqu'à la manipuler  -  Hitchcock. "**     
+
+_Cédric de Veigy_, enseignant-chercheur spécialisé en photographie et cinéma
+
+Auditorium du Musée des Beaux-Arts   
+
+**§§** Lundi 2 Novembre à 14h30 et 17h  
+
+**_Les Icônes, Images Sacrées de la Spiritualité orthodoxe_**  
+
+**"Technique et canons de l'icône"**  
+
+_Claire Grébille_ , guide conférencière nationale  
+
+Auditorium du Musée des Beaux-Arts     
+
+ **§§** Lundi 16 Novembre à 14h30 et 17h  
+
+**_Les Icônes, Images Sacrées de la Spiritualité orthodoxe_**  
+
+**"L'iconostase"**  
+
+_Claire Grébille_ , guide conférencière nationale  
+
+Auditorium du Musée des Beaux-Arts    
+
+**§§**  Lundi 23 Novembre à 17h  
+
+**_Femmes illustres de l'Antiquité_**   
+
+**"Courtisane ou savante ? quelle place pour la femme dans la Grèce antique"**   
+
+_Marie-Agnès Bennett,_ chargée de cours à l'université inter-âges de Paris 13  
+
+Auditorium du Musée des Beaux-Arts     
+
+**§§**  Lundi 30 Novembre à 17h  
+
+**_Femmes illustres de l'Antiquité_**   
+
+**"La vertu romaine au féminin"**   
+
+_Marie-Agnès Bennett,_ chargée de cours à l'université inter-âges de Paris 13  
+
+Auditorium du Musée des Beaux-Arts  
+
+**§§**   Jeudi 5 Novembre à 14h30 et 17h  
+
+**_L'Art de la couleur, entre abstraction et incarnation_**
+
+**"La couleur primitive, nouvelle source des modernes"**  
+
+_Isabelle Bonzom,_ peintre et historienne de l'art , Spécialiste des liens entre technique et iconographie, elle a enseigné la chromatologie ( étude de l'art et de la science de la couleur)  
 
       
 
