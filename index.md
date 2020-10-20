@@ -28,6 +28,18 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## **Flash Info**
 
+> Le colloque **_Collectionner l’impressionnisme_**, qui devait se dérouler en présentiel à l'auditorium du panorama XXL à Rouen les 12 et 13 novembre 2020, se tiendra finalement uniquement sur internet en deux volets
+>
+> \- Du **9 au 12 novembre**, les vidéos des interventions préalablement enregistrées par les intervenants seront **diffusées par sessions et librement accessibles  
+> sur le site officiel du colloque** [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
+>
+> Un forum de discussion sera ouvert en lien avec chaque session afin d’amorcer le débat scientifique.  
+> \- Le **vendredi 13 novembre, de 9h30 à 17h**, **quatre tables-rondes**, réunissant à distance les présidents et intervenants de chaque session, se succèderont **en direct sur internet**. Un _chat_ sera mis en place pour recueillir les questions des participants.
+>
+> Un lien de connexion aura été envoyé  la veille à tous les participants inscrits via le site [impressionnisme-recherche.net/inscription-colloque](http://impressionnisme-recherche.net/inscription-colloque)
+>
+> Retrouvez tous les détails du programme et les modalités d'inscription sur le site internet [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
+
 ### _PROTOCOLE SANITAIRE_
 
 **pour ACCÉS A L’AUDITORIUM – COVID**
