@@ -1,65 +1,62 @@
 ---
 title: Activités du mois
+published: false
 
 ---
 ## Activités du mois d'Octobre
 
 ***
 
-__***__ Vendredi 25 septembre, 14h30
+**§§**  Lundi 2 Novembre à 14h30
 
-**Vendredis de la Métropole**
+**_Initiation à l'Histoire de l'Art_**  Cycle I  
 
-**_"Le Rouen de Maupassant" :_** _Maupassant à Rouen, Rouen dans l'oeuvre de Maupassant_
+**"Le baroque et le classicisme"**  
 
-par l'association des Amis de Flaubert et Maupassant
+Musée des Beaux-Arts  
 
-_Conférencier_ : M. Yvan Leclerc, _Lecteurs_ : Gilles Cléroux, Joël Dupressoir, Hubert Hangard, Marlo Johnson, Françoise Mobihan et Guy Pessiot
+**§§** Samedi 7 Novembre à 16h  
 
-__***__ Lundi 5 octobre, 14h30
+**_Initiation à l'Histoire de l'Art_**  Cycle I  
 
-**Initiation à l'Histoire de l'Art**
+**"Le baroque et le classicisme"**  
 
-Cycle I : Chronologie
+Musée des Beaux-Arts 
 
-**_"La Renaissance"_**
+**§§**  Lundi 16 Novembre à 14h30
 
-__***__ Samedi 10 octobre, 16h
+**_Initiation à l'Histoire de l'Art_**  Cycle I  
 
-**Initiation à l'Histoire de l'Art**
+**"Le XVIIIe siècle français"**  
 
-Cycle I : Chronologie
+Musée des Beaux-Arts  
 
-**_"La Renaissance"_**
+ **§§** Samedi 21 Novembre à 16h  
 
-__***__ Jeudi 1 octobre,15h et 16h30
+**_Initiation à l'Histoire de l'Art_**  Cycle I  
 
-**Une heure au Musée**
+**"Le XVIIIe siècle français"**  
 
-**_"François Depeaux : l'homme au 600 tableaux"_**
+Musée des Beaux-Arts   
 
-Musée des Beaux-Arts
+  **§§**  Lundi 23 Novembre à 14h30
 
-__***__ Samedi 3 octobre, 14h30
+**_Initiation à l'Histoire de l'Art_**  Cycle I  
 
-**Une heure au Musée**
+**"Les grands mouvements du XIXe siècle"**  
 
-**_"François Depeaux : l'homme au 600 tableaux"_**
+Musée des Beaux-Arts  
 
-Musée des Beaux-Arts
+ **§§** Samedi 28 Novembre à 16h  
 
-__***__ Lundi 12 octobre 14h30 et 17h
+**_Initiation à l'Histoire de l'Art_**  Cycle I  
 
-**Les Icônes, Images Sacrées de la Spiritualité orthodoxe**
+**"Les grands mouvements du XIXe siècle"**  
 
-**_"Les Icônes : Histoire et signification"_**
+Musée des Beaux-Arts   
 
-par _Claire Grébille_ ,guide conférencière nationale
+      
 
-Auditorium du musée des Beaux-Arts.
+****
 
-__***__ Jeudi 15 octobre
-
-**Sortie**
-
-**_Bolbec : (Fresques de la chapelle Sainte Anne et Atelier musée du textile)_**
+***
