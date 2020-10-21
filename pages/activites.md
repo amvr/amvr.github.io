@@ -18,7 +18,7 @@ Comme vous l’imaginez, la gestion de nos activités est très complexe avec le
 
 Vous venez de recevoir notre brochure 2020/2021, et nous vous informons maintenant des modalités d’inscription. Pour garantir votre participation à nos activités, **nous vous proposons finalement de souscrire des forfaits pour chaque cycle, mais en vous les proposant au fur et à mesure.**
 
-Voici donc la 2e phase de notre campagne d’inscriptions à nos cycles.
+Voici donc la **_2e phase_** de notre campagne d’inscriptions à nos cycles.
 
 Cette fois, nous vous proposons de vous inscrire à nos 2 prochains cycles : **L’art de la couleur** (page 13 de notre brochure) qui propose 6 conférences à partir du 5 novembre ; et **Les femmes illustres de l’Antiquité** (page 12) 3 conférences à partir du 23 novembre, **en nous retournant par la Poste le bulletin ci-dessous à remplir.** __________________________________________________________________________________ **Bulletin d’inscription à renvoyer à : AMAR – Esplanade Marcel Duchamp – 76000 Rouen**
 
@@ -42,7 +42,7 @@ Merci de cocher votre choix Deux horaires : 14h30 🗆 ou 17h 🗆
 
 **_Attention : 50 personnes par conférence dans l’auditorium._**
 
-Voici la 3e phase de notre campagne d’inscriptions à nos cycles.
+Voici la **_3e phase_** de notre campagne d’inscriptions à nos cycles.
 
 Cette fois, nous vous proposons de vous inscrire à deux de nos prochaines activités :
 
@@ -66,7 +66,6 @@ Cette fois, nous vous proposons de vous inscrire à deux de nos prochaines activ
 
 🗆 **Je souhaite assister à la conférence du 27 novembre à 14h30 des Vendredis de la Métropole, sur le thème d’Hector Malot.**
 
-  
 _Pour le règlement, nous vous demanderons de nous apporter au début de la 1ère séance un chèque du montant du forfait choisi, déjà rempli et signé, à l’ordre des AMAR, en échange duquel nous vous remettrons votre carte pour l’ensemble du cycle._
 
 Aucun forfait réglé ne sera remboursable.
