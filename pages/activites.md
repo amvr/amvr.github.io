@@ -16,33 +16,17 @@ Chers Amis,
 
 Comme vous l’imaginez, la gestion de nos activités est très complexe avec les jauges limitées tant dans nos musées que dans l’auditorium, dans le contexte sanitaire actuel.
 
-Vous venez de recevoir notre brochure 2020/2021, et nous vous informons maintenant des modalités d’inscription. Pour garantir votre participation à nos activités, **nous vous proposons finalement de souscrire des forfaits pour chaque cycle, mais en vous les proposant au fur et à mesure. Voici nos premières propositions :**
+Vous venez de recevoir notre brochure 2020/2021, et nous vous informons maintenant des modalités d’inscription. Pour garantir votre participation à nos activités, **nous vous proposons finalement de souscrire des forfaits pour chaque cycle, mais en vous les proposant au fur et à mesure.** 
 
-**_1) Initiation à l’Histoire de l’Art (page 3) :_**
+Voici la 3e phase de notre campagne d’inscriptions à nos cycles.
 
-Les groupes acceptés dans nos musées sont dorénavant de **15 personnes maximum**.
+Cette fois, nous vous proposons de vous inscrire à deux de nos prochaines activités :
 
-Le prix du forfait de 5 visites-conférences est de 25€
+\- **Midi Musée Musique**, cycle qui comprend **5 concerts** annoncés en page 5 de notre brochure, à partir du 23 novembre, **en nous retournant par la Poste le bulletin ci-dessous à remplir avec votre chèque de 50 euros pour les 5 concerts et une enveloppe timbrée pour la réponse et pour vous envoyer votre carte de forfait.** Nous dépouillerons le courrier au fur et à mesure. Les concerts auront tous lieu au musée des Beaux-Arts, dans la salle du Jubé où nous pouvons accueillir 60 personnes avec un masque et en respectant la distance et les gestes barrières. Vous pouvez aussi venir au coup par coup et vous serez accueillis en fonction des disponibilités.
 
-Merci de cocher votre choix :
+\-Le prochain **Vendredi de la Métropole du 25 novembre à 14h30 consacré à Hector Malot (**page 6 de notre brochure) : la jauge de l’auditorium est limitée à 50 ou 60 personnes et nous devons partager les places entre les 3 associations organisatrices (les Amis d’Hector Malot, les AMMD et nous les AMAR) , nous ne pourrons donc inscrire que 19 personnes .
 
-Cycle 1 (chronologique) – lundi 14h30 🗆 samedi 16h 🗆
-
-Cycle 2 (chefs d’œuvre du musée) – lundi 14h30 🗆 samedi 16h 🗆
-
-1. **_Une heure au musée (page 4)_** : vous avez été avertis que les 2 premières séances étaient exclusivement réservées aux adhérents qui avaient pris le forfait l’an dernier, et qui n’avaient pas eu les 2 dernières prestations pour cause de pandémie. Il reste donc 6 séances , numérotées de 3 à 8 en page 4, au prix de 30€ le forfait.
-
-Merci de cocher votre choix : Jeudi 15h 🗆 Jeudi 16h30 🗆
-
-Samedi 15h 🗆 Samedi 16h30 🗆
-
-1. **_Cycles de conférences dans l’auditorium (50 personnes au lieu de 100)_** : 10 cycles de conférences dans l’auditorium sont programmés, **soit 67 conférences, dont certaines avec 2 horaires**…d’où l’impossibilité d’envisager de retenir sa place pour chaque conférence comme nous l’avions d’abord imaginé. Voici les deux cycles auxquels nous vous proposons de vous inscrire :
-
-\- **le cycle « Art de l’icône » (page 10)** , qui commence le lundi 12 octobre, 6 conférences, au prix de 48€ le forfait. Deux horaires : 14h30 🗆 ou 17h 🗆
-
-\- **le cycle « Regard et cinéma » (page 7)** , qui débute le vendredi 6 novembre, 6 conférences au prix de 48€ le forfait. Un seul horaire : 17h 🗆
-
-**Merci de nous faire part de votre choix le plus rapidement possible, par retour de mail plutôt que par téléphone (nous n’avons des permanences que 2 fois par semaine le lundi après-midi 15h à 17h et le mercredi 10h à midi, et notre répondeur est vite saturé) , ou par courrier, à déposer si possible dans notre boite à lettres. Nous vous dirons rapidement si vous êtes retenu.**
+**Merci de nous faire part de votre choix le plus rapidement possible, par  courrier, à déposer si possible dans notre boite à lettres. Nous vous dirons rapidement si vous êtes retenu.**
 
 _Pour le règlement, nous vous demanderons de nous apporter au début de la 1ère séance un chèque du montant du forfait choisi, déjà rempli et signé, à l’ordre des AMAR, en échange duquel nous vous remettrons votre carte pour l’ensemble du cycle._
 
