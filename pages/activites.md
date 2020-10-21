@@ -10,8 +10,6 @@ title: Activités de la saison 2020-2021
 
 ## Modalités d'inscription à nos activités
 
-Le 23 septembre 2020
-
 Chers Amis,
 
 Comme vous l’imaginez, la gestion de nos activités est très complexe avec les jauges limitées tant dans nos musées que dans l’auditorium, dans le contexte sanitaire actuel.
