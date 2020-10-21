@@ -16,7 +16,31 @@ Chers Amis,
 
 Comme vous l’imaginez, la gestion de nos activités est très complexe avec les jauges limitées tant dans nos musées que dans l’auditorium, dans le contexte sanitaire actuel.
 
-Vous venez de recevoir notre brochure 2020/2021, et nous vous informons maintenant des modalités d’inscription. Pour garantir votre participation à nos activités, **nous vous proposons finalement de souscrire des forfaits pour chaque cycle, mais en vous les proposant au fur et à mesure.** 
+Vous venez de recevoir notre brochure 2020/2021, et nous vous informons maintenant des modalités d’inscription. Pour garantir votre participation à nos activités, **nous vous proposons finalement de souscrire des forfaits pour chaque cycle, mais en vous les proposant au fur et à mesure.**
+
+Voici donc la 2e phase de notre campagne d’inscriptions à nos cycles.
+
+Cette fois, nous vous proposons de vous inscrire à nos 2 prochains cycles : **L’art de la couleur** (page 13 de notre brochure) qui propose 6 conférences à partir du 5 novembre ; et **Les femmes illustres de l’Antiquité** (page 12) 3 conférences à partir du 23 novembre, **en nous retournant par la Poste le bulletin ci-dessous à remplir.** __________________________________________________________________________________ **Bulletin d’inscription à renvoyer à : AMAR – Esplanade Marcel Duchamp – 76000 Rouen**
+
+**NOM :**
+
+**Prénom :**
+
+**Adresse :**
+
+**Téléphone :**
+
+**Adresse mail :**
+
+**Je souhaite prendre un forfait pour le(s) cycle(s) de conférences suivant(s) :**
+
+**_1- L’art de la couleur : 48€ le forfait de 6 conférences (brochure page 13) à partir du 5 novembre_**
+
+Merci de cocher votre choix Deux horaires : 14h30 🗆 ou 17h 🗆
+
+**_2 - Femmes illustres de l’Antiquité : 24€ le forfait de 3 conférences (page 12) à partir du 23 novembre :_** Attention un seul horaire à 17h 🗆
+
+**_Attention : 50 personnes par conférence dans l’auditorium._**
 
 Voici la 3e phase de notre campagne d’inscriptions à nos cycles.
 
@@ -28,6 +52,21 @@ Cette fois, nous vous proposons de vous inscrire à deux de nos prochaines activ
 
 **Merci de nous faire part de votre choix le plus rapidement possible, par  courrier, à déposer si possible dans notre boite à lettres. Nous vous dirons rapidement si vous êtes retenu.**
 
+**Bulletin d’inscription à renvoyer à : AMAR – Esplanade Marcel Duchamp – 76000 Rouen Et merci de joindre une enveloppe timbrée à votre adresse pour la réponse.**
+
+**NOM :**
+
+**Prénom :**
+
+**Adresse :**
+
+**Téléphone :**
+
+🗆 **Je souhaite prendre un forfait pour les 5 concerts de MIDI MUSEE MUSIQUE au prix de 50 euros. Je vous adresse sous de pli un chèque de 50€ à l’ordre des AMAR. Je recevrai en retour ma carte pour les 5 concerts qui se tiendront tous cette année dans la salle du Jubé au musée des Beaux-Arts.**
+
+🗆 **Je souhaite assister à la conférence du 27 novembre à 14h30 des Vendredis de la Métropole, sur le thème d’Hector Malot.**
+
+  
 _Pour le règlement, nous vous demanderons de nous apporter au début de la 1ère séance un chèque du montant du forfait choisi, déjà rempli et signé, à l’ordre des AMAR, en échange duquel nous vous remettrons votre carte pour l’ensemble du cycle._
 
 Aucun forfait réglé ne sera remboursable.
