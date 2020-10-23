@@ -76,6 +76,12 @@ Catherine Bastard, présidente
 
 ***
 
+## Activités du mois  
+
+[Consulter les activités du mois](/pages/activites-du-mois.html)
+
+***
+
 ## Voyages à venir
 
 **Voyage autour du thème de la fresque**
