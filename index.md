@@ -25,7 +25,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 * [Télécharger la brochure 2020-2021](/fichiers/plaquette-2020-2021.pdf) (format PDF)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## **Flash Info**
+## **Flashs Info**
 
 > ## Le colloque "_Collectionner l’impressionnisme"_,
 >
@@ -41,34 +41,31 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 >
 > Retrouvez tous les détails du programme et les modalités d'inscription sur le site internet [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
 
+ ---  
+
 ### _PROTOCOLE SANITAIRE_
 
-**pour ACCÉS A L’AUDITORIUM – COVID**
+**Lettre de notre présidente : Catherine BASTARD**
 
-**A LIRE TRÉS ATTENTIVEMENT**
+Le Vendredi 30 octobre 2020
 
-**Avant d’entrer dans l’auditorium :**
+Chers Amis,
 
-1. **_3 personnes de l’association vous accueilleront_** :
+Nous voici devant une nouvelle étape de confinement.
 
-une à l’entrée du bâtiment, mise en place d’un serre-file.
+La situation nous oblige à reporter une nouvelle fois tous les événements qui étaient programmés pour le mois de novembre et la sortie de décembre.
 
-une au bureau d’accueil dans le couloir qui mène à l’auditorium pour contrôle des billets
+Ces événements se produisent au moment même où vous êtes très nombreux à avoir adhéré de nouveau à l’association des Amis des musées d'Art de Rouen et à avoir choisi les activités que nous vous proposons.
 
-une à l’entrée de l’auditorium, qui vous placera par ordre d’arrivée.
+Dès que cela sera possible, en fonction des décisions gouvernementales, nous vous ferons savoir ce qu’il en est de la reprogrammation de nos visites, conférences, concerts et sorties.
 
-1. **_L’ordre de placement sera le suivant_** :
+Le bureau de l’association sera fermé pendant toute la durée du confinement, mais vous pouvez nous joindre, comme d’habitude, en laissant un message sur l’adresse mail de l’association ou sur notre répondeur téléphonique si vous n'avez pas internet.
 
-les premiers rangs d’abord, puis successivement les rangs suivants
+Enfin, notre assemblée générale annuelle (2020-2021) ne pourra pas se tenir le mardi 1er décembre, comme annoncé, elle est reportée au **mercredi 27 janvier 2021 à 17 heures, à l’auditorium.**
 
-Il ne doit pas y avoir plus de 10 personnes entre la porte d’entrée et l’auditorium. C’est dire qu’il est fortement conseillé d’arriver seulement avec 15 minutes d’avance. La file, au-delà de 10 personnes, sera à l’extérieur du bâtiment dans l’espace du serre-file et la distanciation d’un mètre devra être respectée. Merci de laisser la porte d’entrée dégagée.
+Je vous souhaite bon courage pour le confinement qui s’annonce et j’espère vous retrouver bientôt en bonne santé et désireux de partager notre intérêt et notre enthousiasme pour l’Art et les musées.
 
-1. **_Gel obligatoire à l’entrée._**
-2. **_Masque obligatoire à l'entrée, et à garder pendant toute la conférence._**
-
-Les derniers rangs sortiront en premier et les premiers rangs seront les derniers à sortir ;
-
-Merci de suivre ces consignes pour préserver la santé de tous et rendre possible ces conférences.
+Catherine Bastard
 
 ***
 
