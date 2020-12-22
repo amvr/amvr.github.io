@@ -1,5 +1,6 @@
 ---
 title: Bienvenue
+published: false
 
 ---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
@@ -31,6 +32,24 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ***
 
+#### Courrier du 21 Décembre 2020
+
+Chers Amis,
+
+Cette année difficile se termine et j’espère que vous vous portez bien. Vous avez été nombreux à ré-adhérer et à nous adresser des messages chaleureux ainsi que des dons. Soyez-en très vivement remerciés. Votre enthousiasme et votre soutien nous font chaud au cœur et nous incitent à poursuivre notre action d’accompagnement des musées d’Art.
+
+Avec les membres du conseil d’administration des AMAR, je tiens à vous souhaiter un heureux Noël et de bonnes fêtes de fin d’année.
+
+Notre activité sera suspendue du 22 décembre au 4 janvier 2021.
+
+Plusieurs cycles de conférences débuteront en janvier. Vous en avez été informés. Nous souhaitons vous y retrouver nombreux, soit à distance, soit dans l’auditorium, en fonction des décisions qu’imposera l’évolution de la situation sanitaire.
+
+Bien amicalement votre,
+
+Catherine Bastard
+
+Présidente AMAR
+
 ### _MESURES SANITAIRES_
 
 **Lettre de notre présidente : Catherine BASTARD**
@@ -56,20 +75,6 @@ Je vous souhaite bon courage pour le confinement qui s’annonce et j’espère 
 Catherine Bastard
 
 ***
-
-## Le colloque "_Collectionner l’impressionnisme"_,
-
-qui devait se dérouler en présentiel à l'auditorium du panorama XXL à Rouen les 12 et 13 novembre 2020, se tiendra finalement uniquement sur internet en deux volets
-
-\- Du **9 au 12 novembre**, les vidéos des interventions préalablement enregistrées par les intervenants seront **diffusées par sessions et librement accessibles  
-sur le site officiel du colloque** [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
-
-Un forum de discussion sera ouvert en lien avec chaque session afin d’amorcer le débat scientifique.  
-\- Le **vendredi 13 novembre, de 9h30 à 17h**, **quatre tables-rondes**, réunissant à distance les présidents et intervenants de chaque session, se succèderont **en direct sur internet**. Un _chat_ sera mis en place pour recueillir les questions des participants.
-
-Un lien de connexion aura été envoyé  la veille à tous les participants inscrits via le site [impressionnisme-recherche.net/inscription-colloque](http://impressionnisme-recherche.net/inscription-colloque)
-
-Retrouvez tous les détails du programme et les modalités d'inscription sur le site internet [impressionnisme-recherche.net](http://impressionnisme-recherche.net/)
 
 ***
 
