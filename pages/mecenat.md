@@ -7,6 +7,32 @@ La liste des oeuvres ainsi données à nos musées au titre du mécénat est imp
 
 vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
+## 2020
+
+Le 6 février 2020, don d'un grand dessin de Thomas Shotter Boys (1803-1874) signé et daté de 1836. C'est l'église Saint Laurent où sont exposées les collections du musée Le Secq des tournelles.
+
+/fichiers/eglise-st-laurent-thomas-shoter-boys-1836.jpg
+
+Le musée conserve des oeuvres d'art anglais et les Amis ont déjà participé à des acquisitions, notamment une grande aquarelle de William Callow.
+
+Le 3 mars 2020 acquisition d'un ouvrage de Gustave Flaubert, _Salammbô_, préface de Léon Hennique ; illustrations d’Eugène Champollion d’après Georges Rochegrosse Paris, A. Ferroud, 1900.
+
+Nous avons acquis, pour le musée des Beaux-Arts, l’édition illustrée du roman de Flaubert que les œuvres récemment offertes de Georges Rochegrosse ont servi à préparer. L'ouvrage précieux en deux tomes possède une belle reliure et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes adressées par Rochegrosse à l’aquafortiste.
+
+2020 est l'année du centenaire de la donation exceptionnelle de Henri le Secq, et le musée qui porte son nom a ouvert en 1921.
+
+Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
+
+\- Girouette en fer repoussé représentant un superbe griffon, du début du XVIIe, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
+
+/fichiers/griffon-23.JPG
+
+\- Un vestiaire de Ferdinand Marrou (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
+
+/fichiers/marrou-31.JPG
+
+. Notre association a fait don en 2013 d'une belle coupe. Et le musée s'enrichit lentement.
+
 # 2019
 
 Le 12 février 2019 : acquisition de trois gouaches de Georges Rochegrosse (1859-1938) : [_Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour_](/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html), [_La Bataille du Macar_](/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [_Carthage en joie_](/pages/mecenat/2019-rochegrosse-carthage-en-joie.html). Ces gouaches sont des études préparatoires pour une édition de luxe du roman de Flaubert _Salammbô_, parue en 1900. En 2021, elles devraient constituer des pièces importantes de l’exposition Salammbô prévue au musée des Beaux-Arts de Rouen en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée de Rouen depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
