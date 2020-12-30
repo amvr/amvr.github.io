@@ -11,7 +11,7 @@ vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
 Le 6 février 2020, don d'un grand dessin de Thomas Shotter Boys (1803-1874) signé et daté de 1836. C'est l'église Saint Laurent où sont exposées les collections du musée Le Secq des tournelles.
 
-/fichiers/eglise-st-laurent-thomas-shoter-boys-1836.jpg
+![](https://amis-musees-rouen.fr/fichiers/eglise-st-laurent-thomas-shoter-boys-1836.jpg)
 
 Le musée conserve des oeuvres d'art anglais et les Amis ont déjà participé à des acquisitions, notamment une grande aquarelle de William Callow.
 
@@ -25,11 +25,11 @@ Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
 
 \- Girouette en fer repoussé représentant un superbe griffon, du début du XVIIe, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
 
-/fichiers/griffon-23.JPG
+(https://amis-musees-rouen.fr/fichiers/griffon-23.jpg)
 
 \- Un vestiaire de Ferdinand Marrou (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
 
-/fichiers/marrou-31.JPG
+[https://amis-musees-rouen.fr/fichiers/marrou-31.JPG](https://amis-musees-rouen.fr/fichiers/marrou-31.JPG "https://amis-musees-rouen.fr/fichiers/marrou-31.JPG")
 
 . Notre association a fait don en 2013 d'une belle coupe. Et le musée s'enrichit lentement.
 
