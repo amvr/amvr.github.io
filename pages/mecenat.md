@@ -25,7 +25,7 @@ Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
 
 \- Girouette en fer repoussé représentant un superbe griffon, du début du XVIIe, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
 
-(https://amis-musees-rouen.fr/fichiers/griffon-23.jpg)
+https://amis-musees-rouen.fr/fichiers/griffon-23.JPG
 
 \- Un vestiaire de Ferdinand Marrou (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
 
