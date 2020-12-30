@@ -1,5 +1,6 @@
 ---
 title: Mécénat
+published: false
 
 ---
 Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
@@ -15,19 +16,19 @@ Le 6 février 2020, don d'un grand dessin de Thomas Shotter Boys (1803-1874) sig
 
 Le musée conserve des oeuvres d'art anglais et les Amis ont déjà participé à des acquisitions, notamment une grande aquarelle de William Callow.
 
-Le 3 mars 2020 acquisition d'un ouvrage de Gustave Flaubert, _Salammbô_, préface de Léon Hennique ; illustrations d’Eugène Champollion d’après Georges Rochegrosse Paris, A. Ferroud, 1900.
+Le 3 mars 2020 acquisition d'un ouvrage de **Gustave Flaubert,** **_Salammbô_**, préface de Léon Hennique ; illustrations d’Eugène Champollion d’après Georges Rochegrosse Paris, A. Ferroud, 1900.
 
-Nous avons acquis, pour le musée des Beaux-Arts, l’édition illustrée du roman de Flaubert que les œuvres récemment offertes de Georges Rochegrosse ont servi à préparer. L'ouvrage précieux en deux tomes possède une belle reliure et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes adressées par Rochegrosse à l’aquafortiste.
+Nous avons acquis, pour le musée des Beaux-Arts, l’**_édition illustrée du roman de Flaubert_** que les œuvres récemment offertes de Georges Rochegrosse ont servi à préparer. L'ouvrage précieux en deux tomes possède une belle reliure et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes adressées par Rochegrosse à l’aquafortiste.
 
 2020 est l'année du centenaire de la donation exceptionnelle de Henri le Secq, et le musée qui porte son nom a ouvert en 1921.
 
 Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
 
-\- Girouette en fer repoussé représentant un superbe griffon, du début du XVIIe, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
+\- **_Girouette_** en fer repoussé représentant un superbe **_griffon,_** **du début du XVIIe**, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
 
-https://amis-musees-rouen.fr/fichiers/griffon-23.JPG
+(https://amis-musees-rouen.fr/fichiers/griffon-23.JPG)
 
-\- Un vestiaire de Ferdinand Marrou (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
+\- **_Un vestiaire_** de **Ferdinand Marrou** (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
 
 [https://amis-musees-rouen.fr/fichiers/marrou-31.JPG](https://amis-musees-rouen.fr/fichiers/marrou-31.JPG "https://amis-musees-rouen.fr/fichiers/marrou-31.JPG")
 
