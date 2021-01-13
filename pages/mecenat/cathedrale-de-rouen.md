@@ -2,4 +2,4 @@
 title: portail des libraires -1834
 
 ---
-\[DA 3 vente Delaunay.pdf\][DA 3 vente Delaunay.pdf](file:///C:/Users/domar/Documents/DA%203%20vente%20Delaunay.pdf)
+[DA 3 vente Delaunay.pdf](file:///C:/Users/domar/Documents/DA%203%20vente%20Delaunay.pdf "Portail des libraires")
