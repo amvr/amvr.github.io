@@ -51,6 +51,8 @@ Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), _Vivant-Denon repla�
 
 Une aquarelle de François-Etienne Villeret (1800-1866), _Rouen la cathédrale, le portail des libraires – 1834_.
 
+/fichiers/2019-cath-de-rouen.doc
+
 Une gravure anonyme du XIXe siècle représentant _La place de la Pucelle_.
 
 Le 10 décembre 2019 : une quatrième oeuvre de Rochegrosse, exécutée à l’aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l’édition de _Salammbô._
