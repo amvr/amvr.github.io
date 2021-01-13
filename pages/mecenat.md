@@ -1,5 +1,6 @@
 ---
 title: Mécénat
+published: false
 
 ---
 Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
@@ -50,10 +51,6 @@ Le 24 octobre 2019, acquisition de plusieurs œuvres :
 Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), _Vivant-Denon replaçant dans son tombeau les ossements du Cid_. Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
 
 Une aquarelle de François-Etienne Villeret (1800-1866), _Rouen la cathédrale, le portail des libraires – 1834_.
-
-[https://docs.google.com/document/d/19veiy3F1DV4djYX1JhfZ-1AE1jTG4HzC/edit](https://docs.google.com/document/d/19veiy3F1DV4djYX1JhfZ-1AE1jTG4HzC/edit "https://docs.google.com/document/d/19veiy3F1DV4djYX1JhfZ-1AE1jTG4HzC/edit")
-
-[DA 3 vente Delaunay.pdf - Microsoft Word Online (live.com)](https://onedrive.live.com/view.aspx?cid=01A45933E4BFEB81&resid=01A45933E4BFEB81%2130592&canary=UOfmJBdiL09O%2BJswbw7ut04D6LyVhSQLP7fU8kaVtCI%3D8&ithint=%2Epdf&open=true&app=WordPdf "le portail des libraires - 1834")
 
 Une gravure anonyme du XIXe siècle représentant _La place de la Pucelle_.
 
