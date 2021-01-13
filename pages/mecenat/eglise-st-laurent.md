@@ -1,4 +1,0 @@
----
-title: Eglise St Laurent
-
----
