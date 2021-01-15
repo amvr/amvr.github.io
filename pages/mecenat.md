@@ -25,8 +25,6 @@ Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
 
 \- **_Girouette_** en fer repoussé représentant un superbe **_griffon,_** **du début du XVIIe**, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
 
-![Macintosh HD:Users:catherineb:Desktop:griffon 23.JPG](https://lh6.googleusercontent.com/PfoR7O03dE70WoiXa_riArByIPdck619myirjqIc3AQtP4T0rVwYDl9wxrPbpopZRsdrKisnU7vF8_TVAYlda-YLyWsV0msXcQ0lURh5v4vRPfRob2Vk8iRabWQKJ_innGlTz3Y "griffon" =421x265)
-
 **_Un vestiaire_** de **Ferdinand Marrou** (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
 
 [https://amis-musees-rouen.fr/fichiers/marrou-31.JPG](https://amis-musees-rouen.fr/fichiers/marrou-31.JPG "https://amis-musees-rouen.fr/fichiers/marrou-31.JPG")
@@ -47,11 +45,11 @@ Le 9 octobre 2019 : participation des Amis des Musées d'Art de Rouen à la sous
 
 Le 24 octobre 2019, acquisition de plusieurs œuvres :
 
-Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), _Vivant-Denon replaçant dans son tombeau les ossements du Cid_. Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
+Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), [_Vivant-Denon replaçant dans son tombeau les ossements du Cid_.]() Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
 
-Une aquarelle de François-Etienne Villeret (1800-1866), _Rouen la cathédrale, le portail des libraires – 1834_.
+Une aquarelle de François-Etienne Villeret (1800-1866), [_Rouen la cathédrale, le portail des libraires – 1834_.]()
 
-Une gravure anonyme du XIXe siècle représentant _La place de la Pucelle_
+Une gravure anonyme du XIXe siècle représentant la [_place de la Pucelle_]()
 
 Le 10 décembre 2019 : une quatrième oeuvre de Rochegrosse, exécutée à l’aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l’édition de _Salammbô._
 
