@@ -1,6 +1,5 @@
 ---
 title: Mécénat
-published: false
 
 ---
 Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
@@ -24,7 +23,7 @@ Nous avons acquis, pour le musée des Beaux-Arts, l’**_édition illustrée du 
 
 Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
 
-\- **_Girouette_** en fer repoussé représentant un superbe **_griffon,_** **du début du XVIIe**, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
+\- **_Girouette_** en fer repoussé représentant un superbe [**_griffon_**](/fichiers/griffon-231.jpg)**_,_** **du début du XVIIe**, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
 
 **_Un vestiaire_** de **Ferdinand Marrou** (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
 
