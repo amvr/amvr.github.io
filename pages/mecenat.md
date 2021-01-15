@@ -37,7 +37,7 @@ Le 12 février 2019 : acquisition de trois gouaches de Georges Rochegrosse (1859
 
 Jeudi 28 mars, participation à la _Nuit Etudiante_, chapitre 4, avec une participation active de 1641 étudiants dans le musée des Beaux-Arts. Nos partenaires ont renouvelé leur contribution. Parmi les activités, la Salsa a eu un grand succès dans la salle du jubé.
 
-12 mai 2019 : une toile du peintre Gabriel-Germain Joncherie (vers 1790 - après 1844), [_Trompe-l'oeil au cabinet de curiosités_,]() signée et datée de 1823. Cette oeuvre a rejoint un ensemble significatif de trompe-l'oeil conservé au musée.
+12 mai 2019 : une toile du peintre Gabriel-Germain Joncherie (vers 1790 - après 1844), [_Trompe-l'oeil au cabinet de curiosités_,](/fichiers/trompe-l-oeil-joncherie-2.jpg) signée et datée de 1823. Cette oeuvre a rejoint un ensemble significatif de trompe-l'oeil conservé au musée.
 
 Le 13 juin 2019 : acquisition d'une toile de Jean-Louis Henri Le Secq des Tournelles (1818-1882), [_Jeune fille italienne à la fontaine_](/pages/mecenat/2019-le-secq-des-tournelles-jeune-fille-italienne-a-la-fontaine.html), toile peinte vers 1844-1848 à Rome – un tableau au sujet très gracieux. Henri Le Secq père, fut peintre et photographe. Il est l'initiateur de la collection poursuivie par son fils Henri-Jean Le Secq des Tournelles (1854-1925) et offerte à la ville de Rouen, ce qui a mené à l'ouverture, en 1921 le musée des Arts du fer, musée Le Secq des Tournelles.
 
@@ -45,11 +45,11 @@ Le 9 octobre 2019 : participation des Amis des Musées d'Art de Rouen à la sous
 
 Le 24 octobre 2019, acquisition de plusieurs œuvres :
 
-Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), [_Vivant-Denon replaçant dans son tombeau les ossements du Cid_.]() Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
+Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), [_Vivant-Denon replaçant dans son tombeau les ossements du Cid_.](/fichiers/vivant-denon-replac-ant-les-ossements-du-cid.jpg) Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
 
-Une aquarelle de François-Etienne Villeret (1800-1866), [_Rouen la cathédrale, le portail des libraires – 1834_.]()
+Une aquarelle de François-Etienne Villeret (1800-1866), [_Rouen la cathédrale, le portail des libraires – 1834_.](/fichiers/cathe-udrele-de-rouen-portail-des-libraires.jpg)
 
-Une gravure anonyme du XIXe siècle représentant la [_place de la Pucelle_]()
+Une gravure anonyme du XIXe siècle représentant la [_place de la Pucelle_](/fichiers/place-de-la-pucelle.jpg)
 
 Le 10 décembre 2019 : une quatrième oeuvre de Rochegrosse, exécutée à l’aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l’édition de _Salammbô._
 
