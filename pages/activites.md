@@ -36,7 +36,7 @@ Catherine Bastard, présidente
 
 ## Activités du mois
 
-[Consulter les activités du mois](/pages/activites-du-mois.html)
+???
 
 ***
 
