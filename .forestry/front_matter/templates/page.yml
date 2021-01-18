@@ -8,6 +8,7 @@ fields:
     required: false
   label: Titre
 pages:
+- pages/activites-du-mois-d-aout-2019-au-31-juillet-2020.md
 - pages/depliant-amar-pour-web.pdf/depliant.md
 - pages/griffon.md
 - pages/mecenat/portail-des-libraires.md
