@@ -30,7 +30,7 @@ Catherine Bastard, présidente
 
 ## Bilan de la Saison 2019-2020
 
-[Consulter la présentation pour l'**AG**](/fichiers/_activites-2020-v3.pdf)
+[Consulter la présentation pour l'**AG**](/fichiers/_activites-2020-v3-1.pdf)
 
 ***
 
