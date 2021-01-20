@@ -2,7 +2,7 @@
 title: Bienvenue
 
 ---
-![](https://lh4.googleusercontent.com/zxJtwdUxDiWKrbof7DkU0vP42NDqKNw0L-WmH80tOB1oeRViNMqI9AdL-nOP95yiM6oDDsYdv9waH4DUztdVyOXZS7pLJZtkXyp01I-0ZEmLQSV9o0Xn9kTeMD3dV4iMdyB7e6Sj =304x109)
+![](https://lh4.googleusercontent.com/zxJtwdUxDiWKrbof7DkU0vP42NDqKNw0L-WmH80tOB1oeRViNMqI9AdL-nOP95yiM6oDDsYdv9waH4DUztdVyOXZS7pLJZtkXyp01I-0ZEmLQSV9o0Xn9kTeMD3dV4iMdyB7e6Sj "logo " =304x109)
 
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
