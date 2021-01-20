@@ -2,8 +2,7 @@
 title: Bienvenue
 
 ---
-
-![AMAR](https://lh4.googleusercontent.com/zxJtwdUxDiWKrbof7DkU0vP42NDqKNw0L-WmH80tOB1oeRViNMqI9AdL-nOP95yiM6oDDsYdv9waH4DUztdVyOXZS7pLJZtkXyp01I-0ZEmLQSV9o0Xn9kTeMD3dV4iMdyB7e6Sj "logo ")  
+![AMAR](https://lh4.googleusercontent.com/zxJtwdUxDiWKrbof7DkU0vP42NDqKNw0L-WmH80tOB1oeRViNMqI9AdL-nOP95yiM6oDDsYdv9waH4DUztdVyOXZS7pLJZtkXyp01I-0ZEmLQSV9o0Xn9kTeMD3dV4iMdyB7e6Sj "logo " =304x109)
 
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
@@ -70,7 +69,7 @@ Dès que cela sera possible, en fonction des décisions gouvernementales, nous v
 
 Le bureau de l’association sera fermé pendant toute la durée du confinement, mais vous pouvez nous joindre, comme d’habitude, en laissant un message sur l’adresse mail de l’association ou sur notre répondeur téléphonique si vous n'avez pas internet.
 
-Enfin, notre assemblée générale annuelle (2020-2021) ne pourra pas se tenir le mardi 1er décembre, comme annoncé, elle est reportée au **mercredi 27 janvier 2021 à 17 heures, à l’auditorium.**
+Enfin, notre assemblée générale annuelle (2020-2021) ne pourra pas se tenir le mardi 1er décembre, comme annoncé, elle est reportée au **mercredi 27 janvier 2021 à 17 heures, avec vote par correspondance (**mesures sanitaires obligent)
 
 Je vous souhaite bon courage pour le confinement qui s’annonce et j’espère vous retrouver bientôt en bonne santé et désireux de partager notre intérêt et notre enthousiasme pour l’Art et les musées.
 
