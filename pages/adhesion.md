@@ -1,5 +1,6 @@
 ---
 title: Adhérer à l'association
+published: false
 
 ---
 Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
@@ -36,5 +37,5 @@ En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collecti
 * Les visites commentées par les conférenciers des musées
 * Les conférences d’initiation à l’histoire de l’art
 * Les concerts Midi Musée Musique
-* Les sorties dans les grandes expositions à Paris et en région
+* Visiter le musée des Impressionnistes de Giverny
 * 5% de réduction à la librairie du musée des Beaux-Arts
