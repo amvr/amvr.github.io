@@ -1,6 +1,5 @@
 ---
 title: Bienvenue
-published: false
 
 ---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
@@ -47,6 +46,13 @@ En avant première, en attente de la brochure papier que vous recevrez fin Août
 * **"Destruction et création artistique"** par Sophie Rochefort-Guillouet
 
 Vous retrouverez aussi **"l'initiation à l'histoire de l'art"** et les visites de **"une heure au Musée".**
+
+#### _Voyages à venir_
+
+* Le **Mont St Michel** prévu au printemps prochain
+* **Rome**   _prévu du 11 au 15 octobre 2021_ 
+
+  thème : "au coeur de Rome - autour du baroque"
 
 ***
 
