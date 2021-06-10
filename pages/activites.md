@@ -42,10 +42,10 @@ Catherine Bastard, présidente
 
 ## Voyages à venir
 
-**Voyage autour du thème de la fresque**
+#### Escapade au Mont Saint Michel
 
-* Poitiers, Saint Savin et la vallée des fresques _plus grand ensemble de peintures murales d’Europe  XIe et XIIe siècle_:  **_est prévu du 16 au 18 mars 2021_**.
+3 jours/2 nuits , _suite au cycle proposé en page 12 du programme 2019-2020  **est prévu  au printemps 2022**_
 
-**Escapade au Mont Saint Michel**
+#### Rome
 
-* 3 jours/2 nuits , _suite au cycle proposé en page 12 du programme 2019-2020 **est prévu  du 31 mars au 2 avril 2021**_
+"Au coeur de Rome - autour  du baroque" prévu du **_11 au 15 octobre 2021_** 
