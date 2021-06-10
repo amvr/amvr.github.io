@@ -29,6 +29,22 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## **Flashs Info**
 
+En avant première, en attente de la brochure papier que vous recevrez fin Août-début Septembre, voici les titres des cycles des conférences prévues pour la saison 2021-2022
+
+* **Vendredis de la Métropole** (avec les AMMD-SM)
+* **Regard et cinéma** - saison 2 par Cédric de Veigy
+* **La Mésopotamie** - 3è cycle par Elisabeth Fontan
+* **Comprendre la peinture abstraite** par Claire Grébille
+* **Femmes illustres de l'Antiquité** par Marie-Agnès Bennett
+* **Cirque et Saltimbanques**
+* **L'art américain à la conquête de l'espace** par Isabelle Bonzom
+* **Hector Berlioz, grandeur et servitude du génie** par Eric Bennett
+* **Les grandes tapisseries françaises**
+* **Les Phéniciens** par Elisabeth Fontan
+* **Destruction et création artistique** par Sophie Rochefort-Guillouet
+
+Vous retrouverez aussi "l'initiation à l'histoire de l'art" et les visites de "une heure au Musée".
+
 ***
 
 ***
