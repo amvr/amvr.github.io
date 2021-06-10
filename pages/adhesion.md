@@ -9,9 +9,12 @@ Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
 * [Musée de la ferronnerie](http://museelesecqdestournelles.fr/fr)
 * Musée des Antiquités
 * Musée d'Histoires Naturelles
-* Musée Pierre Corneille
+* Musée Pierre Corneille (Petit Couronne)
 * Musée de la Corderie Valois (Notre Dame de Bondeville)
 * Fabrique des Savoirs (Elbeuf)
+* Musée Flaubert et l'histoire de la médecine
+* Maison natale Pierre Corneille (rue de la pie)
+* Pavillon Flaubert à Croisset
 
 Pour commencer à les découvrir voici un aperçu :
 
