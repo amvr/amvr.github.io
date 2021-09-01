@@ -31,7 +31,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ### _Saison 2021 - 2022_
 
-En avant première, en attente de la brochure papier que vous recevrez fin Août-début Septembre, voici les titres des cycles des conférences prévues pour la saison 2021-2022
+En avant première, en attente de la brochure papier que vous recevrez début Septembre, voici les titres des cycles des conférences prévues pour la saison 2021-2022
 
 * **"Vendredis de la Métropole"** (avec les AMMD-SM)
 * **"Regard et cinéma"** - saison 2 par Cédric de Veigy
