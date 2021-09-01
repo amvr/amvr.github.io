@@ -1,8 +1,8 @@
 ---
 title: Activités du mois
-
+published: true
 ---
-**_Nous sommes au regret de ne pouvoir assurer ce programme (Confinement COVID 19)_**
+**_Nous pensons pouvoir assurer le programme d'Octobre  _**
 
 ***
 
