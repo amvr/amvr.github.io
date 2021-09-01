@@ -22,9 +22,9 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ***
 
-## Programme 2020-2021
+## Programme 2021-2022
 
-* [Télécharger la brochure 2020-2021](/fichiers/plaquette-2020-2021.pdf) (format PDF)
+* [Télécharger la brochure 2020-2021](/fichiers/plaquette-2020-2021.pdf) /fichiers/brochure-amar-2021-2022.pdf
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
 ## **Flashs Info**
@@ -50,7 +50,7 @@ Vous retrouverez aussi **"l'initiation à l'histoire de l'art"** et les visites 
 #### _Voyages à venir_
 
 * Le **Mont St Michel** prévu au printemps prochain
-* **Rome**   _prévu du 11 au 15 octobre 2021_ 
+* **Rome**   _prévu du 11 au 15 octobre 2021_
 
   thème : "au coeur de Rome - autour du baroque"
 
