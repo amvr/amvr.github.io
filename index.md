@@ -1,7 +1,6 @@
 ---
 title: Bienvenue
 published: false
-
 ---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
@@ -25,7 +24,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Programme 2021-2022
 
-* [Télécharger la brochure](/fichiers/plaquette-2020-2021.pdf) 2021-2022/fichiers/brochure-amar-2021-2022.pdf
+* [Télécharger la brochure](2021-2022/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
 ## **Flashs Info**
