@@ -1,6 +1,6 @@
 ---
 title: Adhérer à l'association
-published: false
+
 ---
 Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
 
