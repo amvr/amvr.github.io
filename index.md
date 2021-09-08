@@ -24,7 +24,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## Programme 2021-2022
 
-* [Télécharger la brochure](2021-2022/fichiers/brochure-amar-2021-2022.pdf)
+* [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
 ## **Flashs Info**
