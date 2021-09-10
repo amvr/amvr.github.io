@@ -1,6 +1,6 @@
 ---
 title: Activités de la saison 2021-2022
-
+published: true
 ---
 ## La brochure 2021-2022
 
@@ -36,7 +36,8 @@ Catherine Bastard, présidente
 
 ## Activités du mois
 
-**__**
+[Consulter les activités du mois](/pages/activites-du-mois.html)
+
 
 ***
 
