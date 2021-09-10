@@ -28,6 +28,8 @@ Auditorium du Musée des Beaux-Arts
 
 * Vendredi **8** octobre à 16 h  
 **1962,1964,1966,1974 : Biaiser l'attention jusqu'à la traverser** - Godard   
+....  
+....  
 
 * Samedi **9** Octobre à 16 h   
 **Une heure au Musée**  
