@@ -2,7 +2,7 @@
 title: 'Activités du mois '
 published: true
 ---
-**Activités du mois d'Octobre 2021**
+## **Activités du mois d'Octobre 2021**
 
 
 
