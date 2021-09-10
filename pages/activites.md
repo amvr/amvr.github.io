@@ -49,4 +49,7 @@ Catherine Bastard, présidente
 
 #### Rome
 
-"Au coeur de Rome - autour  du baroque" prévu du **_11 au 15 octobre 2021_**
+"Au coeur de Rome - autour  du baroque" prévu du **_11 au 15 octobre 2021_**   
+
+#### Weimar et Dessau   
+villes fondatrices du **Bauhaus** voyage qui sera programmé en _**Octobre 2022**_
