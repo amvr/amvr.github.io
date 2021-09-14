@@ -27,27 +27,23 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 * [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## **Flashs Info**
+## **Flashs Info**  
 
-### _Saison 2021 - 2022_
+## _Sortie_
+Pour faire suite au cycle de **_conférences sur les Icônes_**, nous vous proposons d’aller à Paris   
 
-En avant première, en attente de la brochure papier que vous recevrez début Septembre, voici les titres des cycles des conférences prévues pour la saison 2021-2022
+Le matin, nous ferons la visite,  guidée par un prêtre, de l’église russe de la Sainte-Trinité, et l’après-midi nous irons au Petit Palais pour la visite du département des Icônes, particulièrement riche, avec notre amie Claire Grébille.  
 
-* **"Vendredis de la Métropole"** (avec les AMMD-SM)
-* **"Regard et cinéma"** - saison 2 par Cédric de Veigy
-* **"La Mésopotamie"** - 3è cycle par Elisabeth Fontan
-* **"Comprendre la peinture abstraite"** par Claire Grébille
-* **"Femmes illustres de l'Antiquité**" par Marie-Agnès Bennett
-* **"Cirque et Saltimbanques"**
-* **"L'art américain à la conquête de l'espace"**  par Isabelle Bonzom
-* **"Hector Berlioz, grandeur et servitude du génie"**  par Eric Bennett
-* **"Les grandes tapisseries françaises"**
-* **"Les Phéniciens"**  par Elisabeth Fontan
-* **"Destruction et création artistique"** par Sophie Rochefort-Guillouet
+**Jeudi 30 septembre 2021** - Paris  
 
-Vous retrouverez aussi **"l'initiation à l'histoire de l'art"** et les visites de **"une heure au Musée".**
+_**L’église de la Sainte-Trinité et les icônes au Petit Palais**_  
 
-#### _Voyages à venir_
+
+
+
+
+ 
+## _Voyages à venir_
 
 * Le **Mont St Michel** prévu au printemps prochain
 * **Rome**   _prévu du 11 au 15 octobre 2021_
