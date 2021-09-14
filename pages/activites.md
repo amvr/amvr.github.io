@@ -7,24 +7,10 @@ published: true
 * Télécharger la brochure 2021-2022 [brochure-amar-2021-2022.pdf](/fichiers/brochure-amar-2021-2022.pdf "brochure-amar-2021-2022.pdf")
 
 ***
+## Activités du mois
 
-## Modalités d'inscription à nos activités
+[Consulter les activités du mois](/pages/activites-du-mois.html)
 
-Chers Amis,
-
-Comme vous l’imaginez, la gestion de nos activités est très complexe avec les jauges limitées tant dans nos musées que dans l’auditorium, dans le contexte sanitaire actuel.
-
-Vous venez de recevoir notre brochure 2021-2022 et nous vous informons maintenant des modalités d’inscription. Pour garantir votre participation à nos activités, **nous vous proposons finalement de souscrire des forfaits pour chaque cycle, mais en vous les proposant au fur et à mesure.**
-
-_Pour le règlement, nous vous demanderons de nous apporter au début de la 1ère séance un chèque du montant du forfait choisi, déjà rempli et signé, à l’ordre des AMAR, en échange duquel nous vous remettrons votre carte pour l’ensemble du cycle._
-
-Aucun forfait réglé ne sera remboursable.
-
-Pour les Amis désirant assister de façon ponctuelle à une visite-conférence ou à une conférence, il faudra aussi vous inscrire au préalable, par mail ou téléphone lors de nos permanences, afin de vous éviter tout déplacement inutile si la jauge est atteinte.
-
-Merci de votre fidélité. Bien cordialement.
-
-Catherine Bastard, présidente
 
 ***
 
@@ -34,9 +20,6 @@ Catherine Bastard, présidente
 
 ***
 
-## Activités du mois
-
-[Consulter les activités du mois](/pages/activites-du-mois.html)
 
 
 ***
