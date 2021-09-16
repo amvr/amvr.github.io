@@ -27,7 +27,9 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 * [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## **Flashs Info**  
+## **Flashs Info** 
+
+**Nuit étudiante N° 6** : le 30 Septembre 2021 de 19h à 23h
 
 ## _Sortie_
 Pour faire suite au cycle de **_conférences sur les Icônes_**, nous vous proposons d’aller à Paris   
