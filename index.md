@@ -40,7 +40,8 @@ Le matin, nous ferons la visite,  guidée par un prêtre, de l’église russe d
 
 ## _Voyages à venir_
 
-* Le **Mont St Michel** prévu au printemps prochain
+* Le **Mont St Michel** prévu au printemps prochain  
+
 * **Rome**   _prévu du 11 au 15 octobre 2021_
 
   thème : "au coeur de Rome - autour du baroque"
