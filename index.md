@@ -1,6 +1,6 @@
 ---
 title: Bienvenue
-
+published: true
 ---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** **_"AMAR"_** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
@@ -27,8 +27,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## **Flashs Info**
 
-**Nuit étudiante N° 6** : le 30 Septembre 2021 de 19h à 23h  
-
+**Nuit étudiante N° 6** : le 30 Septembre 2021 de 19h à 23h  au  **_Musée des Beaux-Arts_**
 ## _Sortie_
 
 Pour faire suite au cycle de **_conférences sur les Icônes_**, nous vous proposons d’aller à Paris
