@@ -1,6 +1,6 @@
 ---
 title: La Gazette
-published: true
+
 ---
 L’association AMVR publie cette année un bulletin conçu avec l’association des amis du Musée Malraux du Havre et les Amis du Musée de Caen.
 
@@ -9,8 +9,6 @@ L’association AMVR publie cette année un bulletin conçu avec l’association
 La Gazette offre un regard croisé des initiatives havraises caennaises et rouennaises. Elle donne une ouverture complémentaire aux Amis, facilite les échanges et les rencontres. En suscitant la curiosité, elle incite à la découverte réciproque.
 
 * L'Association des Amis des Musées d'Art de Rouen met à votre disposition quelques éditions précédentes (format PDF) :
-
-
 * [Téléchargez l'édition 2021](/fichiers/gazette/028649_amar-1.pdf)
 * [Téléchargez l'édition 2020](/fichiers/gazette/gazette_2020.pdf)
 * [Téléchargez l'édition 2019](/fichiers/gazette/gazette_2019.pdf)
