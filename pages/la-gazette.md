@@ -11,7 +11,7 @@ La Gazette offre un regard croisé des initiatives havraises caennaises et rouen
 * L'Association des Amis des Musées d'Art de Rouen met à votre disposition quelques éditions précédentes (format PDF) :
 
 
-* [Téléchargez l'édition 2021](/fichiers/028649_amar-1.pdf)
+* [Téléchargez l'édition 2021](/fichiers/gazette/028649_amar-1.pdf)
 * [Téléchargez l'édition 2020](/fichiers/gazette/gazette_2020.pdf)
 * [Téléchargez l'édition 2019](/fichiers/gazette/gazette_2019.pdf)
 * [Téléchargez l'édition 2018](/fichiers/gazette/gazette_2018.pdf)
