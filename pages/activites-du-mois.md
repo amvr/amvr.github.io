@@ -105,7 +105,7 @@ Auditorium du musée des Beaux-Arts
 
 Musée des Beaux-Arts
 
-vendredi **26** Novembre à 14 h 30
+* vendredi **26** Novembre à 14 h 30
 
 **Vendredis de la métropole**
 
@@ -115,13 +115,15 @@ secrétaire de l'Association des Amis d'Hector Malot avec Claudine Lambert ,lect
 
 Auditorium du musée des Beaux-Arts
 
-Samedi  **27** Novembre à 16 h
+* Samedi  **27** Novembre à 16 h
 
 **Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+
 **_Le XVIIIe siècle français_**  
+
 Musée des Beaux-Arts
 
-Lundi **29** Novembre à 17 h
+* Lundi **29** Novembre à 17 h
 
 **Femmes illustres de l'antiquité**
 
