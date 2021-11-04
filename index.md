@@ -27,18 +27,6 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## **Flashs Info**
 
-**Nuit étudiante N° 6** : le 30 Septembre 2021 de 19h à 23h  au  **_Musée des Beaux-Arts_**
-
-## _Sortie_
-
-Pour faire suite au cycle de **_conférences sur les Icônes_**, nous vous proposons d’aller à Paris
-
-Le matin, nous ferons la visite,  guidée par un prêtre, de l’église russe de la Sainte-Trinité, et l’après-midi nous irons au Petit Palais pour la visite du département des Icônes, particulièrement riche, avec notre amie Claire Grébille.
-
-**Jeudi 30 septembre 2021** - Paris
-
-**_L’église de la Sainte-Trinité et les icônes au Petit Palais_**
-
 ## _Voyages à venir_
 
 * Le **Mont St Michel** prévu au printemps prochain
