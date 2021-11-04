@@ -1,5 +1,6 @@
 ---
 title: 'Activités du mois '
+published: false
 
 ---
 ## **Activités du mois de Novembre 2021**
@@ -14,26 +15,21 @@ Historienne, conférencière nationale, diplômée de l'école du Louvre
 
 Auditorium du musée des Beaux-Arts
 
-* Mardi **9** Novembre  à 14 h 30  
+* Mardi **9** Novembre  à 14 h 30
 
-**L'histoire commence à SUMER ? La Mésopotamie III** par Elisabeth Fontan  
+**L'histoire commence à SUMER ? La Mésopotamie III** par Elisabeth Fontan
 
-**_L'empire néo-babylonien(612-539 av J.C._**  
+**_L'empire néo-babylonien(612-539 av J.C._**
 
-Auditorium du Musée des Beaux-Arts
+Auditorium du Musée des Beaux-Arts  
 
-* Samedi **13** Novembre à 16 h   
+* Samedi **13** Novembre à 16 h
 
-   
+ **Une heure au Musée**
 
-  **Une heure au Musée**  
+**_Sous les verrous_**  
 
-    
-  **_Sous les verrous_**  
-
-    
-  Musée des Beaux-Arts
-
+Musée Le Secq des Tournelles
 
 * Lundi **15** Novembre à 14 h 30
 
@@ -45,21 +41,21 @@ Historienne, conférencière nationale, diplômée de l'école du Louvre
 
 Auditorium du musée des Beaux-Arts
 
-* Mercredi **17** Novembre à 14 h 30  
+* Mercredi **17** Novembre à 14 h 30
 
 **Initiation à l'histoire de l'Art** : Cycle I  Chronologique
 
-**_Le baroque et le classicisme_**  
+**_Le baroque et le classicisme_**
 
 Musée des Beaux-Arts
 
-* Jeudi **18** Novembre à 15 h et 16 h 30  
+* Jeudi **18** Novembre à 15 h et 16 h 30
 
-**Une heure au Musée**  
+**Une heure au Musée**
 
-**_Sous les verrous_**  
+**_Sous les verrous_**
 
-Musée des Beaux-Arts
+Musée Le Secq des Tournelles
 
 * vendredi **19** Novembre à 14 h 30
 
@@ -73,9 +69,9 @@ Auditorium du musée des Beaux-Arts
 
 * Samedi  **20** Novembre à 16 h
 
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
 
-**_Le baroque et le classicisme_**  
+**_Le baroque et le classicisme_**
 
 Musée des Beaux-Arts
 
@@ -85,7 +81,7 @@ Musée des Beaux-Arts
 
 **_Les collections du MNAM du centre Pompidou_**
 
-La Bourse du commerce /Pinault Collection
+**_La Bourse du commerce /Pinault Collection_**
 
 * Lundi **22** Novembre à 17 h
 
@@ -97,11 +93,11 @@ Marie-Agnès Bennett , chargée de cours à l'université Inter-âges de Paris
 
 Auditorium du musée des Beaux-Arts
 
-* Mercredi **24** Novembre à 14 h 30  
+* Mercredi **24** Novembre à 14 h 30
 
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
 
-**_Le XVIIIe siècle français_**  
+**_Le XVIIIe siècle français_**
 
 Musée des Beaux-Arts
 
@@ -117,9 +113,9 @@ Auditorium du musée des Beaux-Arts
 
 * Samedi  **27** Novembre à 16 h
 
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
 
-**_Le XVIIIe siècle français_**  
+**_Le XVIIIe siècle français_**
 
 Musée des Beaux-Arts
 
