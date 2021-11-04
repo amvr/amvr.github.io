@@ -1,77 +1,114 @@
 ---
 title: 'Activités du mois '
-published: true
+
 ---
-## **Activités du mois d'Octobre 2021**
+## **Activités du mois de Novembre 2021**  
 
+Lundi **8** Novembre à 14 h 30  
 
+**Comprendre la peinture abstraite**  
 
+**_Les précurseurs de l'abstraction_** par Claire Grébille,  
 
-  
-**Regard et Cinéma - saison 2**   
-Auditorium du Musée des Beaux-Arts 
+Historienne, conférencière nationale, diplômée de l'école du Louvre  
 
- Lundi **4** Octobre à 16 h  
-**_1939,1941 : Etaler l'attention jusqu'à l'épuiser_** - Renoir et Welles  
- 
- Mardi **5** Octobre à 10 h  
-**1953,1956 : Disposer l'attention jusqu'à personnifier** - Mizoguchi   
+Auditorium du musée des Beaux-Arts  
 
- Mercredi **6** Octobre à 16 h  
-**1954,1958,1960 : Fétichiser l'attention jusqu'à la manipuler** - Hitchcock  
-
- Jeudi **7** Octobre à 16 h  
-**1957,1960 & 1963 : Savourer l'attention jusqu'à l'innocenter** - Fellini  
-
- Vendredi **8** Octobre à 10 h  
-**1959,1963,1968 : Découper l'attention jusqu'à la singulariser** - Renais  
-
- Vendredi **8** octobre à 16 h  
-**1962,1964,1966,1974 : Biaiser l'attention jusqu'à la traverser** - Godard   
-....  
-....  
-
- Samedi **9** Octobre à 16 h   
-**Une heure au Musée**  
-**_Peinture et Littérature, les liaisons heureuses_**  
-Musée des Beaux-Arts  
-
- Mardi **12** octobre  à 14 h 30  
-**L'histoire commence à SUMER ? La Mésopotamie III** par Elisabeth Fontan   
-**_La deuxième moitié du 2ème millénaire av J-C_**: le royaume du Mitanni ; les dynasties kassites ; la naissance de l'Assyrie  
-Auditorium du Musée des Beaux-Arts  
-
- Mercredi **13** Octobre à 14 h 30  
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
-_**La Renaissance**_   
-Musée des Beaux-Arts  
-
- Jeudi **14** Octobre à 15 h et 16 h 30  
-**Une heure au Musée**  
-**_Peinture et Littérature, les liaisons heureuses_**  
-Musée des Beaux-Arts  
-
- Samedi  **16** Octobre à 16 h 
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
-_**La Renaissance**_  
-Musée des Beaux-Arts
-
-
- Mardi **19** octobre  à 14 h 30  
-**L'histoire commence à SUMER ? La Mésopotamie III** par Elisabeth Fontan   
-**_L'empire Néo-assyrien (IXe-VIe av J-C)_**  
+Mardi **9** Novembre  à 14 h 30  
+**L'histoire commence à SUMER ? La Mésopotamie III** par Elisabeth Fontan  
+**_L'empire néo-babylonien(612-539 av J.C._**  
 Auditorium du Musée des Beaux-Arts
 
+Samedi **13** Novembre à 16 h  
+**Une heure au Musée**  
+**_Sous les verrous_**  
+Musée des Beaux-Arts  
 
+Lundi **15** Novembre à 14 h 30  
 
+**Comprendre la peinture abstraite**  
 
+**_Kandinsky et l'abstraction lyrique_** par Claire Grébille,  
 
+Historienne, conférencière nationale, diplômée de l'école du Louvre  
 
+Auditorium du musée des Beaux-Arts
 
+Mercredi **17** Novembre à 14 h 30  
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**_Le baroque et le classicisme_**  
+Musée des Beaux-Arts  
 
+Jeudi **18** Novembre à 15 h et 16 h 30  
+**Une heure au Musée**  
+**_Sous les verrous_**  
+Musée des Beaux-Arts  
 
+vendredi **19** Novembre à 14 h 30  
 
+**Vendredis de la métropole**  
 
+**_L'abbatiale Saint-Ouen_** par Henry Decaëns   
 
+Secrétaire général des Amis des monuments rouennais 
+
+Auditorium du musée des Beaux-Arts
+
+Samedi  **20** Novembre à 16 h
+
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**_Le baroque et le classicisme_**  
+Musée des Beaux-Arts   
+
+Dimanche 21 Novembre  
+
+**Sorties**   
+
+**_Les collections du MNAM du centre Pompidou_**  
+
+La Bourse du commerce /Pinault Collection
+
+Lundi **22** Novembre à 17 h  
+
+**Femmes illustres de l'antiquité**    
+
+**_Courtisane ou savante ? Quelle place pour la femme dans la Grèce antique_** par   
+
+Marie-Agnès Bennett , chargée de cours à l'université Inter-âges de Paris  
+
+Auditorium du musée des Beaux-Arts  
+
+Mercredi **24** Novembre à 14 h 30  
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**_Le XVIIIe siècle français_**  
+Musée des Beaux-Arts
+
+  
+
+vendredi **26** Novembre à 14 h 30  
+
+**Vendredis de la métropole**  
+
+**_Hector Malot ,défenseur des nobles causes_** par Agnès Thomas-Vidal  
+
+secrétaire de l'Association des Amis d'Hector Malot avec Claudine Lambert ,lectrice.  
+
+Auditorium du musée des Beaux-Arts  
+
+Samedi  **27** Novembre à 16 h
+
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique  
+**_Le XVIIIe siècle français_**  
+Musée des Beaux-Arts  
+
+Lundi **29** Novembre à 17 h  
+
+**Femmes illustres de l'antiquité**    
+
+**_La vertu romaine au féminin_** par   
+
+Marie-Agnès Bennett , chargée de cours à l'université Inter-âges de Paris  
+
+Auditorium du musée des Beaux-Arts
 
 ***
