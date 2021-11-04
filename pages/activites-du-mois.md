@@ -21,13 +21,13 @@ Auditorium du musée des Beaux-Arts
 
 **_L'empire néo-babylonien(612-539 av J.C._**
 
-Auditorium du Musée des Beaux-Arts  
+Auditorium du Musée des Beaux-Arts
 
 * Samedi **13** Novembre à 16 h
 
- **Une heure au Musée**
+**Une heure au Musée**
 
-**_Sous les verrous_**  
+**_Sous les verrous_**
 
 Musée Le Secq des Tournelles
 
@@ -75,7 +75,7 @@ Auditorium du musée des Beaux-Arts
 
 Musée des Beaux-Arts
 
-* Dimanche 21 Novembre
+* Dimanche **21** Novembre
 
 **Sorties**
 
