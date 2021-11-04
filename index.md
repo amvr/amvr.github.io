@@ -25,7 +25,15 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 * [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## **Flashs Info**
+## **Flashs Info**  
+
+proposition de sortie musicale pour cette saison.
+
+#### **_COSI FAN TUTTE_**
+
+**Jeudi 31 mars 2022 à Caen**
+
+Les réservations devant être finalisées fin novembre début décembre auprès du théâtre, nous vous demandons un retour si possible rapide.
 
 ## _Voyages à venir_
 
