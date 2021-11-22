@@ -15,9 +15,9 @@ Le 6 février 2020, don d'un grand dessin de Thomas Shotter Boys (1803-1874) sig
 
 Le musée conserve des oeuvres d'art anglais et les Amis ont déjà participé à des acquisitions, notamment une grande aquarelle de William Callow.
 
-Le 3 mars 2020 acquisition d'un ouvrage de **Gustave Flaubert,** **_Salammbô_**, préface de Léon Hennique ; illustrations d’Eugène Champollion d’après Georges Rochegrosse Paris, A. Ferroud, 1900.
+Le 3 mars 2020 acquisition d’un ouvrage de Gustave Flaubert, **Salammbô**, préface de Léon Hennique, illustrations d’Eugène Champollion d’après Georges Rochegrosse, Paris, A. Ferroud, 1900.
 
-Nous avons acquis, pour le musée des Beaux-Arts, l’**_édition illustrée du roman de Flaubert_** que les œuvres récemment offertes de Georges Rochegrosse ont servi à préparer. L'ouvrage précieux en deux tomes possède une belle reliure et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes adressées par Rochegrosse à l’aquafortiste.
+L’ouvrage précieux en deux tomes possède une belle reliure  et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes adressées par Rochegrosse à l’aquafortiste.
 
 2020 est l'année du centenaire de la donation exceptionnelle de Henri le Secq, et le musée qui porte son nom a ouvert en 1921.
 
