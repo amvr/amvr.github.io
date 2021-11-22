@@ -5,7 +5,13 @@ title: Mécénat
 Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
 La liste des oeuvres ainsi données à nos musées au titre du mécénat est importante...
 
-vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
+vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.  
+
+## 2021  
+
+· Le 24 mars, l’association a acquis un grand tableau de **Jean-Baptiste Van Moer** (1819-1884), peinture à l’huile sur toile. Il est un des grands maîtres belges de la vue urbaine du milieu du XIXe siècle, dont la venue à Rouen est documentée en 1847. Ce tableau est signé et il représente _l’église Saint Laurent_ où est installé le musée Henri Le Secq des Tournelles.
+
+· Le 30 mars, acquisition du tableau _Le Port de Rouen_ (ou _La Seine au Val-de-la-Haye_), l’huile sur toile appartient à la toute dernière suite de paysages exécutée par **Jacques Villon**. Datée de 1959, cette œuvre est en effet à rapprocher de plusieurs toiles, inspirées elles aussi par les installations portuaires de Rouen. On reconnaît ici l’intérêt de l’artiste pour le mouvement, la mécanique, la dynamique, et la couleur, cette fascination pour la vie moderne qui présidait déjà aux années cubistes et à laquelle il n’a jamais renoncé.
 
 ## 2020
 
