@@ -36,6 +36,7 @@ Auditorium du musée des Beaux-Arts
 ....
 
 
+
  ## **Activités du mois de Décembre 2021**   
  
  *  Mercredi **1er** Décembre à 14 h 30
