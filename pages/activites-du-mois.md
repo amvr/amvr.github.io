@@ -31,7 +31,9 @@ Musée des Beaux-Arts
 
 Marie-Agnès Bennett , chargée de cours à l'université Inter-âges de Paris
 
-Auditorium du musée des Beaux-Arts  
+Auditorium du musée des Beaux-Arts   
+
+....
 
 
  ## **Activités du mois de Décembre 2021**   
