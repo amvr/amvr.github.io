@@ -100,6 +100,27 @@ Salle du Jubé du Musée des Beaux-Arts
  
  **Vendredis de la métropole**  
  
+**_Sur les traces du patrimoine industriel de l'agglomération rouennaise_**  
+
+par Michel Croguennec, historien du patrimoine  
+
+Auditorium du Musée des Beaux-Arts  
+
+ * Lundi 13 Décembre à 14 h 30  
+ 
+ **Comprendre la peinture abstraite**  
+ 
+**_L'Orphisme : l'abstraction à Paris de Kupka à Delaunay_**  
+
+Auditorium du musée des Beaux-Arts  
+
+ * Lundi 6 Décembre à 17 h  
+ 
+**Femmes illustres de l'antiquité**  
+
+**_Elles ont défié Rome_**  
+
+Auditorium du musée des Beaux-Arts
  
 
 
