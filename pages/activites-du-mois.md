@@ -74,9 +74,9 @@ Musée des Beaux-Arts
 
  * Jeudi **9** Décembre à 15 h et 16 h 30  
  
- **Une Heure au Musée**
+**Une Heure au Musée**
  
- **_Les Arts de l'Islam , un passé pour un présent_**  
+**_Les Arts de l'Islam , un passé pour un présent_**  
  
  Musée de la céramique  
 
