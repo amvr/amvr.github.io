@@ -94,7 +94,7 @@ Musée des Beaux-Arts
  
  * Samedi **11** Décembre à  16 h   
   
-  **Une Heure au Musée**
+**Une Heure au Musée**
  
  **_Les Arts de l'Islam , un passé pour un présent_**  
  
@@ -102,7 +102,7 @@ Musée des Beaux-Arts
  
   * Lundi **13** Décembre à 14 h 30  
  
- **Comprendre la peinture abstraite**  
+**Comprendre la peinture abstraite**  
  
 **_L'Orphisme : l'abstraction à Paris de Kupka à Delaunay_**  
 
@@ -111,7 +111,7 @@ Auditorium du musée des Beaux-Arts
  
  * Lundi **13**Décembre   
   
-  **Midi Musée Musique**  
+**Midi Musée Musique**  
   
 **_Trio à cordes Trio Goldberg_** Liza Kerob, violon ; Frederico Hood, alto; Thierry Amadi, violoncelle  
 
@@ -123,7 +123,7 @@ Salle du Jubé du Musée des Beaux-Arts
 
  * Vendredi **17** Décembre à 14 h 30   
  
- **Vendredis de la métropole**  
+**Vendredis de la métropole**  
  
 **_Sur les traces du patrimoine industriel de l'agglomération rouennaise_**  
 
