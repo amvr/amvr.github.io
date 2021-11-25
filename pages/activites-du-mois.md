@@ -76,7 +76,7 @@ Musée des Beaux-Arts
  
  Musée de la céramique  
  
-  * Samedi **11** Décembre à  16 h   
+ * Samedi **11** Décembre à  16 h   
   
   **Une Heure au Musée**
  
@@ -84,7 +84,7 @@ Musée des Beaux-Arts
  
  Musée de la céramique  
  
-  * Lundi **13**Décembre   
+ * Lundi **13**Décembre   
   
   **Midi Musée Musique**  
   
@@ -94,7 +94,13 @@ Josef Haydn: Trio
 Ludwig van Beethoven :Trio  
 Ernö Dohnanyi : sérénade  
 
-Salle du Jubé du Musée des Beaux-Arts  
+Salle du Jubé du Musée des Beaux-Arts   
+
+ * Vendredi 17 Décembre à 14 h 30   
+ 
+ **Vendredis de la métropole**  
+ 
+ 
 
 
 
