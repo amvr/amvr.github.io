@@ -38,7 +38,7 @@ de l’association qui se tiendra
 
 Nous vous rappelons que la participation aux votes suppose d’être à jour de sa cotisation.
 
-Merci de vous munir d’un masque et de votre pass sanitaire pour avoir accès à l’auditorium.
+Merci de vous munir d’un masque et de votre "pass sanitaire" pour avoir accès à l’auditorium.
 
 RAPPORT FINANCIER  [rapport-financier-2020-2021-vd.pdf](/fichiers/rapport-financier-2020-2021-vd.pdf "rapport-financier-2020-2021-vd.pdf")
 
