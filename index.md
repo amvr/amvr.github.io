@@ -31,17 +31,17 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 de l’association qui se tiendra
 
-**le mardi 7 décembre 2021 à 17h**
+#### **le mardi 7 décembre 2021 à 17h**
 
 à l’auditorium du musée des Beaux-arts, 26 bis rue Jean Lecanuet 76000 Rouen.
 
 Nous vous rappelons que la participation aux votes suppose d’être à jour de sa cotisation.
 
-Merci de vous munir d’un masque et de votre "pass sanitaire" pour avoir accès à l’auditorium.  
+Merci de vous munir d’un masque et de votre "pass sanitaire" pour avoir accès à l’auditorium.
 
 Dans l'attente voici le
 
-\[rapport-financier\]
+**\[rapport-financier\]**
 
 [rapport-financier-2020-2021-vd.pdf](/fichiers/rapport-financier-2020-2021-vd.pdf "rapport-financier-2020-2021-vd.pdf")
 
