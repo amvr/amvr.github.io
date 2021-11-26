@@ -39,7 +39,7 @@ Nous vous rappelons que la participation aux votes suppose d’être à jour de 
 
 Merci de vous munir d’un masque et de votre pass sanitaire pour avoir accès à l’auditorium.
 
-\[RAPPORT FINANCIER\](rapport-financier-2020-2021-vd.pdf)
+\[RAPPORT FINANCIER\](/fichiers/rapport-financier-2020-2021-vd.pdf)
 
 ***
 
