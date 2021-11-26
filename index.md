@@ -1,5 +1,6 @@
 ---
 title: Bienvenue
+published: false
 
 ---
 Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d’Art de Rouen** **_"AMAR"_** depuis janvier 2019, mais restent attachés aux 3 musées d’art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
@@ -39,7 +40,15 @@ Nous vous rappelons que la participation aux votes suppose d’être à jour de 
 
 Merci de vous munir d’un masque et de votre pass sanitaire pour avoir accès à l’auditorium.
 
-\[RAPPORT FINANCIER\](/fichiers/rapport-financier-2020-2021-vd.pdf)
+RAPPORT FINANCIER  [rapport-financier-2020-2021-vd.pdf](/fichiers/rapport-financier-2020-2021-vd.pdf "rapport-financier-2020-2021-vd.pdf")
+
+[compte-de-resultats-2020-2021-vd.pdf](/fichiers/compte-de-resultats-2020-2021-vd.pdf "compte-de-resultats-2020-2021-vd.pdf")  
+
+[budget-2020-2021-vd.pdf](/fichiers/budget-2020-2021-vd.pdf "budget-2020-2021-vd.pdf")  
+
+[bilan-2020-2021-vd.pdf](/fichiers/bilan-2020-2021-vd.pdf "bilan-2020-2021-vd.pdf")  
+
+[annexe-2020-2021-vd.pdf](/fichiers/annexe-2020-2021-vd.pdf "annexe-2020-2021-vd.pdf")
 
 ***
 
