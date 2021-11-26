@@ -25,9 +25,25 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 * [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## **Flashs Info**  
+## **Flashs Info**
 
-proposition de sortie musicale pour cette saison.
+### **l’assemblée générale**
+
+de l’association qui se tiendra
+
+**le mardi 7 décembre 2021 à 17h**
+
+à l’auditorium du musée des Beaux-arts, 26 bis rue Jean Lecanuet 76000 Rouen.
+
+Nous vous rappelons que la participation aux votes suppose d’être à jour de sa cotisation.
+
+Merci de vous munir d’un masque et de votre pass sanitaire pour avoir accès à l’auditorium.
+
+\[RAPPORT FINANCIER\](rapport-financier-2020-2021-vd.pdf)
+
+***
+
+\-proposition de sortie musicale pour cette saison.
 
 #### **_COSI FAN TUTTE_**
 
