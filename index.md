@@ -39,9 +39,9 @@ Nous vous rappelons que la participation aux votes suppose d’être à jour de 
 
 Merci de vous munir d’un masque et de votre "pass sanitaire" pour avoir accès à l’auditorium.
 
-RAPPORT FINANCIER       
+RAPPORT FINANCIER   
 
-\[rapport financier-2020-2021\]([rapport-financier-2020-2021-vd.pdf](/fichiers/rapport-financier-2020-2021-vd.pdf "rapport-financier-2020-2021-vd.pdf"))
+ [rapport-financier-2020-2021-vd.pdf](/fichiers/rapport-financier-2020-2021-vd.pdf "rapport-financier-2020-2021-vd.pdf")
 
 [compte-de-resultats-2020-2021-vd.pdf](/fichiers/compte-de-resultats-2020-2021-vd.pdf "compte-de-resultats-2020-2021-vd.pdf")
 
