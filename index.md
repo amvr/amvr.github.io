@@ -41,11 +41,11 @@ Merci de vous munir d’un masque et de votre "pass sanitaire" pour avoir accès
 
 RAPPORT FINANCIER  [rapport-financier-2020-2021-vd.pdf](/fichiers/rapport-financier-2020-2021-vd.pdf "rapport-financier-2020-2021-vd.pdf")
 
-[compte-de-resultats-2020-2021-vd.pdf](/fichiers/compte-de-resultats-2020-2021-vd.pdf "compte-de-resultats-2020-2021-vd.pdf")  
+[compte-de-resultats-2020-2021-vd.pdf](/fichiers/compte-de-resultats-2020-2021-vd.pdf "compte-de-resultats-2020-2021-vd.pdf")
 
-[budget-2020-2021-vd.pdf](/fichiers/budget-2020-2021-vd.pdf "budget-2020-2021-vd.pdf")  
+[budget-2020-2021-vd.pdf](/fichiers/budget-2020-2021-vd.pdf "budget-2020-2021-vd.pdf")
 
-[bilan-2020-2021-vd.pdf](/fichiers/bilan-2020-2021-vd.pdf "bilan-2020-2021-vd.pdf")  
+[bilan-2020-2021-vd.pdf](/fichiers/bilan-2020-2021-vd.pdf "bilan-2020-2021-vd.pdf")
 
 [annexe-2020-2021-vd.pdf](/fichiers/annexe-2020-2021-vd.pdf "annexe-2020-2021-vd.pdf")
 
