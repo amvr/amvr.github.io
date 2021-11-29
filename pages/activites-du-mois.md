@@ -66,34 +66,24 @@ Auditorium du musée des Beaux-Arts
 
  * Lundi 6 décembre à 12 h 15  
  
- **Midi Musée Musique**
+**Midi Musée Musique**
  
-**_Le Quintet Japart’Ensemble_**
+**_Le Quintet Japart’Ensemble_**  
 
- 
-
-Vincent Penot, clarinette
-
-Aya Hasegawa- Sabouret, violon
-
-Yoshiko Coquart-Otsu, piano
-
-Aurelien Sabouret, violoncelle
-
+Vincent Penot, clarinette  
+Aya Hasegawa- Sabouret, violon  
+Yoshiko Coquart-Otsu, piano  
+Aurelien Sabouret, violoncelle   
 Michel Coquart, cor.
 
- 
-
-Il interprètera 
+interprètera 
 
 Nicolas Bacri (1961….),
-
 Notturno ed Allegro op.115b
 
  
 
 Zdenco Fibich (1850-1900)
-
 Quintet op.42
  
 
