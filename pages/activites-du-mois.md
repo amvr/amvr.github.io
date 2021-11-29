@@ -62,7 +62,39 @@ Musée des Beaux-Arts
 
 **_Elles ont défié Rome_**  
 
-Auditorium du musée des Beaux-Arts
+Auditorium du musée des Beaux-Arts  
+
+ * Lundi 6 décembre à 12 h 15  
+ 
+ **Midi Musée Musique**
+ 
+**_Le Quintet Japart’Ensemble_**
+
+ 
+
+Vincent Penot, clarinette
+
+Aya Hasegawa- Sabouret, violon
+
+Yoshiko Coquart-Otsu, piano
+
+Aurelien Sabouret, violoncelle
+
+Michel Coquart, cor.
+
+ 
+
+Il interprètera 
+
+Nicolas Bacri (1961….),
+
+Notturno ed Allegro op.115b
+
+ 
+
+Zdenco Fibich (1850-1900)
+
+Quintet op.42
  
 
  * Mercredi  **8** Décembre à 14 h 30
