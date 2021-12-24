@@ -4,9 +4,9 @@ title: 'Activités du mois '
 ---
 ***
 
-### Activités du Mois de Janvier 2022  
+### Activités du Mois de Janvier 2022
 
-Samedi **8** Janvier à 14 h 30
+* Samedi **8** Janvier à 14 h 30
 
 **L'art américain , à la conquête de l'espace**
 
@@ -14,9 +14,9 @@ Samedi **8** Janvier à 14 h 30
 
 Moran, Church, Hopper, O'Keeffe, Smithson, Christo, Turrell
 
-Auditorium du musée des Beaux-Arts  
+Auditorium du musée des Beaux-Arts
 
-Lundi **10** Janvier à 17 h
+* Lundi **10** Janvier à 17 h
 
 **Hector Berlioz : Grandeur et servitude du génie**
 
@@ -24,7 +24,7 @@ Lundi **10** Janvier à 17 h
 
 Auditorium du musée des Beaux-Arts
 
-Jeudi **13** Janvier à 15 h et 16 h 30
+* Jeudi **13** Janvier à 15 h et 16 h 30
 
 **Une Heure au Musée**
 
@@ -32,7 +32,7 @@ Jeudi **13** Janvier à 15 h et 16 h 30
 
 Musée des Beaux Arts
 
-Samedi **15** Janvier à 14 h 30
+* Samedi **15** Janvier à 14 h 30
 
 **L'art américain , à la conquête de l'espace**
 
@@ -42,7 +42,7 @@ Pollock, de Kooning, Newman,Rothko, Ryman, Rauschenberg
 
 Auditorium du musée des Beaux-Arts
 
-Samedi **15** Janvier à  16 h
+* Samedi **15** Janvier à  16 h
 
 **Une Heure au Musée**
 
@@ -50,7 +50,7 @@ Samedi **15** Janvier à  16 h
 
 Musée des Beaux Arts
 
-Lundi **17** Janvier à 17 h
+* Lundi **17** Janvier à 17 h
 
 **Hector Berlioz : Grandeur et servitude du génie**
 
@@ -58,7 +58,7 @@ Lundi **17** Janvier à 17 h
 
 Auditorium du musée des Beaux-Arts
 
-Lundi **17** Janvier à 12 h 15
+* Lundi **17** Janvier à 12 h 15
 
 **Midi Musée Musique**
 
@@ -70,7 +70,7 @@ Daniel Isoir, piano ; Florian Maviel, violon ; Jacques Perez, violoncelle
 
 Salle du Jubé du musée des Beaux-Arts
 
-Samedi **22** Janvier à 14 h 30
+* Samedi **22** Janvier à 14 h 30
 
 **L'art américain , à la conquête de l'espace**
 
@@ -80,7 +80,7 @@ Warhol, Wessemann, rosenquist, basquiat, Fischl, Mehretu
 
 Auditorium du musée des Beaux-Arts
 
-Lundi **24** Janvier à 17 h
+* Lundi **24** Janvier à 17 h
 
 **Hector Berlioz : Grandeur et servitude du génie**
 
@@ -88,7 +88,7 @@ Lundi **24** Janvier à 17 h
 
 Auditorium du musée des Beaux-Arts
 
-Jeudi **27** Janvier à 15 h et 16 h 30
+* Jeudi **27** Janvier à 15 h et 16 h 30
 
 **Une Heure au Musée**
 
@@ -96,7 +96,7 @@ Jeudi **27** Janvier à 15 h et 16 h 30
 
 Musée des Beaux Arts
 
-Samedi **29** Janvier à  16 h
+* Samedi **29** Janvier à  16 h
 
 **Une Heure au Musée**
 
@@ -104,7 +104,7 @@ Samedi **29** Janvier à  16 h
 
 Musée des Beaux Arts
 
-Samedi **29** Janvier à  16 h
+* Samedi **29** Janvier à  16 h
 
 **Cirque et saltimbanques**
 
@@ -112,7 +112,7 @@ Samedi **29** Janvier à  16 h
 
 Auditorium du musée des Beaux-Arts
 
-Lundi **31** Janvier à 14 h 30
+* Lundi **31** Janvier à 14 h 30
 
 **Comprendre la peinture abstraite**
 
