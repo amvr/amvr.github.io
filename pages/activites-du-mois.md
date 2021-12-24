@@ -19,14 +19,16 @@ title: 'Activités du mois '
 
   Moran, Church, Hopper, O'Keeffe, Smithson, Christo, Turrell   
 
-  Auditorium du musée des Beaux-Arts  
+  Auditorium du musée des Beaux-Arts   
+
+   
 
 
 *   Lundi **10** Janvier à 17 h  
 
 **Hector Berlioz : Grandeur et servitude du génie**  
 
-par **_Eric Bennett_**  
+###### par Eric Bennett  
 
 Auditorium du musée des Beaux-Arts
 
@@ -38,7 +40,9 @@ Auditorium du musée des Beaux-Arts
 
   Pollock, de Kooning, Newman,Rothko, Ryman, Rauschenberg      
 
-Auditorium du musée des Beaux-Arts   
+Auditorium du musée des Beaux-Arts    
+
+ 
 
 * Jeudi **13** Janvier à 15 h et 16 h 30
 
@@ -46,7 +50,7 @@ Auditorium du musée des Beaux-Arts
 
 **_"Les Héroïnes"_**
 
-Musée des Beaux Arts
+Musée des Beaux Arts  
 
 * Samedi **15** Janvier à  16 h
 
@@ -56,13 +60,17 @@ Musée des Beaux Arts
 
 Musée des Beaux Arts    
 
+  
+
 *   Lundi **17 J**anvier à 17 h  
 
 **Hector Berlioz : Grandeur et servitude du génie**  
 
-par **_Eric Bennett _** 
+###### par _Eric Bennett_  
 
-Auditorium du musée des Beaux-Arts   
+Auditorium du musée des Beaux-Arts    
+
+ 
 
 * Lundi **17** Janvier à 12 h 15
 
@@ -74,7 +82,9 @@ Daniel Isoir, piano ; Florian Maviel, violon ; Jacques Perez, violoncelle
 
 **F.Schubert : Trio op 100       "F Schubert : Notturno**
 
-Salle du Jubé du musée des Beaux-Arts  
+Salle du Jubé du musée des Beaux-Arts   
+
+ 
 
 * Samedi **22** Janvier à 14 h 30    
 
@@ -94,7 +104,7 @@ Salle du Jubé du musée des Beaux-Arts
 
 **Hector Berlioz : Grandeur et servitude du génie**  
 
-par **_Eric Bennett _** 
+###### par Eric Bennett  
 
 Auditorium du musée des Beaux-Arts       
 
@@ -104,7 +114,7 @@ Auditorium du musée des Beaux-Arts
 
 **_"Cirque et saltimbanques"_**
 
-Musée des Beaux Arts
+Musée des Beaux Arts  
 
 * Samedi **29** Janvier à  16 h 
 
