@@ -21,7 +21,19 @@ Musée des Beaux Arts
 
 **_"Les Héroïnes"_**
 
-Musée des Beaux Arts
+Musée des Beaux Arts  
+
+* Lundi **17** Janvier à 12 h 15
+
+**Midi Musée Musique**
+
+**_"Trio avec Piano"_**
+
+Daniel Isoir, piano ; Florian Maviel, violon ; Jacques Perez, violoncelle  
+
+**F.Schubert : Trio op 100       "F Schubert : Notturno**
+
+Salle du Jubé du musée des Beaux-Arts
 
 * Jeudi **27** Janvier à 15 h et 16 h 30
 
@@ -38,18 +50,6 @@ Musée des Beaux Arts
 **_"Cirque et saltimbanques"_**
 
 Musée des Beaux Arts
-
-* Lundi **17** Janvier à 12 h 15
-
-**Midi Musée Musique**
-
-**_"Trio avec Piano"_**
-
-Daniel Isoir, piano ; Florian Maviel, violon ; Jacques Perez, violoncelle
-
-**F.Schubert : Trio op 100       "F Schubert : Notturno**
-
-Salle du Jubé du musée des Beaux-Arts
 
 * Lundi **31** Janvier à 14 h 30
 
