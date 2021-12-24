@@ -186,4 +186,41 @@ Auditorium du musée des Beaux-Arts
 
   Moran, Church, Hopper, O'Keeffe, Smithson, Christo, Turrell   
 
-  Auditorium du musée des Beaux-Arts 
+  Auditorium du musée des Beaux-Arts  
+
+    
+* Samedi **15** Janvier à 14 h 30    
+
+    
+
+  **L'art américain , à la conquête de l'espace**   
+
+  **"_Construire une identité nationale"   _**
+
+    
+
+  Pollock, de Kooning, Newman,Rothko, Ryman, Rauschenberg      
+
+  Auditorium du musée des Beaux-Arts   
+
+    
+* Samedi **22** Janvier à 14 h 30    
+
+    
+
+  **L'art américain , à la conquête de l'espace**   
+
+  **"_Témoigner de son temps à travers le prisme des médias"   _**
+
+    
+
+  Warhol, Wessemann, rosenquist, basquiat, Fischl, Mehretu
+
+  Auditorium du musée des Beaux-Arts    
+*   Lundi **10** Janvier à 17 h  
+
+**Hector Berlioz : Grandeur et servitude du génie**  
+
+par Eric Bennett  
+
+Auditorium du musée des Beaux-Arts  
