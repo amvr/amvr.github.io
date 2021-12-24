@@ -64,7 +64,7 @@ Musée des Beaux Arts
 
   
 
-*   Lundi **17 J**anvier à 17 h  
+*   Lundi **17** Janvier à 17 h  
 
 **Hector Berlioz : Grandeur et servitude du génie**  
 
