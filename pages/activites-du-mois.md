@@ -30,7 +30,17 @@ title: 'Activités du mois '
 
 ###### par Eric Bennett  
 
-Auditorium du musée des Beaux-Arts
+Auditorium du musée des Beaux-Arts   
+
+ 
+
+* Jeudi **13** Janvier à 15 h et 16 h 30
+
+**Une Heure au Musée**
+
+**_"Les Héroïnes"_**
+
+Musée des Beaux Arts  
 
 *    Samedi **15** Janvier à 14 h 30    
 
@@ -43,14 +53,6 @@ Auditorium du musée des Beaux-Arts
 Auditorium du musée des Beaux-Arts    
 
  
-
-* Jeudi **13** Janvier à 15 h et 16 h 30
-
-**Une Heure au Musée**
-
-**_"Les Héroïnes"_**
-
-Musée des Beaux Arts  
 
 * Samedi **15** Janvier à  16 h
 
