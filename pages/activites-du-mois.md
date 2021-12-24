@@ -1,170 +1,114 @@
 ---
 title: 'Activités du mois '
-published: true
+
 ---
-## **Activités du mois de Novembre 2021**
 
+## **Activités du mois de Décembre 2021**
 
-* vendredi **26** Novembre à 14 h 30
-
-**Vendredis de la métropole**
-
-**_Hector Malot ,défenseur des nobles causes_** par Agnès Thomas-Vidal
-
-secrétaire de l'Association des Amis d'Hector Malot avec Claudine Lambert ,lectrice.
-
-Auditorium du musée des Beaux-Arts
-
-* Samedi  **27** Novembre à 16 h
+* Mercredi **1er** Décembre à 14 h 30
 
 **Initiation à l'histoire de l'Art** : Cycle I  Chronologique
 
-**_Le XVIIIe siècle français_**
+**_Les grands mouvements du XIXè Siècle_**
 
 Musée des Beaux-Arts
 
-* Lundi **29** Novembre à 17 h
+* Samedi  **4** Décembre à 16 h
+
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
+
+**_Les grands mouvements du XIXè Siècle_**
+
+Musée des Beaux-Arts
+
+* Lundi **6** Décembre à 17 h
 
 **Femmes illustres de l'antiquité**
 
-**_La vertu romaine au féminin_** par
+**_Elles ont défié Rome_**
 
-Marie-Agnès Bennett , chargée de cours à l'université Inter-âges de Paris
+Auditorium du musée des Beaux-Arts
 
-Auditorium du musée des Beaux-Arts   
+* Lundi 6 décembre à 12 h 15
 
-....
-
-
-
- ## **Activités du mois de Décembre 2021**   
- 
- *  Mercredi **1er** Décembre à 14 h 30
-
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
-
-**_Les grands mouvements du XIXè Siècle_**  
-
-Musée des Beaux-Arts    
-
- 
- * Samedi  **4** Décembre à 16 h
-
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
-
-**_Les grands mouvements du XIXè Siècle_**  
-
-Musée des Beaux-Arts   
-
-* Lundi **6** Décembre à 17 h  
- 
-**Femmes illustres de l'antiquité**  
-
-**_Elles ont défié Rome_**  
-
-Auditorium du musée des Beaux-Arts  
-
- * Lundi 6 décembre à 12 h 15  
- 
 **Midi Musée Musique**
- 
-**_Le Quintet Japart’Ensemble_**  
+
+**_Le Quintet Japart’Ensemble_**
 
 Vincent Penot, clarinette  
 Aya Hasegawa- Sabouret, violon  
 Yoshiko Coquart-Otsu, piano  
-Aurelien Sabouret, violoncelle   
+Aurelien Sabouret, violoncelle  
 Michel Coquart, cor.
 
-interprètera 
+interprètera
 
 Nicolas Bacri (1961….),
 Notturno ed Allegro op.115b
 
- 
-
 Zdenco Fibich (1850-1900)
 Quintet op.42
- 
 
- * Mercredi  **8** Décembre à 14 h 30
-
-**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
-
-**_L'art moderne_**  
-
-Musée des Beaux-Arts   
-
- * Jeudi **9** Décembre à 15 h et 16 h 30  
- 
-**Une Heure au Musée**
- 
-**_Les Arts de l'Islam , un passé pour un présent_**  
- 
- Musée de la céramique  
-
-
- * Samedi  **11** Décembre à 16 h
+* Mercredi  **8** Décembre à 14 h 30
 
 **Initiation à l'histoire de l'Art** : Cycle I  Chronologique
 
-**_L'art moderne_**  
+**_L'art moderne_**
 
-Musée des Beaux-Arts   
+Musée des Beaux-Arts
 
- 
+* Jeudi **9** Décembre à 15 h et 16 h 30
 
- 
- * Samedi **11** Décembre à  16 h   
-  
 **Une Heure au Musée**
- 
- **_Les Arts de l'Islam , un passé pour un présent_**  
- 
- Musée de la céramique    
- 
-  * Lundi **13** Décembre à 14 h 30  
- 
-**Comprendre la peinture abstraite**  
- 
-**_L'Orphisme : l'abstraction à Paris de Kupka à Delaunay_**  
 
-Auditorium du musée des Beaux-Arts  
+**_Les Arts de l'Islam , un passé pour un présent_**
 
- 
- * Lundi **13**Décembre   
-  
-**Midi Musée Musique**  
-  
-**_Trio à cordes Trio Goldberg_** Liza Kerob, violon ; Frederico Hood, alto; Thierry Amadi, violoncelle  
+Musée de la céramique
+
+* Samedi  **11** Décembre à 16 h
+
+**Initiation à l'histoire de l'Art** : Cycle I  Chronologique
+
+**_L'art moderne_**
+
+Musée des Beaux-Arts
+
+* Samedi **11** Décembre à  16 h
+
+**Une Heure au Musée**
+
+**_Les Arts de l'Islam , un passé pour un présent_**
+
+Musée de la céramique
+
+* Lundi **13** Décembre à 14 h 30
+
+**Comprendre la peinture abstraite**
+
+**_L'Orphisme : l'abstraction à Paris de Kupka à Delaunay_**
+
+Auditorium du musée des Beaux-Arts
+
+* Lundi **13**Décembre
+
+**Midi Musée Musique**
+
+**_Trio à cordes Trio Goldberg_** Liza Kerob, violon ; Frederico Hood, alto; Thierry Amadi, violoncelle
 
 Josef Haydn: Trio  
 Ludwig van Beethoven :Trio  
-Ernö Dohnanyi : sérénade  
+Ernö Dohnanyi : sérénade
 
-Salle du Jubé du Musée des Beaux-Arts   
+Salle du Jubé du Musée des Beaux-Arts
 
- * Vendredi **17** Décembre à 14 h 30   
- 
-**Vendredis de la métropole**  
- 
-**_Sur les traces du patrimoine industriel de l'agglomération rouennaise_**  
+* Vendredi **17** Décembre à 14 h 30
 
-par Michel Croguennec, historien du patrimoine  
+**Vendredis de la métropole**
 
-Auditorium du Musée des Beaux-Arts  
+**_Sur les traces du patrimoine industriel de l'agglomération rouennaise_**
 
+par Michel Croguennec, historien du patrimoine
 
- 
+Auditorium du Musée des Beaux-Arts
 
-
-
-
-
-
-  
-
-
- 
- 
 ***
