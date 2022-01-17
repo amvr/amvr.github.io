@@ -104,7 +104,7 @@ Musée des Beaux Arts
 
 Musée des Beaux Arts
 
-* Samedi **29** Janvier à  16 h
+* Samedi **5 Fevrier** à  16 h
 
 **Cirque et saltimbanques**
 
