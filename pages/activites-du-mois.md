@@ -20,14 +20,6 @@ Musée des Beaux Arts
 
 Musée des Beaux Arts
 
-* Samedi **5 Fevrier** à  16 h
-
-**Cirque et saltimbanques**
-
-**_"L'age d'or des affiches de Cirque au tournant du siècle"_**
-
-Auditorium du musée des Beaux-Arts
-
 * Lundi **31** Janvier à 14 h 30
 
 **Comprendre la peinture abstraite**
@@ -36,7 +28,17 @@ Auditorium du musée des Beaux-Arts
 
 **par Claire Grébille**
 
-Auditorium du musée des Beaux-Arts  
+Auditorium du musée des Beaux-Arts 
+
+  
+
+* Samedi **5 Fevrier** à  16 h
+
+**Cirque et saltimbanques**
+
+**_"L'age d'or des affiches de Cirque au tournant du siècle"_**
+
+Auditorium du musée des Beaux-Arts
 
 * Lundi **21** Fevrier à 14 h 30
 
