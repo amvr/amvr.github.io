@@ -48,9 +48,7 @@ Mercredi **9** Mars à 14h30 et 16h
 
 **Initiation à l'histoire de l'Art**
 
-* **_"Pierre-Paul Rubens :_** _L'adoration des Bergers ...et la peinture d'autel du 17è siècle"_  
-
-    
+* **_"Pierre-Paul Rubens :_** _L'adoration des Bergers ...et la peinture d'autel du 17è siècle"_
 
   Samedi **12** Mars à 14h30
 
@@ -91,7 +89,7 @@ Mercredi **16** Mars à 14h30 et 16h
 
 Jeudi **17** Mars à 15h et 16h30
 
-**Une Heure au Musée**  
+**Une Heure au Musée**
 
 * "**_Rouge_**"
 
@@ -119,7 +117,7 @@ Mercredi **23** Mars à 14h30 et 16h
 
 **Initiation à l'histoire de l'Art**
 
-* **_"Louis Boulanger :_** _le supplice de Mazeppa" ,Mazeppa, anti-héros romantique_ 
+* **_"Louis Boulanger :_** _le supplice de Mazeppa" ,Mazeppa, anti-héros romantique_
 
 Samedi **26** Mars à 14h30
 
