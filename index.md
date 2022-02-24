@@ -27,13 +27,7 @@ Et d'animer auprès d'eux les **actions de Mécénat**.
 
 ## **Flashs Info**
 
-Vous vous êtes inscrits au cycle de conférences en rapport avec l’exposition qui vient de débuter sur :   
-
-**Cirque et Saltimbanques.**
-
-**_Monsieur et Madame Borg_** qui sont les collectionneurs mais aussi nos conférenciers, nous ont indiqué qu’ils ne pourraient pas assurer leur conférence le samedi **29** janvier.
-
-##### Cette première conférence est de ce fait reportée au **samedi 5 février à 14h30**.
+##### 
 
 ##### 
 
