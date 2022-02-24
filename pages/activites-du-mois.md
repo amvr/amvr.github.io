@@ -16,7 +16,33 @@ Mercredi 2 Mars à 14h30 et 16h
 
 * **Initiation à l'histoire de l'Art**
 
-  **_"Les représentations de Saint Jérôme au musée des Beaux-Arts"_**
+  **_"Les représentations de Saint Jérôme au musée des Beaux-Arts"_**  
+
+Jeudi 3 Mars à 15h et 16h30
+
+* **Une Heure au Musée**
+
+     "**_L'art et la matière_**"
+
+      Musée des Beaux-Arts
+
+Samedi 5 Mars à 16h
+
+* **Une Heure au Musée**
+
+     "**_L'art et la matière_**"
+
+      Musée des Beaux-Arts  
+
+Mardi 8 Mars à 14h30   
+
+* **Les Phéniciens**  
+
+  **_"Qui sont les Phéniciens"_**  
+
+  **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre  
+
+  Auditorium du musée des Beaux-Arts   
 
 Mercredi 9 Mars à 14h30 et 16h
 
@@ -41,22 +67,6 @@ Mercredi 30 Mars à 14h30 et 16h
 * **Initiation à l'histoire de l'Art**
 
   **_"Jean Villon :_** _Le port de Rouen**"**_
-
-Jeudi 3 Mars à 15h et 16h30
-
-* **Une Heure au Musée**
-
-"**_L'art et la matière_**"
-
-Musée des Beaux-Arts
-
-Samedi 5 Mars à 16h
-
-* **Une Heure au Musée**
-
-"**_L'art et la matière_**"
-
-Musée des Beaux-Arts
 
 Jeudi 17 Mars à 15h et 16h30
 
@@ -114,16 +124,6 @@ Samedi 26 Mars à 14h30
 
   Auditorium du musée des Beaux-Arts  
 
-Mardi 8 Mars à 14h30   
-
-* **Les Phéniciens**  
-
-  **_"Qui sont les Phéniciens"_**  
-
-  **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre  
-
-  Auditorium du musée des Beaux-Arts   
-
 Mardi 15 Mars à 14h30   
 
 * **Les Phéniciens**  
@@ -143,3 +143,5 @@ Mardi 22 Mars à 14h30
   **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre  
 
   Auditorium du musée des Beaux-Arts 
+
+     
