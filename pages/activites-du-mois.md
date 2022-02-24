@@ -49,7 +49,8 @@ Mercredi 9 Mars à 14h30 et 16h
 * **Initiation à l'histoire de l'Art**
 
   **_"Pierre-Paul Rubens :_** _L'adoration des Bergers ...et la peinture d'autel du 17è siècle"_   
-* Samedi 12 Mars à 14h30
+
+  Samedi 12 Mars à 14h30  
   * **Cirque et saltimbanques**
 
     **_"Un américain à Paris :Buffalo Bill et les indiens"_**
@@ -135,10 +136,8 @@ Lundi 28 Mars à 12h15
   **_"Rendez-vous avec les classes de musique de chambre du conservatoire de Rouen"_**
 
   Salle du Jubé du Musée des Beaux-Arts
-* 
 
-
-*    
+   
 
 Mercredi 30 Mars à 14h30 et 16h
 
