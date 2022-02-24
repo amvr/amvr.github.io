@@ -92,4 +92,24 @@ Lundi 28 Mars à 12h15
 
   **_"Rendez-vous avec les classes de musique de chambre du conservatoire de Rouen"_**
 
-  Salle du Jubé du Musée des Beaux-Arts 
+  Salle du Jubé du Musée des Beaux-Arts   
+
+Samedi 12 Mars à 14h30  
+
+* **Cirque et saltimbanques**  
+
+  **_"Un américain à Paris :Buffalo Bill et les indiens"_**  
+
+  Gérard Borg  
+
+  Auditorium du musée des Beaux-Arts  
+
+Samedi 26 Mars à 14h30  
+
+* **Cirque et saltimbanques**  
+
+  **_"Le cirque au japon : estampes des périodes Edo et Meiji"_**  
+
+  Jeanne-Yvonne Borg  
+
+  Auditorium du musée des Beaux-Arts
