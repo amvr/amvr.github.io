@@ -82,9 +82,9 @@ Lundi 14 Mars à 12h15
 
   Christel Rayneau, flute et Anne Ricquebourg , Harpe
 
-  **_"Les Yeux clos"_**  
+  **_"Les Yeux clos"_**
 
-  Salle du Jubé du Musée des Beaux-Arts 
+  Salle du Jubé du Musée des Beaux-Arts
 
 Lundi 28 Mars à 12h15
 
@@ -92,24 +92,54 @@ Lundi 28 Mars à 12h15
 
   **_"Rendez-vous avec les classes de musique de chambre du conservatoire de Rouen"_**
 
-  Salle du Jubé du Musée des Beaux-Arts   
+  Salle du Jubé du Musée des Beaux-Arts
 
-Samedi 12 Mars à 14h30  
+Samedi 12 Mars à 14h30
 
-* **Cirque et saltimbanques**  
+* **Cirque et saltimbanques**
 
-  **_"Un américain à Paris :Buffalo Bill et les indiens"_**  
+  **_"Un américain à Paris :Buffalo Bill et les indiens"_**
 
-  Gérard Borg  
+  Gérard Borg
+
+  Auditorium du musée des Beaux-Arts
+
+Samedi 26 Mars à 14h30
+
+* **Cirque et saltimbanques**
+
+  **_"Le cirque au japon : estampes des périodes Edo et Meiji"_**
+
+  Jeanne-Yvonne Borg
 
   Auditorium du musée des Beaux-Arts  
 
-Samedi 26 Mars à 14h30  
+Mardi 8 Mars à 14h30   
 
-* **Cirque et saltimbanques**  
+* **Les Phéniciens**  
 
-  **_"Le cirque au japon : estampes des périodes Edo et Meiji"_**  
+  **_"Qui sont les Phéniciens"_**  
 
-  Jeanne-Yvonne Borg  
+  **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre  
 
-  Auditorium du musée des Beaux-Arts
+  Auditorium du musée des Beaux-Arts   
+
+Mardi 15 Mars à 14h30   
+
+* **Les Phéniciens**  
+
+  **_"Lexpansion des Phéniciens en Méditerranée"_**  
+
+  **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre  
+
+  Auditorium du musée des Beaux-Arts   
+
+Mardi 22 Mars à 14h30   
+
+* **Les Phéniciens**  
+
+  **_"Art et artisanat de luxe dans le monde phénicien"_**  
+
+  **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre  
+
+  Auditorium du musée des Beaux-Arts 
