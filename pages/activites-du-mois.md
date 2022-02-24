@@ -119,7 +119,7 @@ Mercredi **23** Mars à 14h30 et 16h
 
 **Initiation à l'histoire de l'Art**
 
-* **_"Louis Boulanger :_** _le supplice de Mzeppa ,Mzeppa, anti-héros romantique **"**_
+* **_"Louis Boulanger :_** _le supplice de Mazeppa" ,Mazeppa, anti-héros romantique_ 
 
 Samedi **26** Mars à 14h30
 
