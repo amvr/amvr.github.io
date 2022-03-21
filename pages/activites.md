@@ -26,9 +26,9 @@ published: true
 
 ## Voyages à venir
 
-#### Escapade au Mont Saint Michel
 
-3 jours/2 nuits , _suite au cycle proposé en page 12 du programme 2019-2020  **est prévu  au printemps 2022**_
+
+
 
 #### Rome
 
