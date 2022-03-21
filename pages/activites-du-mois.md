@@ -58,7 +58,8 @@ Samedi**2** Avril à 14h30
 par Pascal Jacob, historien du cirque
  Auditorium du musée des Beaux-Arts  
  
- 5 ou 6 Avril
+Mercredi**6** Avril  
+**Bayeux** : _La Cathédrale, Musée Baron Gérard_
  
  
  Samedi**30** Avril à 14h30  
