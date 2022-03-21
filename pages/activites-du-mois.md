@@ -6,25 +6,18 @@ published: true
 
 
 Mardi **22** Mars à 14h30
-
 **Les Phéniciens**
-
 * **_"Art et artisanat de luxe dans le monde phénicien"_**
-
   **Elisabeth Fortan** ,conservateur en chef honoraire ,département des Antiquités Orientales au Musée du Louvre
-
   Auditorium du musée des Beaux-Arts
 
 Mercredi **23** Mars à 14h30 et 16h
-
 **Initiation à l'histoire de l'Art**
+* **_"Louis Boulanger :_** _le supplice de Mazeppa" ,Mazeppa, anti-héros romantique_  
 
-* **_"Louis Boulanger :_** _le supplice de Mazeppa" ,Mazeppa, anti-héros romantique_
 
 Samedi **26** Mars à 14h30
-
 **Cirque et saltimbanques**
-
 * **_"Le cirque au japon : estampes des périodes Edo et Meiji"_**
   Jeanne-Yvonne Borg
   Auditorium du musée des Beaux-Arts
@@ -41,14 +34,16 @@ Mercredi **30** Mars à 14h30 et 16h
 Vendredi **1** Avril à 14h30  
 **Des monuments tissés: grandes tapisseries françaises du Moyen-Age au XXè siècle**  
 **_La tenture de l'Apocalypse d'Angers, histoire intime d'un chef-d'oeuvre_**  
-par Clémentine Mathurin, conservatrice des monuments historiques, DRAC des Pays de la Loire
+par Clémentine Mathurin, conservatrice des monuments historiques, DRAC des Pays de la Loire  
+
  Auditorium du musée des Beaux-Arts
 
 
 Samedi**2** Avril à 14h30  
 **Cirque et saltimbanques**  
 **_L'art du costume de cirque et les grands designers_**  
-par Pascal Jacob, historien du cirque
+par Pascal Jacob, historien du cirque  
+
  Auditorium du musée des Beaux-Arts  
  
 Mercredi**6** Avril  
@@ -58,5 +53,6 @@ Mercredi**6** Avril
  Samedi**30** Avril à 14h30  
 **Mémoire , Art et Destruction**  
 **_Damnatio memoriae_ et destruction dans l'Antiquité**  
-par Sophie Rochefort-Guillouet
+par Sophie Rochefort-Guillouet  
+
  Auditorium du musée des Beaux-Arts
