@@ -29,4 +29,9 @@ published: true
 
 
 #### Weimar et Dessau   
-villes fondatrices du **Bauhaus** voyage qui sera programmé en _**Octobre 2022**_
+villes fondatrices du **Bauhaus** voyage qui est programmé 
+ du 4 au 8 octobre 2022 sur la thématique
+
+Le Bauhaus « le rêve d’un monde meilleur »
+
+ **_
