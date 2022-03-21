@@ -26,23 +26,16 @@ Samedi **26** Mars à 14h30
 **Cirque et saltimbanques**
 
 * **_"Le cirque au japon : estampes des périodes Edo et Meiji"_**
-
   Jeanne-Yvonne Borg
-
   Auditorium du musée des Beaux-Arts
 
 Lundi **28** Mars à 12h15
-
 **Midi Musée Musique**
-
 * **_"Rendez-vous avec les classes de musique de chambre du conservatoire de Rouen"_**
-
   Salle du Jubé du Musée des Beaux-Arts
 
 Mercredi **30** Mars à 14h30 et 16h
-
 **Initiation à l'histoire de l'Art**
-
 * **_"Jean Villon :_** _Le port de Rouen**"**_  
 
 Vendredi **1** Avril à 14h30  
