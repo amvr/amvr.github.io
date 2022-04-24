@@ -38,9 +38,9 @@ Vendredi **13** mai 14h30
 
 Auditorium du musée des Beaux-Arts.
 
-Vendredi **20** mai 14h30  
-**Des monuments tissés : Grandes tapisseries françaises du Moyen-âge au XXe siècle**  
+Vendredi **20** mai 14h30   
+**Des monuments tissés : Grandes tapisseries françaises du Moyen-âge au XXe siècle**   
 **_"La tapisserie de Bayeux"_**  
-par Pierre Boué, maître de conférence honoraire de l'université de Caen
+ par Pierre Boué, maître de conférence honoraire de l'université de Caen
 
 Auditorium du musée des Beaux-Arts.
