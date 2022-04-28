@@ -1,17 +1,18 @@
 ---
 title: Mécénat
+published: false
 
 ---
-Depuis sa création , le mécénat est un des objectifs fondamentaux de notre Association.  
-La liste des oeuvres ainsi données à nos musées au titre du mécénat est importante...
+sa création, le mécénat est un des objectifs Depuis les fondamentaux de notre Association.   
+La liste des oeuvres ainsi que les données à nos musées au titre du mécénat sont importantes...
 
 vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
 ## 2021
 
-· Le 24 mars, l’association a acquis un grand tableau de **Jean-Baptiste Van Moer** (1819-1884),  ![](https://cdn.forestry.io/res2/gJk6jaNAAwwq7q7QC4pXTSph-odr-NfpdIdpenu2XV0/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUVZWcFQzaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMDM4/OGUyYWY4MThhMTk5/NmQ1YTU3MmM0MGU3/ZGZlZjExZjM2YjZk/OC9JTUdfMjYxMC5q/cGVn)peinture à l’huile sur toile.  Il est un des grands maîtres belges de la vue urbaine du milieu du XIXe siècle, dont la venue à Rouen est documentée en 1847. Ce tableau est signé et il représente _l’église Saint Laurent_ où est installé le musée Henri Le Secq des Tournelles.
+· Le 24 mars, l'association a acquis un grand tableau de **Jean-Baptiste Van Moer** (1819-1884),  ![](https://cdn.forestry.io/res2/gJk6jaNAAwwq7q7QC4pXTSph-odr-NfpdIdpenu2XV0/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUVZWcFQzaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMDM4/OGUyYWY4MThhMTk5/NmQ1YTU3MmM0MGU3/ZGZlZjExZjM2YjZk/OC9JTUdfMjYxMC5q/cGVn)peinture à l'huile sur toile. Il est un des grands maîtres belges de la vue urbaine du milieu du XIXe siècle, dont la venue à Rouen est documentée en 1847. Ce tableau est signé et il représente _l'église Saint Laurent_ où est installé le musée Henri Le Secq des Tournelles.
 
-· Le 30 mars, acquisition du tableau _Le Port de Rouen_ (ou _La Seine au Val-de-la-Haye_), l’huile sur toile appartient à la toute dernière suite de paysages exécutée par **Jacques Villon**. ![](https://cdn.forestry.io/res2/NiLU_CXmNB3oRl5XGjzulJO-bZNOs6NyEWLrndnjm9U/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjNOWFQzaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYjAx/ZDMyNzMwYWQ0NDJh/MDExNWI0NDZiODI1/ZjBkMDJlMThmM2Qz/OS9WaWxsb24oMSku/anBn)Datée de 1959, cette œuvre est en effet à rapprocher de plusieurs toiles, inspirées elles aussi par les installations portuaires de Rouen. On reconnaît ici l’intérêt de l’artiste pour le mouvement, la mécanique, la dynamique, et la couleur, cette fascination pour la vie moderne qui présidait déjà aux années cubistes et à laquelle il n’a jamais renoncé.
+· Le 30 mars, acquisition du tableau _Le Port de Rouen_ (ou _La Seine au Val-de-la-Haye_ ), l'huile sur toile appartient à la toute dernière suite de paysages réalisés par **Jacques Villon** .![](https://cdn.forestry.io/res2/NiLU_CXmNB3oRl5XGjzulJO-bZNOs6NyEWLrndnjm9U/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjNOWFQzaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYjAx/ZDMyNzMwYWQ0NDJh/MDExNWI0NDZiODI1/ZjBkMDJlMThmM2Qz/OS9WaWxsb24oMSku/anBn)Datée de 1959, cette œuvre est en effet à rapprocher de plusieurs toiles, inspirées elles aussi par les installations portuaires de Rouen. On reconnaît ici l'intérêt de l'artiste pour le mouvement, la mécanique, la dynamique et la couleur, cette fascination pour la vie moderne qui présidait déjà aux années cubistes et à laquelle il n'a jamais renoncé.
 
 ## 2020
 
@@ -21,47 +22,47 @@ Le 6 février 2020, don d'un grand dessin de Thomas Shotter Boys (1803-1874) sig
 
 Le musée conserve des oeuvres d'art anglais et les Amis ont déjà participé à des acquisitions, notamment une grande aquarelle de William Callow.
 
-Le 3 mars 2020 acquisition d’un ouvrage de Gustave Flaubert, **Salammbô**, préface de Léon Hennique, illustrations d’Eugène Champollion d’après Georges Rochegrosse, Paris, A. Ferroud, 1900.
+Le 3 mars 2020 acquisition d'un ouvrage de Gustave Flaubert, **Salammbô** , préface de Léon Hennique, illustrations d'Eugène Champollion d'après Georges Rochegrosse, Paris, A. Ferroud, 1900.
 
-L’ouvrage précieux en deux tomes possède une belle reliure  et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes adressées par Rochegrosse à l’aquafortiste.
+L'ouvrage précieux en deux tomes possède une belle reliure et comprend 3 états de chacune des 52 estampes. Le lot comprend également 3 lettres autographes produites par Rochegrosse à l'aquafortiste.
 
-2020 est l'année du centenaire de la donation exceptionnelle de Henri le Secq, et le musée qui porte son nom a ouvert en 1921.
+2020 est l'année du centenaire de la donation exceptionnelle de Henri le Secq, et le musée qui porte son nom à ouvert en 1921.
 
 Le 11 octobre 2020, Deux belles acquisitions sont faites pour ce musée :
 
-\- **_Girouette_** en fer repoussé représentant un superbe [**_griffon_**](/fichiers/griffon-231.jpg)**_,_** **du début du XVIIe**, dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
+\- **_Girouette_** en fer repoussé représentant un superbe [**_griffon_**](/fichiers/griffon-231.jpg) **_,_**  **du début du XVIIe** , dont la hampe a été enlevée quand ce griffon est devenu une pièce de collection.
 
-[**_Un vestiaire_** de **Ferdinand Marrou** ](/fichiers/marrou-31.JPG)(1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune oeuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
+[**_Un vestiaire_** de **Ferdinand Marrou** ](/fichiers/marrou-31.JPG) (1836-1917). Ferronnier d'art, Marrou s'installe à Rouen en 1863 à la demande du père de François Depeaux. Il participe aux grands chantiers des Monuments historiques de Rouen. Le musée de la ferronnerie n'avait aucune œuvre de Marrou dans ses collections avant 2013. Ce vestiaire, est une pièce imposante
 
 . Notre association a fait don en 2013 d'une belle coupe. Et le musée s'enrichit lentement.
 
 # 2019
 
-Le 12 février 2019 : acquisition de trois gouaches de Georges Rochegrosse (1859-1938) : [_Salammbô venue chercher le zaïmph repousse Maâtho qui lui déclare son amour_](/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html), [_La Bataille du Macar_](/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [_Carthage en joie_](/pages/mecenat/2019-rochegrosse-carthage-en-joie.html). Ces gouaches sont des études préparatoires pour une édition de luxe du roman de Flaubert _Salammbô_, parue en 1900. En 2021, elles devraient constituer des pièces importantes de l’exposition Salammbô prévue au musée des Beaux-Arts de Rouen en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présent au musée de Rouen depuis 1884 avec sa monumentale Andromaque, l’une des expressions les plus spectaculaires de la grande peinture d’histoire de la fin du XIXe siècle.
+Le 12 février 2019 : acquisition de trois gouaches de Georges Rochegrosse (1859-1938) : [_Salammbô venue chercher le zaïmph repoussé Maâtho qui lui déclare son amour_](/pages/mecenat/2019-rochegrosse-salammbo-repousse-maatho.html) , [_La Bataille du Macar_](/pages/mecenat/2019-rochegrosse-la-bataille-du-macar.html) et [_Carthage en joie_](/pages/mecenat/2019-rochegrosse-carthage-en-joie.html) . Ces gouaches sont des études préparatoires pour une édition de luxe du roman de Flaubert _Salammbô_ , parue en 1900. En 2021, elles devraient constituer des pièces importantes de l'exposition Salammbô prises au musée des Beaux-Arts de Rouen en coproduction avec le MUCEM à Marseille et le musée du Bardo à Tunis. Rochegrosse était déjà présentée au musée de Rouen depuis 1884 avec sa monumentale Andromaque, l'une des expressions les plus spectaculaires de la grande peinture d'histoire de la fin du XIXe siècle.
 
-Jeudi 28 mars, participation à la _Nuit Etudiante_, chapitre 4, avec une participation active de 1641 étudiants dans le musée des Beaux-Arts. Nos partenaires ont renouvelé leur contribution. Parmi les activités, la Salsa a eu un grand succès dans la salle du jubé.
+Jeudi 28 mars, participation à la _Nuit étudiante_ , chapitre 4, avec une participation active de 1641 étudiants dans le musée des Beaux-Arts. Nos partenaires ont renouvelé leur contribution. Parmi les activités, la salsa a eu un grand succès dans la salle du jubé.
 
-12 mai 2019 : une toile du peintre Gabriel-Germain Joncherie (vers 1790 - après 1844), [_Trompe-l'oeil au cabinet de curiosités_,](/fichiers/trompe-l-oeil-joncherie-2.jpg) signée et datée de 1823. Cette oeuvre a rejoint un ensemble significatif de trompe-l'oeil conservé au musée.
+12 mai 2019 : une toile du peintre Gabriel-Germain Joncherie (vers 1790 - après 1844), [_Trompe-l'oeil au cabinet de curiosités_ ,](/fichiers/trompe-l-oeil-joncherie-2.jpg) signée et datée de 1823. Cette oeuvre a rejoint un ensemble significatif de trompe-l'oeil conservé au musée.
 
-Le 13 juin 2019 : acquisition d'une toile de Jean-Louis Henri Le Secq des Tournelles (1818-1882), [_Jeune fille italienne à la fontaine_](/pages/mecenat/2019-le-secq-des-tournelles-jeune-fille-italienne-a-la-fontaine.html), toile peinte vers 1844-1848 à Rome – un tableau au sujet très gracieux. Henri Le Secq père, fut peintre et photographe. Il est l'initiateur de la collection poursuivie par son fils Henri-Jean Le Secq des Tournelles (1854-1925) et offerte à la ville de Rouen, ce qui a mené à l'ouverture, en 1921 le musée des Arts du fer, musée Le Secq des Tournelles.
+Le 13 juin 2019 : acquisition d'une toile de Jean-Louis Henri Le Secq des Tournelles (1818-1882), [_Jeune fille italienne à la fontaine                                                                                                                                                                                                                                                  _](/pages/mecenat/2019-le-secq-des-tournelles-jeune-fille-italienne-a-la-fontaine.html), toile peinte vers 1844-1848 à Rome – un tableau au sujet très gracieux. Henri Le Secq père, fut peintre et photographe. Il est l'initiateur de la collection poursuivie par son fils Henri-Jean Le Secq des Tournelles (1854-1925) et offerte à la ville de Rouen, ce qui a mené à l'ouverture, en 1921 le musée des Arts du fer, musée Le Secq des Tournelles.
 
-Le 9 octobre 2019 : participation des Amis des Musées d'Art de Rouen à la souscription lancée par la Réunion des Musées Métropolitains, qui a obtenu 68 contributions pour la restauration de l'oeuvre monumentale de Walter Crane, _The Squeleton in armor_, achetée par la RMM. Ce monumental cycle décoratif, peint en 1883, trouvera sa place dans la collection _Arts and Crafts_ du musée des Beaux-Arts
+Le 9 octobre 2019 : participation des Amis des Musées d'Art de Rouen à la souscription offerte par la Réunion des Musées Métropolitains, qui a obtenu 68 contributions pour la restauration de l'oeuvre monumentale de Walter Crane, _Le Squelette en armure_ , achetée par la RMM. Ce cycle monumental décoratif, peint en 1883, trouvera sa place dans la collection _Arts and Crafts_ du musée des Beaux-Arts
 
 Le 24 octobre 2019, acquisition de plusieurs œuvres :
 
-Une aquarelle d’Alexandre-Evariste Fragonard (1780-1850), [_Vivant-Denon replaçant dans son tombeau les ossements du Cid_.](/fichiers/vivant-denon-replac-ant-les-ossements-du-cid.jpg) Pour l’achat de cette œuvre, l’association des AMAR a bénéficié d’un don important de Jean-Claude Delauney.
+Une aquarelle d'Alexandre-Evariste Fragonard (1780-1850), [_Vivant-Denon remplaçant dans son tombeau les ossements du Cid_ . ](/fichiers/vivant-denon-replac-ant-les-ossements-du-cid.jpg)Pour l'achat de cette œuvre, l'association des AMAR a récupéré d'un don important de Jean-Claude Delauney.
 
-Une aquarelle de François-Etienne Villeret (1800-1866), [_Rouen la cathédrale, le portail des libraires – 1834_.](/fichiers/cathe-udrele-de-rouen-portail-des-libraires.jpg)
+Une aquarelle de François-Etienne Villeret (1800-1866), [_Rouen la cathédrale, le portail des libraires – 1834_ .](/fichiers/cathe-udrele-de-rouen-portail-des-libraires.jpg)
 
 Une gravure anonyme du XIXe siècle représentant la [_place de la Pucelle_](/fichiers/place-de-la-pucelle.jpg)
 
-Le 10 décembre 2019 : une quatrième oeuvre de Rochegrosse, exécutée à l’aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l’édition de _Salammbô._
+Le 10 décembre 2019 : une quatrième œuvre de Rochegrosse, exécutée à l'aquarelle et à la gouache sur une esquisse au crayon noir, est achetée pour le musée. C'est aussi, comme les achats réalisés en février, une étude préparatoire à l'édition de _Salammbô., Les Barbares observant les sacrifices à Moloch depuis les débris de l'hélépole_ , Salammbô, chapitre 12.
 
-Le 19 décembre 2019 : une toile de grand format de Georges Ribemont-Dessaignes (1884-1974), [L’Archer](/pages/mecenat/2019-l-archer.html), datée de 1909 ou 1910,.C’est une oeuvre colorée qui évoque les premiers temps du cubisme, mais aussi l’art Nabi avec ses grands aplats de couleur.
+Le 19 décembre 2019 : une toile de grand format de Georges Ribemont-Dessaignes (1884-1974), [L'Archer](/pages/mecenat/2019-l-archer.html) , datée de 1909 ou 1910,.C'est une œuvre colorée qui évoque les premiers temps du cubisme, mais aussi l' art Nabi avec ses grands plats de couleur.
 
 ## 2018
 
-Le 27 mars 2018, acquisition de deux dessins de Georges Braque : [_L'Arbre de Jessé_](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html)_,_ 1962, projet de vitrail pour l'église Saint Valéry de Varengeville, et l'esquisse préparatoire pour le vitrail [_Dominique marchant vers la sainteté_](/pages/mecenat/2018-braque-dessin-st-dominique.html)_,_ 1956, pour la chapelle Saint Dominique de Varengeville. Ces deux dessins proviennent par voie successorale de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque.
+Le 27 mars 2018, acquisition de deux dessins de Georges Braque : [_L'Arbre de Jessé_](/pages/mecenat/2018-braque-dessin-arbre-de-jesse.html) _,_ 1962, projet de vitrail pour l'église Saint Valéry de Varengeville, et l'esquisse préparatoire pour le vitrail [_Dominique marchant vers la sainteté_](/pages/mecenat/2018-braque-dessin-st-dominique.html) _,_ 1956, pour la chapelle Saint Dominique de Varengeville. Ces deux dessins présentés par la voie successeure de la collection de l'abbé Lecoq et sont signés et dédicacés G.Braque.
 
 le jeudi 29 mars 2018 : participation à _La nuit étudiante_ , chapitre 3, organisée avec le service des publics de la RMM et la ville de Rouen, le CESAR, le Conservatoire régional de Rouen, l'Université de Rouen, la métropole. Plus de 1300 visiteurs sont répondu à l’invitation : musique et danse, théâtre, jeux et médiations culturelles au sein du musée.
 
