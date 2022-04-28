@@ -1,7 +1,6 @@
 ---
 title: Mécénat
 published: false
-
 ---
 sa création, le mécénat est un des objectifs Depuis les fondamentaux de notre Association.   
 La liste des oeuvres ainsi que les données à nos musées au titre du mécénat sont importantes...
