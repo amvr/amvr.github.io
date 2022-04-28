@@ -1,5 +1,6 @@
 ---
 title: 'Activités du mois '
+published: false
 
 ---
 ### Activités du Mois de Mai
@@ -27,20 +28,20 @@ Jeudi **19** mai 15h et 16h30
 **Une heure au Musée**   
 **_"Bleu" -_** Musée des Beaux-Arts
 
-Samedi 21 mai 16h   
-**Une heure au Musée**   
+Samedi 21 mai 16h  
+**Une heure au Musée**  
 **_"Bleu" -_** Musée des Beaux-Arts
 
-Vendredi **13** mai 14h30   
-**Des monuments tissés : Grandes tapisseries françaises du Moyen-âge au XXe siècle**   
+Vendredi **13** mai 14h30  
+**Des monuments tissés : Grandes tapisseries françaises du Moyen-âge au XXe siècle**  
 **_"Un chef-d'oeuvre des années 1500 : La Dame à la licorne (musée de Cluny)"_**  
- par Béatrice de Chancel Bardelot, conservatrice générale au musée de Cluny
+par Béatrice de Chancel Bardelot, conservatrice générale au musée de Cluny
 
 Auditorium du musée des Beaux-Arts.
 
-Vendredi **20** mai 14h30   
-**Des monuments tissés : Grandes tapisseries françaises du Moyen-âge au XXe siècle**   
+Vendredi **20** mai 14h30  
+**Des monuments tissés : Grandes tapisseries françaises du Moyen-âge au XXe siècle**  
 **_"La tapisserie de Bayeux"_**  
- par Pierre Boué, maître de conférence honoraire de l'université de Caen
+par Pierre Boué, maître de conférence honoraire de l'université de Caen
 
 Auditorium du musée des Beaux-Arts.
