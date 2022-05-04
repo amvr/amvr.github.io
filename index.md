@@ -25,7 +25,7 @@ Et d'animer auprès d'eux les **actions de Mécénat** .
 * [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
-## **Informations sur les flashs**
+## **Informations**
 
 ##### Chers Amis,
 
@@ -51,6 +51,6 @@ Mercredi 11 mai 2022,
 
 **le Musée national d'art de Bohdan et Varvara Khanenko de Kyiv**
 
-**Par**  **Liudmyla Kravchenko,**
+**Par**   **Liudmyla Kravchenko,**
 
 Chercheuse invitée au Centre de recherche de l'École du Louvre,
