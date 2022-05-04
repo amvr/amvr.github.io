@@ -1,8 +1,9 @@
 ---
 title: Bienvenue
 published: false
+
 ---
-Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d'Art de Rouen**     **_"AMAR"_** depuis janvier 2019, mais restent attachés aux 3 musées d'art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
+Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d'Art de Rouen**      **_"AMAR"_** depuis janvier 2019, mais restent attachés aux 3 musées d'art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
 Nombre d'adhérents : **plus de _900_** en 2020-2021.
 
@@ -36,3 +37,21 @@ Les **Amis des Musées d'Art de Rouen** et les **Amis des Musées de la Métropo
 Les personnalités invitées, conservatrices et conservatrices de musées, historiennes et historiennes de l'art ou du cinéma, écrivaines et écrivains, cinéastes, artistes visuels, etc., font entendre d'autres voix que celles des armes, en rappelant la **_richesse et la diversité de l'apport culturel de l'Ukraine_** au patrimoine universel, qui a résulté d'échanges et de dialogues permanents, y compris au sein des conflits qui ont marqué ces « terres de sang ». Elles s'engagent en faveur d'un arrêt des combats, de la souveraineté de l'Ukraine sur son territoire et de la préservation des vies et des biens culturels, matériels et immatériels.
 
 Suite de la programmation
+
+Mercredi 4 mai 2022,
+
+**Odessa, Paris, New-York : l'oeuvre et la vie de Philippe Hosiasson**
+
+**Par Germain Viatte**
+
+Né à Odessa en 1898, Philippe Hosiasson a grandi dans un environnement culturel d'une richesse inouïe, en résonance avec les grands mouvements d'avant-garde européens. Installé à Paris en 1924, il devient l'un des acteurs importants de l'École de Paris. Résolument abstrait à partir de 1947, il est remarqué par le célèbre critique américain Clement Greenberg, exposé à New York et côtoie la fine fleur de l'expressionnisme abstrait américain.
+
+Germain Viatte, directeur honoraire du Musée national d'art moderne, a organisé l'exposition « Mémoire d'Odessa » à la Vieille Charité en 1989, lorsqu'il dirigeait les musées de Marseille. Il revient sur le parcours hors norme de cet artiste, qui a traversé tous les lieux où s'est joué le XXe siècle, et démontre la force et l'originalité de son langage : un vocabulaire tellurique dans lequel la matière et le coloris sont d 'une puissance peu commune.
+
+Mercredi 11 mai 2022,
+
+**le Musée national d'art de Bohdan et Varvara Khanenko de Kyiv**
+
+**Par**  **Liudmyla Kravchenko,**
+
+Chercheuse invitée au Centre de recherche de l'École du Louvre,
