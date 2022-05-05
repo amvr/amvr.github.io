@@ -1,15 +1,9 @@
 ---
 title: 'Activités du mois '
+published: false
 
 ---
 ### Activités du Mois de Mai
-
-Samedi **30** Avril à 14h30   
-**Mémoire , Art et Destruction**   
-**_Damnatio memoriae_ et destruction dans l'Antiquité**  
- par Sophie Rochefort-Guillouet
-
-Auditorium du musée des Beaux-Arts
 
 Samedi **7** mai 14h30   
 **Mémoire, art et destruction**   
