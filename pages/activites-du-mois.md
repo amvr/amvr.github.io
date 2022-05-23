@@ -1,6 +1,5 @@
 ---
 title: 'Activités du mois '
-published: false
 
 ---
 ### Activités du Mois de Mai
