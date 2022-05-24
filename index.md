@@ -34,10 +34,8 @@ En lien avec la Réunion des Musées Métropolitains Rouen-Normandie (RMM), l'In
 Les **Amis des Musées d'Art de Rouen** et les **Amis des Musées de la Métropole et du Département** participent à l'organisation de cet événement exceptionnel : **tous les mercredis** , se tiendront au Musée des Beaux-Arts de Rouen des conférences sur les arts , **_l'histoire et le patrimoine de l'Ukraine_** , dont certaines seront reprises à l'INHA. Les fonds retenus lors des entrées seront utilisés pour couvrir les frais de production et de diffusion.
 
 Les personnalités invitées, conservatrices et conservatrices de musées, historiennes et historiennes de l'art ou du cinéma, écrivaines et écrivains, cinéastes, artistes visuels, etc., font entendre d'autres voix que celles des armes, en rappelant la **_richesse et la diversité de l'apport culturel de l'Ukraine_** au patrimoine universel, qui a résulté d'échanges et de dialogues permanents, y compris au sein des conflits qui ont marqué ces « terres de sang ». Elles s'engagent en faveur d'un arrêt des combats, de la souveraineté de l'Ukraine sur son territoire et de la préservation des vies et des biens culturels, matériels et immatériels.
-
-Suite de la programmation **Mercredi 25 mai à 14h30, auditorium du musée des Beaux-Arts, Rouen  
-
-« Marie Bashkirtseff, de Poltava à Paris : une peintre “citoyenne ?” »**
+**Suite de la programmation  
+ Mercredi
 Par Sylvie Patry (musée d’Orsay)  
 À la fin du XIX e siècle, Paris se vit comme la capitale internationale des arts.
 Peintres, sculpteurs, musiciens venus d’Europe, d’Amérique et d’Asie affluent pour
