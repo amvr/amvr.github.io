@@ -1,6 +1,6 @@
 ---
 title: Mécénat
-published: false
+
 ---
 sa création, le mécénat est un des objectifs Depuis les fondamentaux de notre Association.   
 La liste des oeuvres ainsi que les données à nos musées au titre du mécénat sont importantes...
@@ -88,15 +88,15 @@ Une magnifique frise en ferronnerie du XVIIe siècle a été offerte au musée L
 
 ## 2016
 
-Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d'une dame au chapeau noir »** , datant de 1787, dans son état d'origine (toile, châssis, cadre ovale, verre).   
+Un pastel de François-Bruno Deshays de Colleville (né à Rouen en 1729- mort en 1815), **« Portrait d'une dame au chapeau noir »** , datant de 1787, dans son état d'origine (toile, châssis, cadre ovale, verre).  
 [Portrait d'une Dame au chapeau noir](/fichiers/oeuvres/2016-deshays-de-colleville.jpg)  
- Ce tableau a été restauré et est suspendu au Musée des Beaux-Arts.
+Ce tableau a été restauré et est suspendu au Musée des Beaux-Arts.
 
-**Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillées de cuivre, elles entraîneront une partie de la fontaine monumentale renforcée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.   
+**Restauration des deux réverbères** subsistant de la Fontaine Sainte-Marie : habillées de cuivre, elles entraîneront une partie de la fontaine monumentale renforcée entre 1874 et 1879 sur le site du réservoir de la place Sainte-Marie à Rouen.  
 [Restauration des réverbères](/fichiers/oeuvres/2016-reverbere.jpg)  
- Œuvre de l'architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s'organisait autour d'un escalier monumental semi-circulaire renfermant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrées au monument, spécialement dessinées aux armes de la ville et surmontées d'un globe de verre.
+Œuvre de l'architecte Pierre-Édouard de Perthes associé au sculpteur Alexandre Falguière, la fontaine s'organisait autour d'un escalier monumental semi-circulaire renfermant une vasque surmontée de trois groupes allégoriques. Quatre réverbères étaient intégrées au monument, spécialement dessinées aux armes de la ville et surmontées d'un globe de verre.
 
-**« David et Goliath »** , de Philippe-Auguste Jeanron (1808-1877), un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D'où l'intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ».   
+**« David et Goliath »** , de Philippe-Auguste Jeanron (1808-1877), un artiste connu pour ses scènes de genre mais pas pour la veine religieuse. D'où l'intérêt de ce tableau, qui date de 1946, et qui fait le pendant à un tableau déjà exposé au MBA « La décollation de Saint Jean-Baptiste ».  
 [Jeanron David et Goliath.jpg](/fichiers/oeuvres/2016-jeanron-david-et-goliath.jpg)
 
 **1ere Nuit des étudiants le 31 mars 2016** : organisée en collaboration avec la Métropole et le Conservatoire de Rouen à rayonnement régional. Soirée très festive avec de nombreuses animations. Sur un compte de 718 étudiants dans les salles du MBA, qui, pour certains, entreraient dans ce musée pour la première fois.
