@@ -35,12 +35,10 @@ Les **Amis des Musées d'Art de Rouen** et les **Amis des Musées de la Métropo
 
 Les personnalités invitées, conservatrices et conservatrices de musées, historiennes et historiennes de l'art ou du cinéma, écrivaines et écrivains, cinéastes, artistes visuels, etc., font entendre d'autres voix que celles des armes, en rappelant la **_richesse et la diversité de l'apport culturel de l'Ukraine_** au patrimoine universel, qui a résulté d'échanges et de dialogues permanents, y compris au sein des conflits qui ont marqué ces « terres de sang ». Elles s'engagent en faveur d'un arrêt des combats, de la souveraineté de l'Ukraine sur son territoire et de la préservation des vies et des biens culturels, matériels et immatériels.
 
-Suite de la programmation
+Suite de la programmation **Mercredi 25 mai à 14h30, auditorium du musée des Beaux-Arts, Rouen  
 
-mercenaire
-Mercredi 25 mai à 14h30, auditorium du musée des Beaux-Arts, Rouen
-« Marie Bashkirtseff, de Poltava à Paris : une peintre “citoyenne ?” »
-Par Sylvie Patry (musée d’Orsay)
+« Marie Bashkirtseff, de Poltava à Paris : une peintre “citoyenne ?” »**
+Par Sylvie Patry (musée d’Orsay)  
 À la fin du XIX e siècle, Paris se vit comme la capitale internationale des arts.
 Peintres, sculpteurs, musiciens venus d’Europe, d’Amérique et d’Asie affluent pour
 s’y former, y faire carrière. Parmi ces artistes, Marie Bashkirtseff a un destin aussi
@@ -69,9 +67,8 @@ de la collection Barnes. Elle prépare entre autres une exposition sur la premi�
 exposition impressionniste de 1874 qui sera présentée en 2024 au musée d’Orsay et
 à la National Gallery de Washington.
 
-Mercredi 1 er juin à 14 h 30, auditorium du musée des Beaux-Arts, Rouen
-L&#39;Ukraine au temps de l&#39;éveil des nations (1876-1905)
-Résumé : Au tournant des XIXe et XXe siècles, le territoire de l&#39;Ukraine actuelle est
+Mercredi 1 er juin à 14 h 30, auditorium du musée des Beaux-Arts, Rouen**L&#39;Ukraine au temps de l&#39;éveil des nations (1876-1905)****
+Résumé : Au tournant des XIXe et XXe siècles, le territoire de l&#39;Ukraine actuelle est**
 partagé entre les empires russe et austro-hongrois. Au croisement de plusieurs
 cultures, l&#39;Ukraine oscille entre affirmation de ses particularités et intégration aux
 réseaux européens. Avec cette conférence, nous souhaitons proposer une synthèse
