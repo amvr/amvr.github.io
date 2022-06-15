@@ -46,13 +46,9 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## Voyages à venir
 
-#### Escapade au Mont Saint Michel
+#### Parenthèse angevine
 
-3 jours/2 nuits , _suite au cycle proposé en page 12 du programme 2019-2020                                                                                                                                                                            **est prévu au printemps 2022**_
-
-#### Rome
-
-"Au coeur de Rome - autour du baroque" prévu du **_11 au 15 octobre 2021_**
+à la découverte d'Angers voyage qui sera programmé en **_Septembre 2022_**
 
 #### Weimar et Dessau
 
