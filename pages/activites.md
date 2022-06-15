@@ -17,8 +17,8 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 du Mardi 4 ou Samedi 8 Octobre 2022,  
 _Réservation préférable d'ici mi-juillet._
 
-* Télécharger le programme du séjour en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/amar-programme-angevine-angers.pdf)
-* Télécharger le bulletin de réservation du séjour en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/amar-programme-angevine-angers.pdf)
+* Télécharger le programme du séjour en [**cliquant ici**](/fichiers/programme-voyage-bauhaus-2022-4-au-8-oct-2022-1-combine.pdf)
+* Télécharger le bulletin de réservation du séjour en[ **cliquant ici**](/fichiers/bulletin-d-inscription-voyage-bahaus4-au-8-oct-2022.pdf)
 
 Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
