@@ -1,5 +1,6 @@
 ---
 title: Activités de la saison 2022-2023
+published: false
 
 ---
 ## Parenthèse angevine
@@ -14,7 +15,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## Escapade culturelle à Weimar et Dessau
 
-du Mardi 4 ou Samedi 8 Octobre 2022,  
+du Mardi 4 ou Samedi 8 Octobre 2022,   
 _Réservation préférable d'ici mi-juillet._
 
 * Télécharger le programme du séjour en [**cliquant ici**](/fichiers/programme-voyage-bauhaus-2022-4-au-8-oct-2022-1-combine.pdf)
@@ -26,7 +27,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## La plaquette 2022-2023
 
-* Télécharger la brochure 2022-2023 [Download File]( "Download File")
+* Télécharger la brochure 2022-2023 Télécharger le fichier(
 
 ***
 
