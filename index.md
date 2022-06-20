@@ -2,7 +2,7 @@
 title: Bienvenue
 
 ---
-Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d'Art de Rouen**           **_"AMAR"_** depuis janvier 2019, mais restent attachés aux 3 musées d'art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
+Les _Amis des Musées de la Ville de Rouen_ ont laissé la place aux **Amis des Musées d'Art de Rouen**            **_"AMAR"_** depuis janvier 2019, mais restent attachés aux 3 musées d'art de la Métropole Rouen Normandie : musée des Beaux-Arts, musée de la céramique et musée Le Secq des Tournelles.
 
 Nombre d'adhérents : **plus de _900_** en 2020-2021.
 
@@ -20,9 +20,10 @@ Et d'animer auprès d'eux les **actions de Mécénat** .
 
 ***
 
-## Programmation 2021-2022
+## Programmation2022-2023
 
-* [Télécharger la brochure](/fichiers/brochure-amar-2021-2022.pdf)
+Télécharger la brochure [Télécharger le fichier]( "Download File")
+
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
 ## **Informations**
@@ -49,34 +50,34 @@ Michel Gutierrez est élève-conservateur du patrimoine à l'Institut national d
 
 We are Ukrainiens, Whatelsematters, par Claire Staebler Entre 2007 et 2009, Claire Staebler est directrice artistique du Pinchuk Art Centre pour lequel elle organise également le Pavillon ukrainien à la Biennale de Venise en 2007. Au lendemain de la Révolution Orange elle est le témoin de l'émergence d'une scène artistique à Kiev dont l'énergie semble surgir de ce contexte en pleine émulation politique, sociale et culturelle. Entre espoir et dissidence, cet événement provoque l'apparition de nouvelles pratiques individuelles et collectives hors de toute institution. Claire Staebler est commissaire d’expositions et critique d’art. Elle dirige depuis mars 2022 le FRAC des Pays de la Loire sur les deux sites de Nantes et de Carquefou. Elle a été commissaire d’exposition au Palais de Tokyo à Paris de 2002 à 2007, puis commissaire à la Fondation Louis Vuitton de 2012 à 2022. En tant que commissaire d’exposition indépendante elle a collaboré à La Triennale, Intense Proximité, Palais de Tokyo, Paris (2010 - 2012) sous la direction artistique de OkwuiEnwezor. Elle a réalisé différentes expositions tel que Machruk, Appartement 22 Rabat (2019), Le Meilleur des Mondes, Kunsthalle Mulhouse (2016), La Fabrique sonore, Expérience Pommery#9, Reims (2011), Transaction Abstraite,Charles Atlas, Mika Tajima, New Galerie, Paris (2011), Retrait, Fondation d’entreprise Ricard, Paris (2007), . Elle collabore avec plusieurs publications spécialisées dont les revues Flashart, Idea, l’Officiel Art et Zérodeux.
 
-**Mercredi 15 juin à 14h30  
-  
- _L’Ukraine moderne et contemporaine au musée_**_,  
+\**Mercredi 15 juin à 14h30
+
+_L’Ukraine moderne et contemporaine au musée_**_,  
 _  
 par **Nicolas Liucci-Goutnikov**, conservateur au Centre Pompidou, Musée national d'art moderne, commissaire d'exposition (Rouge, Grand Palais 2018, Prix Marcel Duchamp, Centre Pompidou.
 
-**Mercredi 22 juin à 14h30**  
-  
-**_Des mémoires ukrainiennes comme patrimoine : dettes et reviviscences de l’histoire_**,  
-  
-par **Véronique Dassié**, accompagnée de **Mme Sylvie Orlyck**, de l'association des Ukrainiens du Gâtinais.  
-  
-**Véronique Dassié** est anthropologue, chargée de recherche à Héritages (UMR 9022, CNRS, Ministère de la Culture, CY Cergy Paris Université) et chargée de cours au département d’anthropologie d’Aix-Marseille Université. Depuis 2021, elle est membre du comité de rédaction de la revue _Ethnologie Française_. Ses recherches portent sur l’anthropologie des objets d’affection, les engagements conservatoires, les cultures environnementales et les dynamiques ethno-artistiques.  
-  
-La France est dépositaire d’un héritage mémoriel et d'un patrimoine culturel immatériel et matériel ukrainien qui reste peu connu. Sa présence prend une importance nouvelle au prisme de la guerre qui frappe le territoire de l'Ukraine aujourd'hui. Véronique Dassié, reviendra sur les circonstances de cette présence de la culture ukrainienne en France et sur la manière dont les dépositaires de ce patrimoine se mobilisent dans le Loiret pour sa sauvegarde depuis les années 2000.  
-   
-**Sylvie Orlyk**, en tant que témoin, concernée et impliquée dans la conservation des mémoires présentera des exemples de chants que la chorale Kobzar (Chalette-sur-Loing) a contribué à sauvegarder au-delà des frontières de l'Ukraine depuis les années 1960.  
-  
-**Mercredi 29 juin à 14h30**  
-  
-**_Anne de Kyiv_**,  
-  
-par **Isabelle Le Masne de Chermont**, Directrice du Département des manuscrits à la BNF  
-  
-Anne de Kyiv devient reine de France par son mariage avec le roi Henri 1er et symbolise les liens qui unissent la France et l’ukraine. La Bibliothèque nationale de France conserve un acte royal rédigé en latin sur parchemin et qui porte la signature de la reine.  
-  
-**_Théodore Akimenko (compositeur ukrainien 1876 – 1945)_**,   
-  
-par **Mathias Auclair**, Directeur du Département Musique à la BNF   
-  
+**Mercredi 22 juin à 14h30**
+
+**_Des mémoires ukrainiennes comme patrimoine : dettes et reviviscences de l’histoire_**,
+
+par **Véronique Dassié**, accompagnée de **Mme Sylvie Orlyck**, de l'association des Ukrainiens du Gâtinais.
+
+**Véronique Dassié** est anthropologue, chargée de recherche à Héritages (UMR 9022, CNRS, Ministère de la Culture, CY Cergy Paris Université) et chargée de cours au département d’anthropologie d’Aix-Marseille Université. Depuis 2021, elle est membre du comité de rédaction de la revue _Ethnologie Française_. Ses recherches portent sur l’anthropologie des objets d’affection, les engagements conservatoires, les cultures environnementales et les dynamiques ethno-artistiques.
+
+La France est dépositaire d’un héritage mémoriel et d'un patrimoine culturel immatériel et matériel ukrainien qui reste peu connu. Sa présence prend une importance nouvelle au prisme de la guerre qui frappe le territoire de l'Ukraine aujourd'hui. Véronique Dassié, reviendra sur les circonstances de cette présence de la culture ukrainienne en France et sur la manière dont les dépositaires de ce patrimoine se mobilisent dans le Loiret pour sa sauvegarde depuis les années 2000.
+
+**Sylvie Orlyk**, en tant que témoin, concernée et impliquée dans la conservation des mémoires présentera des exemples de chants que la chorale Kobzar (Chalette-sur-Loing) a contribué à sauvegarder au-delà des frontières de l'Ukraine depuis les années 1960.
+
+**Mercredi 29 juin à 14h30**
+
+**_Anne de Kyiv_**,
+
+par **Isabelle Le Masne de Chermont**, Directrice du Département des manuscrits à la BNF
+
+Anne de Kyiv devient reine de France par son mariage avec le roi Henri 1er et symbolise les liens qui unissent la France et l’ukraine. La Bibliothèque nationale de France conserve un acte royal rédigé en latin sur parchemin et qui porte la signature de la reine.
+
+**_Théodore Akimenko (compositeur ukrainien 1876 – 1945)_**,
+
+par **Mathias Auclair**, Directeur du Département Musique à la BNF
+
 Les manuscrits de Théodore Akimenko sont conservés dans les fonds du Département de la Musique de la BNF.
