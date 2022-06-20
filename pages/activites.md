@@ -1,5 +1,5 @@
 ---
-title: Activités de la saison 2021-2022
+title: Activités de la saison 2022-2023
 
 ---
 ## Parenthèse angevine
@@ -18,15 +18,15 @@ du Mardi 4 ou Samedi 8 Octobre 2022,
 _Réservation préférable d'ici mi-juillet._
 
 * Télécharger le programme du séjour en [**cliquant ici**](/fichiers/programme-voyage-bauhaus-2022-4-au-8-oct-2022-1-combine.pdf)
-* Télécharger le bulletin de réservation du séjour en[ **cliquant ici**](/fichiers/bulletin-d-inscription-voyage-bahaus4-au-8-oct-2022.pdf)
+* Télécharger le bulletin de réservation du séjour en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/bulletin-d-inscription-voyage-bahaus4-au-8-oct-2022.pdf)[ ](/fichiers/bulletin-d-inscription-voyage-bahaus4-au-8-oct-2022.pdf)
 
 Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
 ***
 
-## La plaquette 2021-2022
+## La plaquette 2022-2023
 
-* Télécharger la brochure 2021-2022 [brochure-amar-2021-2022.pdf](/fichiers/brochure-amar-2021-2022.pdf "brochure-amar-2021-2022.pdf")
+* Télécharger la brochure 2022-2023 [Download File]( "Download File")
 
 ***
 
@@ -48,8 +48,8 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 #### Parenthèse angevine
 
-à la découverte d'Angers voyage qui sera programmé en **_Septembre 2022_**
+à la découverte d'Angers voyage qui sera programmé en **_septembre 2022_**
 
 #### Weimar et Dessau
 
-villes fondatrices du **Bauhaus** voyage qui sera programmé en **_Octobre 2022_**
+villes fondatrices du **Bauhaus** voyage qui sera programmé en **_octobre 2022_**
