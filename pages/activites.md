@@ -1,6 +1,5 @@
 ---
 title: Activités de la saison 2022-2023
-published: false
 
 ---
 ## Parenthèse angevine
