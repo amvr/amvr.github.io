@@ -1,5 +1,6 @@
 ---
 title: Activités de la saison 2022-2023
+published: false
 
 ---
 ## Parenthèse angevine
@@ -26,7 +27,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## La plaquette 2022-2023
 
-* Télécharger la brochure 2022-2023 [Download File]( "Download File")
+* Télécharger la brochure 2022-2023  
 
 ***
 
