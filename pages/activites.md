@@ -26,7 +26,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## La plaquette 2022-2023
 
-* Télécharger la brochure 2022-2023 Télécharger le fichier(
+* Télécharger la brochure 2022-2023 Télécharger la fiche [eetat-final-brochure_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
 
 ***
 
