@@ -22,7 +22,7 @@ Et d'animer auprès d'eux les **actions de Mécénat** .
 
 ## Programmation2022-2023
 
-Télécharger la brochure Télécharger le fichier [Télécharger le fichier ]( "Download File")                                                                                           [eetat-final-brochure_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
+Télécharger la brochure  [Télécharger le fichier ]( "Download File"):                                                                                           [eetat-final-brochure_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
 
 * [Consulter les Programmes dans la rubrique "Activités"](/pages/activites.html)
 
