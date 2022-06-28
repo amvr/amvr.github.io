@@ -14,7 +14,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## Escapade culturelle à Weimar et Dessau
 
-du Mardi 4 ou Samedi 8 Octobre 2022,   
+du Mardi 4 ou Samedi 8 Octobre 2022,  
 _Réservation préférable d'ici mi-juillet._
 
 * Télécharger le programme du séjour en [**cliquant ici**](/fichiers/programme-voyage-bauhaus-2022-4-au-8-oct-2022-1-combine.pdf)
@@ -26,7 +26,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## La plaquette 2022-2023
 
-* Télécharger la brochure 2022-2023 Télécharger la fiche                                                                                          [eetat-final-brochure_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
+* Télécharger la brochure 2022-2023                                                                                          [eetat-final-brochure_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
 
 ***
 
