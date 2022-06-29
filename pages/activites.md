@@ -2,6 +2,14 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Une journée à Deauville
+
+* Télécharger le formulaire et programme du séjour en [**cliquant ici**](/fichiers/deauville-29-sept-2022.pdf)
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
+***
+
 ## Parenthèse angevine
 
 Réservation possible jusqu'au 15 juillet 2022.
