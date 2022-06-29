@@ -4,7 +4,7 @@ title: Activités de la saison 2022-2023
 ---
 ## Parenthèse angevine
 
-Réservation possible jusqu'au 20 juin 2022.
+Réservation possible jusqu'au 15 juillet 2022.
 
 * Télécharger le formulaire et programme du séjour en [**cliquant ici**](/fichiers/amar-programme-angevine-angers.pdf)
 
