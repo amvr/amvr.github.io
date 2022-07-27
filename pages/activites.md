@@ -2,7 +2,19 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Une journée au Havre
+
+**_Jeudi 13 octobre 2022_**
+
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/sortie-le-havre-13-10-2022.pdf)
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
+***
+
 ## Une journée à Deauville
+
+**_Jeudi 29 septembre 2022_**
 
 * Télécharger le formulaire et programme du séjour en [**cliquant ici**](/fichiers/deauville-29-sept-2022.pdf)
 
@@ -12,7 +24,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## Parenthèse angevine
 
-Réservation possible jusqu'au 15 juillet 2022.
+**_du samedi 10 au mardi 13 septembre 2022_**
 
 * Télécharger le formulaire et programme du séjour en [**cliquant ici**](/fichiers/amar-programme-angevine-angers.pdf)
 
@@ -22,7 +34,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## Escapade culturelle à Weimar et Dessau
 
-du Mardi 4 ou Samedi 8 Octobre 2022,  
+**_du Mardi 4 ou Samedi 8 Octobre 2022,_**  
 _Réservation préférable d'ici mi-juillet._
 
 * Télécharger le programme du séjour en [**cliquant ici**](/fichiers/programme-voyage-bauhaus-2022-4-au-8-oct-2022-1-combine.pdf)
