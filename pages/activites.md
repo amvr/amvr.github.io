@@ -2,6 +2,17 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Voyage en Sicile ( test)
+
+**_Du 8 au 17 octobre 2023_**
+
+* Télécharger le formulaire d'inscription et le programme du voyage en [**cliquant ici**](/fichiers/voyage-en-sicile-test.pdf)
+* Attention, le descriptif comporte 15 pages, il est recommandé de le lire en entier
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
+***
+
 ## Une journée au Havre
 
 **_Jeudi 13 octobre 2022_**
