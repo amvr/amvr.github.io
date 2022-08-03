@@ -6,6 +6,16 @@ title: Activités de la saison 2022-2023
 
 **_Jeudi 13 octobre 2022_**
 
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/sortie-le-havre-13-10-2022.pdf)
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
+***
+
+## Une journée au Havre
+
+**_Jeudi 13 octobre 2022_**
+
 * Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/sortie-le-havre-13-10-2022.pdf)
 
 Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
