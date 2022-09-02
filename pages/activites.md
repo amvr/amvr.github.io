@@ -2,13 +2,6 @@
 title: Activités de la saison 2022-2023
 
 ---
-## Un voyage à Madrid
-
-**_Du 15 au 24 novembre 2022_**
-
-* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/amar-programme-angevine-angers-1.pdf)
-
-Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
 ***
 
