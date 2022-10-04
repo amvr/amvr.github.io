@@ -2,7 +2,7 @@
 title: Activités de la saison 2022-2023
 
 ---
-## Voyages aux îles Fidji (test)
+## Voyages aux îles Fidji (test formation en cours)
 
 **_Du 15 au 30 Novembre 2022_**
 
