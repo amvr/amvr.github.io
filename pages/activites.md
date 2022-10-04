@@ -2,6 +2,16 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Voyages aux îles Fidji
+
+**_Du 15 au 30 Novembre 2022_**
+
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/amar-paris-23-nov-2022.pdf)
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
+***
+
 ## Sortie à Paris
 
 **_Mercredi 23 novembre 2022_**
