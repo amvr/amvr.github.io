@@ -2,6 +2,13 @@
 title: Activités de la saison 2022-2023
 
 ---
+## VOYAGE AUX ILES FIDJI
+
+**_du 11 au 25 novembre 2022_**
+
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/programme-voyage-au-coeur-des-iles-fidji-novembre-2022.pdf)
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
 ***
 
