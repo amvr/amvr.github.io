@@ -2,6 +2,15 @@
 title: Activités de la saison 2022-2023
 
 ---
+***
+
+## Voyage en Sicile
+
+**_Prévu du 3 au 9 octobre 2023_**
+
+* Voir le courrier d'information en [**cliquant ici**](/fichiers/voyage-sicile-3-a-9-oct-23.pdf)
+
+Le formulaire de réservation sera disponible courant janvier 2023, nous vous tiendrons informés très prochainement.
 
 ***
 
