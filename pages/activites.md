@@ -2,6 +2,14 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Voyage en Saintonge
+
+**_Prévu du 30 mai au 2 juin 2023_**
+
+* Voir le courrier d'information en [**cliquant ici**](/fichiers/voyage-en-saintonge-mai-2023.pdf)
+
+Le formulaire de réservation sera disponible prochainement, nous vous tiendrons informés.
+
 ***
 
 ## Voyage en Sicile
