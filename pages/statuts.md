@@ -10,4 +10,4 @@ Voici les statuts agréés par le ministère de l'intérieur
 
 Voici le projet du règlement intérieur à valider lors de l'AG du 6 décembre 2022 :
 
-[Consulter le projet du règlement intérieur](/fichiers/reglmt-int-10-2023-entete.pdf)
+[Consulter le projet du règlement intérieur](/fichiers/reglement-interieur-forestry.pdf)
