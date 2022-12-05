@@ -8,7 +8,6 @@ fields:
     required: false
   label: Titre
 pages:
-- pages/actualites.md
 - pages/depliant-amar-pour-web.pdf/depliant.md
 - pages/griffon.md
 - pages/mecenat/portail-des-libraires.md
