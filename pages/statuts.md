@@ -8,6 +8,12 @@ Voici les statuts agréés par le ministère de l'intérieur
 
 [Télécharger les statuts](/fichiers/statuts-du-7-_09_2020.pdf)
 
+## Assemblée générale du 6 Décembre 2022
+
+Veuillez trouver ci-dessous les documents annexes pour l'assemblée générale :
+
+* [consulter les documents financiers de l'association AMAR](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/documents-financiers-amar-2022.pdf)
+
 Voici le projet du règlement intérieur à valider lors de l'AG du 6 décembre 2022 :
 
-[Consulter le projet du règlement intérieur](/fichiers/reglement-interieur-forestry.pdf)
+* [Consulter le projet du règlement intérieur](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/reglement-interieur-forestry.pdf)
