@@ -8,7 +8,7 @@ Vendredi 16 décembre 2022
 
 ***
 
-* Voir le courrier d'information en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/voyage-en-saintonge-mai-2023.pdf)
+* Voir le courrier d'information en [**cliquant ici**](/fichiers/chateau-de-moulineaux.pdf)
 
 ***
 
