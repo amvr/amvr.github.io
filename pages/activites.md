@@ -96,7 +96,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## Bilan de la Saison 2019-2020
 
-[Consulter la présentation pour l' **AG**](/fichiers/activites-2020-v3-1.pdf) (format PDF)
+[Consulter la présentation pour l' **AG**](/fichiers/activites-2020-v3-1.pdf) (format PDF).
 
 ***
 
