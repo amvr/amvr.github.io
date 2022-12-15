@@ -6,7 +6,7 @@ title: Activités de la saison 2022-2023
 
 Vendredi 16 décembre 2022
 
-Voir le courrier d'information en [**cliquant ici**](/fichiers/chateau-de-moulineaux.pdf)
+* Voir le courrier d'information en [**cliquant ici**](/fichiers/chateau-de-moulineaux.pdf)
 
 ***
 
