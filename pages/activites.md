@@ -6,11 +6,7 @@ title: Activités de la saison 2022-2023
 
 Vendredi 16 décembre 2022
 
-***
-
-* Voir le courrier d'information en [**cliquant ici**](/fichiers/chateau-de-moulineaux.pdf)
-
-***
+Voir le courrier d'information en [**cliquant ici**](/fichiers/chateau-de-moulineaux.pdf)
 
 ***
 
@@ -36,7 +32,7 @@ Le formulaire de réservation sera disponible courant janvier 2023, nous vous ti
 
 ## Sortie à Paris
 
-**_Mercredi 23 novembre 2022_**
+**_mercredi 23 novembre 2022_**
 
 * Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/amar-paris-23-nov-2022.pdf)
 
