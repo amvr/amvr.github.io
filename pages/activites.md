@@ -2,6 +2,18 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Vendredis de la Métropole : le château de Moulineaux
+
+Vendredi 16 décembre 2022
+
+***
+
+* Voir le courrier d'information en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/voyage-en-saintonge-mai-2023.pdf)
+
+***
+
+***
+
 ## Voyage en Saintonge
 
 **_Prévu du 30 mai au 2 juin 2023_**
