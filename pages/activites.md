@@ -7,7 +7,6 @@ title: Activités de la saison 2022-2023
 **_Du 3 au 9 octobre 2023_**
 
 * Voir le courrier d'inscription en [**cliquant ici**](/fichiers/vr-sicile-lettre-envoi-adherents.pdf)
-* Voir le courrier d'information en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/voyage-sicile-3-a-9-oct-23.pdf)
 
 Vous retrouvez toutes les informations du programme et des réservations dans le courrier d'inscription
 
