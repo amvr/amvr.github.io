@@ -2,6 +2,19 @@
 title: Activités de la saison 2022-2023
 
 ---
+## Voyage en Sicile
+
+**_Du 3 au 9 octobre 2023_**
+
+* Voir le courrier d'inscription en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/vr-sicile-lettre-envoi-adherents.pdf)
+
+
+* Voir le courrier d'information en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/voyage-sicile-3-a-9-oct-23.pdf)
+
+Vous retrouvez toutes les informations du programme et des réservations dans le courrier d'inscription
+
+***
+
 ## Vendredis de la Métropole : le château de Moulineaux
 
 Vendredi 16 décembre 2022
@@ -17,16 +30,6 @@ Vendredi 16 décembre 2022
 * Voir le courrier d'information en [**cliquant ici**](/fichiers/voyage-en-saintonge-mai-2023.pdf)
 
 Le formulaire de réservation sera disponible prochainement, nous vous tiendrons informés.
-
-***
-
-## Voyage en Sicile
-
-**_Prévu du 3 au 9 octobre 2023_**
-
-* Voir le courrier d'information en [**cliquant ici**](/fichiers/voyage-sicile-3-a-9-oct-23.pdf)
-
-Le formulaire de réservation sera disponible courant janvier 2023, nous vous tiendrons informés très prochainement.
 
 ***
 
