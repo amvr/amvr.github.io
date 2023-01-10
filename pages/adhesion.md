@@ -24,7 +24,7 @@ Pour commencer à les découvrir voici un aperçu :
 
 En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collections des musées de votre ville.
 
-[Télécharger le bulletin d'adhésion 2022-2023]()
+[Télécharger le bulletin d'adhésion 2022-2023](/fichiers/brochure-2022-2023.pdf)
 
 ## Avantages réservés aux adhérents de l’Association
 
