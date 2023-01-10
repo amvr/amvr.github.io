@@ -1,6 +1,6 @@
 ---
 title: Adhérer à l'association
-published: true
+
 ---
 Vous aimez votre ville, vous aimez ses musées métropolitains gratuits :
 
@@ -24,7 +24,7 @@ Pour commencer à les découvrir voici un aperçu :
 
 En adhérant, vous deviendrez mécènes et contribuerez à enrichir les collections des musées de votre ville.
 
-[Télécharger le bulletin d'adhésion 2021-2022](/fichiers/brochure-amar-2021-2022.pdf)
+[Télécharger le bulletin d'adhésion 2022-2023]()
 
 ## Avantages réservés aux adhérents de l’Association
 
