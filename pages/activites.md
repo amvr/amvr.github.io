@@ -2,33 +2,11 @@
 title: Activités de la saison 2022-2023
 
 ---
-## Chers amis,
-
-Pour faire suite à notre cycle de conférences « Art Roman », nous vous proposons, un voyage d’application en Charentes maritime, sur les terres servant de référence au propos de notre conférencier : la Saintonge
-
-**Celui-ci se déroulera du 30 mai au 2 juin 2023 inclus**
-
-Vous trouverez le programme ainsi que le bulletin d’inscription en pièces Jointes. Espérant vous compter parmi les participants.
-
-En toute amitié.
-
-Nicole Lepouzé et Anne Genevois.
-
-Voir le courrier d'inscription en [**cliquant ici**](/fichiers/vr-sicile-lettre-e/fichiers/bulletin-d-inscription-saintonge-25189.pdfnvoi-adherents.pdf/fichiers/bulletin-d-inscription-saintonge-25189.pdf)
-
-Vous retrouvez toutes les informations du programme et des réservations dans le courrier d'inscription
-
-***
-
-## Vendredis de la Métropole : le château de Moulineaux
-
-Vendredi 16 décembre 2022
-
-* Voir le courrier d'information en [**cliquant ici**](/fichiers/chateau-de-moulineaux2.pdf)
-
 ***
 
 ## Voyage en Saintonge
+
+Pour faire suite à notre cycle de conférences « Art Roman », nous vous proposons, un voyage d’application en Charentes maritime, sur les terres servant de référence au propos de notre conférencier : la Saintonge
 
 **_Prévu du 30 mai au 2 juin 2023_**
 
