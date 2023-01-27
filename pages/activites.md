@@ -10,7 +10,7 @@ Pour faire suite à notre cycle de conférences « Art Roman », nous vous propo
 
 **_Prévu du 30 mai au 2 juin 2023_**
 
-* Voir le courrier d'information en [**cliquant ici**](/fichiers/voyage-en-saintonge-mai-2023.pdf)
+* Voir le courrier d'information en [**cliquant ici**](/fichiers/document-voyage-en-saintonge-verifie.pdf)
 
 Le formulaire de réservation sera disponible prochainement, nous vous tiendrons informés.
 
