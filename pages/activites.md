@@ -8,7 +8,7 @@ Nous vous proposons en ce début de printemps, **une journée associant musées 
 
 mercredi 12 avril 2023
 
-* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/sortie-le "journée à Saint Germain en LayeEN l")
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichi/fichiers/amar-12-avril-23-une-journee-a-saint-germain.pdfers/sortie-le "journée à Saint Germain en LayeEN l")
 
 Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
