@@ -2,6 +2,16 @@
 title: Activités de la saison 2022-2023
 
 ---
+### **Une journée à Saint Germain en Laye**
+
+Nous vous proposons en ce début de printemps, **une journée associant musées et jardins.**
+
+mercredi 12 avril 2023
+
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/sortie-le "journée à Saint Germain en LayeEN l")
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
 ***
 
 ## Voyage en Saintonge
