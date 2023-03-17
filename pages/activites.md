@@ -2,9 +2,21 @@
 title: Activités de la saison 2022-2023
 
 ---
-### **Une journée à Saint Germain en Laye**
+## Une journée à Arques la Bataille et Saint Nicolas d'Aliermont
 
-Nous vous proposons en ce début de printemps, **une journée associant musées et jardins** 
+Nous vous proposons la visite de l'église d'Arques la Bataille et du musée de l'horlogerie de Saint Nicolas d'Aliermont.
+
+**le mercredi 5 avril 2023**
+
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/amar-arques-la-bataille-5-avril-2023_.pdf " Arques la Bataille")
+
+Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
+
+***
+
+## Une journée à Saint Germain en Laye
+
+Nous vous proposons en ce début de printemps, **une journée associant musées et jardins**
 
 **le mercredi 12 avril 2023**
 
