@@ -4,11 +4,11 @@ title: Activités de la saison 2022-2023
 ---
 ### **Une journée à Saint Germain en Laye**
 
-Nous vous apprenons en ce début de printemps, **une association musées et jardins.**
+Nous vous proposons en ce début de printemps, **une journée associant musées et jardins** 
 
-mercredi 12 avril 2023
+**le mercredi 12 avril 2023**
 
-* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichi/fichiers/amar-12-avril-23-une-journee-a-saint-germain.pdfers/sortie-le "journée à Saint Germain en LayeEN l")
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/amar-12-avril-23-une-journee-a-saint-germain.pdf "journée à Saint Germain en LayeEN l")
 
 Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
@@ -69,7 +69,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 ## Escapade culturelle à Weimar et Dessau
 
 **_du Mardi 4 ou Samedi 8 Octobre 2022,_**  
- _Réservation préférable d'ici mi-juillet._
+_Réservation préférable d'ici mi-juillet._
 
 * Télécharger le programme du séjour en [**cliquant ici**](/fichiers/programme-voyage-bauhaus-2022-4-au-8-oct-2022-1-combine.pdf)
 * Télécharger le bulletin de réservation du séjour en [**cliquant ici**](https://app.forestry.io/sites/tdpq6h8ne7p4wq/body-media//fichiers/bulletin-d-inscription-voyage-bahaus4-au-8-oct-2022.pdf)[ ](/fichiers/bulletin-d-inscription-voyage-bahaus4-au-8-oct-2022.pdf)
@@ -80,7 +80,7 @@ Le formulaire de réservation est à nous retourner complété par voie postale 
 
 ## La plaquette 2022-2023
 
-* Télécharger la brochure 2022-2023                                                                                                                                                                                                                                               [eetat-final-brochure_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
+* Télécharger la brochure 2022-2023                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 [eetat-brochure-finale_2022_web.pdf](/fichiers/eetat-final-brochure_2022_web.pdf "eetat-final-brochure_2022_web.pdf")
 
 ***
 
