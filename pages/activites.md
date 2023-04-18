@@ -12,7 +12,7 @@ Nous vous proposons la visite de l'Abbaye de Jumièges, du Manoir d'Agnès Sorel
 
 **le mardi 23 mai 2023**
 
-* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](/fichiers/journee-a-jumieges-mai-2023.pdf)
+* Télécharger le formulaire d'inscription et le programme de la journée en [**cliquant ici**](journee-a-jumieges-mai-2023.pdf)
 
 Le formulaire de réservation est à nous retourner complété par voie postale à **_L'association Les Amis des Musées d'Art de Rouen - Esplanade Marcel Duchamp, 76000 Rouen_**
 
