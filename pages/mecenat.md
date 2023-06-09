@@ -7,6 +7,12 @@ La liste des oeuvres ainsi que les données à nos musées au titre du mécénat
 
 vous pouvez trouver les images de ces oeuvres acquises depuis 1992 ci-dessous.
 
+## 2022 
+
+Le 21 juin 2022. Acquisition d’un tableau de Gabriel Germain Jonchery (Vitry-sur-Seine 1785 – 1856) Cabinet de curiosités. La toile est signée en bas à droite : Joncherie 1824.
+Ce peintre est actif à Paris entre 1823 et 1844. Il est peintre de natures mortes, de vues d’intérieur et de trompe-l’œil. Sa vie est assez mal connue, cependant un bon nombre de tableaux nous sont parvenus. Notre tableau est peint au début de sa carrière. On y voit deux statuettes chinoises polychromes, ainsi qu’un chat et un écureuil empaillés encadrant des cartes à jouer. L’artiste joue avec la réalité.
+Deux autres œuvres de ce peintre sont conservées au Musée des Beaux-Arts de Rouen : Le Trompe-l’œil au cabinet de curiosité peint en 1823 offert par les AMAR en mai 2019 et Le Chat et les Chardonnerets, donation Baderou. 
+
 ## 2021
 
 · Le 24 mars, l'association a acquis un grand tableau de **Jean-Baptiste Van Moer** (1819-1884),  ![](https://cdn.forestry.io/res2/gJk6jaNAAwwq7q7QC4pXTSph-odr-NfpdIdpenu2XV0/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUVZWcFQzaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMDM4/OGUyYWY4MThhMTk5/NmQ1YTU3MmM0MGU3/ZGZlZjExZjM2YjZk/OC9JTUdfMjYxMC5q/cGVn)peinture à l'huile sur toile. Il est un des grands maîtres belges de la vue urbaine du milieu du XIXe siècle, dont la venue à Rouen est documentée en 1847. Ce tableau est signé et il représente _l'église Saint Laurent_ où est installé le musée Henri Le Secq des Tournelles.
@@ -18,7 +24,9 @@ Il s'agit d'un projet pour l'illustration de Salammbo de Gustave Flaubert, édit
 
 Ce nouveau don va enrichir le cabinet des dessins du musée des Beaux-Arts.
 
-Le 14 décembre 2021 , une tabatière ronde en écaille ornée d'une gravure en noir et blanc figurant 12 trompe l'oeil d'assignats est acquise pour le musée des Beaux-Arts. Elle date du début du XIXe siècle et mesure 7,2 cm de diamètre.![](/fichiers/vase.jpg)
+Le 14 décembre 2021 , une tabatière ronde en écaille ornée d'une gravure en noir et blanc figurant 12 trompe l'oeil d'assignats est acquise pour le musée des Beaux-Arts. Elle date du début du XIXe siècle et mesure 7,2 cm de diamètre.
+
+![](/fichiers/vase.jpg)
 
 Fin décembre acquisition d'un tableau d' **Edouard DANTAN** , (Paris, 1848 - Villerville, 1897), _Interieur à Villerville-sur-Mer._ C'est une huile sur toile (Toile d'origine), créée, localisée et datée : E.Dantan, Villerville-sur-Mer,1882 en bas à droite.
 
