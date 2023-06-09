@@ -6,7 +6,7 @@ title: Activités de la saison 2022-2023
 
 **mardi 18 avril 2023**
 
-Cher ami
+Chers amis
 
 Nous vous proposons la visite de l'Abbaye de Jumièges, du Manoir d'Agnès Sorel et de l'Abbaye de Saint Martin de Boscherville.
 
