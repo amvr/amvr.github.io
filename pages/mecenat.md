@@ -30,6 +30,8 @@ Le 14 décembre 2021 , une tabatière ronde en écaille ornée d'une gravure en 
 
 Fin décembre acquisition d'un tableau d' **Edouard DANTAN** , (Paris, 1848 - Villerville, 1897), _Interieur à Villerville-sur-Mer._ C'est une huile sur toile (Toile d'origine), créée, localisée et datée : E.Dantan, Villerville-sur-Mer,1882 en bas à droite.
 
+![](/fichiers/tableau-danten.jpg)
+
 ![](https://cdn.forestry.io/res2/w1Z8PztnlRSr7dZzASwXSk04UmvMnmoT1lOKIZUBVzU/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVGk5Q1pIaE5Q/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZjQx/OTA1YTkzZjczMTRk/MDA4MzM4ZTI4YjVh/NWZlZGZlZjBkOTZl/Yy9UYWJsZWF1JTIw/RGFudGFuLmpwZw)
 
 Dès 1877, Edouard Dantan embrasse une carrière de peintre de salon. Auteur d'une œuvre éclectique, il présente essentiellement des portraits, des scènes de genre et il est aussi un peintre de paysages. En 1881, l'artiste a découvert Villerville-sur-Mer. C'est là qu'il brosse paysages et peintures d'intérieurs normands à partir de1882. L'année suivante, sous le numéro 654, une peinture de l'artiste, intitulée Intérieur à Villerville-sur-Mer, est exposée au Salon. Il est possible que cette peinture soit celle-ci bien que rien ne le confirme avec certitude. Le musée des Beaux-Arts de Rouen possède un tableau de cet artiste _: Le Jeu du disque_(1874) grande toile de format panoramique d'inspiration néo-grecque acquise par la Ville de Rouen pour son musée en 1879. L'éclectisme de cet artiste est typique du XIXe siècle, passant de la peinture d'Histoire à la scène de genre et à l'intérêt pour les aspects non seulement paysagers mais aussi vernaculaires du territoire normand.
