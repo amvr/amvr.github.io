@@ -28,7 +28,7 @@ Le 14 décembre 2021 , une tabatière ronde en écaille ornée d'une gravure en 
 
 ![](/fichiers/vase.jpg)
 
-Fin décembre acquisition d'un tableau d' **Edouard DANTAN** , (Paris, 1848 - Villerville, 1897), _Interieur à Villerville-sur-Mer._ C'est une huile sur toile (Toile d'origine), créée, localisée et datée : E.Dantan, Villerville-sur-Mer,1882 en bas à droite.
+Fin décembre acquisition d'un tableau d' **Edouard DANTAN** , (Paris, 1848 - Villerville, 1897), _Interieur à Villerville-sur-Mer._ C'est une huile sur toile (Toile d'origine), créée, localisée et datée : E.Dantan, Villerville-sur-Mer, 1882 en bas à droite.
 
 ![](/fichiers/tableau-dantan.jpg)
 
